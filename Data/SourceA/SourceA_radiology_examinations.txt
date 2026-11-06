@@ -1,0 +1,277 @@
+--- [RADIOLOGY_EXAMINATION] ---
+examination_id|order_id|examination_type|examination_date_time|body_area_examined|referring_physician_id|radiology_technician|examination_status|medical_images
+1|1|MRI Brain|2026-07-22 21:45:00|Head|6|Tech D. Tremblay|Pending|DICOM-3779
+2|2|Chest X-Ray|2026-07-12 04:15:00|Chest|8|Tech C. Smith|Pending|DICOM-7195
+3|3|CT Scan - Chest|2026-04-08 17:15:00|Chest|6|Tech D. Tremblay|In Progress|DICOM-8399
+4|4|MRI Brain|2026-07-27 08:45:00|Head|6|Tech A. Roy|Finalized|DICOM-9196
+5|5|Chest X-Ray|2026-06-06 13:30:00|Chest|9|Tech D. Tremblay|In Progress|DICOM-9111
+6|6|Abdominal Ultrasound|2026-08-13 13:45:00|Abdomen|13|Tech D. Tremblay|Finalized|DICOM-1200
+7|7|Abdominal Ultrasound|2026-05-05 14:30:00|Abdomen|4|Tech D. Tremblay|Finalized|DICOM-3555
+8|9999|Chest X-Ray|2026-01-29 17:45:00|Chest|14|Tech B. Gagnon|In Progress|DICOM-3108
+9|9|MRI Brain|2026-08-09 13:45:00|Head|8|Tech A. Roy|Pending|DICOM-2190
+10|10|Abdominal Ultrasound|2026-08-26 00:45:00|Abdomen|12|Tech D. Tremblay|In Progress|DICOM-8890
+11|11|MRI Brain|2026-08-04 14:45:00|Head|2|Tech A. Roy|Finalized|DICOM-3181
+12|12|Chest X-Ray|2026-03-09 08:30:00||1|Tech C. Smith|Finalized|DICOM-3044
+13|13|Abdominal Ultrasound|2026-01-24 06:45:00|Abdomen|4|Tech D. Tremblay|In Progress|DICOM-5411
+14|14|CT Scan - Chest|2026-09-02 08:00:00|Chest|9|Tech D. Tremblay|In Progress|DICOM-6297
+15|15|CT Scan - Chest|2026-07-08 08:15:00|Chest|12|Tech A. Roy|In Progress|DICOM-5998
+16|16|Abdominal Ultrasound|2026-04-20 11:30:00|Abdomen|11|Tech B. Gagnon|In Progress|DICOM-6570
+17|17|Chest X-Ray|2026-07-18 09:45:00|Chest|15|Tech A. Roy|Finalized|DICOM-5494
+18|18|Abdominal Ultrasound|2026-07-31 09:00:00|Abdomen|8|Tech C. Smith|Pending|DICOM-2213
+19|19|Chest X-Ray|2026-04-03 06:00:00|Chest|8|Tech B. Gagnon|In Progress|
+20|20|MRI Brain|2026-04-04 12:15:00|Head|4|Tech C. Smith|Pending|DICOM-9608
+21|21|CT Scan - Chest|2026-03-15 12:30:00|Chest|9|Tech D. Tremblay|Pending|DICOM-9226
+22|22|MRI Brain|2026-01-09 05:45:00|Head|7|Tech C. Smith|Finalized|DICOM-9123
+23|23|Abdominal Ultrasound|2026-05-27 22:00:00|Abdomen|12|Tech D. Tremblay|Pending|DICOM-5239
+24|24|Chest X-Ray|2026-05-02 20:30:00|Chest|13|Tech B. Gagnon|Finalized|DICOM-5139
+25|25|Abdominal Ultrasound|2026-02-01 22:15:00|Abdomen|14|Tech A. Roy|In Progress|DICOM-9888
+26|26|Chest X-Ray|2026-09-07 03:15:00||4|Tech A. Roy|Finalized|DICOM-2137
+27|27|Abdominal Ultrasound|2026-07-31 02:00:00|Abdomen|4|Tech D. Tremblay|Finalized|DICOM-3522
+28|28|MRI Brain|2026-01-07 21:15:00|Head|9|Tech D. Tremblay|Finalized|DICOM-5929
+29|29|Chest X-Ray|2026-03-24 03:15:00|Chest|4|Tech B. Gagnon|Pending|DICOM-6047
+30|30|Chest X-Ray|2026-04-07 12:30:00|Chest|1|Tech D. Tremblay|Pending|DICOM-1658
+31|31|CT Scan - Chest|2026-07-31 14:00:00|Chest|10|Tech C. Smith|Pending|DICOM-7259
+32|32|MRI Brain|2026-01-31 18:30:00|Head|10|Tech C. Smith|Pending|DICOM-9355
+33|33|Abdominal Ultrasound|2026-02-20 14:45:00|Abdomen|8|Tech A. Roy|Finalized|DICOM-4756
+34|34|CT Scan - Chest|2026-08-16 23:15:00|Chest|15|Tech C. Smith|In Progress|DICOM-5161
+35|35|CT Scan - Chest|2026-02-08 02:00:00|Chest|1|Tech D. Tremblay|Pending|DICOM-2032
+36|36|MRI Brain|2026-05-05 07:30:00|Head|9|Tech C. Smith|Pending|DICOM-2367
+37|37|MRI Brain|2026-01-08 20:15:00|Head|8|Tech A. Roy|Finalized|DICOM-3819
+38|38|MRI Brain|2026-04-18 19:00:00|Head|5|Tech A. Roy|In Progress|DICOM-4237
+39|39|MRI Brain|2026-09-08 02:00:00|Head|5|Tech B. Gagnon|Pending|DICOM-5680
+40|40|CT Scan - Chest|2026-07-04 08:45:00||13|Tech A. Roy|Pending|DICOM-5759
+41|41|MRI Brain|2026-07-16 01:30:00|Head|12|Tech C. Smith|In Progress|DICOM-3967
+42|42|CT Scan - Chest|2026-08-01 18:15:00|Chest|13|Tech C. Smith| In Progress |DICOM-1555
+43|43|Abdominal Ultrasound|2026-07-20 23:00:00|Abdomen|4|Tech D. Tremblay|Finalized|DICOM-1301
+44|44|Abdominal Ultrasound|2026-04-07 22:30:00|Abdomen|13|Tech D. Tremblay|Pending|DICOM-7033
+45|45|CT Scan - Chest|2026-02-13 07:45:00|Chest|14|Tech D. Tremblay|Pending|DICOM-4166
+46|46|Chest X-Ray|2026-02-08 19:00:00|Chest|7|Tech B. Gagnon|Pending|DICOM-2545
+47|47|Chest X-Ray|2026-01-15 18:15:00|Chest|10|Tech B. Gagnon|Pending|DICOM-1928
+48|48|MRI Brain|2026-06-17 15:45:00|Head|2|Tech A. Roy|In Progress|DICOM-5592
+49|49|Chest X-Ray|2026-08-17 21:00:00|Chest|1|Tech B. Gagnon|In Progress|DICOM-3335
+50|50|Chest X-Ray|2026-05-03 03:45:00|Chest|2|Tech B. Gagnon|Pending|DICOM-2674
+51|51|Chest X-Ray|2026-01-22 17:45:00|Chest|13|Tech B. Gagnon|Pending|DICOM-2042
+52|52|MRI Brain|2026-07-06 03:00:00|Head|4|Tech D. Tremblay|Finalized|DICOM-6812
+53|53|Chest X-Ray|2026-01-08 15:00:00|Chest|11|Tech D. Tremblay|Pending|DICOM-7473
+54|54|MRI Brain|2026-01-12 12:15:00|Head|12|Tech D. Tremblay|In Progress|DICOM-6147
+55|55|Abdominal Ultrasound|2026-04-19 07:45:00|Abdomen|10|Tech B. Gagnon|Pending|DICOM-8155
+56|56|MRI Brain|2026-04-26 05:15:00|Head|8|Tech A. Roy|Pending|DICOM-8185
+57|57|MRI Brain|2026-05-30 03:45:00|Head|15|Tech B. Gagnon|In Progress|DICOM-3464
+58|58|MRI Brain|2026-03-15 19:45:00|Head|4|Tech C. Smith|In Progress|DICOM-6918
+59|59|MRI Brain|2026-08-21 00:15:00|Head|1|Tech C. Smith|Finalized|
+60|60|CT Scan - Chest|2026-07-04 10:15:00|Chest|1|Tech A. Roy|In Progress|DICOM-4565
+61|61|CT Scan - Chest|2026-08-28 15:15:00|Chest|13|Tech A. Roy|Pending|DICOM-2033
+62|62|Abdominal Ultrasound|2026-02-27 08:30:00|Abdomen|8|Tech C. Smith|In Progress|DICOM-1526
+63|63|CT Scan - Chest|2026-01-03 22:30:00|Chest|5|Tech D. Tremblay|Finalized|DICOM-1051
+64|64|Abdominal Ultrasound|2026-04-25 15:45:00|Abdomen|13|Tech B. Gagnon|Pending|DICOM-5765
+65|65|MRI Brain|2026-08-31 15:15:00|Head|12|Tech C. Smith|Finalized|DICOM-7126
+66|66|CT Scan - Chest|2026-05-08 03:15:00|Chest|13|Tech B. Gagnon|In Progress|DICOM-2896
+67|67|CT Scan - Chest|2026-01-27 09:30:00|Chest|6|Tech D. Tremblay|In Progress|DICOM-8754
+68|68|MRI Brain|2026-05-26 13:15:00|Head|11|Tech A. Roy|In Progress|DICOM-1545
+69|69|Chest X-Ray|2026-06-13 14:00:00|Chest|12|Tech B. Gagnon|Pending|DICOM-5615
+70|70|MRI Brain|2026-03-13 17:15:00|Head|6|Tech A. Roy|In Progress|DICOM-3726
+71|71|MRI Brain|2026-01-10 15:45:00|Head|10|Tech D. Tremblay|Finalized|DICOM-5099
+72|72|CT Scan - Chest|2026-01-27 14:45:00|Chest|7|Tech C. Smith|In Progress|DICOM-5611
+73|73|Abdominal Ultrasound|2026-02-13 11:00:00|Abdomen|3|Tech C. Smith|In Progress|DICOM-9040
+74|74|Chest X-Ray|2026-06-20 12:15:00|Chest|3|Tech B. Gagnon|Finalized|DICOM-2052
+75|75|MRI Brain|2026-04-18 09:00:00|Head|1|Tech C. Smith|Finalized|DICOM-4392
+76|76|MRI Brain|2026-06-25 10:30:00|Head|9|Tech C. Smith|Pending|DICOM-7873
+77|77|MRI Brain|2026-01-28 07:00:00|Head|11|Tech B. Gagnon|Pending|DICOM-6515
+78|78|CT Scan - Chest|2026-06-19 01:15:00|Chest|6|Tech A. Roy|FINALIZED|DICOM-2399
+79|79|Abdominal Ultrasound|2026-06-15 20:15:00|Abdomen|15|Tech B. Gagnon|Pending|DICOM-1647
+80|80|MRI Brain|2026-08-05 14:00:00|Head|1|Tech C. Smith|Pending|DICOM-4935
+81|81|MRI Brain|2026-07-12 08:00:00|Head|2|Tech A. Roy|Pending|DICOM-5876
+82|82|Abdominal Ultrasound|2026-07-30 05:15:00|Abdomen|6|Tech D. Tremblay|In Progress|DICOM-6691
+83|83|CT Scan - Chest|2026-01-07 17:45:00|Chest|11|Tech A. Roy|Pending|DICOM-6579
+84|84|MRI Brain|2026-08-19 15:45:00|Head|2|Tech A. Roy|FINALIZED|DICOM-4546
+85|85|CT Scan - Chest|2026-01-08 17:45:00|Chest|15|Tech C. Smith|Finalized|DICOM-7125
+86|86|CT Scan - Chest|2026-01-28 14:45:00|Chest|10|Tech B. Gagnon|Finalized|DICOM-8879
+87|87|CT Scan - Chest|2026-01-12 23:30:00|Chest|12|Tech D. Tremblay|In Progress|DICOM-1292
+88|88|CT Scan - Chest|2026-06-04 02:15:00||3|Tech B. Gagnon|In Progress|DICOM-2804
+89|89|Chest X-Ray|2026-06-23 15:00:00|Chest|14|Tech B. Gagnon|Pending|DICOM-3385
+90|90|Chest X-Ray|2026-02-16 15:15:00|Chest|6|Tech A. Roy|Pending|DICOM-9715
+91|91|Chest X-Ray|2026-04-25 13:00:00|Chest|13|Tech C. Smith|In Progress|DICOM-6702
+92|92|CT Scan - Chest|2026-06-19 22:15:00|Chest|8|Tech C. Smith|Pending|DICOM-8728
+93|93|Chest X-Ray|2026-04-07 18:45:00|Chest|8|Tech D. Tremblay|In Progress|
+94|94|CT Scan - Chest|2026-01-13 06:00:00|Chest|7|Tech A. Roy|In Progress|DICOM-1980
+95|95|CT Scan - Chest|2026-07-20 21:45:00|Chest|8|Tech A. Roy|Pending|DICOM-3493
+96|96|Abdominal Ultrasound|2026-07-06 23:30:00|Abdomen|4|Tech C. Smith|In Progress|DICOM-4273
+97|97|Chest X-Ray|2026-09-09 07:00:00|Chest|4|Tech A. Roy|Pending|DICOM-4855
+98|98|Chest X-Ray|2026-07-10 06:30:00|Chest|3|Tech A. Roy|pending|DICOM-7482
+99|99|MRI Brain|2026-03-23 02:30:00|Head|1|Tech B. Gagnon|In Progress|DICOM-8035
+100|100|Abdominal Ultrasound|2026-07-03 06:15:00|Abdomen|2|Tech B. Gagnon|Finalized|DICOM-9728
+101|101|Chest X-Ray|2026-03-19 10:45:00|Chest|10|Tech B. Gagnon|pending|DICOM-6084
+102|102|MRI Brain|2026-06-28 23:45:00|Head|4|Tech B. Gagnon|Finalized|DICOM-7519
+103|103|MRI Brain|2026-04-08 14:00:00|Head|10|Tech D. Tremblay|finalized|DICOM-9474
+104|104|MRI Brain|2026-03-22 07:30:00|Head|2|Tech B. Gagnon|In Progress|DICOM-6140
+105|105|Abdominal Ultrasound|2026-08-10 03:45:00||5|Tech D. Tremblay|Pending|DICOM-4712
+106|106|Chest X-Ray|2026-05-15 06:00:00||5|Tech C. Smith|In Progress|DICOM-1839
+107|107|Chest X-Ray|2026-02-03 07:15:00|Chest|1|Tech D. Tremblay|Finalized|DICOM-8346
+108|108|Chest X-Ray|2026-02-01 06:30:00|Chest|6|Tech C. Smith|Pending|DICOM-3992
+109|109|CT Scan - Chest|2026-05-24 19:00:00|Chest|8|Tech C. Smith|Finalized|DICOM-2546
+110|110|Abdominal Ultrasound|2026-09-02 01:30:00|Abdomen|12|Tech C. Smith|Pending|DICOM-5890
+111|111|CT Scan - Chest|2026-03-30 17:45:00|Chest|2|Tech C. Smith|Pending|DICOM-8653
+112|112|CT Scan - Chest|2026-05-28 01:30:00|Chest|4|Tech C. Smith|Finalized|DICOM-8107
+113|113|Chest X-Ray|2026-03-22 02:45:00|Chest|4|Tech B. Gagnon|Finalized|DICOM-3656
+114|114|CT Scan - Chest|2026-07-17 21:30:00|Chest|15|Tech D. Tremblay|Finalized|DICOM-4393
+115|115|Abdominal Ultrasound|2026-02-21 09:45:00|Abdomen|10|Tech A. Roy|In Progress|DICOM-3235
+116|116|Chest X-Ray|2026-07-08 22:15:00|Chest|5|Tech A. Roy|In Progress|DICOM-8337
+117|117|Abdominal Ultrasound|2026-07-21 15:30:00|Abdomen|2|Tech A. Roy|Pending|DICOM-3854
+118|118|MRI Brain|2026-03-23 20:30:00|Head|13|Tech C. Smith|In Progress|
+119|119|Chest X-Ray|2026-03-18 16:45:00|Chest|13|Tech B. Gagnon|Finalized|DICOM-8659
+120|120|Abdominal Ultrasound|2026-06-04 04:45:00|Abdomen|11|Tech D. Tremblay|In Progress|DICOM-9650
+121|121|Chest X-Ray|2026-07-06 22:45:00|Chest|14|Tech C. Smith|In Progress|DICOM-1100
+122|122|Abdominal Ultrasound|2026-05-20 01:30:00|Abdomen|14|Tech D. Tremblay|Finalized|DICOM-6869
+123|123|Chest X-Ray|2026-03-27 18:15:00|Chest|13|Tech C. Smith|Pending|DICOM-9321
+124|124|MRI Brain|2026-08-12 01:30:00|Head|11|Tech C. Smith|Finalized|DICOM-6820
+125|125|MRI Brain|2026-02-15 18:15:00|Head|15|Tech B. Gagnon|Finalized|DICOM-7156
+126|126|Abdominal Ultrasound|2026-07-17 19:30:00|Abdomen|13|Tech A. Roy|In Progress|DICOM-7125
+127|127|MRI Brain|2026-08-31 05:45:00|Head|3|Tech C. Smith|Finalized|DICOM-2602
+128|128|Abdominal Ultrasound|2026-08-09 15:00:00|Abdomen|11|Tech B. Gagnon|PENDING|DICOM-6962
+129|129|MRI Brain|2026-05-19 08:00:00|Head|13|Tech C. Smith|Finalized|DICOM-4322
+130|130|CT Scan - Chest|2026-06-01 08:30:00|Chest|6|Tech B. Gagnon|Pending|DICOM-6750
+131|131|MRI Brain|2026-03-10 07:00:00|Head|1|Tech A. Roy|In Progress|DICOM-5411
+132|132|Abdominal Ultrasound|2026-01-27 07:45:00|Abdomen|13|Tech A. Roy|Pending|DICOM-6270
+133|133|CT Scan - Chest|2026-08-17 22:00:00|Chest|6|Tech A. Roy|Pending|DICOM-5262
+134|134|CT Scan - Chest|2026-02-27 07:45:00|Chest|14|Tech B. Gagnon|Finalized|
+135|135|CT Scan - Chest|2026-06-27 09:30:00||14|Tech A. Roy|Pending|DICOM-6994
+136|136|CT Scan - Chest|2026-05-17 10:15:00|Chest|10|Tech B. Gagnon|Finalized|DICOM-7195
+137|137|MRI Brain|2026-04-28 10:30:00|Head|4|Tech D. Tremblay|Pending|DICOM-3409
+138|138|Chest X-Ray|2026-05-14 21:30:00|Chest|9|Tech B. Gagnon|In Progress|DICOM-5673
+139|139|MRI Brain|2026-06-21 12:15:00|Head|2|Tech A. Roy|In Progress|DICOM-3797
+140|140|MRI Brain|2026-05-19 18:00:00|Head|4|Tech C. Smith|Finalized|DICOM-6690
+141|141|Chest X-Ray|2026-01-12 09:00:00|Chest|4|Tech C. Smith|Pending|DICOM-6821
+142|142|CT Scan - Chest|2026-02-02 00:15:00|Chest|10|Tech C. Smith|Finalized|DICOM-3147
+143|143|Chest X-Ray|2026-05-27 01:15:00|Chest|13|Tech A. Roy|In Progress|DICOM-3097
+144|144|CT Scan - Chest|2026-01-29 00:00:00|Chest|7|Tech D. Tremblay|In Progress|DICOM-4861
+145|145|Abdominal Ultrasound|2026-08-11 04:45:00|Abdomen|3|Tech D. Tremblay|In Progress|DICOM-4645
+146|146|Chest X-Ray|2026-07-05 13:00:00|Chest|2|Tech B. Gagnon|In Progress|DICOM-9750
+147|147|CT Scan - Chest|2026-01-26 05:30:00|Chest|7|Tech C. Smith|Finalized|DICOM-6158
+148|148|Chest X-Ray|2026-07-21 06:00:00|Chest|7|Tech C. Smith|In Progress|DICOM-9338
+149|149|MRI Brain|2026-05-16 09:15:00|Head|3|Tech A. Roy|finalized|DICOM-8450
+150|150|CT Scan - Chest|2026-01-28 13:00:00|Chest|3|Tech D. Tremblay|In Progress|DICOM-5662
+151|151|Chest X-Ray|2026-07-16 00:15:00|Chest|14|Tech A. Roy|Finalized|DICOM-8151
+152|152|Abdominal Ultrasound|2026-05-05 12:30:00|Abdomen|12|Tech C. Smith|Finalized|DICOM-1794
+153|153|Chest X-Ray|2026-05-27 07:45:00|Chest|11|Tech D. Tremblay|FINALIZED|DICOM-6409
+154|154|CT Scan - Chest|2026-06-13 23:00:00|Chest|13|Tech C. Smith|In Progress|DICOM-7839
+155|155|MRI Brain|2026-06-03 22:15:00|Head|2|Tech A. Roy|Finalized|DICOM-8418
+156|156|MRI Brain|2026-08-17 08:30:00|Head|9|Tech A. Roy|Pending|DICOM-9101
+157|157|CT Scan - Chest|2026-01-19 03:15:00|Chest|3|Tech C. Smith|Pending|DICOM-2727
+158|158|MRI Brain|2026-07-08 23:00:00|Head|1|Tech A. Roy|Pending|DICOM-1657
+159|159|CT Scan - Chest|2026-04-12 04:15:00|Chest|5|Tech A. Roy|Pending|DICOM-4190
+160|160|Chest X-Ray|2026-02-09 04:45:00|Chest|12|Tech C. Smith|In Progress|DICOM-8218
+161|161|Abdominal Ultrasound|2026-07-15 02:30:00|Abdomen|13|Tech A. Roy|In Progress|DICOM-8912
+162|162|Chest X-Ray|2026-06-08 16:45:00|Chest|1|Tech C. Smith|In Progress|DICOM-6442
+163|163|MRI Brain|2026-08-28 11:30:00|Head|7|Tech D. Tremblay|In Progress|
+164|164|Abdominal Ultrasound|2026-08-15 04:45:00|Abdomen|12|Tech D. Tremblay|Finalized|DICOM-8115
+165|165|MRI Brain|2026-03-30 08:15:00|Head|10|Tech A. Roy|Pending|DICOM-4867
+166|166|Chest X-Ray|2026-07-27 16:00:00|Chest|3|Tech D. Tremblay|Finalized|DICOM-2440
+167|167|MRI Brain|2026-06-19 01:45:00|Head|1|Tech A. Roy|Finalized|DICOM-2453
+168|168|Abdominal Ultrasound|2026-05-12 21:15:00|Abdomen|10|Tech D. Tremblay|Finalized|DICOM-2171
+169|169|Abdominal Ultrasound|2026-05-09 00:45:00|Abdomen|3|Tech B. Gagnon|In Progress|DICOM-3500
+170|170|Abdominal Ultrasound|2026-01-07 03:45:00|Abdomen|4|Tech D. Tremblay|Finalized|DICOM-2181
+171|171|CT Scan - Chest|2026-05-30 16:45:00|Chest|15|Tech D. Tremblay|Pending|DICOM-2909
+172|172|Chest X-Ray|2026-02-15 07:45:00|Chest|8|Tech D. Tremblay|In Progress|DICOM-5947
+173|173|MRI Brain|2026-06-08 02:30:00|Head|8|Tech C. Smith|Pending|DICOM-5514
+174|174|Abdominal Ultrasound|2026-05-04 19:00:00|Abdomen|8|Tech B. Gagnon|Finalized|DICOM-6041
+175|175|Chest X-Ray|2026-01-02 07:45:00|Chest|14|Tech D. Tremblay|Finalized|DICOM-7408
+176|176|Abdominal Ultrasound|2026-07-25 10:00:00|Abdomen|12|Tech A. Roy|Finalized|DICOM-2791
+177|177|MRI Brain|2026-04-17 09:45:00|Head|10|Tech D. Tremblay|Pending|DICOM-5088
+178|178|MRI Brain|2026-07-15 10:45:00|Head|13|Tech C. Smith|In Progress|DICOM-2534
+179|179|MRI Brain|2026-07-22 00:00:00|Head|11|Tech D. Tremblay|In Progress|DICOM-6060
+180|180|Abdominal Ultrasound|2026-07-20 10:00:00|Abdomen|8|Tech C. Smith|Pending|DICOM-4118
+181|181|CT Scan - Chest|2026-05-20 14:00:00|Chest|6|Tech B. Gagnon|In Progress|DICOM-6119
+182|182|CT Scan - Chest|2026-03-30 01:15:00||5|Tech D. Tremblay|Pending|DICOM-1249
+183|183|Chest X-Ray|2026-05-03 22:45:00|Chest|15|Tech A. Roy|Pending|DICOM-6641
+184|184|CT Scan - Chest|2026-08-29 13:15:00|Chest|9|Tech B. Gagnon|In Progress|DICOM-8671
+185|185|Chest X-Ray|2026-07-29 09:00:00|Chest|2|Tech A. Roy|In Progress|DICOM-8793
+186|186|Abdominal Ultrasound|2026-02-14 19:00:00|Abdomen|6|Tech A. Roy|Finalized|DICOM-1580
+187|187|Abdominal Ultrasound|2026-01-29 07:00:00|Abdomen|5|Tech A. Roy| Pending |DICOM-5212
+188|188|MRI Brain|2026-08-22 01:30:00|Head|5|Tech D. Tremblay|Pending|DICOM-7741
+189|189|Abdominal Ultrasound|2026-02-07 19:30:00|Abdomen|1|Tech B. Gagnon|Pending|DICOM-3110
+190|190|CT Scan - Chest|2026-07-14 11:15:00|Chest|11|Tech B. Gagnon|Pending|DICOM-5922
+191|191|Abdominal Ultrasound|2026-06-04 21:15:00|Abdomen|9|Tech A. Roy|Finalized|DICOM-2178
+192|192|CT Scan - Chest|2026-01-09 10:45:00|Chest|14|Tech C. Smith|In Progress|DICOM-8029
+193|193|CT Scan - Chest|2026-04-30 21:45:00|Chest|9|Tech B. Gagnon|In Progress|DICOM-5757
+194|194|Abdominal Ultrasound|2026-08-19 22:00:00|Abdomen|9|Tech B. Gagnon|In Progress|DICOM-6213
+195|195|Chest X-Ray|2026-05-30 11:00:00|Chest|13|Tech B. Gagnon|in progress|DICOM-3099
+196|196|CT Scan - Chest|2026-07-05 05:30:00|Chest|12|Tech D. Tremblay|In Progress|DICOM-9175
+197|197|MRI Brain|2026-01-01 16:15:00|Head|9|Tech A. Roy|Finalized|DICOM-6551
+198|198|Chest X-Ray|2026-07-14 03:45:00|Chest|10|Tech A. Roy|Finalized|DICOM-7532
+199|199|CT Scan - Chest|2026-04-26 14:30:00|Chest|13|Tech D. Tremblay|Finalized|DICOM-3423
+200|200|Chest X-Ray|2026-07-27 03:45:00|Chest|12|Tech D. Tremblay|In Progress|DICOM-9106
+201|201|CT Scan - Chest|2026-06-28 18:45:00|Chest|10|Tech C. Smith|In Progress|DICOM-7007
+202|202|CT Scan - Chest|2026-05-25 19:00:00|Chest|14|Tech A. Roy|Pending|DICOM-9247
+203|203|Abdominal Ultrasound|2026-01-23 18:30:00|Abdomen|13|Tech A. Roy|Pending|DICOM-2496
+204|204|CT Scan - Chest|2026-01-05 16:45:00|Chest|7|Tech B. Gagnon|In Progress|
+205|205|MRI Brain|2026-04-23 03:45:00|Head|12|Tech A. Roy|Pending|DICOM-5202
+206|206|MRI Brain|2026-08-04 11:30:00|Head|8|Tech D. Tremblay|Finalized|DICOM-1329
+207|207|CT Scan - Chest|2026-03-13 00:15:00|Chest|15|Tech D. Tremblay|In Progress|DICOM-4986
+208|9999|CT Scan - Chest|2026-09-05 03:45:00|Chest|4|Tech B. Gagnon|In Progress|DICOM-3891
+209|209|Abdominal Ultrasound|2026-04-27 17:00:00|Abdomen|4|Tech A. Roy|Pending|DICOM-9556
+210|210|Chest X-Ray|2026-07-07 03:30:00|Chest|5|Tech C. Smith|Pending|DICOM-6370
+211|211|Abdominal Ultrasound|2026-04-17 04:00:00|Abdomen|14|Tech D. Tremblay|In Progress|DICOM-8783
+212|212|Chest X-Ray|2026-04-15 00:15:00|Chest|1|Tech B. Gagnon|Pending|DICOM-4755
+213|213|MRI Brain|2026-07-03 03:30:00|Head|3|Tech B. Gagnon|Pending|DICOM-7057
+214|214|CT Scan - Chest|2026-08-04 18:45:00|Chest|3|Tech C. Smith|In Progress|DICOM-2938
+215|215|CT Scan - Chest|2026-03-18 12:45:00|Chest|4|Tech A. Roy|Pending|DICOM-3278
+216|216|Abdominal Ultrasound|2026-06-10 02:45:00|Abdomen|6|Tech C. Smith|In Progress|DICOM-6388
+217|217|CT Scan - Chest|2026-03-31 13:15:00|Chest|11|Tech C. Smith|In Progress|DICOM-2557
+218|218|MRI Brain|2026-07-11 21:45:00|Head|12|Tech A. Roy|Finalized|
+219|219|Abdominal Ultrasound|2026-03-27 07:00:00|Abdomen|7|Tech D. Tremblay|In Progress|DICOM-6173
+220|220|CT Scan - Chest|2026-05-18 09:45:00|Chest|15|Tech D. Tremblay|Pending|DICOM-1317
+221|221|CT Scan - Chest|2026-07-21 18:00:00|Chest|15|Tech A. Roy|Pending|DICOM-7711
+222|222|Chest X-Ray|2026-01-10 09:45:00|Chest|12|Tech A. Roy|Pending|DICOM-3320
+223|223|Abdominal Ultrasound|2026-05-20 01:45:00|Abdomen|3|Tech D. Tremblay|Pending|DICOM-6980
+224|224|CT Scan - Chest|2026-02-17 01:45:00|Chest|3|Tech A. Roy|Finalized|DICOM-1072
+225|225|MRI Brain|2026-04-03 01:45:00|Head|14|Tech D. Tremblay|Finalized|DICOM-6267
+226|226|CT Scan - Chest|2026-03-08 12:45:00||5|Tech D. Tremblay|IN PROGRESS|DICOM-2357
+227|227|Abdominal Ultrasound|2026-03-08 22:45:00||3|Tech B. Gagnon|Finalized|DICOM-2873
+228|228|Chest X-Ray|2026-03-02 12:45:00||8|Tech B. Gagnon|Pending|DICOM-1312
+229|229|Chest X-Ray|2026-08-28 01:30:00|Chest|1|Tech C. Smith|Finalized|
+230|230|Abdominal Ultrasound|2026-04-09 04:00:00|Abdomen|15|Tech C. Smith|Finalized|DICOM-5719
+231|231|CT Scan - Chest|2026-08-20 23:00:00|Chest|12|Tech A. Roy|Finalized|DICOM-4929
+232|232|Chest X-Ray|2026-04-18 02:45:00|Chest|7|Tech C. Smith|Finalized|DICOM-4669
+233|233|Chest X-Ray|2026-06-15 18:00:00|Chest|10|Tech A. Roy|In Progress|DICOM-4327
+234|234|CT Scan - Chest|2026-02-23 19:45:00|Chest|11|Tech B. Gagnon| Pending |DICOM-9852
+235|235|CT Scan - Chest|2026-08-15 15:45:00|Chest|8|Tech C. Smith|Finalized|DICOM-3091
+236|236|CT Scan - Chest|2026-03-28 13:30:00|Chest|9|Tech C. Smith|Finalized|DICOM-4868
+237|237|MRI Brain|2026-08-08 11:00:00|Head|14|Tech D. Tremblay|In Progress|DICOM-2065
+238|238|Abdominal Ultrasound|2026-06-17 03:45:00|Abdomen|13|Tech C. Smith|Pending|DICOM-7084
+239|239|Chest X-Ray|2026-08-05 15:30:00|Chest|6|Tech C. Smith|Finalized|DICOM-2037
+240|240|Abdominal Ultrasound|2026-05-11 03:45:00|Abdomen|12|Tech B. Gagnon|In Progress|DICOM-9430
+241|241|Abdominal Ultrasound|2026-07-23 20:45:00|Abdomen|13|Tech D. Tremblay|Finalized|DICOM-5293
+242|242|CT Scan - Chest|2026-06-09 09:00:00|Chest|4|Tech B. Gagnon|In Progress|DICOM-7615
+243|243|Chest X-Ray|2026-02-08 14:15:00|Chest|2|Tech D. Tremblay|In Progress|DICOM-3648
+244|244|MRI Brain|2026-07-03 11:15:00|Head|11|Tech A. Roy|In Progress|DICOM-2254
+245|245|Abdominal Ultrasound|2026-06-27 02:45:00|Abdomen|6|Tech C. Smith|Pending|DICOM-8313
+246|246|Chest X-Ray|2026-04-03 20:45:00|Chest|3|Tech C. Smith|Finalized|DICOM-5511
+247|247|CT Scan - Chest|2026-07-22 12:15:00|Chest|12|Tech B. Gagnon|finalized|DICOM-9422
+248|248|MRI Brain|2026-08-04 12:15:00|Head|10|Tech C. Smith|Finalized|DICOM-3629
+249|249|MRI Brain|2026-04-21 12:45:00|Head|5|Tech A. Roy|In Progress|DICOM-6152
+250|250|CT Scan - Chest|2026-05-08 04:15:00|Chest|12|Tech A. Roy|Finalized|DICOM-3877
+251|251|MRI Brain|2026-04-17 21:45:00|Head|13|Tech D. Tremblay|Finalized|DICOM-6295
+252|252|CT Scan - Chest|2026-01-11 23:45:00|Chest|8|Tech C. Smith|Pending|DICOM-2368
+253|253|MRI Brain|2026-01-06 14:30:00|Head|2|Tech B. Gagnon|Pending|DICOM-4799
+254|254|MRI Brain|2026-02-15 23:15:00|Head|15|Tech D. Tremblay|Pending|DICOM-5472
+255|255|Abdominal Ultrasound|2026-04-04 16:45:00|Abdomen|8|Tech C. Smith|Finalized|DICOM-6920
+256|256|Abdominal Ultrasound|2026-01-10 12:30:00|Abdomen|14|Tech C. Smith|Pending|DICOM-1052
+257|257|CT Scan - Chest|2026-05-15 19:00:00|Chest|4|Tech C. Smith|In Progress|DICOM-1710
+258|258|Chest X-Ray|2026-04-17 13:00:00|Chest|6|Tech B. Gagnon|In Progress|DICOM-1581
+259|259|Chest X-Ray|2026-07-07 20:30:00|Chest|10|Tech C. Smith|In Progress|DICOM-7592
+260|260|CT Scan - Chest|2026-07-27 09:00:00|Chest|3|Tech C. Smith|Finalized|DICOM-3071
+261|261|MRI Brain|2026-01-09 05:30:00|Head|9|Tech C. Smith|Pending|DICOM-3983
+262|262|CT Scan - Chest|2026-06-28 06:00:00|Chest|4|Tech D. Tremblay|In Progress|DICOM-4053
+263|263|MRI Brain|2026-06-13 14:00:00|Head|3|Tech A. Roy|Finalized|DICOM-8426
+264|264|MRI Brain|2026-04-17 09:45:00|Head|11|Tech A. Roy|IN PROGRESS|DICOM-2799
+265|265|MRI Brain|2026-06-26 13:00:00|Head|8|Tech A. Roy|In Progress|DICOM-3707
+266|266|Abdominal Ultrasound|2026-07-24 22:00:00|Abdomen|8|Tech B. Gagnon|In Progress|DICOM-2033
+267|267|CT Scan - Chest|2026-09-05 06:45:00|Chest|14|Tech A. Roy|Pending|DICOM-9315
+268|268|MRI Brain|2026-07-07 08:15:00|Head|4|Tech A. Roy|In Progress|DICOM-1277
+269|269|Abdominal Ultrasound|2026-01-22 22:45:00|Abdomen|5|Tech C. Smith|PENDING|DICOM-9017
+270|270|CT Scan - Chest|2026-08-04 22:15:00|Chest|14|Tech C. Smith|Pending|DICOM-5612
+271|271|MRI Brain|2026-08-14 00:00:00|Head|5|Tech A. Roy|In Progress|DICOM-2898
+272|272|Abdominal Ultrasound|2026-02-18 20:30:00|Abdomen|4|Tech A. Roy|in progress|DICOM-2981
+273|273|Chest X-Ray|2026-03-13 07:45:00|Chest|8|Tech D. Tremblay|Finalized|DICOM-6980
+274|274|CT Scan - Chest|2026-08-21 00:30:00|Chest|14|Tech D. Tremblay|Pending|DICOM-9197
+275|275|Chest X-Ray|2026-09-08 02:30:00|Chest|14|Tech D. Tremblay|Pending|DICOM-6273

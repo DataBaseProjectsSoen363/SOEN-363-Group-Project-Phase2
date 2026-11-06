@@ -1,0 +1,27 @@
+--- [PROFESSIONAL] ---
+professional_id|full_name|role|specialty|license_number
+1|Dr. Amelie Roy| Physician |Cardiology|MD-80239
+2|Dr. Daniel Taylor|Physician|Cardiology|MD-19156
+3|Dr. Robert Brown|Physician|General Surgery|MD-39260
+4|Dr. Rachel Tremblay|physician||MD-38977
+5|Dr. Michael Brown|Physician|Cardiology|MD-83434
+6|Dr. John Smith|Physician|Internal Medicine|MD-81793
+7|Dr. Rachel Tremblay|Physician|Pulmonology|MD-66045
+8|Dr. Jessica Miller|Physician|Emergency Medicine|MD-33562
+9|Dr. Emily Smith|Physician|General Surgery|MD-55020
+10|Dr. Michael Miller|Physician|Cardiology|MD-31621
+11|Dr. John Charette|Physician|Cardiology|MD-85107
+12|Dr. Amelie Williams|physician|General Surgery|MD-69795
+13|Dr. Michael Charette|Physician||MD-50580
+14|Dr. Jessica Jones|Physician||MD-70515
+15|Dr. Rachel Smith|Physician|Internal Medicine|MD-26952
+16|David Brown|NURSE||RN-75078
+17|David Taylor|Nurse||RN-27947
+18|Robert Jones|Nurse||RN-57024
+19|David Gagnon|Nurse||RN-33097
+20|Emily Tremblay|Nurse||RN-87217
+21|Michael Tremblay|Nurse||RN-80069
+22|Rachel Williams|Nurse||RN-77566
+23|Daniel Charette|Nurse||RN-99204
+24|David Brown|Nurse||RN-23570
+25|David Tremblay|Nurse||RN-37363

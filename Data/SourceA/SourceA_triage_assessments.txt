@@ -1,0 +1,1202 @@
+--- [TRIAGE_ASSESSMENT] ---
+triage_id|admission_id|nurse_id|blood_pressure|heart_rate|respiratory_rate|body_temperature|oxygen_saturation|pain_level|reported_symptoms|known_allergies|current_medications|triage_priority_level
+1|1|18|106/64|76|18|36.5|96|9|Fever|None|None|Routine
+2|2|17|138/85|106|18|37.5|97|2|Shortness of Breath|Sulfa drugs|Atorvastatin|Routine
+3|3|18|119/86|108|13|36.6|95|4|Shortness of Breath|None|Atorvastatin|STAT
+4|4|19|120/81|-99|20|45.2|0|6|Fever|None|Metoprolol|High-Priority Emergency
+5|5|25|117/88|108|17|37.7|98|6|Abdominal Pain|Penicillin|None|Urgent
+6|6|19|105/78|98|19|36.3|94|7|Shortness of Breath|Sulfa drugs|Metformin| Routine 
+7|7|23|100/64|65|22|37.7|94|7|Shortness of Breath|None|Atorvastatin|High-Priority Emergency
+8|8|17|117/79|100|14|36.1|100|3|Fever|None|Atorvastatin|High-Priority Emergency
+9|9|18|120/78|61|19|36.2|100|7|Shortness of Breath|Latex|Aspirin|High-Priority Emergency
+10|10|18|124/84|108|14|36.6|94|6|Abdominal Pain|Peanuts|None|ROUTINE
+11|11|20|109/64|101|19|37.3|98|4|Dizziness|Sulfa drugs|Lisinopril|STAT
+12|12|25|126/66|90|22|38.1|97|7|Dizziness|Latex|Atorvastatin|Urgent
+13|13|20|136/73|102|14|36.9|95|6|Shortness of Breath|Latex|Metformin|STAT
+14|14|21|109/75|103|18|38.3|97|8|Dizziness|Peanuts|Atorvastatin|STAT
+15|15|23|131/68|60|17|37.9|94|4|Dizziness|Sulfa drugs|Lisinopril|Urgent
+16|16|25|100/75|97|12|37.9|98|8|Dizziness|None|Metformin|Routine
+17|17|25|105/60|-99|12|45.2|0|8|Dizziness|Latex|Atorvastatin|STAT
+18|18|16|131/64|95|16|38.1|97|3|Shortness of Breath|None|Aspirin|Urgent
+19|19|19|132/65|75|20|38.1|94|3|Chest Discomfort|Sulfa drugs|None|STAT
+20|20|25|107/80|62|22|37.9|92|1|Shortness of Breath|Sulfa drugs|Metoprolol|Routine
+21|21|20|139/83|70|16|36.3|97|5|Fever|Peanuts|Aspirin|Urgent
+22|22|18|132/88|93|16|36.6|98|2|Dizziness|Latex|Metformin|High-Priority Emergency
+23|23||120/85|83|22|37.0|96|3|Chest Discomfort|None|Lisinopril|Routine
+24|24|16|102/79|105|18|36.3|94|1|Abdominal Pain|Peanuts|Aspirin|High-Priority Emergency
+25|25|18|101/69|96|15|38.1|96|10|Fever|Penicillin|None|STAT
+26|26|17|119/76|108|18|37.5|93|1|Chest Discomfort|Penicillin|Lisinopril|Routine
+27|27|20|123/86|71|17|37.4|99|3|Dizziness|Sulfa drugs|None|Routine
+28|28|22|123/69|81|16|37.5|96|0|Fever|Sulfa drugs|Atorvastatin|STAT
+29|29|24|111/85|69|18|37.2|95|3|Chest Discomfort|Latex|Aspirin|ROUTINE
+30|30|22|126/69|66|12|36.1|92|5|Abdominal Pain|Penicillin|Atorvastatin|High-Priority Emergency
+31|31|20|104/82|84|14|37.0|98|1|Abdominal Pain|None|Aspirin|STAT
+32|32|19|102/77|104|12|37.2|96|6|Chest Discomfort|Sulfa drugs|Metformin|High-Priority Emergency
+33|33|24|121/67|92|13|38.1|100|2|Shortness of Breath|Latex|Metformin|High-Priority Emergency
+34|34|22|122/64|108|16|36.7|96|6|Fever|Peanuts|Lisinopril|Urgent
+35|35|24|120/73|103|19|37.1|94|3/10|Fever|Latex|Metoprolol|Urgent
+36|36|25|114/68|110|14|38.5|97|7|Dizziness|Sulfa drugs|None|Routine
+37|37|24|103/73|63|14|38.0|100|10|Chest Discomfort|Sulfa drugs|Lisinopril|STAT
+38|38|23|108/71|100|21|37.5|92|8|Chest Discomfort|None|Aspirin|High-Priority Emergency
+39|39|22|108/67|84|13|36.7|94|8|Abdominal Pain|Latex|Metoprolol|High-Priority Emergency
+40|40|24|138/60|64|13|37.5|97|6|Shortness of Breath|Penicillin|Atorvastatin|Routine
+41|41|20|103/74|77|16|37.2|99|5|Dizziness|Latex|Aspirin|High-Priority Emergency
+42|42|19|121/86|102|22|36.2|92|1|Fever|None|Lisinopril|Routine
+43|43|19|116/75|90|13|36.3|96|7|Shortness of Breath|Latex|Metoprolol|High-Priority Emergency
+44|44|18|109/89|72|16|37.8|97|3|Abdominal Pain|Penicillin|None|STAT
+45|45|20|104/76|65|20|36.4|99|2|Chest Discomfort|None|Metformin|Routine
+46|46|16|110/87|103|16|37.8|99|2|Dizziness|None|Lisinopril|STAT
+47|47|24|115/82|83|17|37.2|93|9|Abdominal Pain|Peanuts|Metoprolol|STAT
+48|48|17|125/76|87|14|36.4|93|8|Abdominal Pain|Latex|Atorvastatin|Urgent
+49|49|21|109/70|72|17|38.1|95|7/10|Abdominal Pain|None|Atorvastatin|Urgent
+50|50|23|104/61|70|18|36.5|93|2|Shortness of Breath|Sulfa drugs|Atorvastatin|STAT
+51|51|18|138/79|72|18|38.2|97|9|Abdominal Pain|Latex|Lisinopril|High-Priority Emergency
+52|52|24|123/86|77|13|38.3|98|2|Chest Discomfort|Peanuts|Aspirin|High-Priority Emergency
+53|53|23|137/67|72|22|36.7|93|9|Dizziness|Peanuts|Metformin|STAT
+54|54|18|125/68|71|21|37.4|94|0|Shortness of Breath|None|None|STAT
+55|55|25|122/77|103|12|38.2|95|8|Shortness of Breath|None|Metformin|STAT
+56|56|17|122/75|100|18|36.9|99|3/10|Fever|Penicillin|None|Routine
+57|9999|23|104/89|110|16|38.0|96|9|Dizziness|Peanuts|Metformin|STAT
+58|58|24|112/76|97|12|37.2|95|7|Dizziness|Penicillin|Metoprolol|STAT
+59|59|25|100/75|89|14|38.3|92|8|Chest Discomfort|Sulfa drugs|Metoprolol|Routine
+60|9999|20|106/72|81|13|37.0|96|8|Chest Discomfort|Peanuts|Metformin|Routine
+61|61|21|128/64|92|17|37.5|95|8|Fever|Latex|Metoprolol|STAT
+62|62|16|108/84|100|14|37.4|93|3|Fever|None|None|Routine
+63|63|21|132/74|80|21|36.5|94|6|Abdominal Pain|Penicillin|Metoprolol|STAT
+64|64|25|119/80|107|15|36.4|95|7|Abdominal Pain|Latex|Metformin|High-Priority Emergency
+65|65|19|135/65|63|22|36.3|95|2|Fever|Sulfa drugs|None|Urgent
+66|66|24|131/90|87|12|37.8|99|10|Abdominal Pain|Sulfa drugs|Lisinopril|High-Priority Emergency
+67|67|18|125/82|90|21|37.9|98|3|Dizziness|Sulfa drugs|Metformin|Urgent
+68|68|25|101/79|109|22|37.7|100|3|Dizziness|None|Atorvastatin|Urgent
+69|69|22|126/86|105|21|36.2|98|2|Shortness of Breath|Latex|Metformin|Urgent
+70|70|23|120/82|108|22|36.6|99|10|Shortness of Breath|Penicillin|Atorvastatin|STAT
+71|71|21|103/84|77|14|37.1|98|2|Chest Discomfort|Penicillin|Aspirin|HIGH-PRIORITY EMERGENCY
+72|72|24|139/77|96|21|38.2|96|0|Dizziness|Penicillin|Lisinopril|High-Priority Emergency
+73|73|24|122/66|-99|17|45.2|0|9|Dizziness|Peanuts|Atorvastatin|Routine
+74|74|24|139/70|97|22|36.9|95|8|Dizziness|Sulfa drugs|Lisinopril|Routine
+75|75|21|102/77|100|15|36.3|97|1|Abdominal Pain|Sulfa drugs|Lisinopril|Routine
+76|76|25|114/73|96|16|37.7|97|4|Shortness of Breath|None|Atorvastatin|Urgent
+77|77|22|115/88|87|21|37.6|99|5|Fever|Peanuts|Aspirin|High-Priority Emergency
+78|78|16|125/83|66|15|38.0|95|8|Dizziness|Peanuts|Lisinopril|HIGH-PRIORITY EMERGENCY
+79|79|22|123/73|95|12|37.8|97|4|Abdominal Pain|Penicillin|None|Routine
+80|80|23|109/81|99|17|36.9|100|10|Fever|Penicillin|Lisinopril|STAT
+81|81|23|114/79|70|17|36.3|97|9|Fever|Penicillin|Aspirin|Urgent
+82|82|16|105/70|71|20|38.0|94|4|Abdominal Pain|Latex|Aspirin|STAT
+83|83|21|116/70|68|20|37.9|94|7|Chest Discomfort|Peanuts|Lisinopril|High-Priority Emergency
+84|84|18|132/61|103|12|37.7|94|10|Fever|Sulfa drugs|Metoprolol|STAT
+85|85|22|110/66|83|20|37.9|98|9|Chest Discomfort|Latex|Lisinopril|High-Priority Emergency
+86|86|22|110/64|70|14|36.5|99|9|Dizziness|Latex|Lisinopril|Urgent
+87|87|18|113/65|95|19|37.1|98|8|Abdominal Pain|Sulfa drugs|Metoprolol|Urgent
+88|88|24|119/77|83|17|36.9|92|3|Chest Discomfort|Peanuts|Atorvastatin|Routine
+89|89|16|114/79|73|13|38.3|99|10|Chest Discomfort|Peanuts|Metoprolol|STAT
+90|90|16|103/82|103|22|36.3|94|6|Chest Discomfort|Penicillin|Metformin|Urgent
+91|91|17|119/83|85|21|38.5|95|6|Abdominal Pain|Penicillin|Aspirin|High-Priority Emergency
+92|92|16|114/87|79|15|37.6|95|1|Fever|Latex|Lisinopril|Routine
+93|93|23|115/79|85|15|38.4|96|5|Dizziness|Latex|Atorvastatin|High-Priority Emergency
+94|94|18|131/76|71|13|37.2|95|3|Chest Discomfort|Latex|Aspirin|STAT
+95|95|19|109/88|62|15|38.0|100|2|Fever|Penicillin|Lisinopril|High-Priority Emergency
+96|96|23|115/70|81|22|37.2|95|6|Chest Discomfort|None|Atorvastatin|Urgent
+97|97|18|121/80|75|15|37.7|92|7|Chest Discomfort|Peanuts|Atorvastatin|High-Priority Emergency
+98|98|22|130/78|108|20|37.0|99|8|Fever|Penicillin|Atorvastatin|Routine
+99|99|18|113/84|91|20|38.1|100|1|Abdominal Pain|Penicillin|Metformin|High-Priority Emergency
+100|100|22|118/79|104|17|38.3|98|0|Abdominal Pain|Peanuts|Atorvastatin|STAT
+101|101|18|108/69|61|21|37.4|97|1|Shortness of Breath|Latex|Aspirin|High-Priority Emergency
+102|9999|24|130/61|72|17|38.1|92|10|Abdominal Pain|Latex|Atorvastatin|Urgent
+103|103|22|124/60|91|15|38.5|94|7|Dizziness|Penicillin|Metformin|STAT
+104|104|16|139/62|100|19|37.9|99|8|Shortness of Breath|Latex|Atorvastatin|STAT
+105|105|21|126/82|62|15|38.1|96|6|Dizziness|Penicillin|None|High-Priority Emergency
+106|106|19|139/82|83|14|37.6|100|9|Dizziness|Latex|Metoprolol|Routine
+107|107|24|127/67|73|15|36.7|92|7|Fever|None|None|STAT
+108|108|23|116/89|108|17|36.7|97|7|Chest Discomfort|None|Lisinopril|STAT
+109|109||129/68|106|12|36.6|93|2|Abdominal Pain|None|Lisinopril|HIGH-PRIORITY EMERGENCY
+110|110|20|108/68|-99|16|45.2|0|7|Dizziness|None|Metoprolol|STAT
+111|111|22|126/66|108|17|36.3|97|8|Shortness of Breath|Penicillin|Metformin|STAT
+112|112|17|119/86|75|15|37.3|94|10|Dizziness|Penicillin|Metoprolol|Urgent
+113|113|20|108/76|82|16|36.1|94|0|Abdominal Pain|Penicillin|None|Urgent
+114|9999|16|116/86|81|20|37.0|93|6|Dizziness|Peanuts|None|STAT
+115|115|22|117/73|101|13|37.4|93|7|Fever|None|Aspirin|STAT
+116|116|19|117/72|83|16|37.7|92|1|Dizziness|Sulfa drugs|Atorvastatin|Routine
+117|117|25|140/83|107|14|37.5|99|10|Shortness of Breath|Penicillin|Metformin|Routine
+118|118|21|133/66|88|22|37.3|98|9|Abdominal Pain|Penicillin|Metformin|STAT
+119|119|20|114/69|84|17|37.5|99|6|Dizziness|Sulfa drugs|Atorvastatin|High-Priority Emergency
+120|120|19|112/73|107|16|38.3|95|8|Chest Discomfort|Sulfa drugs|Aspirin|STAT
+121|121|19|116/84|100|21|36.4|92|7|Abdominal Pain|Penicillin|Lisinopril|High-Priority Emergency
+122|122|22|111/88|97|22|37.5|93|10|Abdominal Pain|Sulfa drugs|Metformin|Urgent
+123|123|23|140/86|-99|15|45.2|0|2|Fever|Penicillin|Metoprolol|Urgent
+124|124|16|114/73|91|19|36.6|92|4|Abdominal Pain|Sulfa drugs|None|Urgent
+125|125|21|124/65|73|13|36.4|99|6|Abdominal Pain|Penicillin|Lisinopril|Routine
+126|126|16|110/85|92|21|36.6|92|9|Shortness of Breath|Peanuts|Metoprolol|Urgent
+127|127|24|105/86|91|14|37.7|98|3|Abdominal Pain|Peanuts|None|Urgent
+128|128|18|120/65|60|15|38.3|94|5|Chest Discomfort|Peanuts|Aspirin|High-Priority Emergency
+129|129|23|138/78|79|21|37.6|95|3|Shortness of Breath|Penicillin|Aspirin|Routine
+130|130|18|113/68|-99|16|45.2|0|7|Shortness of Breath|Sulfa drugs|None|STAT
+131|131|18|134/69|109|13|36.5|99|7|Dizziness|Peanuts|Aspirin|High-Priority Emergency
+132|9999|25|110/74|69|14|38.2|92|7|Fever|Peanuts|Metformin|Routine
+133|133|21|102/79|83|14|36.6|92|10|Abdominal Pain|Peanuts|Aspirin|STAT
+134|134|23|102/77|103|20|38.0|97|6|Abdominal Pain|Latex|Atorvastatin|Urgent
+135|135|22|129/71|61|22|36.2|95|9|Dizziness|Sulfa drugs|None|Urgent
+136|136|20|109/90|85|13|38.2|97|3|Chest Discomfort|Peanuts|Metformin|STAT
+137|137|25|104/64|88|13|37.3|97|9|Chest Discomfort|None|Aspirin|High-Priority Emergency
+138|138|20|139/71|84|12|37.4|100|2|Chest Discomfort|Peanuts|Atorvastatin|STAT
+139|139|21|136/68|89|13|36.1|93|1|Fever|Latex|Lisinopril|STAT
+140|140|16|133/73|88|15|38.3|97|6|Abdominal Pain|Latex|Aspirin|Routine
+141|141|18|105/64|104|16|36.5|98|7|Fever|Peanuts|Metformin|Urgent
+142|142|23|113/84|72|12|38.1|96|9|Chest Discomfort|Peanuts|Metformin|Urgent
+143|143|18|107/67|98|14|37.2|93|5|Chest Discomfort|Sulfa drugs|Aspirin|STAT
+144|144|24|121/75|69|19|37.4|92|4|Shortness of Breath|Peanuts|Lisinopril|Urgent
+145|145|25|102/71|64|20|36.5|96|3|Dizziness|None|Metoprolol|high-priority emergency
+146|146|16|126/69|78|15|37.6|94|8|Abdominal Pain|None|Aspirin|Urgent
+147|147|22|117/80|93|12|37.9|93|10|Fever|None|None|Urgent
+148|148|25|102/68|105|19|38.0|98|0|Chest Discomfort|Latex|Aspirin|Urgent
+149|149|22|124/85|78|17|36.8|100|2|Chest Discomfort|Sulfa drugs|None|High-Priority Emergency
+150|150|21|106/82|108|19|38.1|95|9|Shortness of Breath|Peanuts|Aspirin|STAT
+151|151|17|128/65|90|13|36.7|95|5|Abdominal Pain|Penicillin|None|High-Priority Emergency
+152|152|20|133/70|92|17|36.7|92|3|Shortness of Breath|Sulfa drugs|None|STAT
+153|153|21|111/72|85|19|38.3|100|5|Fever|Peanuts|Atorvastatin|Routine
+154|154|23|103/84|61|17|38.0|99|7|Chest Discomfort|None|Metoprolol|STAT
+155|155|16|126/68|89|15|37.2|96|5|Abdominal Pain|Penicillin|Aspirin|Urgent
+156|156|17|117/89|64|15|38.2|95|9|Dizziness|None|None|Routine
+157|157|17|113/74|85|22|37.6|100|9|Chest Discomfort|Penicillin|Metformin|STAT
+158|9999|22|135/78|76|21|36.2|97|0|Fever|None|Metoprolol|Routine
+159|159|20|122/63|105|14|37.2|97|5|Chest Discomfort|Peanuts|Aspirin|High-Priority Emergency
+160|9999|21|100/84|71|13|36.9|92|7|Abdominal Pain|None|Lisinopril|Urgent
+161|161|23|126/65|103|15|37.1|93|2/10|Fever|Latex|Aspirin| STAT 
+162|162|16|131/64|86|22|37.0|97|10|Dizziness|Latex|Metformin|High-Priority Emergency
+163|163|21|111/68|89|19|37.9|95|6|Abdominal Pain|None|Aspirin|High-Priority Emergency
+164|164|18|111/78|104|19|37.0|94|4|Fever|Latex|Atorvastatin|STAT
+165|165|20|119/73|98|22|36.3|96|8|Abdominal Pain|Penicillin|Metoprolol|High-Priority Emergency
+166|166|25|103/62|109|20|37.0|96|2|Chest Discomfort|Sulfa drugs|Aspirin|Urgent
+167|167|20|128/82|89|13|36.6|94|8|Fever|Latex|Metoprolol|Routine
+168|168|21|126/65|61|16|38.3|95|3|Fever|Peanuts|Metoprolol|Routine
+169|169|20|140/72|69|13|37.9|92|4|Chest Discomfort|None|Metoprolol|Urgent
+170|170|16|114/89|75|19|38.2|99|9|Fever|Latex|None|STAT
+171|171|21|136/73|88|18|36.4|94|0|Abdominal Pain|Latex|Aspirin|Routine
+172|172|22|112/84|74|18|36.9|100|2|Abdominal Pain|Sulfa drugs|Metoprolol|High-Priority Emergency
+173|173|17|107/67|77|21|36.2|98|6|Dizziness|Penicillin|Metoprolol|Routine
+174|174|23|140/84|91|17|38.4|96|4|Fever|None|Atorvastatin|Urgent
+175|175|25|137/62|108|14|38.1|100|0|Shortness of Breath|Penicillin|Metformin|STAT
+176|176|22|112/89|75|20|38.1|96|3|Chest Discomfort|Penicillin|Atorvastatin|High-Priority Emergency
+177|177|19|126/70|86|21|36.5|100|4|Fever|Peanuts|Atorvastatin|STAT
+178|178|23|106/74|65|12|37.3|99|7|Shortness of Breath|None|None|Urgent
+179|179|25|101/60|91|14|37.9|100|10|Shortness of Breath|Penicillin|Atorvastatin|STAT
+180|180|21|127/65|70|19|37.2|95|5|Chest Discomfort|None|Metoprolol|High-Priority Emergency
+181|181|24|109/89|91|17|36.6|94|10|Abdominal Pain|Penicillin|Lisinopril|Routine
+182|182|25|115/64|104|20|37.6|94|2|Shortness of Breath|Latex|Atorvastatin|Urgent
+183|183|16|115/71|95|18|36.3|98|3|Shortness of Breath|Latex|Lisinopril|STAT
+184|184|19|115/86|65|20|36.7|100|4|Dizziness|Peanuts|None|High-Priority Emergency
+185|185|20|112/88|84|14|37.7|92|0|Chest Discomfort|Sulfa drugs|Metformin|Urgent
+186|186|16|101/81|78|14|37.5|95|8|Chest Discomfort|Latex|Metformin|Routine
+187|187|16|126/68|106|19|36.1|93|2|Dizziness|Latex|Metoprolol|Routine
+188|188|19|133/85|74|22|37.9|98|5|Shortness of Breath|Peanuts|None|High-Priority Emergency
+189|189|16|111/83|66|16|37.7|95|10|Dizziness|Penicillin|Atorvastatin|Urgent
+190|190|22|130/73|81|18|37.2|95|10|Abdominal Pain|Peanuts|Metoprolol|High-Priority Emergency
+191|191|20|134/85|84|14|37.8|97|2|Fever|Latex|Metoprolol|Routine
+192|192|18|107/82|105|15|37.5|100|10|Chest Discomfort|Penicillin|Atorvastatin|Routine
+193|193|17|128/67|101|12|38.1|100|4|Chest Discomfort|Penicillin|Aspirin|Urgent
+194|194|21|123/90|107|17|37.0|97|2|Shortness of Breath|Peanuts|Aspirin|STAT
+195|195||122/67|81|12|37.6|92|0|Shortness of Breath|Peanuts|None|High-Priority Emergency
+196|196|20|113/82|62|19|36.9|100|0|Dizziness|Latex|Metformin|Urgent
+197|197||116/61|100|21|38.2|92|9|Dizziness|Peanuts|Metoprolol|STAT
+198|198|18|105/75|-99|21|45.2|0|0|Chest Discomfort|Latex|Metformin|Routine
+199|199|23|130/61|107|14|37.2|96|7|Chest Discomfort|None|Lisinopril|STAT
+200|200|24|138/77|88|20|36.9|99|3|Dizziness|Sulfa drugs|Metoprolol|Urgent
+201|201|19|107/60|78|12|36.3|94|6|Abdominal Pain|None|Metoprolol|Urgent
+202|202|17|107/82|77|16|37.0|97|10|Abdominal Pain|Latex|None|Routine
+203|203|22|137/61|73|21|37.0|97|8|Dizziness|None|Lisinopril|STAT
+204|204|20|140/71|83|16|36.5|92|9|Abdominal Pain|Sulfa drugs|Metformin|Routine
+205|205|20|128/63|81|20|38.5|96|0|Chest Discomfort|Penicillin|None|Routine
+206|206|20|103/85|82|19|38.4|92|2|Chest Discomfort|None|Atorvastatin|High-Priority Emergency
+207|207|19|122/81|61|20|36.9|100|6|Abdominal Pain|Peanuts|Atorvastatin|High-Priority Emergency
+208|208|22|126/69|81|13|37.3|100|10|Dizziness|None|Metoprolol|STAT
+209|209|24|101/75|74|20|36.6|97|7|Fever|Latex|Lisinopril|Routine
+210|210|25|119/80|88|20|36.3|100|2|Dizziness|Peanuts|Atorvastatin|Urgent
+211|211|20|118/87|62|12|37.9|97|9|Dizziness|Peanuts|None|Urgent
+212|212|19|117/70|65|12|36.8|96|5|Abdominal Pain|None|Lisinopril|STAT
+213|213|25|139/60|93|22|36.2|97|5|Fever|Sulfa drugs|Atorvastatin|High-Priority Emergency
+214|214|22|105/66|66|22|37.2|93|1|Shortness of Breath|None|Metformin|STAT
+215|215|23|101/79|108|20|38.2|94|2|Fever|Sulfa drugs|Aspirin|Routine
+216|216||117/83|85|19|36.9|94|9|Shortness of Breath|None|Atorvastatin| High-Priority Emergency 
+217|217|25|120/69|79|19|36.0|99|4|Abdominal Pain|Sulfa drugs|Metformin|High-Priority Emergency
+218|218|18|135/84|108|22|36.0|94|9|Abdominal Pain|Latex|Atorvastatin|Urgent
+219|9999|19|132/88|83|14|38.4|93|1|Dizziness|Latex|None|Urgent
+220|220|16|138/85|85|16|37.5|98|7|Fever|None|Lisinopril|STAT
+221|221|21|140/77|-99|22|45.2|0|1|Chest Discomfort|Latex|Lisinopril|Urgent
+222|222|20|138/62|80|21|37.9|98|5|Shortness of Breath|Penicillin|Metoprolol|STAT
+223|223|22|132/82|64|12|36.8|92|9|Fever|Sulfa drugs|Atorvastatin|Routine
+224|224|21|112/86|68|17|38.3|92|0|Dizziness|Penicillin|Lisinopril|High-Priority Emergency
+225|225|16|113/85|109|12|38.2|100|9|Shortness of Breath|Penicillin|Lisinopril|Urgent
+226|226|16|106/84|101|12|38.0|95|0|Chest Discomfort|Penicillin|Atorvastatin|High-Priority Emergency
+227|227|19|128/78|91|12|37.2|97|7|Abdominal Pain|None|Aspirin|STAT
+228|228|24|119/86|93|16|37.5|99|2|Fever|Sulfa drugs|Atorvastatin|Routine
+229|229|24|135/61|93|12|38.1|97|2|Shortness of Breath|Sulfa drugs|Metoprolol|STAT
+230|230|24|115/62|89|15|38.0|99|1|Abdominal Pain|None|Metformin|High-Priority Emergency
+231|231|18|111/79|95|16|36.7|100|3|Fever|Latex|Lisinopril|High-Priority Emergency
+232|232|17|138/81|110|22|36.9|96|10|Chest Discomfort|Latex|Lisinopril|High-Priority Emergency
+233|233|24|134/77|98|21|37.9|92|9|Shortness of Breath|Penicillin|Lisinopril|STAT
+234|234|20|138/82|101|17|38.2|95|9|Shortness of Breath|None|None|High-Priority Emergency
+235|235|18|114/61|71|16|37.4|100|6/10|Chest Discomfort|Latex|Metformin|STAT
+236|236|21|112/83|100|20|36.7|98|10|Fever|Peanuts|Metformin|Routine
+237|237|16|138/87|90|22|37.7|96|7|Abdominal Pain|Penicillin|Aspirin|STAT
+238|238|22|110/68|101|18|36.0|99|0|Shortness of Breath|None|Aspirin|Routine
+239|239|24|116/83|93|12|38.2|95|3|Abdominal Pain|Sulfa drugs|Lisinopril|Urgent
+240|240|24|116/65|86|19|38.2|98|3|Fever|Sulfa drugs|Atorvastatin|STAT
+241|241|24|118/81|110|18|38.0|98|6|Fever|Penicillin|Metformin|Urgent
+242|242|17|122/89|101|22|36.9|97|0|Chest Discomfort|Penicillin|Atorvastatin|Urgent
+243|243|21|137/83|75|16|38.0|93|8|Shortness of Breath|Sulfa drugs|Atorvastatin|Urgent
+244|244|24|105/64|106|14|37.5|95|8|Chest Discomfort|None|Atorvastatin|HIGH-PRIORITY EMERGENCY
+245|245|21|127/85|61|20|38.5|96|0|Chest Discomfort|Latex|None|Routine
+246|246|16|132/78|63|17|38.5|99|8|Shortness of Breath|Penicillin|Aspirin|Routine
+247|247|21|109/71|68|21|37.9|100|6|Chest Discomfort|Peanuts|Aspirin|Routine
+248|248|23|101/86|76|18|38.0|95|9|Chest Discomfort|Penicillin|Aspirin|High-Priority Emergency
+249|249|25|140/83|60|13|38.2|96|4|Chest Discomfort|None|Aspirin|STAT
+250|250|16|122/68|60|18|37.9|94|4|Chest Discomfort|Peanuts|Metoprolol|Routine
+251|251|20|116/74|91|22|37.8|100|3|Abdominal Pain|None|Lisinopril|Urgent
+252|252|21|116/69|81|19|38.4|99|0|Abdominal Pain|Peanuts|Atorvastatin|High-Priority Emergency
+253|253|23|122/68|87|17|36.8|93|5|Dizziness|Latex|Aspirin|STAT
+254|254|22|120/85|109|15|38.3|92|3|Abdominal Pain|Sulfa drugs|None|Routine
+255|255|19|126/89|67|18|37.8|100|10|Shortness of Breath|Penicillin|Aspirin|Urgent
+256|256|16|125/87|62|15|36.4|95|6|Dizziness|None|Aspirin|STAT
+257|257|20|107/90|86|12|36.9|100|6|Dizziness|Sulfa drugs|None|Urgent
+258|258|22|136/88|71|22|37.9|94|0|Dizziness|Sulfa drugs|None|STAT
+259|259|20|136/72|86|17|36.0|99|7|Shortness of Breath|Peanuts|Metoprolol|Routine
+260|260|22|128/61|75|17|38.3|100|3|Chest Discomfort|None|Lisinopril|STAT
+261|261|22|105/68|-99|13|45.2|0|4|Dizziness|Sulfa drugs|Lisinopril|High-Priority Emergency
+262|262|20|111/90|78|12|37.7|100|6|Shortness of Breath|Sulfa drugs|Atorvastatin|Urgent
+263|263|21|124/69|90|20|38.0|94|1|Dizziness|None|Metformin|Routine
+264|264|18|130/69|102|15|36.4|99|2|Shortness of Breath|None|Aspirin|HIGH-PRIORITY EMERGENCY
+265|265|16|103/71|107|15|37.7|98|4|Fever|Sulfa drugs|Metformin|Routine
+266|266|25|111/80|78|20|36.7|94|0|Shortness of Breath|Latex|Metformin|Routine
+267|267|18|131/80|85|13|36.6|95|5|Dizziness|Penicillin|Atorvastatin|stat
+268|268|22|106/74|88|19|38.2|98|4|Fever|Peanuts|Atorvastatin|Routine
+269|269|19|121/87|106|15|37.4|98|9|Dizziness|Penicillin|Metformin|STAT
+270|270|24|127/81|71|20|37.8|94|7|Chest Discomfort|Latex|None|High-Priority Emergency
+271|271|17|113/67|105|21|38.2|92|2|Shortness of Breath|Sulfa drugs|Aspirin|High-Priority Emergency
+272|272||108/81|73|22|37.4|99|4|Abdominal Pain|Peanuts|Atorvastatin|Urgent
+273|273|25|138/64|98|20|37.6|98|10|Chest Discomfort|Peanuts|Atorvastatin|Routine
+274|274|18|138/75|70|21|36.8|99|0|Chest Discomfort|Sulfa drugs|Metformin|Urgent
+275|275|25|132/81|109|21|36.2|96|2|Fever|Latex|Aspirin|High-Priority Emergency
+276|276|17|127/69|76|20|36.9|94|8|Shortness of Breath|Peanuts|Metformin|High-Priority Emergency
+277|277|20|130/70|103|17|36.0|99|8|Fever|Latex|Lisinopril|Routine
+278|278|23|101/63|93|22|36.8|92|3|Abdominal Pain|Sulfa drugs|Atorvastatin| High-Priority Emergency 
+279|279|17|109/78|62|15|37.0|95|6|Fever|None|Metoprolol|Urgent
+280|280|23|120/61|77|18|36.4|93|7|Chest Discomfort|Penicillin|Lisinopril|High-Priority Emergency
+281|281|24|123/76|72|18|37.0|98|0|Dizziness|Peanuts|Lisinopril|High-Priority Emergency
+282|282|24|128/74|60|22|37.8|92|9|Shortness of Breath|Peanuts|None|Urgent
+283|283|19|126/71|99|21|36.2|94|9|Shortness of Breath|Peanuts|None|STAT
+284|284|20|115/70|97|22|36.7|97|4|Shortness of Breath|None|Metoprolol|High-Priority Emergency
+285|9999|21|128/63|101|15|36.5|92|1|Chest Discomfort|Latex|Atorvastatin|stat
+286|286|20|116/89|107|18|37.7|92|8|Dizziness|Latex|Lisinopril|Urgent
+287|287|20|132/78|61|17|36.3|97|1|Dizziness|None|Aspirin|High-Priority Emergency
+288|288|19|130/87|99|19|36.1|97|6|Chest Discomfort|Penicillin|None|Urgent
+289|289|20|112/75|76|15|37.7|95|7|Fever|None|Metformin|High-Priority Emergency
+290|290|21|125/65|88|17|36.0|99|5|Fever|Peanuts|None|Urgent
+291|291|21|120/65|107|21|36.8|92|5|Dizziness|Latex|Lisinopril|Routine
+292|292|18|123/90|67|22|36.6|97|0|Abdominal Pain|Peanuts|Atorvastatin|Routine
+293|293|23|119/79|-99|17|45.2|0|2|Shortness of Breath|Sulfa drugs|Metformin|High-Priority Emergency
+294|294|17|122/62|90|22|36.4|99|3|Fever|Peanuts|Lisinopril|Routine
+295|295|25|101/65|68|14|37.1|94|3|Fever|None|Aspirin|STAT
+296|296|23|120/63|107|16|37.5|95|8|Dizziness|None|Atorvastatin| Routine 
+297|297|24|128/89|64|14|37.1|94|4|Shortness of Breath|Latex|Metformin|STAT
+298|298|20|123/84|95|18|38.1|100|1|Chest Discomfort|Peanuts|Metformin|High-Priority Emergency
+299|299|16|119/78|74|22|37.2|96|1|Shortness of Breath|None|Metformin|High-Priority Emergency
+300|300|16|135/85|92|13|36.6|97|1|Chest Discomfort|Sulfa drugs|Atorvastatin|Routine
+301|301|20|100/71|66|18|36.2|95|10|Chest Discomfort|Latex|None|Routine
+302|302|17|108/62|78|12|37.8|94|10|Dizziness|Peanuts|Aspirin|Routine
+303|303|16|138/75|85|13|36.5|100|10|Chest Discomfort|Penicillin|Metformin|Routine
+304|304|24|116/63|94|22|36.4|99|2|Abdominal Pain|Latex|Aspirin|High-Priority Emergency
+305|305|16|116/75|77|14|37.3|100|6|Shortness of Breath|Sulfa drugs|Lisinopril|Routine
+306|306|21|133/72|98|14|37.3|94|2|Dizziness|Penicillin|None|Urgent
+307|307|20|107/87|90|21|37.0|92|2|Chest Discomfort|Peanuts|Metformin|High-Priority Emergency
+308|9999|16|114/62|71|13|36.5|94|10|Abdominal Pain|Latex|Atorvastatin|Routine
+309|309|17|117/66|67|22|36.7|99|2|Shortness of Breath|Latex|Metoprolol|Routine
+310|310|17|138/84|68|20|37.9|100|6|Dizziness|Latex|Lisinopril|STAT
+311|311|19|104/78|75|12|37.2|94|4|Fever|Penicillin|Atorvastatin|Urgent
+312|312|17|138/66|107|12|37.9|94|1|Chest Discomfort|Peanuts|None|STAT
+313|313|16|124/88|78|13|37.7|95|9|Abdominal Pain|None|Lisinopril|High-Priority Emergency
+314|314|17|106/69|89|21|36.1|93|7|Chest Discomfort|Peanuts|Atorvastatin|High-Priority Emergency
+315|315|21|121/64|87|12|36.8|95|1|Shortness of Breath|Latex|None|Urgent
+316|316|24|138/67|93|15|37.9|93|2|Fever|Penicillin|Atorvastatin|Urgent
+317|317|25|107/69|87|20|36.8|92|3|Chest Discomfort|None|Metoprolol|Routine
+318|318|23|112/60|66|19|36.8|98|7|Fever|Penicillin|Metformin|Routine
+319|319|25|136/70|96|20|38.2|96|6|Fever|Sulfa drugs|Atorvastatin|Urgent
+320|320|21|101/64|98|13|36.2|99|3|Fever|None|Metformin|Urgent
+321|321|16|128/81|92|12|36.1|92|1|Shortness of Breath|Sulfa drugs|Atorvastatin|High-Priority Emergency
+322|322|18|129/86|66|21|36.1|96|6|Fever|Latex|Atorvastatin|High-Priority Emergency
+323|323|18|104/63|63|19|37.5|98|1/10|Chest Discomfort|Sulfa drugs|Metformin|High-Priority Emergency
+324|324|19|127/85|89|16|36.2|93|4|Abdominal Pain|Sulfa drugs|Aspirin|STAT
+325|325|19|129/84|79|13|38.5|99|9|Dizziness|Penicillin|Metoprolol|High-Priority Emergency
+326|326|19|120/66|84|22|36.2|92|8|Shortness of Breath|Sulfa drugs|Metformin|High-Priority Emergency
+327|327|19|119/85|98|21|37.5|94|1|Abdominal Pain|Latex|Lisinopril|Routine
+328|328|17|124/71|83|19|37.7|99|6|Fever|Sulfa drugs|Atorvastatin|Routine
+329|329|19|138/75|95|14|36.5|97|4|Chest Discomfort|Sulfa drugs|Aspirin|Routine
+330|330|20|104/79|107|18|37.2|98|2|Dizziness|Peanuts|Atorvastatin|Routine
+331|331|18|118/75|72|14|37.0|99|0|Shortness of Breath|Latex|Atorvastatin|STAT
+332|332|23|138/89|83|12|38.1|94|9|Abdominal Pain|Peanuts|None|STAT
+333|333|22|131/73|-99|14|45.2|0|5|Abdominal Pain|None|Aspirin|High-Priority Emergency
+334|334|19|104/70|69|18|37.4|94|0|Abdominal Pain|Sulfa drugs|Metoprolol|High-Priority Emergency
+335|335|20|113/86|66|16|36.3|94|0|Fever|Peanuts|Metoprolol|Routine
+336|336|23|128/67|108|14|36.4|95|4|Abdominal Pain|Latex|Aspirin|Urgent
+337|337|25|134/87|84|19|36.2|100|4|Dizziness|Peanuts|Metformin|High-Priority Emergency
+338|338|16|117/64|106|12|37.2|94|9|Fever|Sulfa drugs|None|STAT
+339|339|18|109/89|62|22|37.6|99|4|Dizziness|Peanuts|Metoprolol|High-Priority Emergency
+340|340|17|139/78|75|12|36.8|96|1|Abdominal Pain|Sulfa drugs|Lisinopril|Routine
+341|341|24|136/72|109|19|37.6|100|6|Abdominal Pain|Sulfa drugs|None|High-Priority Emergency
+342|342|24|112/63|105|13|36.3|100|10|Fever|None|Atorvastatin|Routine
+343|343|23|127/66|80|13|37.0|100|3|Abdominal Pain|Peanuts|Atorvastatin|Routine
+344|344|23|110/90|86|21|38.3|97|9|Abdominal Pain|None|Lisinopril|Urgent
+345|345|16|104/67|98|22|37.5|100|1/10|Shortness of Breath|Peanuts|Metformin|Urgent
+346|346|19|124/80|63|16|36.4|95|10|Chest Discomfort|Latex|Lisinopril|Urgent
+347|347|18|129/75|85|14|36.1|99|6|Fever|Sulfa drugs|Atorvastatin|High-Priority Emergency
+348|348|18|136/64|94|15|36.1|99|6|Abdominal Pain|None|Metformin|STAT
+349|349|19|129/75|77|12|37.0|100|7|Abdominal Pain|None|Atorvastatin|Urgent
+350|350|16|106/63|75|14|36.2|93|6|Dizziness|Peanuts|Lisinopril|STAT
+351|351|21|122/76|86|12|36.1|92|10|Dizziness|Peanuts|Metoprolol|Urgent
+352|352|25|116/72|-99|13|45.2|0|9|Dizziness|None|Atorvastatin|Routine
+353|353|20|115/73|73|16|37.7|96|5|Dizziness|Penicillin|Metoprolol|High-Priority Emergency
+354|354|21|107/68|89|21|37.7|100|1|Dizziness|Peanuts|Metoprolol|High-Priority Emergency
+355|355|18|121/65|108|19|37.7|95|6|Shortness of Breath|Penicillin|None|STAT
+356|356|25|125/76|62|19|37.9|97|8|Dizziness|Penicillin|Aspirin| STAT 
+357|357|20|138/90|74|13|37.5|97|9|Chest Discomfort|Peanuts|Lisinopril|Routine
+358|358|22|137/66|100|19|38.4|96|4|Shortness of Breath|Latex|Aspirin|High-Priority Emergency
+359|359|23|140/80|109|22|37.5|96|6|Abdominal Pain|Sulfa drugs|Aspirin|STAT
+360|360|21|119/90|87|14|36.9|98|5|Abdominal Pain|Sulfa drugs|None|Routine
+361|361|18|132/76|91|19|36.3|97|6|Fever|Latex|Atorvastatin|Routine
+362|362|20|100/63|98|20|37.7|100|7|Shortness of Breath|Sulfa drugs|Atorvastatin|STAT
+363|363|23|105/75|70|16|36.7|96|8|Fever|Penicillin|Lisinopril|Routine
+364|364|20|102/76|105|16|37.5|94|10|Dizziness|Penicillin|Metformin|STAT
+365|365|17|136/71|65|14|37.7|92|5|Chest Discomfort|Penicillin|Metformin|Routine
+366|366|24|105/64|79|12|36.9|95|0|Abdominal Pain|Peanuts|Aspirin|High-Priority Emergency
+367|367|18|114/73|63|17|36.3|92|4|Chest Discomfort|Sulfa drugs|Metformin|Routine
+368|368|19|128/86|107|18|36.1|98|4|Dizziness|Sulfa drugs|Aspirin|Routine
+369|369|23|128/62|81|18|37.8|95|5|Shortness of Breath|Peanuts|None|Routine
+370|370|23|119/60|87|19|37.7|92|7|Fever|None|None|STAT
+371|371|25|101/67|79|21|38.5|95|7|Chest Discomfort|Peanuts|Atorvastatin|High-Priority Emergency
+372|372|20|119/83|108|14|37.9|94|9|Fever|None|Aspirin|Urgent
+373|373|25|116/85|88|12|38.1|99|0|Dizziness|Peanuts|Lisinopril|Routine
+374|374||107/89|77|17|38.4|92|4|Dizziness|Latex|Lisinopril|Routine
+375|375|24|135/89|66|18|37.8|99|5|Chest Discomfort|Latex|Lisinopril|Routine
+376|376|22|114/70|87|19|37.0|97|2|Fever|None|Aspirin|Routine
+377|377|20|124/70|103|22|36.4|94|1|Chest Discomfort|Sulfa drugs|Metformin|Routine
+378|378|22|120/87|61|17|37.1|92|8|Chest Discomfort|Peanuts|Metoprolol|Routine
+379|379|22|120/84|99|20|38.1|97|3|Fever|Sulfa drugs|None|STAT
+380|380|22|132/80|103|17|38.4|95|6|Dizziness|Penicillin|Lisinopril|STAT
+381|381|25|107/64|91|15|36.5|92|3|Dizziness|Sulfa drugs|Lisinopril|High-Priority Emergency
+382|382|25|140/61|64|14|38.4|97|1|Chest Discomfort|None|Metformin|STAT
+383|383|23|139/84|82|14|37.2|96|9|Abdominal Pain|Peanuts|Metformin|STAT
+384|384|16|135/89|67|18|37.8|96|7|Fever|Latex|None|High-Priority Emergency
+385|385|16|127/71|99|22|38.3|95|2|Dizziness|Peanuts|Aspirin|STAT
+386|386|16|116/89|81|21|36.4|92|1|Abdominal Pain|Penicillin|None|High-Priority Emergency
+387|387|20|106/83|71|16|36.6|94|1|Dizziness|None|Aspirin|Urgent
+388|388|19|128/77|89|21|38.0|97|7|Dizziness|Peanuts|Metoprolol|High-Priority Emergency
+389|389|19|122/74|69|13|38.5|95|10|Chest Discomfort|Latex|Metformin|Routine
+390|390|22|104/81|95|17|37.1|92|1|Dizziness|Sulfa drugs|Atorvastatin|Urgent
+391|391|20|134/85|73|15|38.5|99|1|Dizziness|Latex|Metoprolol|STAT
+392|392|19|133/73|63|17|38.4|98|10|Abdominal Pain|Latex|Aspirin| Routine 
+393|393|17|113/65|69|15|37.3|96|10|Fever|None|None|STAT
+394|394|18|126/90|74|13|36.2|95|8|Fever|None|Metformin|High-Priority Emergency
+395|395|17|112/63|60|15|37.4|94|10|Dizziness|None|None|STAT
+396|396|25|129/84|60|17|36.9|100|2|Dizziness|None|Metformin|Urgent
+397|397|20|120/74|83|15|37.5|99|1|Dizziness|Sulfa drugs|Lisinopril|STAT
+398|398|21|116/66|84|16|36.5|92|5|Fever|None|Atorvastatin|High-Priority Emergency
+399|399|21|128/84|101|17|38.0|99|9|Fever|None|Metformin|STAT
+400|400|24|132/69|104|21|36.8|97|6|Chest Discomfort|Penicillin|Metoprolol|STAT
+401|401|18|114/69|89|19|38.4|93|1|Fever|Sulfa drugs|None|STAT
+402|402|21|117/81|83|20|38.0|99|1|Fever|Peanuts|Aspirin|Urgent
+403|403|21|107/71|110|19|36.8|92|0|Fever|None|Aspirin|STAT
+404|404|21|138/90|63|15|36.0|99|6|Shortness of Breath|Peanuts|Metoprolol|STAT
+405|405|20|140/67|-99|21|45.2|0|9|Shortness of Breath|Peanuts|Metformin|Routine
+406|406|20|134/89|109|21|36.5|96|9|Chest Discomfort|Latex|Metoprolol|Urgent
+407|407|18|113/89|86|22|36.8|95|1|Dizziness|None|Aspirin|High-Priority Emergency
+408|408|25|120/81|-99|20|45.2|0|6|Abdominal Pain|None|Aspirin|High-Priority Emergency
+409|409|19|117/66|72|14|38.5|98|6|Chest Discomfort|Latex|Aspirin|Routine
+410|410|25|140/65|61|16|36.2|100|8|Chest Discomfort|Sulfa drugs|Atorvastatin|High-Priority Emergency
+411|411|17|135/77|94|22|36.3|99|5|Abdominal Pain|Sulfa drugs|Atorvastatin|Routine
+412|412|19|138/84|66|18|37.1|97|9|Chest Discomfort|Penicillin|Atorvastatin|Routine
+413|413|20|103/75|80|15|36.8|98|9|Shortness of Breath|Peanuts|Metoprolol|Routine
+414|414|16|133/89|68|17|37.9|94|1|Fever|None|Aspirin|Urgent
+415|415|25|134/64|107|15|37.7|92|7|Dizziness|Peanuts|Lisinopril|Routine
+416|416||137/81|104|22|37.8|99|5|Fever|Sulfa drugs|Metformin|Urgent
+417|417|22|122/81|93|15|37.3|94|6|Fever|Peanuts|Atorvastatin|Routine
+418|418|24|120/84|92|14|37.8|98|6|Abdominal Pain|Peanuts|Atorvastatin|High-Priority Emergency
+419|419|18|111/77|73|22|36.3|93|3|Fever|Penicillin|Aspirin|High-Priority Emergency
+420|420|17|140/62|78|17|37.0|97|10|Chest Discomfort|Peanuts|Metoprolol|Routine
+421|421|19|125/76|84|12|37.2|95|6|Abdominal Pain|None|None|STAT
+422|422|21|114/64|85|13|36.7|97|10|Abdominal Pain|Penicillin|None|STAT
+423|423|24|134/80|108|18|37.3|97|10|Chest Discomfort|Peanuts|None|Routine
+424|424|25|101/77|100|18|36.9|100|8|Shortness of Breath|None|None|Routine
+425|425|16|138/73|78|22|37.1|97|3|Abdominal Pain|Peanuts|Metformin|Urgent
+426|426|20|106/65|108|12|37.5|98|6|Shortness of Breath|Sulfa drugs|Lisinopril|High-Priority Emergency
+427|427|19|124/76|97|14|38.2|95|2|Chest Discomfort|Penicillin|Metoprolol|Urgent
+428|428|20|135/87|75|21|38.0|99|6|Fever|Peanuts|Atorvastatin|Urgent
+429|429|19|121/87|72|12|38.3|98|8|Shortness of Breath|None|Lisinopril|High-Priority Emergency
+430|430|21|136/62|69|19|36.6|98|4|Dizziness|None|Aspirin|High-Priority Emergency
+431|431|21|135/60|90|15|37.6|92|8|Abdominal Pain|Sulfa drugs|Metformin|Routine
+432|432|18|125/74|63|22|36.7|96|5|Shortness of Breath|Penicillin|Metoprolol|High-Priority Emergency
+433|433|18|104/65|63|17|36.2|92|3|Fever|Latex|Metoprolol|High-Priority Emergency
+434|434|22|132/90|104|15|38.0|96|7|Fever|Peanuts|Atorvastatin|Urgent
+435|435|16|106/62|92|12|37.4|98|10|Chest Discomfort|None|Aspirin|STAT
+436|436|24|109/74|101|16|38.0|94|10|Dizziness|None|Atorvastatin|STAT
+437|437|25|102/90|96|16|37.4|92|6|Dizziness|Peanuts|Atorvastatin|Urgent
+438|438|19|100/67|69|17|37.4|92|6|Abdominal Pain|None|Lisinopril|Urgent
+439|439|20|123/83|101|12|37.9|95|9|Chest Discomfort|Latex|Metformin|Urgent
+440|440|17|115/61|81|20|36.4|92|2|Shortness of Breath|Peanuts|Atorvastatin|Routine
+441|441|24|138/76|104|20|38.5|93|0|Chest Discomfort|Peanuts|None|High-Priority Emergency
+442|442|19|115/65|71|13|37.6|96|7|Dizziness|None|Atorvastatin|Routine
+443|443|16|107/71|68|18|36.9|98|8|Fever|Sulfa drugs|Metformin|Routine
+444|444|18|140/61|106|15|37.8|92|5|Shortness of Breath|Penicillin|Metformin|routine
+445|445|25|134/75|109|16|36.1|96|1|Shortness of Breath|None|Atorvastatin|Urgent
+446|446|17|123/67|73|18|36.7|92|9|Chest Discomfort|None|None|Urgent
+447|447|24|108/83|64|19|37.1|98|1|Shortness of Breath|None|None|STAT
+448|448|20|106/86|76|13|37.1|96|9|Fever|Latex|Metformin|Urgent
+449|449|24|103/66|93|19|37.3|100|6|Abdominal Pain|None|Lisinopril|Routine
+450|450|21|131/80|103|15|37.2|95|5|Dizziness|Penicillin|Metoprolol|Urgent
+451|451|24|125/85|85|22|36.8|94|7|Shortness of Breath|Penicillin|Metformin| STAT 
+452|452|20|111/64|78|18|38.4|96|7|Shortness of Breath|None|None|STAT
+453|453|19|111/60|100|21|36.8|95|4|Chest Discomfort|Sulfa drugs|Lisinopril|Routine
+454|454|18|137/84|86|19|37.9|95|6|Dizziness|Latex|None|High-Priority Emergency
+455|455|24|103/71|82|21|37.9|97|2|Dizziness|Latex|Atorvastatin|Urgent
+456|456|19|137/63|107|20|38.0|95|10|Chest Discomfort|Latex|Metformin|STAT
+457|457|17|136/89|80|17|36.1|94|2|Chest Discomfort|Penicillin|Metoprolol|High-Priority Emergency
+458|458|25|134/73|74|19|36.3|100|4|Shortness of Breath|Latex|Lisinopril|STAT
+459|459|16|102/66|82|15|36.4|96|4|Abdominal Pain|Penicillin|None|Urgent
+460|460|25|140/61|95|13|37.1|95|9|Shortness of Breath|Penicillin|Metoprolol|STAT
+461|461|17|136/73|72|13|38.3|99|2|Shortness of Breath|Peanuts|Metformin|Routine
+462|9999|23|130/64|76|21|38.3|98|10|Fever|Peanuts|None|Routine
+463|463|25|101/77|100|14|38.3|99|10|Abdominal Pain|Penicillin|Metformin|Urgent
+464|464|19|127/84|81|20|36.0|95|5|Shortness of Breath|None|Metoprolol|Routine
+465|9999|22|104/64|105|18|36.9|96|10|Dizziness|None|Aspirin|STAT
+466|466|24|130/71|68|15|38.5|94|7|Dizziness|Sulfa drugs|Metoprolol|STAT
+467|467|24|112/74|75|15|36.4|99|10|Abdominal Pain|None|Lisinopril|High-Priority Emergency
+468|468|16|114/78|99|18|37.1|96|2|Shortness of Breath|Latex|None|high-priority emergency
+469|469|24|109/60|81|22|37.2|99|7|Abdominal Pain|None|None|High-Priority Emergency
+470|470|20|130/79|65|18|36.5|94|0|Dizziness|Sulfa drugs|Metoprolol|Routine
+471|471|19|111/85|102|15|36.2|100|10|Chest Discomfort|Peanuts|Metformin|stat
+472|472|24|112/75|89|21|36.9|97|7|Chest Discomfort|Peanuts|None|stat
+473|473|25|127/61|97|14|37.7|97|0|Shortness of Breath|Latex|Lisinopril|Routine
+474|474|21|134/63|88|17|37.9|99|2|Fever|Latex|Lisinopril|STAT
+475|475|18|138/84|-99|14|45.2|0|7|Shortness of Breath|Peanuts|Metformin| Urgent 
+476|476|24|128/67|68|15|37.4|99|3|Chest Discomfort|Latex|None|Routine
+477|477|20|109/81|80|17|37.9|93|4|Abdominal Pain|Sulfa drugs|Lisinopril|High-Priority Emergency
+478|478|20|131/80|66|18|38.5|92|9|Dizziness|None|None|Routine
+479|479|19|106/83|-99|20|45.2|0|8|Dizziness|Peanuts|Atorvastatin|STAT
+480|480|18|109/60|99|12|37.3|100|3|Fever|Peanuts|Atorvastatin|Routine
+481|481|25|133/90|64|13|37.8|96|6|Chest Discomfort|Latex|Aspirin|STAT
+482|482|22|118/63|60|16|37.3|98|7|Dizziness|Sulfa drugs|Lisinopril|Urgent
+483|483|19|140/84|98|19|36.6|94|6|Abdominal Pain|Peanuts|None|Urgent
+484|484|21|119/74|90|22|38.1|92|4|Dizziness|Peanuts|Metoprolol|High-Priority Emergency
+485|485|17|116/60|79|13|37.6|98|2|Fever|Penicillin|Metformin|Routine
+486|486|16|124/76|93|16|38.3|98|1|Abdominal Pain|Penicillin|Aspirin|Urgent
+487|487|22|102/86|108|18|38.4|96|2|Fever|Peanuts|Atorvastatin|Routine
+488|488|19|136/76|88|14|36.8|97|0|Shortness of Breath|Peanuts|Atorvastatin|STAT
+489|489|18|128/60|67|20|37.3|96|4|Dizziness|Penicillin|Aspirin|STAT
+490|490|22|126/82|90|16|36.5|97|1|Dizziness|Penicillin|Metoprolol|Routine
+491|491|24|126/80|98|20|36.0|92|2|Chest Discomfort|Sulfa drugs|Aspirin|High-Priority Emergency
+492|492|24|103/67|91|22|36.7|94|2|Chest Discomfort|Latex|Aspirin|Urgent
+493|493|16|131/65|-99|22|45.2|0|9|Fever|Latex|Aspirin|Urgent
+494|494|20|113/79|97|18|37.3|97|5|Dizziness|Peanuts|Aspirin|High-Priority Emergency
+495|495|21|117/85|93|12|36.6|94|6|Fever|None|Metformin|Routine
+496|496|18|125/61|107|19|38.4|100|2|Abdominal Pain|Peanuts|Atorvastatin|STAT
+497|497|17|122/87|67|15|36.8|94|10|Abdominal Pain|Peanuts|None|Urgent
+498|498|24|137/89|100|13|36.3|92|8|Shortness of Breath|Penicillin|Metformin|Urgent
+499|499|19|119/76|100|13|36.3|93|8|Shortness of Breath|Latex|Metoprolol|Routine
+500|500||137/67|91|12|38.5|92|0|Fever|Peanuts|None|STAT
+501|501|25|102/76|103|17|36.9|96|10|Dizziness|Penicillin|None|Routine
+502|502|21|110/87|85|22|37.1|100|9|Chest Discomfort|Penicillin|Metoprolol|Routine
+503|503|23|101/89|76|19|37.3|96|5|Chest Discomfort|None|Metoprolol|STAT
+504|504|16|117/61|72|13|38.3|98|7|Shortness of Breath|Peanuts|Aspirin|Routine
+505|505|22|126/85|91|21|37.7|95|10|Abdominal Pain|Peanuts|Lisinopril|Routine
+506|506|23|131/60|69|20|37.6|92|1|Fever|Penicillin|Metoprolol|STAT
+507|507|23|135/85|80|15|37.3|92|6|Dizziness|Sulfa drugs|Aspirin|STAT
+508|508|23|129/79|109|22|37.9|100|3|Shortness of Breath|Penicillin|Atorvastatin|Routine
+509|509|25|129/88|62|12|37.2|100|9|Chest Discomfort|None|Metformin|Routine
+510|510|16|129/72|97|19|38.0|94|5|Abdominal Pain|Peanuts|None|STAT
+511|511|25|134/82|107|13|37.4|92|2|Fever|Penicillin|None|Routine
+512|512|16|116/72|60|12|38.0|96|0|Fever|None|None|Routine
+513|513|21|114/69|70|21|37.7|92|10|Shortness of Breath|Sulfa drugs|Metoprolol|High-Priority Emergency
+514|514|19|121/73|106|14|36.0|93|10|Chest Discomfort|None|Aspirin|Urgent
+515|515||114/64|99|19|37.7|94|2|Fever|Latex|Lisinopril|STAT
+516|516|25|135/64|90|14|38.0|98|4|Dizziness|Penicillin|Lisinopril|Urgent
+517|517|16|119/65|98|22|38.3|99|4|Abdominal Pain|Sulfa drugs|Metoprolol|STAT
+518|518|23|129/84|71|22|37.1|94|8|Abdominal Pain|Penicillin|Lisinopril|STAT
+519|519|22|129/63|67|16|37.2|94|6|Chest Discomfort|Peanuts|Metoprolol|High-Priority Emergency
+520|520|22|100/82|98|16|37.7|92|0|Fever|Sulfa drugs|Atorvastatin|High-Priority Emergency
+521|521|18|139/78|62|18|36.3|99|9|Chest Discomfort|Sulfa drugs|Aspirin|High-Priority Emergency
+522|522|17|113/80|89|13|37.5|92|5|Chest Discomfort|Latex|Aspirin|STAT
+523|523|18|105/76|63|16|37.6|99|0|Dizziness|Peanuts|None|High-Priority Emergency
+524|524|18|131/79|64|13|36.8|98|8|Abdominal Pain|None|Atorvastatin|High-Priority Emergency
+525|525|18|111/75|71|13|37.9|99|7|Abdominal Pain|Latex|None|Routine
+526|526|19|123/73|103|19|37.8|100|3|Dizziness|Latex|Metformin|Routine
+527|527|23|108/76|64|14|36.3|95|0|Shortness of Breath|Penicillin|Lisinopril|Routine
+528|528|22|107/75|75|13|36.1|97|2|Abdominal Pain|Peanuts|Aspirin|High-Priority Emergency
+529|529|19|100/86|103|20|36.9|100|6|Shortness of Breath|Latex|Metformin|Urgent
+530|530|24|107/86|74|22|38.0|99|9|Abdominal Pain|Peanuts|Metoprolol|High-Priority Emergency
+531|531|19|134/88|88|18|38.1|92|3|Fever|Peanuts|None|STAT
+532|532|18|113/61|108|12|36.9|92|6|Dizziness|Sulfa drugs|Lisinopril|High-Priority Emergency
+533|533|21|132/84|100|13|37.2|93|10|Dizziness|Latex|Lisinopril|Routine
+534|534|19|110/72|72|19|36.7|99|0|Fever|Sulfa drugs|None|High-Priority Emergency
+535|535|23|123/63|70|13|37.5|95|6|Chest Discomfort|Sulfa drugs|None|Routine
+536|9999|21|118/65|96|19|36.8|97|10|Chest Discomfort|Latex|None|Urgent
+537|537|24|123/65|77|22|36.3|94|5|Fever|Peanuts|Aspirin|Routine
+538|538|18|102/78|73|21|37.8|92|10|Dizziness|Sulfa drugs|None|Routine
+539|539|19|137/85|98|21|36.1|93|3|Fever|None|Atorvastatin|Routine
+540|540|17|117/71|101|20|37.5|93|3|Fever|Peanuts|Metformin|Routine
+541|9999|22|129/86|78|18|36.2|93|8|Shortness of Breath|None|Atorvastatin|Routine
+542|542|18|129/64|87|21|36.2|92|0|Fever|Latex|Atorvastatin|STAT
+543|543|20|110/88|61|18|36.8|95|1|Fever|Latex|Metoprolol| High-Priority Emergency 
+544|544|24|137/61|92|19|36.7|98|0/10|Dizziness|Peanuts|Metformin|Routine
+545|545|24|114/82|77|22|36.9|97|6|Abdominal Pain|Latex|Lisinopril|STAT
+546|546|19|119/62|107|18|38.4|100|10|Dizziness|Peanuts|Metoprolol|Urgent
+547|547|23|100/80|76|15|36.7|94|6|Shortness of Breath|Peanuts|Atorvastatin|STAT
+548|548|20|120/61|76|12|36.0|92|5|Fever|Latex|Metformin|Routine
+549|549|20|118/76|66|22|36.9|100|4|Shortness of Breath|Peanuts|Metoprolol|High-Priority Emergency
+550|550||135/76|95|17|36.5|99|7|Dizziness|Latex|Aspirin|Urgent
+551|551|16|133/88|82|12|37.3|92|4|Fever|Peanuts|Lisinopril|STAT
+552|552|25|116/76|72|17|36.5|97|4|Shortness of Breath|None|Aspirin|Routine
+553|553|24|102/67|67|16|37.3|94|9|Dizziness|Latex|Metformin|STAT
+554|9999|20|112/74|98|18|37.5|100|3|Fever|Sulfa drugs|Metoprolol|High-Priority Emergency
+555|555|17|125/64|82|18|37.9|92|5|Shortness of Breath|Latex|Aspirin|High-Priority Emergency
+556|556|17|140/76|95|13|36.7|92|7|Shortness of Breath|None|Metformin|Routine
+557|557|16|109/80|89|22|37.0|92|5|Dizziness|Sulfa drugs|Lisinopril|urgent
+558|558|21|113/83|101|18|38.1|96|5|Abdominal Pain|Sulfa drugs|Metformin|STAT
+559|559|23|137/63|68|22|37.2|97|3|Chest Discomfort|Sulfa drugs|Metoprolol|STAT
+560|560|20|102/80|75|13|38.1|99|8|Abdominal Pain|Sulfa drugs|Metformin|Routine
+561|561|18|105/83|-99|18|45.2|0|3|Shortness of Breath|Latex|Metformin|High-Priority Emergency
+562|562|16|128/60|74|13|36.6|100|10|Chest Discomfort|Latex|Aspirin|Urgent
+563|563|16|113/66|93|14|38.4|96|1|Fever|None|Atorvastatin|Urgent
+564|564|19|103/80|98|21|36.2|92|10|Chest Discomfort|Latex|Atorvastatin|Urgent
+565|565|23|126/82|72|16|38.3|100|9|Fever|Sulfa drugs|Metoprolol|STAT
+566|566|16|107/82|108|12|37.9|100|1|Fever|Penicillin|Aspirin|Urgent
+567|567|21|121/71|107|18|36.5|93|2|Shortness of Breath|Sulfa drugs|Atorvastatin|Urgent
+568|568|21|100/68|87|15|37.5|98|5|Dizziness|Latex|Aspirin|High-Priority Emergency
+569|569|23|122/61|108|16|37.6|99|6|Chest Discomfort|Penicillin|Metformin|Routine
+570|570|22|137/83|92|17|36.2|97|8|Chest Discomfort|Peanuts|Metoprolol|High-Priority Emergency
+571|571|25|136/69|109|22|36.7|94|6|Dizziness|Peanuts|Metoprolol|urgent
+572|572||104/65|110|21|36.6|100|3|Chest Discomfort|Sulfa drugs|None|Urgent
+573|573|20|134/72|98|22|38.3|98|2|Abdominal Pain|Sulfa drugs|Atorvastatin|High-Priority Emergency
+574|574|21|104/86|-99|16|45.2|0|7|Chest Discomfort|Sulfa drugs|Lisinopril|High-Priority Emergency
+575|575|23|115/64|90|17|38.2|100|1|Shortness of Breath|Latex|Metoprolol|Routine
+576|576|19|140/88|103|12|38.4|94|10|Shortness of Breath|None|None|Urgent
+577|577|24|139/69|84|20|37.3|93|1|Shortness of Breath|Penicillin|Lisinopril|Routine
+578|578|21|109/75|67|13|36.6|98|2|Dizziness|Penicillin|Aspirin|routine
+579|579|25|117/68|91|15|37.2|93|4|Shortness of Breath|Penicillin|Atorvastatin|Urgent
+580|580|22|137/88|75|22|36.1|97|3|Shortness of Breath|Sulfa drugs|Atorvastatin|STAT
+581|581|24|112/69|79|18|37.8|92|3|Chest Discomfort|Penicillin|None|High-Priority Emergency
+582|582|16|108/89|99|16|37.2|92|3|Shortness of Breath|Peanuts|Aspirin|urgent
+583|583|16|116/64|78|16|37.9|94|4|Dizziness|Sulfa drugs|Metoprolol|STAT
+584|584|22|100/79|96|15|36.9|94|5|Shortness of Breath|Latex|None|Urgent
+585|585|16|133/82|88|14|37.6|95|10|Chest Discomfort|Penicillin|Metformin|STAT
+586|586|20|131/72|73|18|36.4|93|5|Fever|None|None|STAT
+587|587|17|115/77|97|17|38.1|100|5|Abdominal Pain|Peanuts|Atorvastatin|Routine
+588|588|20|101/63|79|13|36.5|99|4|Dizziness|Penicillin|Metformin|Routine
+589|589|19|104/63|100|12|37.1|95|10|Shortness of Breath|Sulfa drugs|Metoprolol|Urgent
+590|590|16|113/80|101|18|37.7|96|9|Shortness of Breath|Penicillin|Atorvastatin|Urgent
+591|591|23|138/77|87|17|36.1|93|6|Shortness of Breath|Latex|Lisinopril|High-Priority Emergency
+592|592||113/67|71|15|36.7|94|10|Chest Discomfort|None|Lisinopril|STAT
+593|593|21|105/72|96|19|36.2|98|4|Fever|Penicillin|Aspirin|Routine
+594|594|17|121/76|90|19|37.2|98|10|Dizziness|None|Aspirin|STAT
+595|595|22|128/70|93|15|38.3|100|5|Chest Discomfort|Sulfa drugs|Lisinopril|High-Priority Emergency
+596|596|22|135/60|65|12|36.9|100|9|Chest Discomfort|Penicillin|Metformin|Routine
+597|597|24|100/88|110|15|36.8|99|3|Chest Discomfort|Peanuts|Aspirin|STAT
+598|598|21|135/81|103|13|36.8|94|0/10|Shortness of Breath|Latex|Aspirin|STAT
+599|599|25|109/74|68|20|37.5|100|5|Abdominal Pain|Sulfa drugs|None|Urgent
+600|600|23|124/62|85|13|36.0|99|3|Shortness of Breath|Peanuts|Metformin|STAT
+601|601|25|112/68|109|14|36.9|93|5|Dizziness|Latex|Aspirin|Urgent
+602|602|22|101/87|79|16|37.0|96|8|Abdominal Pain|Sulfa drugs|Aspirin|STAT
+603|603|16|122/86|78|19|37.3|99|1|Fever|Sulfa drugs|Atorvastatin|High-Priority Emergency
+604|604|22|119/81|90|21|37.4|96|3|Shortness of Breath|Penicillin|Atorvastatin|High-Priority Emergency
+605|605|19|109/72|62|17|36.8|96|2|Fever|Peanuts|Metoprolol|Urgent
+606|606|19|137/81|109|13|37.0|93|4/10|Abdominal Pain|Latex|Lisinopril|STAT
+607|607|19|111/78|60|18|37.1|93|4|Abdominal Pain|Latex|None|Routine
+608|608|18|108/86|100|12|36.9|98|4|Shortness of Breath|None|Atorvastatin|STAT
+609|609|16|107/75|88|17|37.6|96|9|Chest Discomfort|None|Lisinopril|Routine
+610|610|25|125/84|73|14|36.7|98|1|Chest Discomfort|None|Metoprolol|STAT
+611|611|22|100/88|94|19|38.1|100|2|Abdominal Pain|Peanuts|Atorvastatin|Routine
+612|612|16|134/69|102|16|38.1|92|5/10|Abdominal Pain|Latex|Metformin|STAT
+613|613|25|117/70|77|21|37.5|94|10|Chest Discomfort|Latex|None|Routine
+614|614|19|124/60|-99|22|45.2|0|6|Fever|None|Metformin|High-Priority Emergency
+615|615|19|105/67|80|18|37.0|100|5|Dizziness|Latex|Metoprolol|Routine
+616|616|21|121/66|79|16|37.2|92|10|Dizziness|Sulfa drugs|Aspirin|STAT
+617|617|19|113/68|106|20|38.5|93|9|Chest Discomfort|Sulfa drugs|None|STAT
+618|618|22|123/83|99|18|36.8|94|4/10|Dizziness|Peanuts|Metoprolol|Routine
+619|619|16|134/88|70|19|37.7|92|0|Abdominal Pain|Peanuts|Lisinopril|STAT
+620|620|24|102/62|71|19|37.5|95|10|Fever|Peanuts|Lisinopril|High-Priority Emergency
+621|621|24|116/75|72|18|38.2|93|9|Fever|None|Metoprolol|STAT
+622|622|19|101/74|-99|19|45.2|0|4|Dizziness|Latex|Metformin|Urgent
+623|623|21|116/76|82|16|37.2|98|3|Shortness of Breath|Peanuts|Lisinopril|STAT
+624|624|20|127/79|100|20|37.3|96|4|Chest Discomfort|Latex|None|High-Priority Emergency
+625|625|25|123/81|109|15|38.1|94|9|Chest Discomfort|Sulfa drugs|Aspirin|Routine
+626|626|19|108/68|94|17|36.1|93|6|Abdominal Pain|None|Lisinopril|High-Priority Emergency
+627|627|24|131/83|78|18|37.2|99|4|Abdominal Pain|Peanuts|Aspirin|Urgent
+628|628|16|120/72|104|14|37.8|98|2|Shortness of Breath|None|Lisinopril|Routine
+629|629|18|105/79|70|12|36.8|92|9|Chest Discomfort|None|Aspirin|STAT
+630|630|23|125/64|94|15|37.6|98|9|Abdominal Pain|Sulfa drugs|None|STAT
+631|631|23|120/87|76|20|38.3|100|5/10|Shortness of Breath|Penicillin|Metformin|Urgent
+632|632|16|118/83|93|21|38.5|94|9|Fever|Latex|Metoprolol|Routine
+633|633|17|118/71|77|14|37.8|98|9|Shortness of Breath|None|Aspirin|STAT
+634|634|21|133/72|81|21|37.1|98|8|Fever|Latex|Aspirin|Routine
+635|9999|25|119/75|90|18|38.1|97|6|Shortness of Breath|Peanuts|Metformin|High-Priority Emergency
+636|636|18|128/90|99|22|36.3|92|10|Abdominal Pain|Latex|Lisinopril|High-Priority Emergency
+637|637|22|116/67|109|18|37.0|99|6|Fever|Peanuts|Atorvastatin|Routine
+638|638|20|139/69|91|19|37.1|93|10|Chest Discomfort|None|Aspirin|Routine
+639|639|18|130/86|72|20|36.1|99|4|Fever|Sulfa drugs|None|Urgent
+640|640|21|136/64|90|19|36.7|98|7|Abdominal Pain|Penicillin|Atorvastatin|STAT
+641|641|19|128/63|96|20|38.3|97|10|Abdominal Pain|Sulfa drugs|Aspirin|Routine
+642|642|23|119/61|92|19|36.2|93|3|Dizziness|Penicillin|Metformin|STAT
+643|643|19|111/64|86|17|37.3|93|1|Abdominal Pain|Peanuts|None|Urgent
+644|644|16|120/71|109|21|36.3|95|0|Shortness of Breath|Peanuts|Aspirin|STAT
+645|645|20|111/70|60|12|38.2|99|8|Abdominal Pain|None|None|stat
+646|646|24|124/65|77|12|37.5|96|5|Shortness of Breath|Latex|Aspirin|STAT
+647|647|25|110/67|80|14|38.1|93|9|Shortness of Breath|None|Lisinopril|URGENT
+648|648|19|102/75|82|14|37.3|97|3|Abdominal Pain|Penicillin|Atorvastatin|Urgent
+649|649|22|126/73|81|15|36.4|92|7|Fever|Penicillin|Aspirin|Routine
+650|650|20|138/73|63|16|37.6|96|4|Shortness of Breath|Latex|Metformin|STAT
+651|651|20|120/76|60|14|36.8|95|9|Dizziness|Sulfa drugs|Lisinopril|STAT
+652|652|21|107/73|88|16|37.5|98|10|Chest Discomfort|Latex|Aspirin|High-Priority Emergency
+653|653|20|104/90|97|18|36.3|93|2|Shortness of Breath|Peanuts|Aspirin|Routine
+654|654|21|112/72|69|21|36.8|96|10|Fever|None|Metformin|Urgent
+655|655|18|119/81|80|13|36.6|96|8|Shortness of Breath|Latex|None|Routine
+656|656|24|139/89|78|12|38.0|93|9|Shortness of Breath|Penicillin|None|High-Priority Emergency
+657|657|20|106/82|71|15|38.3|93|5|Chest Discomfort|Peanuts|Lisinopril|Urgent
+658|658|17|123/78|-99|13|45.2|0|0|Fever|Peanuts|None|High-Priority Emergency
+659|659|16|122/78|98|13|37.1|98|9|Dizziness|Peanuts|Atorvastatin|STAT
+660|660|23|113/89|85|13|38.1|98|3|Fever|Penicillin|Atorvastatin|Urgent
+661|661|19|138/66|-99|15|45.2|0|9|Abdominal Pain|Penicillin|Atorvastatin|Urgent
+662|662|24|135/66|103|21|37.6|94|0|Chest Discomfort|Peanuts|Metoprolol|High-Priority Emergency
+663|663|21|139/71|91|17|36.5|99|8|Chest Discomfort|Sulfa drugs|Lisinopril|High-Priority Emergency
+664|664|16|113/85|100|14|36.4|93|6|Dizziness|Penicillin|Metoprolol|Urgent
+665|665|20|104/85|85|21|36.0|95|7|Shortness of Breath|Peanuts|Metformin|STAT
+666|666|23|118/82|109|15|37.1|93|10|Dizziness|None|Lisinopril|Urgent
+667|667|22|109/80|65|18|36.3|92|2|Chest Discomfort|Penicillin|Aspirin|Urgent
+668|668|19|126/74|102|20|36.9|99|2|Dizziness|None|Aspirin|High-Priority Emergency
+669|669|25|117/69|98|16|36.3|93|4|Chest Discomfort|Peanuts|None|Routine
+670|670|22|126/80|101|13|37.0|94|4|Chest Discomfort|None|Aspirin|High-Priority Emergency
+671|671|22|112/74|63|16|37.7|92|1|Shortness of Breath|Sulfa drugs|Metformin|Routine
+672|672|25|137/83|106|16|36.6|100|9|Chest Discomfort|None|Metformin|High-Priority Emergency
+673|673|19|138/61|98|13|36.3|93|0|Abdominal Pain|None|Metoprolol|High-Priority Emergency
+674|674|21|121/77|80|12|37.1|96|5|Dizziness|Penicillin|Lisinopril|Urgent
+675|675|21|126/63|62|12|36.9|100|9|Abdominal Pain|Penicillin|Aspirin|High-Priority Emergency
+676|676|24|122/61|106|13|36.6|94|6|Dizziness|None|Aspirin|Routine
+677|677|20|112/60|66|14|38.5|95|7|Fever|Peanuts|Lisinopril|STAT
+678|678|25|125/76|99|14|38.3|92|8|Fever|None|Metformin|Routine
+679|679|25|100/76|84|14|36.4|99|8|Dizziness|None|Metformin|High-Priority Emergency
+680|680|19|135/87|90|17|36.4|98|7|Fever|None|Lisinopril|High-Priority Emergency
+681|681|22|124/75|99|13|38.0|96|8|Shortness of Breath|Peanuts|None|Urgent
+682|682|21|108/64|106|18|37.9|99|1|Fever|Peanuts|None|Urgent
+683|683|25|130/64|-99|21|45.2|0|1|Shortness of Breath|Penicillin|Lisinopril|Routine
+684|684|25|116/79|98|15|37.2|95|4|Fever|Penicillin|Metformin|STAT
+685|685|18|113/71|103|15|37.1|92|2|Chest Discomfort|None|Atorvastatin|Urgent
+686|686|18|135/81|100|17|37.6|96|5|Chest Discomfort|Sulfa drugs|Atorvastatin|STAT
+687|687|18|109/85|70|12|36.8|94|2|Chest Discomfort|Latex|Aspirin|Urgent
+688|688|19|121/77|87|19|36.6|97|9|Abdominal Pain|Sulfa drugs|Aspirin|Urgent
+689|689|24|103/78|96|21|37.1|99|1|Dizziness|None|Atorvastatin|High-Priority Emergency
+690|690|18|105/68|80|20|37.6|98|3|Shortness of Breath|None|Aspirin|STAT
+691|691|19|135/67|88|17|36.7|94|7|Chest Discomfort|Peanuts|Aspirin|Urgent
+692|692|22|133/74|68|16|36.0|99|2|Dizziness|Penicillin|Metoprolol| Routine 
+693|693|22|126/64|107|16|36.5|93|5|Fever|Penicillin|Metformin|Routine
+694|694|16|129/86|70|15|36.7|93|2|Fever|Peanuts|Metformin|Urgent
+695|695|21|138/81|84|22|37.5|97|2|Abdominal Pain|None|None|STAT
+696|696|21|102/71|67|16|38.0|95|9|Abdominal Pain|Sulfa drugs|Metformin|STAT
+697|697|22|107/87|94|19|36.8|94|5|Abdominal Pain|Latex|Atorvastatin|Urgent
+698|698|16|110/67|84|16|37.9|96|8/10|Dizziness|Penicillin|Metformin|High-Priority Emergency
+699|699|22|103/71|106|20|37.4|92|6|Chest Discomfort|Penicillin|Lisinopril|STAT
+700|700|21|111/85|105|18|38.4|93|10|Shortness of Breath|None|Atorvastatin|STAT
+701|701|21|123/79|110|17|36.0|99|10|Dizziness|Peanuts|Lisinopril|Routine
+702|702|16|125/83|65|12|38.3|97|7|Dizziness|Penicillin|Atorvastatin|Routine
+703|703|16|104/86|-99|16|45.2|0|8|Abdominal Pain|Peanuts|None| STAT 
+704|704|16|134/67|66|14|36.3|99|0|Dizziness|None|Metformin|STAT
+705|705|25|114/71|67|20|36.7|99|5|Fever|Penicillin|None|Routine
+706|706|21|135/90|81|21|37.2|98|9|Abdominal Pain|Peanuts|Atorvastatin|ROUTINE
+707|707|16|126/61|104|21|37.7|97|1|Shortness of Breath|None|Metoprolol|High-Priority Emergency
+708|708|21|100/74|96|21|37.4|99|3|Shortness of Breath|Peanuts|Metformin|Routine
+709|709|21|131/84|78|12|37.0|99|5|Dizziness|Penicillin|Metformin|STAT
+710|710|20|112/78|93|13|38.0|100|7|Shortness of Breath|Sulfa drugs|Metoprolol|High-Priority Emergency
+711|9999|24|123/60|65|19|36.5|92|10|Shortness of Breath|Sulfa drugs|Aspirin|Urgent
+712|712|25|116/86|108|17|38.3|92|5|Shortness of Breath|Latex|Metoprolol|High-Priority Emergency
+713|713|24|133/60|90|17|38.2|93|6|Abdominal Pain|Sulfa drugs|Atorvastatin|High-Priority Emergency
+714|714|23|132/87|97|20|36.5|93|5|Shortness of Breath|Latex|Aspirin|STAT
+715|715|24|107/71|65|15|36.5|92|10|Chest Discomfort|Sulfa drugs|None|Routine
+716|716|20|139/76|70|20|37.2|100|5|Dizziness|Peanuts|None|Urgent
+717|717|25|112/74|86|15|38.4|95|7|Chest Discomfort|Penicillin|Metoprolol|Urgent
+718|718|19|116/85|97|13|37.3|97|6|Abdominal Pain|Latex|Atorvastatin|High-Priority Emergency
+719|719|19|125/78|80|21|36.3|94|6|Abdominal Pain|Sulfa drugs|Aspirin|High-Priority Emergency
+720|720|19|122/73|80|22|36.0|94|3|Abdominal Pain|Peanuts|Aspirin|High-Priority Emergency
+721|721|22|123/86|96|21|36.8|99|6|Dizziness|Sulfa drugs|Lisinopril|High-Priority Emergency
+722|722|17|113/72|83|18|37.8|95|10|Shortness of Breath|Latex|Metoprolol|Routine
+723|723|17|123/63|95|16|38.3|93|7|Shortness of Breath|Penicillin|Aspirin|High-Priority Emergency
+724|724|17|106/66|108|20|37.3|92|4|Abdominal Pain|Latex|None|Urgent
+725|725|21|103/70|106|17|36.7|98|0|Abdominal Pain|Latex|Metoprolol|Urgent
+726|726|16|134/66|70|22|37.8|95|2|Dizziness|Penicillin|Lisinopril|Routine
+727|727|24|133/61|71|13|38.2|95|9|Abdominal Pain|Sulfa drugs|Aspirin|HIGH-PRIORITY EMERGENCY
+728|728|22|107/86|110|15|36.1|95|3|Fever|Sulfa drugs|Lisinopril|Routine
+729|729|17|114/90|94|20|36.5|93|2|Shortness of Breath|Sulfa drugs|Metformin|High-Priority Emergency
+730|730|23|138/78|97|19|38.5|98|9|Dizziness|Sulfa drugs|Lisinopril|Urgent
+731|731|20|104/66|107|22|38.4|99|8|Shortness of Breath|Latex|Atorvastatin|High-Priority Emergency
+732|9999|25|124/82|107|21|37.9|97|1|Shortness of Breath|None|Metoprolol|Urgent
+733|733|21|101/84|66|12|36.8|97|8|Fever|None|Lisinopril|STAT
+734|734|24|111/82|64|17|36.5|98|1|Dizziness|Penicillin|Aspirin|Urgent
+735|735|25|122/76|100|20|37.0|98|0|Fever|Sulfa drugs|Aspirin|Urgent
+736|736|25|135/87|67|20|37.8|94|5|Chest Discomfort|Peanuts|Lisinopril|Urgent
+737|737|22|133/62|75|14|36.0|100|6|Dizziness|Latex|None|Routine
+738|738|21|120/69|88|20|36.3|99|5|Chest Discomfort|None|Metformin|Routine
+739|739|22|102/66|110|22|37.7|96|10|Shortness of Breath|None|Lisinopril|Routine
+740|740|21|100/83|82|14|36.8|100|2|Dizziness|Peanuts|Metformin|STAT
+741|741|19|139/65|63|15|36.8|98|9|Fever|Latex|Lisinopril|High-Priority Emergency
+742|742||138/71|84|20|36.2|94|7|Abdominal Pain|Penicillin|Atorvastatin|STAT
+743|743|16|128/63|72|17|38.3|92|4|Shortness of Breath|Penicillin|Lisinopril|Urgent
+744|744|17|117/62|91|14|37.1|98|1|Shortness of Breath|Latex|Atorvastatin|STAT
+745|745|16|110/64|77|17|37.5|99|2|Fever|Sulfa drugs|Lisinopril|STAT
+746|746|23|113/66|81|18|36.2|94|3|Chest Discomfort|Sulfa drugs|Atorvastatin|Urgent
+747|747|16|139/62|107|18|36.2|96|7|Dizziness|Peanuts|None| Urgent 
+748|748|24|119/76|68|16|37.3|94|5|Shortness of Breath|Sulfa drugs|Atorvastatin|Routine
+749|749||107/65|68|21|37.9|95|8|Fever|Peanuts|Metoprolol|Routine
+750|9999|17|132/74|104|18|37.6|99|4|Shortness of Breath|Penicillin|Metformin|STAT
+751|751|18|101/77|70|14|37.9|92|7|Shortness of Breath|None|Aspirin|STAT
+752|752||138/88|65|21|36.6|93|5|Abdominal Pain|Penicillin|Metformin|Routine
+753|753|17|110/70|108|12|37.4|94|3|Abdominal Pain|Sulfa drugs|Aspirin|High-Priority Emergency
+754|754|17|131/82|109|16|36.1|97|5|Dizziness|Penicillin|Metformin|Routine
+755|755|17|123/81|97|19|37.3|95|4|Shortness of Breath|Penicillin|Metoprolol|High-Priority Emergency
+756|756|24|105/89|61|19|38.0|97|2|Shortness of Breath|Peanuts|Atorvastatin|High-Priority Emergency
+757|757|16|139/89|105|16|36.1|98|4/10|Abdominal Pain|Penicillin|None|Urgent
+758|758|23|138/63|85|20|38.4|93|8|Abdominal Pain|Penicillin|Aspirin|Urgent
+759|759|25|138/67|66|13|37.0|98|6|Chest Discomfort|Peanuts|Atorvastatin|Urgent
+760|760|21|103/70|78|21|38.0|97|10|Shortness of Breath|Latex|None|Urgent
+761|761|24|107/75|71|19|36.5|95|10|Shortness of Breath|Penicillin|None|Urgent
+762|762|19|114/71|65|19|38.4|92|5|Shortness of Breath|Latex|Metformin|High-Priority Emergency
+763|763|25|133/70|103|20|37.8|95|3|Chest Discomfort|Peanuts|Metoprolol|STAT
+764|764|17|104/69|62|19|37.3|92|7|Chest Discomfort|Peanuts|Lisinopril|Urgent
+765|765|21|106/65|99|12|38.4|92|5|Dizziness|Sulfa drugs|Atorvastatin|Urgent
+766|766|17|110/76|65|21|36.7|98|6|Abdominal Pain|Latex|Metoprolol|Routine
+767|767|21|135/68|101|13|37.2|96|5|Chest Discomfort|Peanuts|Metoprolol|Routine
+768|768|23|124/67|85|13|37.8|98|8|Chest Discomfort|Peanuts|None|STAT
+769|769|19|135/75|86|15|36.6|96|10|Shortness of Breath|Peanuts|Metoprolol|High-Priority Emergency
+770|770|16|124/80|102|12|37.0|93|9|Dizziness|None|Metformin|Urgent
+771|771|24|106/76|73|15|36.8|92|8|Chest Discomfort|Penicillin|Metoprolol|ROUTINE
+772|772|25|137/69|67|20|36.2|95|8|Chest Discomfort|Latex|Lisinopril|STAT
+773|773|24|118/88|89|20|38.4|93|6|Chest Discomfort|Latex|Aspirin|Routine
+774|774|19|129/65|77|21|37.2|93|0|Dizziness|Sulfa drugs|None|STAT
+775|775|21|131/78|86|12|37.7|92|2|Chest Discomfort|Sulfa drugs|Metformin|HIGH-PRIORITY EMERGENCY
+776|776|23|104/72|64|13|36.9|92|6|Shortness of Breath|Penicillin|Metoprolol|STAT
+777|777|24|140/87|60|19|37.9|100|0|Abdominal Pain|Penicillin|Atorvastatin|Routine
+778|778|23|110/75|65|21|36.6|98|6|Dizziness|Peanuts|Aspirin|Urgent
+779|779|19|108/64|83|20|38.5|100|6|Dizziness|None|Metformin|Routine
+780|780|23|107/60|73|20|36.4|96|3|Fever|Latex|None|STAT
+781|781|22|103/82|80|21|36.1|98|2|Shortness of Breath|Sulfa drugs|Metoprolol|Urgent
+782|782|21|111/90|76|16|38.0|94|2/10|Chest Discomfort|Penicillin|None|Urgent
+783|783|16|111/87|72|16|38.2|93|3|Dizziness|Latex|Atorvastatin|STAT
+784|784|23|105/83|94|21|37.0|100|7|Fever|Peanuts|Metformin|STAT
+785|785|24|118/62|64|18|37.0|95|5|Abdominal Pain|Latex|Lisinopril|Urgent
+786|786|24|109/73|104|13|37.8|100|0|Chest Discomfort|Latex|None|Urgent
+787|787|19|125/70|71|17|37.6|96|6|Fever|Peanuts|Lisinopril|STAT
+788|788|17|119/85|75|21|36.8|99|2|Dizziness|Penicillin|Metoprolol|Urgent
+789|789|21|110/72|94|15|36.1|98|4|Dizziness|Peanuts|Aspirin|Routine
+790|790|18|114/65|87|13|38.3|95|9|Fever|None|Lisinopril|Routine
+791|791|22|125/65|108|17|37.1|99|5|Shortness of Breath|Penicillin|Aspirin|High-Priority Emergency
+792|792|17|109/60|108|12|38.0|97|3|Dizziness|Peanuts|Metformin|Routine
+793|793|23|127/75|76|22|38.3|99|8|Chest Discomfort|Latex|Metformin|Urgent
+794|794|18|123/78|62|12|37.4|98|5|Chest Discomfort|Sulfa drugs|Metformin|STAT
+795|795|22|109/62|108|18|37.6|93|5|Abdominal Pain|Peanuts|Lisinopril| High-Priority Emergency 
+796|796|25|106/81|71|19|36.5|92|3|Dizziness|Penicillin|Atorvastatin|High-Priority Emergency
+797|797|19|131/89|98|18|38.2|93|7|Fever|Penicillin|None|STAT
+798|798|22|136/73|77|19|38.3|97|5|Chest Discomfort|Penicillin|Metformin|Urgent
+799|799|24|110/60|105|15|38.0|92|6|Abdominal Pain|Latex|Metoprolol|STAT
+800|800|24|105/70|64|15|37.0|99|1|Abdominal Pain|Peanuts|Atorvastatin|Routine
+801|801|21|107/65|106|19|36.4|94|8|Abdominal Pain|Peanuts|Atorvastatin|Routine
+802|802|19|110/75|103|16|37.4|94|4|Shortness of Breath|None|Aspirin|Routine
+803|803|20|125/64|93|14|37.0|99|1|Abdominal Pain|Peanuts|Metformin|High-Priority Emergency
+804|804|16|112/82|81|21|37.8|92|8|Chest Discomfort|Sulfa drugs|Aspirin|Routine
+805|805|21|107/62|70|19|36.3|95|4|Abdominal Pain|Latex|Aspirin|Routine
+806|806|19|138/80|108|21|36.0|97|8|Chest Discomfort|None|Metoprolol|Urgent
+807|807|23|123/61|106|16|36.6|95|10|Chest Discomfort|Peanuts|Aspirin|Urgent
+808|808|18|117/71|75|15|38.5|92|6|Dizziness|Sulfa drugs|Metoprolol|Urgent
+809|809|20|101/89|107|20|38.0|98|2/10|Fever|Sulfa drugs|None|STAT
+810|810|23|137/78|105|22|36.1|94|6|Fever|None|Aspirin|High-Priority Emergency
+811|811|25|105/60|104|20|37.1|98|7|Fever|Sulfa drugs|Metoprolol|Routine
+812|812|19|127/64|106|15|37.3|97|5|Shortness of Breath|None|Metoprolol|High-Priority Emergency
+813|813|17|124/74|83|14|37.2|98|10|Dizziness|Penicillin|Metoprolol|Routine
+814|814|19|106/73|61|12|37.0|97|3|Chest Discomfort|Sulfa drugs|Metoprolol|high-priority emergency
+815|815|23|126/90|77|17|37.4|92|5|Fever|Peanuts|Metformin|Routine
+816|816|19|122/81|61|17|36.7|92|4|Fever|Peanuts|Metoprolol|Urgent
+817|817|16|104/69|67|16|38.5|98|0|Dizziness|None|Atorvastatin|Urgent
+818|818|17|140/67|101|21|36.5|92|8|Chest Discomfort|Penicillin|None|Urgent
+819|819|22|139/73|64|12|37.1|97|1|Shortness of Breath|Sulfa drugs|Metformin|Urgent
+820|820||126/90|86|22|36.5|98|3|Fever|Penicillin|None|STAT
+821|821|20|121/70|60|22|37.0|93|0|Abdominal Pain|Penicillin|Metformin|STAT
+822|822|20|135/71|64|19|37.2|94|3|Dizziness|Latex|Aspirin|Urgent
+823|823|17|111/63|-99|22|45.2|0|10|Dizziness|Peanuts|Aspirin|High-Priority Emergency
+824|824|16|106/70|70|17|37.1|94|1|Fever|Latex|Lisinopril|Routine
+825|825|21|106/74|65|12|36.8|97|3|Shortness of Breath|Latex|Lisinopril|Urgent
+826|826|24|132/74|81|14|36.7|95|5|Fever|Latex|Metoprolol|High-Priority Emergency
+827|827|18|100/87|89|15|37.6|100|0|Abdominal Pain|None|None|STAT
+828|828|21|117/66|-99|20|45.2|0|6|Chest Discomfort|Latex|Lisinopril|High-Priority Emergency
+829|829|21|109/84|67|12|38.2|96|8|Abdominal Pain|Peanuts|Metformin|STAT
+830|830|23|108/75|85|18|36.5|92|8|Abdominal Pain|Peanuts|Aspirin|Urgent
+831|831|16|113/73|65|20|36.1|96|9|Fever|Latex|Metoprolol|High-Priority Emergency
+832|832|17|130/78|98|16|36.8|96|7|Fever|Sulfa drugs|Lisinopril|Routine
+833|833|23|112/89|91|15|38.3|100|7|Fever|None|Lisinopril|Routine
+834|834|20|108/62|62|20|36.1|98|6|Fever|Penicillin|Lisinopril|Routine
+835|835|22|127/83|82|12|37.1|96|4|Abdominal Pain|Peanuts|Metoprolol|Urgent
+836|836|25|114/65|62|19|37.2|93|4|Shortness of Breath|Penicillin|Atorvastatin|Urgent
+837|837|18|108/89|89|21|38.2|93|5|Dizziness|Sulfa drugs|Metformin|Routine
+838|838|16|131/65|99|16|37.1|99|5|Dizziness|None|Metoprolol|STAT
+839|839|21|108/60|103|19|38.0|99|9|Fever|Peanuts|Metformin|Routine
+840|840|23|127/68|89|12|36.6|99|0|Shortness of Breath|Latex|Metoprolol|High-Priority Emergency
+841|841|20|121/62|74|21|36.9|98|9|Fever|Latex|Metoprolol|urgent
+842|842|24|125/80|94|17|36.9|99|10|Shortness of Breath|Penicillin|Lisinopril|Routine
+843|843|23|129/63|87|12|36.9|100|3|Shortness of Breath|Peanuts|Metoprolol|High-Priority Emergency
+844|844|22|109/84|70|14|36.6|98|10|Fever|Sulfa drugs|Metoprolol|High-Priority Emergency
+845|845|20|125/69|103|17|37.0|97|6|Shortness of Breath|None|Aspirin|Urgent
+846|846|20|133/87|71|19|37.2|93|4|Dizziness|Sulfa drugs|Metoprolol|STAT
+847|847|21|134/61|63|15|37.4|95|0|Shortness of Breath|Penicillin|None|High-Priority Emergency
+848|848|19|126/89|82|15|38.1|94|0|Dizziness|Penicillin|Metformin|STAT
+849|849|19|130/90|105|15|36.1|98|9|Dizziness|None|Atorvastatin|urgent
+850|850|22|114/90|71|16|36.6|95|9|Fever|None|Metoprolol|High-Priority Emergency
+851|851|24|106/63|91|21|37.8|92|4|Chest Discomfort|Sulfa drugs|Lisinopril|Urgent
+852|852|23|128/63|63|12|36.4|97|2|Fever|None|Aspirin|Routine
+853|853|18|138/78|87|16|36.1|92|0|Chest Discomfort|Sulfa drugs|Aspirin|Urgent
+854|854|22|117/69|90|19|37.4|100|9|Dizziness|Sulfa drugs|Aspirin|High-Priority Emergency
+855|855|21|107/64|66|17|38.0|94|4|Dizziness|Sulfa drugs|Metformin|Routine
+856|856|21|135/62|61|21|36.8|93|2|Abdominal Pain|None|Atorvastatin|High-Priority Emergency
+857|857|19|120/73|104|15|36.4|98|8|Shortness of Breath|None|Aspirin|STAT
+858|858|24|100/61|68|20|36.5|96|6|Dizziness|Peanuts|Atorvastatin|Routine
+859|859||112/63|91|20|36.0|93|2|Dizziness|Peanuts|Metformin|HIGH-PRIORITY EMERGENCY
+860|860|25|110/84|106|20|37.9|94|4|Abdominal Pain|Sulfa drugs|None|High-Priority Emergency
+861|861|25|121/62|100|22|38.3|96|10|Chest Discomfort|Sulfa drugs|None|Urgent
+862|862|18|122/73|60|20|37.2|97|6|Shortness of Breath|Sulfa drugs|Metoprolol|Urgent
+863|863|19|117/78|87|16|37.5|95|10|Abdominal Pain|Penicillin|Metoprolol|Urgent
+864|864|18|102/73|107|15|36.6|96|6|Shortness of Breath|Peanuts|Metformin|Urgent
+865|865|22|139/84|86|18|37.1|92|9|Fever|Latex|Lisinopril|Routine
+866|866|16|103/87|62|17|38.5|100|8|Shortness of Breath|Sulfa drugs|Atorvastatin|Urgent
+867|867|22|128/62|61|16|37.2|96|3|Dizziness|Penicillin|Aspirin|High-Priority Emergency
+868|868|18|112/84|82|15|38.4|100|5/10|Abdominal Pain|None|Lisinopril|Urgent
+869|869|19|109/73|64|18|36.4|98|3|Dizziness|Peanuts|Atorvastatin|Routine
+870|870|20|103/89|110|21|38.4|94|2|Chest Discomfort|Penicillin|Metformin|routine
+871|871|24|118/60|98|16|36.5|97|5|Dizziness|None|Aspirin|Urgent
+872|872|22|105/69|77|19|38.0|93|4|Chest Discomfort|Peanuts|Aspirin|Urgent
+873|873|22|104/78|84|18|38.1|95|7|Dizziness|Penicillin|Lisinopril|STAT
+874|874|16|114/73|100|20|36.8|94|4|Dizziness|Penicillin|Metoprolol|High-Priority Emergency
+875|875|17|109/65|60|22|37.3|95|4|Chest Discomfort|None|Aspirin|Urgent
+876|876|18|125/64|100|14|37.1|95|6|Chest Discomfort|None|Metformin|Urgent
+877|877|16|113/74|102|16|36.2|97|8|Fever|Sulfa drugs|None|Urgent
+878|878|25|128/74|102|19|36.6|96|0|Chest Discomfort|None|Aspirin|Routine
+879|879|24|115/62|94|16|37.9|99|3|Chest Discomfort|Penicillin|Atorvastatin|Urgent
+880|880|20|100/76|75|14|36.0|93|7|Shortness of Breath|None|None|STAT
+881|881|23|132/68|84|14|37.2|95|1|Fever|Latex|None|Urgent
+882|882|22|104/88|110|21|36.4|94|9|Shortness of Breath|Latex|Metoprolol|Urgent
+883|883|18|134/60|96|14|37.4|97|4|Chest Discomfort|None|Atorvastatin|Routine
+884|884|21|104/88|86|21|36.1|100|6|Dizziness|None|Metoprolol|Routine
+885|885|17|120/70|72|14|36.1|98|6|Fever|Sulfa drugs|Metformin|STAT
+886|886|16|109/80|103|14|38.4|98|6|Abdominal Pain|None|None|Urgent
+887|887|17|131/89|75|22|36.6|98|9|Fever|None|Metformin|Urgent
+888|888|19|105/68|105|20|37.6|92|10/10|Fever|None|Aspirin|STAT
+889|889|20|102/67|92|13|36.3|100|2|Shortness of Breath|Peanuts|Metoprolol|Urgent
+890|9999|22|125/65|70|14|36.5|97|3|Chest Discomfort|Latex|Metoprolol| Urgent 
+891|891|17|117/90|74|13|36.8|96|9|Chest Discomfort|Penicillin|Lisinopril|Urgent
+892|892|18|108/76|107|12|37.0|94|6|Dizziness|None|Metformin|STAT
+893|893|17|109/70|88|19|37.7|96|1|Shortness of Breath|Latex|Atorvastatin|STAT
+894|894||130/90|97|22|37.2|92|4|Abdominal Pain|Latex|Lisinopril|High-Priority Emergency
+895|895||112/61|75|22|36.8|98|5|Chest Discomfort|Peanuts|Atorvastatin|Urgent
+896|896|20|136/86|85|14|38.3|94|4|Fever|None|None|High-Priority Emergency
+897|897|16|110/90|106|20|37.3|94|1|Chest Discomfort|Latex|Atorvastatin|High-Priority Emergency
+898|898|25|121/68|77|13|37.5|98|8|Abdominal Pain|Penicillin|Aspirin|High-Priority Emergency
+899|899|16|116/75|83|15|36.1|93|8|Chest Discomfort|Latex|Metoprolol|Routine
+900|900|20|112/85|84|20|38.4|96|6|Dizziness|Peanuts|Metoprolol|STAT
+901|901|17|104/79|72|13|36.7|94|4|Fever|None|Lisinopril|Urgent
+902|902|21|101/87|106|16|37.8|98|9|Chest Discomfort|Penicillin|Lisinopril|Routine
+903|903|20|126/62|65|13|38.3|99|10|Fever|Penicillin|Aspirin|Urgent
+904|904|22|119/65|94|21|36.2|96|10|Fever|Penicillin|Aspirin| Urgent 
+905|905|22|111/64|109|19|37.1|94|7|Abdominal Pain|Penicillin|Atorvastatin|Urgent
+906|906|18|128/60|89|19|37.6|93|1|Shortness of Breath|None|None|Urgent
+907|907|16|132/73|86|13|36.2|95|8|Chest Discomfort|Sulfa drugs|None|Routine
+908|908||123/72|60|14|38.2|99|2|Dizziness|Peanuts|Aspirin|Urgent
+909|909|19|112/90|104|22|37.3|94|2|Dizziness|Penicillin|Atorvastatin|High-Priority Emergency
+910|910|25|131/67|88|18|37.2|93|9|Abdominal Pain|Latex|None|High-Priority Emergency
+911|911||109/90|77|16|38.4|92|3|Shortness of Breath|None|Metoprolol|Routine
+912|912|19|115/66|83|15|37.1|94|1|Fever|Peanuts|None|Urgent
+913|913|19|130/69|81|12|37.5|93|4|Dizziness|Peanuts|None|Urgent
+914|914|24|136/67|78|19|38.0|95|10|Dizziness|Latex|Metformin|Urgent
+915|915|18|125/87|79|20|38.3|92|1|Chest Discomfort|Latex|Lisinopril|STAT
+916|916|22|118/63|106|20|38.1|97|6|Shortness of Breath|Latex|Metformin|Urgent
+917|917||135/73|109|16|37.4|95|3|Shortness of Breath|Peanuts|Atorvastatin|High-Priority Emergency
+918|918|21|127/83|65|16|36.2|92|4/10|Abdominal Pain|Peanuts|Lisinopril|Routine
+919|919|25|126/66|67|12|36.4|94|5|Dizziness|Peanuts|Lisinopril|STAT
+920|920|21|110/89|97|14|36.6|97|10|Dizziness|Latex|Metformin|Routine
+921|921|20|123/77|89|21|36.4|100|6|Shortness of Breath|Peanuts|Metformin|STAT
+922|922|22|112/78|105|14|38.3|94|8|Dizziness|Penicillin|None|Urgent
+923|923|21|117/77|80|16|38.1|100|4|Fever|Penicillin|Atorvastatin|STAT
+924|924|24|123/67|84|21|36.7|95|5|Fever|Peanuts|Lisinopril|High-Priority Emergency
+925|925|19|139/82|107|14|36.4|94|2|Abdominal Pain|None|Lisinopril|High-Priority Emergency
+926|926||121/90|64|17|37.9|95|1/10|Chest Discomfort|Penicillin|Atorvastatin|STAT
+927|927|16|130/90|79|22|37.9|98|5|Dizziness|Sulfa drugs|None|Urgent
+928|928|20|121/72|77|22|37.0|92|1|Fever|Sulfa drugs|Metformin|HIGH-PRIORITY EMERGENCY
+929|929|17|119/79|96|21|36.5|92|5|Fever|None|None|Routine
+930|930|17|109/75|105|13|37.4|99|10|Shortness of Breath|Penicillin|Aspirin|High-Priority Emergency
+931|931|24|132/78|72|12|36.9|97|8|Abdominal Pain|Penicillin|None|Urgent
+932|932|25|125/63|78|19|38.0|93|7|Shortness of Breath|Peanuts|Aspirin|High-Priority Emergency
+933|933|21|139/79|61|16|37.9|94|7|Shortness of Breath|None|None|STAT
+934|934|24|139/73|78|14|37.0|98|6|Shortness of Breath|Sulfa drugs|Aspirin|Urgent
+935|935|22|100/75|102|19|37.0|94|4|Dizziness|Latex|None|STAT
+936|936|21|124/84|69|19|36.5|93|6|Shortness of Breath|None|None|High-Priority Emergency
+937|937|19|101/86|61|16|37.2|100|4|Dizziness|None|Lisinopril|Urgent
+938|938|19|131/73|104|18|38.5|98|6|Shortness of Breath|None|Atorvastatin|Urgent
+939|939|24|137/82|103|17|37.5|100|6|Abdominal Pain|Latex|Aspirin| Urgent 
+940|940|21|118/87|64|16|38.4|97|7|Fever|Penicillin|Aspirin|Routine
+941|941|24|132/81|110|17|37.6|95|5|Chest Discomfort|Peanuts|Lisinopril|High-Priority Emergency
+942|942|21|101/64|100|16|37.3|100|0|Chest Discomfort|Sulfa drugs|Metoprolol|Urgent
+943|943|23|124/88|85|19|37.8|93|1|Chest Discomfort|Penicillin|Aspirin|Urgent
+944|944|19|132/79|78|12|37.8|95|2|Abdominal Pain|Penicillin|Metformin|High-Priority Emergency
+945|945|19|140/60|63|20|36.6|99|2|Dizziness|Sulfa drugs|Atorvastatin|High-Priority Emergency
+946|946|20|117/87|91|12|37.3|97|8|Fever|Latex|Metoprolol|High-Priority Emergency
+947|947|18|103/80|97|22|36.2|92|6|Abdominal Pain|Peanuts|None|High-Priority Emergency
+948|948|17|105/62|91|18|36.6|93|5|Dizziness|Latex|Lisinopril|Routine
+949|949|21|135/71|63|13|36.5|96|2|Chest Discomfort|Sulfa drugs|Metformin|STAT
+950|950|21|111/63|90|15|36.7|93|5|Dizziness|Penicillin|Aspirin|Urgent
+951|951|24|132/63|89|19|37.0|93|8|Abdominal Pain|Peanuts|Metoprolol|Routine
+952|952|16|131/86|104|22|36.7|95|2|Dizziness|Peanuts|None|High-Priority Emergency
+953|953|17|116/60|110|15|36.8|95|4|Shortness of Breath|Peanuts|None|Routine
+954|954|24|135/81|64|15|37.2|97|10|Dizziness|None|None|Routine
+955|955|18|132/70|72|17|38.2|93|0|Dizziness|Latex|Aspirin|STAT
+956|956|25|101/64|66|17|37.1|92|1|Dizziness|None|Metformin|High-Priority Emergency
+957|957|17|133/73|84|14|36.6|92|0|Fever|Sulfa drugs|Metoprolol|High-Priority Emergency
+958|958|17|131/89|73|15|37.1|92|10|Shortness of Breath|Penicillin|Lisinopril|Urgent
+959|959|18|128/81|69|13|37.0|100|1|Chest Discomfort|Sulfa drugs|Lisinopril|Urgent
+960|960|25|129/69|102|13|36.2|93|0|Shortness of Breath|Sulfa drugs|Metoprolol|Urgent
+961|961|18|101/67|103|15|37.2|96|6|Shortness of Breath|Penicillin|Lisinopril|Urgent
+962|962|21|106/60|68|19|37.3|95|0|Abdominal Pain|Latex|Lisinopril|Urgent
+963|963|17|137/78|99|21|37.2|100|4|Chest Discomfort|Latex|Atorvastatin|Urgent
+964|964|24|123/72|99|12|36.1|93|1|Fever|Penicillin|Aspirin|Urgent
+965|965|18|104/90|77|16|36.4|93|9|Abdominal Pain|Penicillin|Metoprolol|Urgent
+966|966||104/73|88|17|38.0|92|2|Chest Discomfort|Peanuts|None|STAT
+967|967|23|136/84|97|16|36.8|96|10|Chest Discomfort|Penicillin|Metformin|High-Priority Emergency
+968|968|20|105/66|74|13|36.5|97|8|Dizziness|Sulfa drugs|Metformin|High-Priority Emergency
+969|969|16|125/74|92|14|36.3|93|7|Dizziness|None|Atorvastatin|Urgent
+970|970|21|129/89|92|20|36.0|98|5|Abdominal Pain|None|Atorvastatin|High-Priority Emergency
+971|971|16|103/71|86|16|36.4|95|9|Chest Discomfort|None|Aspirin|STAT
+972|972|21|128/68|107|18|36.0|92|9|Dizziness|None|None|Routine
+973|973|21|132/65|101|14|38.3|99|4|Abdominal Pain|None|Aspirin|High-Priority Emergency
+974|974|19|116/89|81|17|36.3|96|6|Chest Discomfort|Peanuts|Lisinopril| Routine 
+975|975|17|125/90|67|16|37.2|96|4|Fever|Peanuts|Metoprolol|Routine
+976|976|22|100/86|98|18|36.6|92|5|Chest Discomfort|Sulfa drugs|Lisinopril|Routine
+977|977||109/90|64|18|38.1|100|10|Dizziness|Peanuts|Atorvastatin|High-Priority Emergency
+978|978|18|107/81|96|12|36.1|96|5|Abdominal Pain|Penicillin|None|STAT
+979|979|23|127/63|93|18|38.0|93|4|Abdominal Pain|Penicillin|Lisinopril|Routine
+980|980|23|116/65|64|19|36.4|98|10|Shortness of Breath|None|None|Routine
+981|981|17|134/67|106|13|37.7|93|0|Dizziness|Peanuts|Metformin|STAT
+982|982|23|110/63|86|18|38.0|100|2|Dizziness|None|Atorvastatin|STAT
+983|983|17|121/68|90|18|38.3|96|5|Shortness of Breath|None|Metoprolol|HIGH-PRIORITY EMERGENCY
+984|984|17|105/73|109|14|36.0|97|9|Dizziness|Penicillin|Aspirin|Routine
+985|985|23|138/63|66|16|38.4|96|6|Chest Discomfort|Sulfa drugs|Atorvastatin|Urgent
+986|986|20|104/66|73|16|36.5|93|9|Dizziness|Sulfa drugs|Metformin|Urgent
+987|987|23|123/76|71|17|37.0|96|2|Abdominal Pain|Sulfa drugs|Aspirin|STAT
+988|988|25|101/77|97|13|37.6|96|6|Fever|Penicillin|Metoprolol|Routine
+989|989|17|120/62|98|18|38.0|95|4|Chest Discomfort|Latex|Aspirin|Urgent
+990|990|25|100/65|103|15|38.4|93|9|Fever|Penicillin|Lisinopril|Routine
+991|991|17|131/75|76|14|37.7|94|6|Chest Discomfort|Sulfa drugs|Metoprolol|High-Priority Emergency
+992|992|21|109/63|88|13|37.3|98|9|Chest Discomfort|Peanuts|Metformin|Urgent
+993|993|22|129/60|101|17|36.7|97|5|Fever|Latex|Atorvastatin|STAT
+994|994|16|106/74|67|21|37.7|100|1|Chest Discomfort|Peanuts|Lisinopril|Routine
+995|995|23|111/72|107|15|38.4|98|3|Fever|None|Metformin|stat
+996|996|19|122/70|90|16|38.5|97|6|Fever|Peanuts|Metformin|High-Priority Emergency
+997|997|22|121/67|106|12|38.1|94|7|Shortness of Breath|None|Aspirin|Routine
+998|998|24|139/67|108|16|36.9|100|8|Fever|Sulfa drugs|Metoprolol|Urgent
+999|999|23|102/82|90|18|37.2|94|4|Chest Discomfort|Latex|Aspirin|STAT
+1000|1000|20|104/78|67|20|38.4|97|5|Abdominal Pain|Sulfa drugs|Metformin|STAT
+1001|1001|18|115/81|63|15|37.8|94|9|Shortness of Breath|None|None|Urgent
+1002|1002|17|134/64|64|14|38.4|92|9|Shortness of Breath|Penicillin|Metoprolol|STAT
+1003|1003|25|110/81|109|18|38.0|100|9|Shortness of Breath|Latex|None|Routine
+1004|1004|16|137/78|69|21|36.6|100|1|Dizziness|Penicillin|None|High-Priority Emergency
+1005|1005|19|118/74|102|16|37.2|95|3|Fever|None|Metformin|STAT
+1006|1006|25|103/76|102|21|37.1|92|8|Shortness of Breath|Latex|Lisinopril|High-Priority Emergency
+1007|1007|24|109/80|91|12|37.6|99|7|Shortness of Breath|Peanuts|Aspirin|High-Priority Emergency
+1008|1008|17|117/86|-99|22|45.2|0|10|Dizziness|Penicillin|None|STAT
+1009|1009|22|108/88|110|19|37.5|93|0|Fever|None|None|High-Priority Emergency
+1010|1010|19|140/86|82|14|37.2|100|8|Abdominal Pain|None|Lisinopril|Urgent
+1011|1011|22|111/80|101|12|36.4|99|8|Chest Discomfort|None|Metformin|High-Priority Emergency
+1012|1012|16|139/87|71|18|38.3|92|0|Shortness of Breath|None|Lisinopril|Routine
+1013|1013|22|113/67|94|15|36.4|100|9|Abdominal Pain|Peanuts|Metformin|Urgent
+1014|1014|22|130/88|82|13|38.1|100|7|Dizziness|Peanuts|Lisinopril|stat
+1015|1015|25|139/89|73|18|36.3|93|10|Fever|Penicillin|None|Routine
+1016|1016|25|124/90|102|18|36.2|100|0|Chest Discomfort|Penicillin|None|routine
+1017|1017|22|123/77|109|15|38.0|96|3|Shortness of Breath|Latex|Metoprolol|High-Priority Emergency
+1018|1018|25|111/90|68|16|36.6|97|0|Dizziness|Latex|Metoprolol|Urgent
+1019|1019|20|138/73|67|14|38.4|98|10|Abdominal Pain|None|None|ROUTINE
+1020|1020|18|112/88|67|13|36.5|93|4|Chest Discomfort|Penicillin|Metformin|STAT
+1021|1021|22|125/75|93|14|37.5|95|4|Shortness of Breath|Sulfa drugs|Metoprolol|Urgent
+1022|1022|16|103/88|85|13|38.0|94|6|Shortness of Breath|Peanuts|Aspirin|Routine
+1023|1023|24|102/70|109|16|36.2|98|5|Dizziness|Latex|Metformin|STAT
+1024|1024|20|117/72|78|20|36.9|97|8/10|Abdominal Pain|None|Metformin|Urgent
+1025|1025|18|132/83|79|18|37.9|99|1|Dizziness|Latex|None|Urgent
+1026|1026|22|121/73|106|18|37.4|93|1|Dizziness|Penicillin|Lisinopril|High-Priority Emergency
+1027|1027|25|125/80|84|18|36.2|97|8|Shortness of Breath|Peanuts|Metformin|Urgent
+1028|1028|21|108/90|106|20|36.3|95|7|Dizziness|Peanuts|None|High-Priority Emergency
+1029|1029|18|120/62|87|17|37.5|99|9|Chest Discomfort|None|Atorvastatin|STAT
+1030|1030|21|113/80|61|20|37.9|95|0|Shortness of Breath|Peanuts|Lisinopril|Routine
+1031|9999|21|128/65|69|18|37.3|98|9|Abdominal Pain|Penicillin|None|Routine
+1032|1032|21|115/72|70|18|36.9|93|2|Dizziness|Sulfa drugs|None|Routine
+1033|9999|16|136/81|89|16|38.5|98|1|Chest Discomfort|Peanuts|None|STAT
+1034|1034|23|125/69|71|20|36.6|98|8|Dizziness|Sulfa drugs|Metoprolol|Routine
+1035|1035|23|108/87|109|15|37.3|99|8|Fever|None|Lisinopril|High-Priority Emergency
+1036|1036|24|105/76|84|20|37.4|93|8|Fever|Peanuts|Lisinopril|Routine
+1037|1037|21|129/67|71|16|36.0|99|5|Fever|Latex|Lisinopril|Urgent
+1038|1038|22|123/74|81|19|37.2|92|2|Abdominal Pain|Penicillin|Aspirin|Routine
+1039|1039|21|107/70|86|15|36.3|93|2|Chest Discomfort|Sulfa drugs|Lisinopril|Urgent
+1040|1040|19|136/60|77|14|37.5|98|3|Shortness of Breath|Sulfa drugs|Metformin|Routine
+1041|1041|23|104/63|63|19|37.4|100|10|Shortness of Breath|Peanuts|Metformin|STAT
+1042|1042|22|111/66|93|19|36.7|96|4|Dizziness|Penicillin|Metoprolol|Urgent
+1043|9999|17|103/90|68|18|36.1|98|2|Shortness of Breath|Peanuts|Metformin|High-Priority Emergency
+1044|1044|23|123/76|95|17|36.4|96|2|Shortness of Breath|Latex|Atorvastatin|STAT
+1045|1045|23|110/75|73|16|36.1|99|8|Dizziness|Penicillin|Metoprolol|Urgent
+1046|1046|20|138/81|100|20|38.0|97|3|Shortness of Breath|None|Lisinopril|Routine
+1047|1047|16|118/77|78|16|36.3|93|1|Shortness of Breath|Latex|None| Urgent 
+1048|1048|24|114/60|102|20|36.5|92|9|Dizziness|None|Metformin|Urgent
+1049|1049|22|125/67|107|15|36.2|99|10|Chest Discomfort|Peanuts|Atorvastatin|Urgent
+1050|1050|24|115/78|84|12|37.3|95|1|Abdominal Pain|Peanuts|Metformin|High-Priority Emergency
+1051|1051|19|112/67|63|17|38.5|100|4|Dizziness|Sulfa drugs|Lisinopril|Routine
+1052|1052|24|106/76|95|15|37.4|94|1|Shortness of Breath|Latex|Metformin|Urgent
+1053|1053|16|103/89|62|15|38.5|95|1|Fever|Sulfa drugs|Metoprolol|Urgent
+1054|1054|24|102/65|70|15|36.0|100|3|Abdominal Pain|Penicillin|Metformin|Routine
+1055|1055|23|135/84|85|16|36.7|95|5|Fever|Latex|Atorvastatin|high-priority emergency
+1056|1056|16|114/87|61|13|38.2|98|1|Fever|Peanuts|None|Urgent
+1057|1057|18|110/82|76|12|36.2|100|9|Chest Discomfort|Penicillin|Metformin|Urgent
+1058|1058|20|115/66|74|16|38.4|93|4|Fever|Penicillin|Metoprolol|STAT
+1059|1059|23|116/61|78|18|37.4|94|3|Chest Discomfort|Penicillin|Metformin|Urgent
+1060|1060|20|104/74|92|21|38.2|97|2|Fever|Latex|Aspirin|High-Priority Emergency
+1061|1061|16|133/68|76|19|37.0|94|8|Chest Discomfort|Penicillin|Atorvastatin|High-Priority Emergency
+1062|1062|23|119/82|79|14|37.1|99|5|Fever|Penicillin|Lisinopril|Routine
+1063|1063|23|136/78|109|20|38.2|92|3|Dizziness|Sulfa drugs|Metoprolol|Routine
+1064|1064|21|132/88|84|21|38.3|94|10|Shortness of Breath|Latex|Metformin|High-Priority Emergency
+1065|1065|22|117/61|94|14|36.8|94|0|Shortness of Breath|Penicillin|Lisinopril|Routine
+1066|1066|24|139/68|75|22|37.0|98|8|Dizziness|Latex|Metformin|STAT
+1067|1067|23|119/64|65|19|38.2|95|8|Chest Discomfort|Penicillin|Metoprolol|High-Priority Emergency
+1068|1068|19|116/67|78|13|37.7|96|4|Dizziness|Penicillin|None|Routine
+1069|1069||108/84|-99|20|45.2|0|7|Abdominal Pain|Penicillin|Metoprolol|STAT
+1070|1070|21|108/66|81|18|36.4|100|7|Abdominal Pain|Peanuts|Metoprolol|High-Priority Emergency
+1071|1071|17|110/68|66|16|36.3|99|9|Fever|Penicillin|Metformin|STAT
+1072|1072|23|118/61|73|12|36.4|93|2|Chest Discomfort|None|Aspirin|Routine
+1073|1073|23|121/76|102|14|37.6|98|8|Chest Discomfort|None|Atorvastatin|STAT
+1074|1074|23|100/72|106|12|36.0|100|9|Chest Discomfort|None|Aspirin|Routine
+1075|9999|16|109/69|101|20|36.7|98|5|Abdominal Pain|Sulfa drugs|None|Urgent
+1076|1076|18|138/86|71|21|37.6|95|9|Dizziness|Sulfa drugs|Atorvastatin| Urgent 
+1077|1077|18|125/69|93|12|36.6|98|9|Chest Discomfort|Sulfa drugs|None|STAT
+1078|1078|16|115/65|97|17|36.6|100|8|Abdominal Pain|Peanuts|Metoprolol|Routine
+1079|1079|24|121/74|63|22|37.3|95|9|Fever|Sulfa drugs|Metformin|High-Priority Emergency
+1080|1080|25|104/85|67|16|38.4|96|0|Abdominal Pain|None|Lisinopril|Urgent
+1081|1081|21|122/69|78|17|36.4|98|7|Abdominal Pain|Penicillin|Atorvastatin|Urgent
+1082|1082|25|129/79|100|13|37.3|95|9|Abdominal Pain|None|Metformin|Routine
+1083|1083|19|126/86|-99|18|45.2|0|3|Shortness of Breath|Penicillin|Metoprolol|STAT
+1084|1084|17|117/84|97|22|37.2|97|0|Abdominal Pain|Penicillin|Metformin|routine
+1085|1085|16|119/80|73|18|37.2|100|5|Shortness of Breath|Latex|Lisinopril|STAT
+1086|1086|20|127/77|84|15|37.5|98|3|Abdominal Pain|Penicillin|Metoprolol|Routine
+1087|1087|20|124/86|104|16|36.0|93|4|Abdominal Pain|Penicillin|Metformin|STAT
+1088|1088|18|138/67|70|18|36.2|98|0|Chest Discomfort|Sulfa drugs|Metoprolol|Urgent
+1089|1089|21|113/61|104|21|36.3|99|10|Chest Discomfort|Penicillin|Aspirin|Routine
+1090|1090|25|115/84|83|13|37.8|94|3|Abdominal Pain|Peanuts|Aspirin|High-Priority Emergency
+1091|1091|19|113/86|100|19|37.8|98|8|Fever|Latex|Metoprolol|Routine
+1092|1092|21|138/79|65|13|37.5|99|3|Dizziness|Peanuts|Lisinopril|STAT
+1093|1093|18|116/88|77|20|36.4|92|3|Chest Discomfort|Penicillin|Metformin|STAT
+1094|1094|17|121/74|67|13|36.9|100|4|Abdominal Pain|Penicillin|Metformin|Urgent
+1095|1095|24|133/76|76|20|37.0|92|6|Abdominal Pain|Peanuts|Metoprolol|STAT
+1096|1096|17|125/78|69|16|37.0|97|6|Abdominal Pain|Penicillin|Atorvastatin|Urgent
+1097|1097|22|101/60|69|12|36.3|98|3|Dizziness|Latex|None|Urgent
+1098|1098|22|125/69|108|22|37.5|94|8|Fever|Latex|Lisinopril|Routine
+1099|1099|17|108/81|109|16|37.8|92|10|Abdominal Pain|Penicillin|Atorvastatin|Routine
+1100|1100|16|139/70|95|14|36.9|97|3|Shortness of Breath|Penicillin|Atorvastatin|High-Priority Emergency
+1101|1101|16|109/82|101|20|36.3|95|0|Dizziness|Sulfa drugs|Metoprolol|Routine
+1102|1102|17|109/70|99|12|38.1|100|10|Abdominal Pain|Penicillin|Metoprolol|Urgent
+1103|1103|17|111/88|62|12|38.3|96|0|Abdominal Pain|Penicillin|Metoprolol|High-Priority Emergency
+1104|1104|18|121/82|81|18|38.5|97|10|Dizziness|Penicillin|Metformin|Urgent
+1105|1105|21|103/64|109|18|37.6|92|3|Chest Discomfort|Latex|Metoprolol|Urgent
+1106|1106|25|108/87|94|22|37.8|96|4|Chest Discomfort|None|None|Routine
+1107|1107|23|119/73|82|19|37.9|98|6|Fever|None|None|Urgent
+1108|1108|18|112/77|96|12|36.0|94|7|Fever|None|Atorvastatin|STAT
+1109|1109|22|123/71|69|20|37.6|98|5|Fever|Sulfa drugs|Metoprolol|STAT
+1110|1110|20|120/86|72|22|37.3|92|7|Fever|Penicillin|Aspirin|High-Priority Emergency
+1111|1111|22|123/84|77|20|37.4|92|8|Fever|Penicillin|Atorvastatin|Urgent
+1112|1112|23|102/79|85|19|36.7|100|6|Abdominal Pain|Latex|Metformin|High-Priority Emergency
+1113|1113|21|129/65|63|12|36.2|93|8|Chest Discomfort|Peanuts|Aspirin|Routine
+1114|1114|18|113/84|91|22|36.6|95|4|Abdominal Pain|Penicillin|Metformin|Routine
+1115|1115|24|110/63|64|22|36.4|100|2|Fever|None|None|High-Priority Emergency
+1116|1116|24|125/62|96|17|37.1|100|5|Chest Discomfort|Sulfa drugs|Metformin|STAT
+1117|1117|24|110/77|77|17|37.3|98|9|Fever|Penicillin|Metformin|STAT
+1118|1118|22|133/66|100|17|37.5|92|3|Abdominal Pain|Penicillin|Metoprolol|Urgent
+1119|1119|19|110/79|60|19|36.1|99|4|Shortness of Breath|Peanuts|Lisinopril|stat
+1120|1120|25|115/70|92|19|36.7|98|9|Fever|None|Metformin|Urgent
+1121|1121|22|132/81|64|19|36.4|99|3|Shortness of Breath|None|Atorvastatin|Urgent
+1122|1122|25|137/80|62|17|36.8|100|10|Abdominal Pain|Peanuts|Metformin|Routine
+1123|1123|16|127/66|94|17|37.9|96|5|Dizziness|Penicillin|Metoprolol|Urgent
+1124|1124|22|106/62|85|22|37.0|94|5|Shortness of Breath|None|Aspirin|STAT
+1125|1125|17|125/78|80|19|37.8|97|9|Shortness of Breath|Sulfa drugs|Atorvastatin|Routine
+1126|1126|23|118/86|94|16|38.1|100|4|Fever|Peanuts|None|High-Priority Emergency
+1127|1127||111/84|87|12|36.9|94|0|Fever|Latex|None|High-Priority Emergency
+1128|1128|18|140/89|94|15|36.6|92|1|Shortness of Breath|Penicillin|Atorvastatin|High-Priority Emergency
+1129|1129|18|103/62|91|14|37.6|100|8|Dizziness|Latex|Metoprolol|Routine
+1130|1130|16|105/70|75|15|37.0|97|6|Shortness of Breath|Penicillin|Atorvastatin|STAT
+1131|1131|19|125/87|86|22|38.2|97|9|Shortness of Breath|Peanuts|Lisinopril|STAT
+1132|1132|19|133/82|103|18|38.2|95|3|Dizziness|Latex|Lisinopril|High-Priority Emergency
+1133|1133|17|124/73|68|16|36.7|95|5|Chest Discomfort|Peanuts|Aspirin|ROUTINE
+1134|1134|16|102/82|82|18|36.7|93|0|Dizziness|Latex|Lisinopril|stat
+1135|1135|24|115/65|93|21|38.5|93|2|Shortness of Breath|Peanuts|Lisinopril|Routine
+1136|1136|17|136/64|100|18|37.4|94|7|Shortness of Breath|Peanuts|None|STAT
+1137|1137|22|137/83|68|17|38.5|96|0|Shortness of Breath|Peanuts|None|High-Priority Emergency
+1138|1138|22|119/60|78|22|37.8|96|8|Chest Discomfort|Sulfa drugs|None|Routine
+1139|1139|25|103/81|99|17|37.9|96|0|Chest Discomfort|None|Metformin|Routine
+1140|1140|23|110/62|74|14|36.7|99|4|Shortness of Breath|Peanuts|Lisinopril|Routine
+1141|1141|24|120/61|87|15|36.8|94|7|Abdominal Pain|Sulfa drugs|Metoprolol|STAT
+1142|1142|17|130/71|108|14|36.1|98|0|Shortness of Breath|Latex|Lisinopril|STAT
+1143|1143|23|119/76|103|19|36.2|100|7|Dizziness|None|None|High-Priority Emergency
+1144|1144|25|138/69|76|20|37.7|98|5|Chest Discomfort|Penicillin|Lisinopril|High-Priority Emergency
+1145|1145|25|108/60|78|19|36.4|100|3|Shortness of Breath|Penicillin|Atorvastatin|Urgent
+1146|9999|16|127/70|79|16|37.5|97|10|Abdominal Pain|Peanuts|Lisinopril|STAT
+1147|1147|25|123/88|74|12|36.9|97|10|Abdominal Pain|Penicillin|Metformin|High-Priority Emergency
+1148|1148|22|112/85|103|16|38.5|98|9|Fever|Peanuts|Metoprolol|High-Priority Emergency
+1149|1149|25|106/77|98|13|36.6|96|1|Chest Discomfort|Penicillin|Metformin|High-Priority Emergency
+1150|1150|23|103/72|85|19|36.2|100|3|Dizziness|Penicillin|Metformin|Urgent
+1151|1151|17|114/72|69|22|38.1|92|0|Shortness of Breath|Peanuts|None|Urgent
+1152|1152|24|133/68|86|22|38.0|94|2|Dizziness|Latex|Lisinopril|Routine
+1153|1153|24|137/70|72|20|37.8|99|6|Abdominal Pain|Sulfa drugs|Metoprolol|Urgent
+1154|1154|25|111/64|89|22|37.8|97|2|Fever|Sulfa drugs|Aspirin|STAT
+1155|1155|19|112/74|88|12|37.5|99|2|Chest Discomfort|Latex|Atorvastatin|Routine
+1156|1156|20|135/73|61|16|37.7|95|8|Fever|Penicillin|Lisinopril|Urgent
+1157|1157|23|127/90|108|22|38.5|99|9|Shortness of Breath|Latex|Lisinopril|Routine
+1158|1158|19|132/77|88|17|36.6|95|4|Abdominal Pain|Penicillin|Metformin|Routine
+1159|1159|21|123/84|104|15|38.1|94|5|Shortness of Breath|Latex|None|Urgent
+1160|1160|22|118/60|108|13|38.4|92|8|Fever|Sulfa drugs|Lisinopril|High-Priority Emergency
+1161|1161|25|120/70|94|14|36.8|93|6|Abdominal Pain|Sulfa drugs|Lisinopril|Urgent
+1162|1162|21|135/75|105|15|37.4|98|10|Dizziness|None|None|Routine
+1163|1163|25|140/68|93|20|38.1|93|6|Dizziness|Latex|Atorvastatin|High-Priority Emergency
+1164|1164|17|104/65|69|15|37.1|94|1|Chest Discomfort|Sulfa drugs|Atorvastatin|Urgent
+1165|1165|19|100/65|91|12|36.9|94|7|Shortness of Breath|Peanuts|Aspirin|High-Priority Emergency
+1166|1166|16|138/80|96|15|36.7|94|7|Shortness of Breath|Latex|Aspirin|STAT
+1167|1167|18|136/82|71|21|36.6|93|10|Fever|Sulfa drugs|Metoprolol|High-Priority Emergency
+1168|1168|20|111/73|92|22|38.5|95|10|Abdominal Pain|Penicillin|Aspirin|STAT
+1169|1169|24|108/77|69|13|36.4|99|3|Abdominal Pain|Peanuts|Atorvastatin|STAT
+1170|1170|24|115/60|90|13|37.4|98|8|Chest Discomfort|Peanuts|Metformin|Urgent
+1171|1171|24|138/88|93|16|36.4|94|10|Dizziness|Peanuts|Aspirin|Urgent
+1172|1172|20|109/73|67|21|37.8|99|0|Abdominal Pain|None|Metformin|Routine
+1173|1173|20|130/90|98|18|36.1|97|4|Dizziness|Latex|Metoprolol|Routine
+1174|1174|18|122/64|79|22|37.5|99|0|Fever|Latex|None|Routine
+1175|1175|17|125/89|92|13|37.3|92|4|Shortness of Breath|None|Atorvastatin|STAT
+1176|1176|25|133/61|81|18|37.9|95|9|Dizziness|Peanuts|Metformin|Urgent
+1177|1177|19|119/83|98|15|36.1|99|3|Chest Discomfort|Sulfa drugs|Atorvastatin|Routine
+1178|1178|22|112/68|97|22|36.9|92|9|Dizziness|Sulfa drugs|Metformin|STAT
+1179|1179|18|126/89|60|19|38.5|95|5|Fever|Peanuts|Atorvastatin|STAT
+1180|1180|16|124/82|105|20|38.4|97|1|Shortness of Breath|Latex|Aspirin|Routine
+1181|1181|22|135/73|83|18|37.5|95|8|Fever|Sulfa drugs|Metoprolol|STAT
+1182|1182|23|121/85|77|14|36.9|94|6|Shortness of Breath|None|Aspirin|STAT
+1183|1183|24|123/84|102|21|38.4|94|7|Shortness of Breath|Sulfa drugs|Metoprolol|High-Priority Emergency
+1184|1184|16|135/75|82|18|38.0|93|7|Dizziness|Peanuts|Atorvastatin|Urgent
+1185|1185|19|115/80|99|14|36.5|98|2|Fever|Sulfa drugs|Lisinopril|high-priority emergency
+1186|1186|19|140/70|94|16|37.3|96|4|Shortness of Breath|None|Atorvastatin|Urgent
+1187|1187|25|133/82|67|13|37.0|100|1|Abdominal Pain|Penicillin|Lisinopril|High-Priority Emergency
+1188|1188|20|105/88|77|15|37.7|92|5|Shortness of Breath|Latex|Metoprolol|Routine
+1189|1189|20|115/71|66|15|36.5|95|9|Shortness of Breath|Latex|None|Routine
+1190|1190|24|110/84|103|19|38.2|92|3|Shortness of Breath|Sulfa drugs|Atorvastatin|STAT
+1191|1191|24|111/75|61|15|36.4|96|1|Shortness of Breath|Penicillin|Lisinopril|High-Priority Emergency
+1192|1192|25|124/75|80|15|38.0|95|3|Abdominal Pain|Sulfa drugs|Metoprolol|Routine
+1193|1193|16|110/87|93|22|36.6|93|3|Shortness of Breath|Latex|Lisinopril|Urgent
+1194|1194|24|134/65|70|18|36.1|100|0|Shortness of Breath|Sulfa drugs|Aspirin|STAT
+1195|1195|24|134/85|86|17|37.1|100|4|Dizziness|None|Lisinopril|Urgent
+1196|1196|22|109/61|91|13|36.3|97|6|Abdominal Pain|Latex|Metoprolol|Urgent
+1197|1197|23|106/67|99|18|36.6|98|0|Abdominal Pain|Penicillin|None|Urgent
+1198|1198|16|103/62|77|14|37.1|94|5|Chest Discomfort|Peanuts|Aspirin|STAT
+1199|1199|19|126/77|108|19|37.6|93|8|Fever|Peanuts|None|high-priority emergency
+1200|9999|19|128/62|75|12|36.1|94|10|Dizziness|None|None|Urgent

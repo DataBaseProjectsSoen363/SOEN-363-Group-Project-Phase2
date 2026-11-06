@@ -1,0 +1,1202 @@
+--- [ADMISSION] ---
+admission_id|patient_id|admission_date_time|discharge_date_time|admission_type|admission_source|reason_admission|insurance_information|current_condition|admitting_professional_id
+1|205|2026-02-15 07:15:00|2026-02-18 07:15:00|Observation|Walk-in|Syncope|Public (RAMQ)|Observation|10
+2|603|2026-07-22 11:45:00|2026-07-26 11:45:00|Urgent|Emergency Room|Syncope|None|Improving|4
+3|276|2026-01-02 13:15:00|2026-01-08 13:15:00|Observation|Emergency Room|Shortness of Breath|Self-pay|Critical|9
+4|733|2026-07-11 14:15:00|2026-07-20 14:15:00|Emergency|Emergency Room|Syncope|None|Stable|3
+5|633|2026-04-08 10:15:00|2026-04-17 10:15:00|Emergency|Walk-in|Fever|Public (RAMQ)|Improving|1
+6|488|2026-01-15 04:15:00|2026-01-25 04:15:00|Emergency|Walk-in|Shortness of Breath|Public (RAMQ)|Critical|15
+7|327|2026-05-08 07:30:00|2026-05-10 07:30:00|Emergency|Emergency Room|Chest Pain|Self-pay|Critical|13
+8|345|2026-07-27 12:45:00|2026-08-03 12:45:00|Elective|Walk-in|Abdominal Pain|None|Critical|14
+9|671|2026-06-17 23:30:00|2026-06-19 23:30:00|Elective|Physician Referral|Syncope|None|Improving|4
+10|83|2026-04-23 13:30:00|2026-04-25 13:30:00|Urgent|Transfer|Trauma|None|Improving|15
+11|675|2026-06-06 05:30:00|2026-06-13 05:30:00|Observation|Transfer|Abdominal Pain|Private Insurance|Improving|14
+12|198|2026-06-20 21:15:00|2026-06-25 21:15:00|Elective|Emergency Room|Abdominal Pain|Private Insurance|Critical|15
+13|820|2026-09-08 23:15:00|2026-09-17 23:15:00|Elective|Transfer|Syncope|Public (RAMQ)|Stable|11
+14|315|2026-05-29 01:00:00|2026-06-05 01:00:00|Urgent|Walk-in|Chest Pain|None|Critical|2
+15|337|2026-08-13 04:45:00|2026-08-20 04:45:00|Elective|Walk-in|Shortness of Breath|Public (RAMQ)|Observation|3
+16|641|2026-08-23 15:15:00|2026-08-25 15:15:00|Emergency|Emergency Room|Fever|Self-pay|Stable|15
+17|424|2026-02-12 04:00:00|2026-02-19 04:00:00|Elective|Walk-in|Abdominal Pain|Private Insurance|Observation|5
+18|194|2026-05-05 05:30:00|2026-05-10 05:30:00|Elective|Emergency Room|Shortness of Breath|Private Insurance|Critical|2
+19|154|2026-01-23 01:45:00|2026-01-26 01:45:00|Elective|Emergency Room|Trauma|Self-pay|Observation|9
+20|184|2026-01-29 04:45:00||Observation|Physician Referral|Chest Pain|None|Stable|12
+21|166|2026-08-16 05:45:00|2026-08-22 05:45:00|observation|Transfer|Shortness of Breath|Self-pay|Improving|15
+22|438|2026-01-19 01:30:00|2026-01-22 01:30:00|Urgent|Transfer|Chest Pain|Public (RAMQ)|Critical|13
+23|19|2026-08-09 09:45:00|2026-08-16 09:45:00|Elective|Physician Referral|Fever|Public (RAMQ)|Improving|13
+24|581|2026-04-22 00:00:00|2026-04-26 00:00:00|Urgent|Walk-in|Abdominal Pain|Public (RAMQ)|Stable|2
+25|37|2026-04-12 14:00:00|2026-04-15 14:00:00|Elective|Physician Referral|Trauma|Public (RAMQ)|Observation|9
+26|103|2026-06-06 06:15:00|2026-06-09 06:15:00|Elective|Emergency Room|Abdominal Pain|Public (RAMQ)|Critical|7
+27|704|2026-04-18 12:00:00|2026-04-22 12:00:00|Urgent|Emergency Room|Chest Pain|Private Insurance|Observation|12
+28|195|2026-01-13 21:30:00|2026-01-16 21:30:00| Urgent |Transfer|Abdominal Pain|Private Insurance|Critical|15
+29|146|2026-03-20 16:30:00|2026-03-24 16:30:00|Emergency|Walk-in|Shortness of Breath|Private Insurance|Improving|12
+30|385|2026-05-18 04:00:00|2026-05-19 04:00:00|Urgent|Walk-in|Chest Pain|Private Insurance|Observation|4
+31|745|2026-05-08 13:45:00|2026-05-17 13:45:00|Urgent|Emergency Room|Abdominal Pain|Private Insurance|Critical|6
+32|636|2026-03-11 09:15:00|2026-03-15 09:15:00|Emergency|Walk-in|Abdominal Pain|Private Insurance|Stable|2
+33|783|2026-07-26 22:45:00|2026-08-02 22:45:00|Elective|Emergency Room|Trauma|Self-pay|Observation|15
+34|70|2026-08-25 08:45:00|2026-09-02 08:45:00|emergency|Walk-in|Syncope|Public (RAMQ)|Observation|10
+35|674|2026-05-29 00:00:00|2026-05-31 00:00:00|EMERGENCY|Physician Referral|Abdominal Pain|Self-pay|Critical|10
+36|108|2026-08-04 05:45:00|2026-08-11 05:45:00|Urgent|Transfer|Syncope|Private Insurance|Stable|5
+37|72|2026-05-02 12:15:00|2026-05-07 12:15:00|Urgent|Physician Referral|Abdominal Pain|None|Improving|5
+38|338|2026-02-02 16:15:00|2026-02-12 16:15:00|Elective|Transfer|Shortness of Breath|None|Stable|9
+39|806|2026-04-28 03:00:00|2026-04-29 03:00:00|Elective|Transfer|Chest Pain|Self-pay|Critical|7
+40|693|2026-02-18 02:00:00|2026-02-24 02:00:00|Urgent|Transfer|Trauma|None|Improving|11
+41|134|2026-06-29 10:15:00|2026-07-03 10:15:00|Observation|Physician Referral|Shortness of Breath|Self-pay|Stable|1
+42|838|2026-02-09 04:45:00|2026-02-10 04:45:00|Urgent|Emergency Room|Shortness of Breath|Self-pay|Stable|6
+43|352|2026-02-20 20:15:00|2026-02-21 20:15:00|Observation|Transfer|Trauma|None|Improving|7
+44|209|2026-04-01 04:00:00|2026-04-06 04:00:00|Urgent|Emergency Room|Trauma|Self-pay|Improving|13
+45|133|2026-06-20 04:30:00|2026-06-21 04:30:00|Elective|Transfer|Trauma|Self-pay|Observation|3
+46|95|2026-09-04 11:00:00|2026-09-12 11:00:00|Observation|Emergency Room|Shortness of Breath|Public (RAMQ)|Observation|14
+47|72|2026-04-01 17:15:00|2026-04-07 17:15:00|Emergency|Emergency Room|Shortness of Breath|None|Critical|15
+48|781|2026-05-08 20:00:00|2026-05-12 20:00:00|Elective|Physician Referral|Fever|None|Improving|8
+49|22|2026-08-01 23:00:00|2026-08-06 23:00:00|Elective|Walk-in|Abdominal Pain|Public (RAMQ)|Improving|13
+50|715|2026-02-08 22:00:00|2026-02-14 22:00:00|Elective|Transfer|Syncope|None|Stable|15
+51|423|2026-03-08 19:30:00|2026-03-06 19:30:00|Emergency|Emergency Room|Shortness of Breath|Public (RAMQ)|Critical|12
+52|330|2026-04-02 12:15:00|2026-04-07 12:15:00|Elective|Walk-in|Fever|Self-pay|Critical|7
+53|145|2026-06-07 01:45:00|2026-06-16 01:45:00|Observation|Walk-in|Chest Pain|Self-pay|Observation|12
+54|337|2026-06-30 02:00:00|2026-07-04 02:00:00|Observation|Physician Referral|Shortness of Breath|Self-pay|Stable|4
+55|743|2026-01-23 20:45:00|2026-01-30 20:45:00|Observation|Walk-in|Chest Pain|None|Improving|1
+56|173|2026-08-25 04:45:00|2026-09-04 04:45:00|Observation|Walk-in|Fever|Self-pay|Observation|10
+57|798|2026-05-04 01:45:00|2026-05-08 01:45:00|Observation|Physician Referral|Abdominal Pain|Public (RAMQ)|Stable|2
+58|561|2026-09-01 17:00:00|2026-09-03 17:00:00|Elective|Emergency Room|  Abdominal Pain  |Private Insurance|Critical|7
+59|225|2026-02-22 06:00:00|2026-02-25 06:00:00|Urgent|Emergency Room|Abdominal Pain|None|Stable|10
+60|43|2026-08-12 06:45:00|2026-08-17 06:45:00|Urgent|Transfer|Syncope|None|Observation|14
+61|802|2026-05-18 19:00:00|2026-05-24 19:00:00|Observation|Emergency Room|Abdominal Pain|Public (RAMQ)|Improving|5
+62|604|2026-06-22 08:30:00|2026-06-27 08:30:00|Elective|Walk-in|Trauma|Private Insurance|Stable|6
+63|115|2026-04-10 10:15:00|2026-04-14 10:15:00|Urgent|Emergency Room|Fever|Self-pay|Improving|6
+64|276|2026-07-08 05:15:00|2026-07-18 05:15:00|Emergency|Walk-in|Abdominal Pain|Public (RAMQ)|Stable|8
+65|667|2026-05-29 08:15:00|2026-06-04 08:15:00|Urgent|Emergency Room|Chest Pain|Public (RAMQ)|Stable|6
+66|703|2026-03-23 15:45:00|2026-03-29 15:45:00|Elective|Walk-in|Fever|Self-pay|Observation|4
+67|202|2026-08-30 07:30:00|2026-09-08 07:30:00|Urgent|Emergency Room|Syncope|Public (RAMQ)|Stable|8
+68|279|2026-08-06 13:00:00||Emergency|Transfer|Chest Pain|Self-pay|Improving|14
+69|395|2026-01-13 13:15:00|2026-01-21 13:15:00|Emergency|Transfer|Syncope|Private Insurance|Critical|10
+70|46|2026-05-22 10:15:00|2026-06-01 10:15:00|Observation|Walk-in|Chest Pain|Private Insurance|Critical|9
+71|176|2026-04-20 02:30:00|2026-04-22 02:30:00|Emergency|Walk-in|Fever|Self-pay|Improving|11
+72|134|2026-07-17 23:45:00|2026-07-26 23:45:00|Observation|Emergency Room|Trauma|Public (RAMQ)|Stable|9
+73|658|2026-02-13 19:15:00|2026-02-22 19:15:00|Urgent|Transfer|Abdominal Pain|Private Insurance|Stable|2
+74|772|2026-07-11 08:30:00|2026-07-14 08:30:00|Observation|Transfer|Fever|Self-pay|Critical|9
+75|285|2026-02-26 19:00:00|2026-03-06 19:00:00|Urgent|Physician Referral|Fever|Public (RAMQ)|Improving|5
+76|535|2026-03-13 00:30:00|2026-03-14 00:30:00|Elective|Physician Referral|Abdominal Pain|None|Critical|8
+77|200|2026-07-31 00:00:00|2026-08-08 00:00:00|Urgent|Walk-in|Fever|Private Insurance|Stable|3
+78|602|2026-04-05 07:30:00|2026-04-11 07:30:00|Emergency|Transfer|Syncope|Public (RAMQ)|Critical|10
+79|46|2026-02-25 12:45:00|2026-03-02 12:45:00|Elective|Physician Referral|Chest Pain|None|Critical|5
+80|438|2026-03-18 03:00:00|2026-03-20 03:00:00|Elective|Emergency Room|Trauma|None|Critical|15
+81|485|2026-08-10 17:30:00|2026-08-20 17:30:00|Urgent|Physician Referral|Fever|Public (RAMQ)|Observation|4
+82|259|2026-04-06 22:45:00|2026-04-12 22:45:00|Elective|Walk-in|Syncope|None|Stable|15
+83|96|2026-06-01 20:45:00|2026-05-30 20:45:00|Elective|Physician Referral|Fever|Self-pay|Observation|8
+84|766|2026-04-02 22:00:00|2026-04-12 22:00:00|Emergency|Physician Referral|Fever|Private Insurance|Improving|11
+85|200|2026-04-04 03:15:00|2026-04-12 03:15:00|Observation|Emergency Room|Syncope|Private Insurance|Stable|5
+86|762|2026-05-09 09:45:00|2026-05-10 09:45:00|Observation|Walk-in|Abdominal Pain|Self-pay|Stable|6
+87|276|2026-05-03 18:45:00|2026-05-04 18:45:00|Observation|Walk-in|Shortness of Breath|Self-pay|Stable|10
+88|113|2026-07-02 19:15:00|2026-07-03 19:15:00|Elective|Physician Referral|Abdominal Pain|Public (RAMQ)|Stable|8
+89|356|2026-07-26 06:45:00|2026-08-03 06:45:00|Emergency|Emergency Room|Syncope|Self-pay|Critical|8
+90|132|2026-01-03 00:15:00|2026-01-10 00:15:00|Observation|Transfer|Fever|Public (RAMQ)|Stable|6
+91|728|2026-06-07 04:00:00|2026-06-08 04:00:00|Urgent|Physician Referral|Abdominal Pain|Private Insurance|Critical|3
+92|294|2026-05-17 02:45:00|2026-05-26 02:45:00|Observation|Transfer|Syncope|Private Insurance|Improving|2
+93|266|2026-08-04 13:00:00|2026-08-08 13:00:00|Observation|Transfer|Abdominal Pain|None|Stable|15
+94|166|2026-01-11 02:15:00|2026-01-17 02:15:00|Observation|Transfer|Shortness of Breath|Self-pay|Observation|10
+95|1|2026-01-13 10:45:00|2026-01-18 10:45:00|Emergency|Transfer|Trauma|Self-pay|Critical|10
+96|730|2026-09-02 05:15:00|2026-09-03 05:15:00|Emergency|Transfer|Fever|Public (RAMQ)|Critical|7
+97|254|2026-08-04 18:30:00|2026-08-08 18:30:00|emergency|Emergency Room|Chest Pain|None|Critical|12
+98|579|2026-07-30 19:15:00|2026-08-05 19:15:00|Elective|Walk-in|Shortness of Breath|None|Improving|2
+99|617|2026-05-14 07:45:00|2026-05-23 07:45:00|Observation|Transfer|Abdominal Pain|Self-pay|Improving|10
+100|267|2026-03-15 03:30:00|2026-03-16 03:30:00|Elective|Walk-in|Chest Pain|Private Insurance|Observation|3
+101|238|2026-01-08 17:45:00|2026-01-18 17:45:00|elective|Physician Referral|Abdominal Pain|Self-pay|Critical|1
+102|720|2026-05-29 12:00:00|2026-05-31 12:00:00|Elective|Physician Referral|Syncope|Public (RAMQ)|Improving|6
+103|190|2026-07-14 00:30:00|2026-07-20 00:30:00|Urgent|Physician Referral|Fever|Self-pay|Improving|14
+104|545|2026-05-27 12:00:00|2026-06-02 12:00:00|Emergency|Walk-in|Shortness of Breath|None|Improving|2
+105|190|2026-05-02 12:30:00|2026-05-10 12:30:00|Observation|Emergency Room|Fever|Public (RAMQ)|Observation|8
+106|302|2026-07-24 14:45:00|2026-07-22 14:45:00|emergency|Walk-in|  Trauma  |None|Improving|3
+107|674|2026-02-01 17:15:00|2026-02-09 17:15:00|Elective|Walk-in|Syncope|Private Insurance|Improving|7
+108|77|2026-04-11 05:00:00|2026-04-18 05:00:00|Elective|Transfer|Syncope|Private Insurance|Improving|1
+109|63|2026-09-06 21:15:00|2026-09-12 21:15:00|Emergency|Physician Referral|Trauma|None|Stable|6
+110|402|2026-07-26 05:00:00|2026-08-03 05:00:00|Urgent|Physician Referral|Chest Pain|None|Stable|5
+111|622|2026-07-30 17:00:00|2026-08-08 17:00:00|Emergency|Transfer|Shortness of Breath|Public (RAMQ)|Improving|15
+112|139|2026-06-18 12:30:00|2026-06-22 12:30:00|Urgent|Emergency Room|Syncope|Public (RAMQ)|Critical|12
+113|724|2026-01-07 12:15:00|2026-01-16 12:15:00|Emergency|Emergency Room|Fever|Public (RAMQ)|Improving|6
+114|6|2026-03-16 07:15:00|2026-03-26 07:15:00| Observation |Emergency Room|Abdominal Pain|Private Insurance|Critical|2
+115|326|2026-03-23 23:15:00|2026-03-28 23:15:00|Emergency|Emergency Room|Syncope|Public (RAMQ)|Observation|1
+116|658|2026-04-04 16:45:00|2026-04-08 16:45:00|Elective|Transfer|Syncope|Private Insurance|Critical|7
+117|660|2026-01-06 17:15:00|2026-01-13 17:15:00|Observation|Emergency Room|Trauma|Public (RAMQ)|Observation|13
+118|72|2026-04-07 06:30:00|2026-04-13 06:30:00|Elective|Walk-in|Chest Pain|Self-pay|Critical|14
+119|427|2026-03-05 14:45:00|2026-03-12 14:45:00|Emergency|Physician Referral|Chest Pain|Self-pay|Improving|14
+120|777|2026-03-30 01:30:00|2026-04-01 01:30:00|EMERGENCY|Walk-in|Trauma|Public (RAMQ)|Observation|11
+121|482|2026-05-27 06:30:00|2026-06-01 06:30:00|Emergency|Transfer|Fever|Private Insurance|Observation|14
+122|26|2026-07-31 11:00:00|2026-08-07 11:00:00|URGENT|Walk-in|Abdominal Pain|None|Critical|5
+123|424|2026-05-04 02:30:00|2026-05-11 02:30:00|Observation|Transfer|Trauma|None|Critical|11
+124|153|2026-08-24 21:30:00|2026-08-28 21:30:00|Emergency|Transfer|Chest Pain|Public (RAMQ)|Improving|1
+125|267|2026-01-31 14:30:00||Elective|Transfer|Syncope|None|Critical|8
+126|56|2026-01-03 16:15:00|2026-01-13 16:15:00|Emergency|Physician Referral|Abdominal Pain|Public (RAMQ)|Improving|8
+127|745|2026-01-25 08:45:00|2026-02-04 08:45:00|Emergency|Emergency Room|Trauma|Self-pay|Stable|10
+128|96|2026-01-08 17:00:00|2026-01-14 17:00:00|Emergency|Walk-in|Chest Pain|Public (RAMQ)|Critical|7
+129|193|2026-05-20 00:30:00|2026-05-29 00:30:00|Observation|Emergency Room|Trauma|Private Insurance|Improving|3
+130|776|2026-02-20 11:45:00|2026-02-27 11:45:00|EMERGENCY|Physician Referral|Chest Pain|Self-pay|Improving|13
+131|671|2026-06-02 21:00:00|2026-06-05 21:00:00|Urgent|Emergency Room|Syncope|Public (RAMQ)|Observation|10
+132|488|2026-05-10 10:30:00|2026-05-18 10:30:00|Observation|Physician Referral|Syncope|Public (RAMQ)|Improving|5
+133|757|2026-01-13 15:30:00|2026-01-20 15:30:00|Elective|Walk-in|Fever|Self-pay|Improving|7
+134|448|2026-03-07 22:30:00|2026-03-10 22:30:00|Observation|Physician Referral|Trauma|None|Stable|15
+135|571|2026-03-17 03:00:00|2026-03-24 03:00:00|Observation|Walk-in|Syncope|None|Stable|8
+136|180|2026-01-18 18:15:00|2026-01-24 18:15:00| Elective |Walk-in|Shortness of Breath|Public (RAMQ)|Improving|5
+137|454|2026-08-16 16:15:00|2026-08-26 16:15:00|Observation|Transfer|  Shortness of Breath  |Public (RAMQ)|Stable|10
+138|204|2026-03-17 05:45:00|2026-03-27 05:45:00|Observation|Walk-in|Trauma|None|Stable|1
+139|90|2026-01-20 04:45:00|2026-01-29 04:45:00|Urgent|Walk-in|Trauma|None|Improving|8
+140|205|2026-02-07 14:00:00|2026-02-11 14:00:00|Urgent|Physician Referral|Fever|Self-pay|Critical|2
+141|790|2026-05-04 14:30:00|2026-05-05 14:30:00|Observation|Physician Referral|Syncope|None|Stable|9
+142|471|2026-06-26 17:30:00|2026-06-27 17:30:00|Elective|Physician Referral|Trauma|Self-pay|Improving|7
+143|335|2026-05-04 17:30:00|2026-05-10 17:30:00|Observation|Transfer|Shortness of Breath|None|Stable|1
+144|500|2026-05-17 03:15:00|2026-05-21 03:15:00|Urgent|Walk-in|Shortness of Breath|Private Insurance|Observation|11
+145|781|2026-01-08 17:15:00|2026-01-09 17:15:00|Emergency|Walk-in|Shortness of Breath|Private Insurance|Stable|12
+146|66|2026-06-02 19:30:00|2026-06-07 19:30:00|Urgent|Walk-in|Abdominal Pain|None|Improving|8
+147|63|2026-08-19 17:30:00|2026-08-26 17:30:00|Observation|Physician Referral|Trauma|Private Insurance|Stable|1
+148|229|2026-04-18 17:00:00|2026-04-28 17:00:00|Urgent|Emergency Room|Syncope|Public (RAMQ)|Stable|12
+149|77|2026-06-05 18:45:00|2026-06-11 18:45:00|Urgent|Physician Referral|Trauma|None|Stable|13
+150|305|2026-01-19 22:15:00|2026-01-22 22:15:00|Emergency|Walk-in|Chest Pain|Private Insurance|Critical|3
+151|99|2026-01-18 22:45:00|2026-01-28 22:45:00|Urgent|Transfer|Chest Pain|Self-pay|Improving|12
+152|441|2026-05-25 19:15:00|2026-06-01 19:15:00|Emergency|Physician Referral|Syncope|None|Stable|3
+153|341|2026-02-27 08:00:00|2026-03-03 08:00:00|Emergency|Physician Referral|Chest Pain|Private Insurance|Observation|5
+154|74|2026-09-07 11:00:00|2026-09-14 11:00:00|Observation|Emergency Room|  Shortness of Breath  |Self-pay|Critical|2
+155|472|2026-05-01 13:15:00|2026-05-07 13:15:00|Observation|Emergency Room|Fever|Private Insurance|Improving|15
+156|636|2026-05-27 07:00:00|2026-06-01 07:00:00|Elective|Transfer|Trauma|Private Insurance|Stable|6
+157|711|2026-06-22 14:00:00|2026-06-23 14:00:00|Elective|Emergency Room|Fever|Self-pay|Improving|9
+158|180|2026-07-03 16:45:00|2026-07-13 16:45:00|Observation|Physician Referral|Chest Pain|Private Insurance|Improving|11
+159|734|2026-07-15 13:30:00|2026-07-18 13:30:00|Observation|Transfer|Trauma|None|Observation|14
+160|44|2026-08-01 14:15:00|2026-08-05 14:15:00|Elective|Physician Referral|Fever|Private Insurance|Stable|11
+161|198|2026-07-20 17:00:00|2026-07-22 17:00:00|Observation|Transfer|Syncope|Private Insurance|Stable|5
+162|428|2026-06-01 21:30:00|2026-06-10 21:30:00|Urgent|Transfer|Trauma|Self-pay|Improving|2
+163|411|2026-06-25 16:15:00|2026-06-28 16:15:00|Urgent|Walk-in|Chest Pain|Private Insurance|Stable|1
+164|447|2026-08-30 00:30:00|2026-09-04 00:30:00|Observation|Emergency Room|Fever|None|Improving|3
+165|243|2026-01-21 10:30:00|2026-01-24 10:30:00|Urgent|Walk-in|Shortness of Breath|Public (RAMQ)|Observation|13
+166|186|2026-06-25 18:30:00|2026-07-05 18:30:00|Urgent|Physician Referral|Chest Pain|None|Observation|4
+167|709|2026-01-16 01:45:00|2026-01-20 01:45:00|Emergency|Physician Referral|Chest Pain|Public (RAMQ)|Critical|9
+168|348|2026-04-07 17:30:00|2026-04-12 17:30:00|Urgent|Walk-in|Chest Pain|None|Observation|7
+169|342|2026-02-13 02:45:00|2026-02-18 02:45:00|Observation|Transfer|Abdominal Pain|Self-pay|Observation|11
+170|677|2026-02-01 00:00:00|2026-02-05 00:00:00|Observation|Walk-in|Fever|Self-pay|Improving|6
+171|502|2026-03-02 04:00:00|2026-03-12 04:00:00|Observation|Physician Referral|Trauma|Self-pay|Improving|8
+172|590|2026-08-11 00:00:00|2026-08-17 00:00:00|Elective|Walk-in|Syncope|Public (RAMQ)|Critical|1
+173|352|2026-08-12 16:00:00|2026-08-14 16:00:00|Elective|Transfer|Fever|Private Insurance|Stable|2
+174|740|2026-05-20 02:15:00|2026-05-25 02:15:00|Observation|Walk-in|Fever|Private Insurance|Critical|13
+175|531|2026-06-04 16:45:00|2026-06-08 16:45:00|Emergency|Physician Referral|Fever|Self-pay|Stable|10
+176|179|2026-05-30 20:15:00|2026-06-08 20:15:00|Urgent|Emergency Room|Chest Pain|Public (RAMQ)|Stable|8
+177|402|2026-02-08 10:00:00|2026-02-10 10:00:00|Urgent|Transfer|Syncope|Self-pay|Observation|10
+178|661|2026-03-06 00:15:00|2026-03-14 00:15:00|Emergency|Emergency Room|Trauma|Self-pay|Improving|14
+179|351|2026-05-17 00:45:00|2026-05-20 00:45:00|Emergency|Transfer|Syncope|Public (RAMQ)|Stable|1
+180|327|2026-03-12 04:00:00|2026-03-22 04:00:00|Urgent|Walk-in|Shortness of Breath|None|Improving|2
+181|538|2026-06-02 11:15:00|2026-06-12 11:15:00|Urgent|Physician Referral|Fever|Private Insurance|Improving|4
+182|90|2026-01-15 13:15:00|2026-01-25 13:15:00| Urgent |Walk-in|Fever|Private Insurance|Improving|1
+183|341|2026-07-26 21:45:00|2026-08-04 21:45:00|Elective|Emergency Room|Fever|Private Insurance|Observation|7
+184|313|2026-06-30 18:30:00|2026-07-01 18:30:00| Elective |Walk-in|Abdominal Pain|Public (RAMQ)|Improving|12
+185|421|2026-03-08 11:45:00|2026-03-12 11:45:00|Elective|Walk-in|Chest Pain|None|Improving|12
+186|214|2026-06-17 09:45:00|2026-06-21 09:45:00|Emergency|Physician Referral|Chest Pain|Public (RAMQ)|Observation|13
+187|772|2026-04-21 14:30:00|2026-04-26 14:30:00|Emergency|Physician Referral|  Fever  |Self-pay|Stable|12
+188|336|2026-08-17 07:00:00|2026-08-21 07:00:00|Urgent|Physician Referral|Chest Pain|Private Insurance|Stable|10
+189|377|2026-03-07 18:00:00|2026-03-12 18:00:00|Emergency|Transfer|  Shortness of Breath  |None|Critical|12
+190|315|2026-05-02 16:45:00|2026-05-04 16:45:00|Elective|Emergency Room|Trauma|Self-pay|Improving|2
+191|372|2026-07-31 15:45:00|2026-08-07 15:45:00|Urgent|Transfer|Trauma|None|Improving|1
+192|800|2026-01-28 14:15:00|2026-01-31 14:15:00|Urgent|Physician Referral|Chest Pain|Private Insurance|Improving|2
+193|427|2026-05-28 21:45:00|2026-06-03 21:45:00|Observation|Walk-in|Syncope|Public (RAMQ)|Observation|11
+194|206|2026-02-05 04:45:00|2026-02-06 04:45:00|Elective|Emergency Room|Syncope|Public (RAMQ)|Observation|10
+195|707|2026-05-24 03:15:00|2026-05-30 03:15:00|Elective|Physician Referral|Chest Pain|Self-pay|Improving|10
+196|181|2026-04-27 16:30:00|2026-05-04 16:30:00|Elective|Emergency Room|Abdominal Pain|Public (RAMQ)|Stable|10
+197|55|2026-05-21 10:30:00|2026-05-26 10:30:00|Urgent|Transfer|Chest Pain|Self-pay|Improving|6
+198|483|2026-07-17 08:30:00|2026-07-26 08:30:00|Urgent|Physician Referral|Abdominal Pain|Self-pay|Observation|4
+199|298|2026-01-22 08:45:00|2026-01-26 08:45:00|Urgent|Transfer|Shortness of Breath|Public (RAMQ)|Observation|5
+200|201|2026-08-09 15:00:00|2026-08-18 15:00:00|Observation|Transfer|Shortness of Breath|None|Critical|4
+201|490|2026-07-06 00:00:00|2026-07-14 00:00:00|Emergency|Walk-in|Fever|None|Improving|3
+202|754|2026-06-12 14:45:00||Emergency|Walk-in|Abdominal Pain|None|Critical|4
+203|389|2026-01-08 06:00:00|2026-01-13 06:00:00|Observation|Emergency Room|Trauma|None|Improving|5
+204|123|2026-05-16 06:15:00|2026-05-25 06:15:00|Urgent|Physician Referral|Shortness of Breath|Self-pay|Critical|15
+205|676|2026-02-13 19:30:00|2026-02-20 19:30:00|Urgent|Emergency Room|Chest Pain|Public (RAMQ)|Observation|1
+206|765|2026-01-12 06:15:00|2026-01-21 06:15:00|Elective|Emergency Room|Abdominal Pain|Self-pay|Improving|2
+207|175|2026-04-18 22:45:00|2026-04-22 22:45:00|Elective|Transfer|Abdominal Pain|Private Insurance|Improving|13
+208|520|2026-03-04 15:45:00|2026-03-10 15:45:00|Urgent|Walk-in|Syncope|None|Observation|12
+209|154|2026-04-25 21:15:00|2026-05-04 21:15:00|Emergency|Walk-in|Shortness of Breath|Self-pay|Improving|11
+210|70|2026-05-29 15:45:00||Observation|Physician Referral|Shortness of Breath|Self-pay|Improving|8
+211|693|2026-08-13 00:15:00|2026-08-22 00:15:00|Urgent|Physician Referral|Abdominal Pain|None|Stable|4
+212|98|2026-06-21 13:30:00|2026-06-22 13:30:00|Elective|Walk-in|Abdominal Pain|Public (RAMQ)|Observation|15
+213|417|2026-03-07 11:45:00|2026-03-15 11:45:00|Urgent|Emergency Room|  Chest Pain  |Self-pay|Observation|15
+214|228|2026-01-14 02:45:00|2026-01-16 02:45:00|Emergency|Transfer|Syncope|Private Insurance|Improving|4
+215|320|2026-08-20 18:15:00|2026-08-26 18:15:00| Emergency |Physician Referral|Shortness of Breath|Private Insurance|Improving|9
+216|539|2026-04-13 17:15:00|2026-04-21 17:15:00|Emergency|Emergency Room|Syncope|Self-pay|Observation|9
+217|661|2026-01-16 20:45:00|2026-01-19 20:45:00|Emergency|Transfer|  Trauma  |Self-pay|Observation|13
+218|806|2026-06-28 15:45:00|2026-07-03 15:45:00|Observation|Walk-in|Syncope|Public (RAMQ)|Improving|10
+219|59|2026-07-29 18:15:00|2026-08-02 18:15:00|Observation|Transfer|Shortness of Breath|Self-pay|Stable|11
+220|242|2026-02-06 09:45:00|2026-02-12 09:45:00|Observation|Transfer|Fever|Public (RAMQ)|Critical|14
+221|442|2026-01-06 12:30:00|2026-01-10 12:30:00|Elective|Walk-in|Chest Pain|Public (RAMQ)|Observation|6
+222|219|2026-07-04 00:15:00|2026-07-07 00:15:00|Observation|Walk-in|Trauma|Private Insurance|Improving|15
+223|370|2026-08-28 06:15:00|2026-09-02 06:15:00|Elective|Transfer|Abdominal Pain|None|Observation|9
+224|343|2026-08-23 12:45:00|2026-08-26 12:45:00|Elective|Physician Referral|Fever|Self-pay|Critical|11
+225|43|2026-02-27 03:30:00|2026-03-04 03:30:00|Elective|Physician Referral|Fever|Private Insurance|Critical|11
+226|516|2026-02-27 19:45:00|2026-03-08 19:45:00|Observation|Transfer|Abdominal Pain|Self-pay|Improving|7
+227|140|2026-08-18 16:45:00|2026-08-21 16:45:00|Emergency|Emergency Room|Fever|None|Critical|5
+228|692|2026-01-03 15:30:00|2026-01-10 15:30:00|Elective|Physician Referral|Syncope|None|Improving|4
+229|747|2026-01-13 20:15:00|2026-01-18 20:15:00|Urgent|Walk-in|Abdominal Pain|Private Insurance|Improving|6
+230|335|2026-04-25 04:45:00|2026-04-29 04:45:00|Observation|Walk-in|Abdominal Pain|Self-pay|Observation|7
+231|373|2026-08-31 10:15:00|2026-09-03 10:15:00|Observation|Transfer|Shortness of Breath|None|Improving|11
+232|105|2026-06-24 03:30:00|2026-06-26 03:30:00|Observation|Physician Referral|Chest Pain|Private Insurance|Stable|6
+233|235|2026-01-19 03:45:00|2026-01-21 03:45:00|Urgent|Walk-in|Chest Pain|Self-pay|Stable|7
+234|302|2026-03-08 15:45:00|2026-03-16 15:45:00|Observation|Walk-in|Trauma|Public (RAMQ)|Improving|4
+235|618|2026-03-19 08:30:00|2026-03-23 08:30:00|Observation|Emergency Room|Fever|Self-pay|Stable|15
+236|226|2026-05-08 07:15:00|2026-05-12 07:15:00|Emergency|Physician Referral|Abdominal Pain|Self-pay|Stable|6
+237|254|2026-06-14 05:30:00|2026-06-18 05:30:00|Elective|Physician Referral|Syncope|Self-pay|Improving|7
+238|559|2026-01-26 23:30:00|2026-01-28 23:30:00|Elective|Physician Referral|Syncope|Private Insurance|Observation|7
+239|689|2026-03-28 07:00:00|2026-04-03 07:00:00|Observation|Physician Referral|Abdominal Pain|None|Critical|2
+240|282|2026-06-03 21:30:00|2026-06-13 21:30:00|Emergency|Emergency Room|Shortness of Breath|None|Improving|4
+241|443|2026-04-26 14:45:00|2026-04-27 14:45:00|Observation|Emergency Room|Shortness of Breath|Self-pay|Observation|1
+242|813|2026-09-02 16:30:00|2026-09-05 16:30:00|Elective|Transfer|Syncope|Self-pay|Critical|3
+243|334|2026-08-02 03:30:00|2026-08-07 03:30:00|Emergency|Physician Referral|Syncope|Self-pay|Stable|4
+244|359|2026-01-17 11:30:00|2026-01-23 11:30:00|Observation|Physician Referral|Chest Pain|Self-pay|Observation|6
+245|809|2026-03-28 07:30:00|2026-04-01 07:30:00|Elective|Walk-in|Trauma|Self-pay|Critical|9
+246|376|2026-05-16 09:30:00|2026-05-23 09:30:00|Observation|Walk-in|Trauma|Private Insurance|Stable|6
+247|741|2026-03-16 23:30:00|2026-03-18 23:30:00|Elective|Physician Referral|Fever|Self-pay|Critical|8
+248|288|2026-05-26 00:15:00|2026-05-29 00:15:00|Observation|Physician Referral|Trauma|Public (RAMQ)|Critical|11
+249|306|2026-05-26 06:00:00|2026-05-30 06:00:00|Observation|Transfer|Abdominal Pain|Private Insurance|Observation|13
+250|710|2026-01-15 18:30:00|2026-01-25 18:30:00|Emergency|Physician Referral|Fever|Public (RAMQ)|Observation|8
+251|89|2026-04-09 21:45:00|2026-04-12 21:45:00|Urgent|Walk-in|Chest Pain|Public (RAMQ)|Stable|6
+252|121|2026-05-11 05:00:00|2026-05-13 05:00:00|Observation|Transfer|Shortness of Breath|Public (RAMQ)|Critical|7
+253|721|2026-05-25 12:30:00|2026-06-03 12:30:00|Emergency|Transfer|Chest Pain|Self-pay|Critical|6
+254|200|2026-08-18 11:00:00|2026-08-25 11:00:00|Urgent|Physician Referral|Fever|Private Insurance|Improving|5
+255|297|2026-06-17 06:00:00|2026-06-25 06:00:00|Urgent|Emergency Room|Fever|Self-pay|Stable|6
+256|132|2026-06-06 08:15:00|2026-06-10 08:15:00|Observation|Emergency Room|Shortness of Breath|None|Improving|7
+257|750|2026-01-18 04:30:00|2026-01-22 04:30:00|Observation|Physician Referral|Chest Pain|Self-pay|Improving|10
+258|228|2026-06-13 10:00:00|2026-06-16 10:00:00|Urgent|Transfer|Fever|Public (RAMQ)|Observation|11
+259|461|2026-07-20 16:30:00|2026-07-23 16:30:00|Observation|Emergency Room|Trauma|Public (RAMQ)|Stable|1
+260|449|2026-03-13 10:15:00|2026-03-16 10:15:00|Elective|Transfer|Fever|Private Insurance|Improving|8
+261|726|2026-01-10 06:45:00|2026-01-17 06:45:00|Elective|Transfer|Shortness of Breath|Public (RAMQ)|Improving|9
+262|185|2026-04-20 19:30:00|2026-04-22 19:30:00|Elective|Emergency Room|Shortness of Breath|Private Insurance|Stable|4
+263|475|2026-01-27 02:45:00|2026-02-05 02:45:00|Urgent|Transfer|Trauma|Public (RAMQ)|Critical|5
+264|153|2026-01-23 19:30:00||Emergency|Transfer|Shortness of Breath|Private Insurance|Stable|5
+265|439|2026-09-08 15:00:00|2026-09-18 15:00:00|Elective|Transfer|Fever|Public (RAMQ)|Observation|3
+266|183|2026-01-07 05:00:00|2026-01-12 05:00:00|Emergency|Transfer|Syncope|Public (RAMQ)|Stable|1
+267|767|2026-05-25 06:30:00|2026-05-26 06:30:00|Emergency|Transfer|Syncope|None|Improving|9
+268|462|2026-03-27 20:15:00|2026-04-03 20:15:00|Observation|Physician Referral|Abdominal Pain|Self-pay|Critical|13
+269|247|2026-07-10 08:30:00|2026-07-08 08:30:00|Emergency|Transfer|Shortness of Breath|Public (RAMQ)|Critical|1
+270|580|2026-03-09 14:45:00|2026-03-19 14:45:00|Urgent|Transfer|Shortness of Breath|Public (RAMQ)|Critical|9
+271|750|2026-02-13 05:00:00|2026-02-17 05:00:00|Observation|Emergency Room|Shortness of Breath|Private Insurance|Critical|8
+272|437|2026-03-15 01:30:00|2026-03-18 01:30:00|Urgent|Transfer|Chest Pain|Private Insurance|Stable|2
+273|691|2026-05-19 16:45:00|2026-05-22 16:45:00|Elective|Physician Referral|Trauma|None|Improving|6
+274|471|2026-08-01 07:45:00|2026-08-02 07:45:00|Emergency|Physician Referral|Shortness of Breath|None|Critical|6
+275|89|2026-05-20 10:15:00|2026-05-25 10:15:00|Elective|Walk-in|Abdominal Pain|Public (RAMQ)|Improving|6
+276|277|2026-06-19 22:15:00|2026-06-27 22:15:00|Observation|Emergency Room|  Abdominal Pain  |Public (RAMQ)|Improving|3
+277|296|2026-05-26 19:15:00|2026-05-31 19:15:00|Emergency|Walk-in|Abdominal Pain|Private Insurance|Stable|9
+278|410|2026-01-21 13:30:00|2026-01-23 13:30:00|Observation|Emergency Room|Trauma|Private Insurance|Critical|9
+279|199|2026-07-25 22:45:00|2026-08-02 22:45:00|Elective|Transfer|Abdominal Pain|Private Insurance|Critical|2
+280|16|2026-06-28 11:30:00|2026-07-07 11:30:00|Emergency|Transfer|Shortness of Breath|Private Insurance|Improving|13
+281|531|2026-06-14 00:00:00|2026-06-19 00:00:00|Elective|Transfer|Syncope|None|Observation|14
+282|346|2026-02-19 15:30:00|2026-02-28 15:30:00|Observation|Transfer|Chest Pain|Self-pay|Stable|5
+283|98|2026-04-17 23:00:00|2026-04-20 23:00:00|Elective|Walk-in|Syncope|None|Improving|10
+284|391|2026-06-25 08:30:00|2026-07-02 08:30:00|Observation|Emergency Room|Shortness of Breath|Public (RAMQ)|Improving|14
+285|263|2026-01-27 18:00:00|2026-02-01 18:00:00|Elective|Transfer|Abdominal Pain|Self-pay|Critical|11
+286|197|2026-05-12 00:45:00|2026-05-20 00:45:00|Observation|Physician Referral|Shortness of Breath|Self-pay|Stable|12
+287|346|2026-03-18 04:00:00|2026-03-25 04:00:00|Urgent|Walk-in|  Fever  |Self-pay|Stable|4
+288|446|2026-03-25 14:00:00|2026-03-28 14:00:00|Observation|Walk-in|Trauma|Private Insurance|Improving|11
+289|68|2026-06-18 19:15:00|2026-06-22 19:15:00|Elective|Transfer|Syncope|None|Observation|4
+290|154|2026-06-15 12:15:00|2026-06-18 12:15:00|Elective|Walk-in|Abdominal Pain|Private Insurance|Stable|7
+291|37|2026-08-17 18:15:00|2026-08-22 18:15:00|Emergency|Emergency Room|Shortness of Breath|None|Observation|4
+292|58|2026-08-28 03:15:00|2026-09-01 03:15:00|Emergency|Transfer|Chest Pain|None|Improving|6
+293|308|2026-05-17 14:45:00|2026-05-22 14:45:00|Urgent|Emergency Room|Shortness of Breath|Self-pay|Improving|5
+294|659|2026-08-05 10:00:00|2026-08-06 10:00:00|Urgent|Walk-in|Shortness of Breath|Self-pay|Critical|4
+295|163|2026-08-01 00:45:00|2026-08-06 00:45:00|Observation|Transfer|Abdominal Pain|Private Insurance|Observation|7
+296|587|2026-08-23 02:30:00|2026-08-21 02:30:00|Urgent|Walk-in|Shortness of Breath|Public (RAMQ)|Stable|15
+297|9|2026-07-11 19:00:00|2026-07-19 19:00:00|Urgent|Walk-in|Abdominal Pain|Self-pay|Critical|1
+298|795|2026-07-16 21:00:00|2026-07-22 21:00:00|Urgent|Emergency Room|Syncope|Private Insurance|Improving|1
+299|399|2026-01-22 05:45:00|2026-01-25 05:45:00|Observation|Walk-in|Shortness of Breath|Public (RAMQ)|Improving|11
+300|463|2026-05-16 16:15:00|2026-05-20 16:15:00|Observation|Emergency Room|Shortness of Breath|Self-pay|Observation|2
+301|353|2026-04-23 22:15:00|2026-05-03 22:15:00|Elective|Physician Referral|Syncope|Public (RAMQ)|Observation|14
+302|538|2026-08-08 06:45:00|2026-08-13 06:45:00|Emergency|Transfer|  Chest Pain  |Public (RAMQ)|Observation|10
+303|25|2026-05-14 22:00:00|2026-05-19 22:00:00|Emergency|Walk-in|Chest Pain|Public (RAMQ)|Observation|5
+304|710|2026-06-03 12:00:00|2026-06-08 12:00:00|Emergency|Transfer|Trauma|Private Insurance|Observation|10
+305|562|2026-01-07 23:00:00|2026-01-17 23:00:00|Emergency|Walk-in|Syncope|Public (RAMQ)|Observation|10
+306|695|2026-02-11 02:15:00|2026-02-16 02:15:00|urgent|Walk-in|Chest Pain|Self-pay|Critical|1
+307|578|2026-07-29 15:15:00|2026-08-08 15:15:00|Elective|Emergency Room|Shortness of Breath|Private Insurance|Observation|5
+308|159|2026-07-26 09:45:00|2026-07-27 09:45:00|Elective|Emergency Room|Chest Pain|None|Improving|7
+309|293|2026-01-16 07:15:00|2026-01-23 07:15:00|Elective|Transfer|Chest Pain|Public (RAMQ)|Stable|6
+310|397|2026-07-22 21:30:00|2026-07-28 21:30:00| Emergency |Transfer|Fever|Self-pay|Stable|1
+311|744|2026-03-02 18:30:00|2026-03-06 18:30:00|Emergency|Physician Referral|Fever|Public (RAMQ)|Improving|11
+312|521|2026-05-27 07:15:00|2026-05-25 07:15:00|Elective|Physician Referral|Trauma|Self-pay|Improving|5
+313|649|2026-02-28 01:15:00|2026-03-09 01:15:00|Urgent|Walk-in|Syncope|Self-pay|Improving|6
+314|425|2026-03-27 14:30:00|2026-04-02 14:30:00|Elective|Walk-in|Trauma|Public (RAMQ)|Critical|1
+315|779|2026-01-07 08:45:00|2026-01-16 08:45:00|Elective|Physician Referral|Abdominal Pain|Self-pay|Critical|1
+316|816|2026-03-15 14:45:00|2026-03-19 14:45:00|Emergency|Walk-in|Abdominal Pain|None|Observation|3
+317|31|2026-08-19 00:45:00|2026-08-29 00:45:00|Elective|Emergency Room|Fever|Private Insurance|Stable|1
+318|3|2026-07-25 14:30:00|2026-08-01 14:30:00|Observation|Transfer|Trauma|None|Critical|14
+319|148|2026-02-23 04:45:00|2026-02-24 04:45:00|Urgent|Emergency Room|Fever|Private Insurance|Improving|5
+320|143|2026-01-08 04:45:00|2026-01-11 04:45:00|Observation|Walk-in|Chest Pain|None|Observation|1
+321|418|2026-02-20 20:00:00|2026-02-27 20:00:00|Emergency|Walk-in|Shortness of Breath|Public (RAMQ)|Improving|14
+322|578|2026-01-28 04:45:00|2026-01-30 04:45:00|Emergency|Transfer|Trauma|Private Insurance|Improving|10
+323|779|2026-04-27 08:30:00|2026-05-07 08:30:00|Observation|Emergency Room|Syncope|Self-pay|Stable|3
+324|747|2026-07-04 16:00:00|2026-07-12 16:00:00|Urgent|Walk-in|Abdominal Pain|None|Critical|7
+325|709|2026-01-12 15:30:00|2026-01-14 15:30:00|Elective|Transfer|Syncope|Public (RAMQ)|Observation|13
+326|467|2026-06-03 13:15:00|2026-06-12 13:15:00|Urgent|Transfer|Abdominal Pain|Private Insurance|Observation|6
+327|689|2026-01-12 21:45:00|2026-01-15 21:45:00|Elective|Walk-in|Syncope|Self-pay|Stable|7
+328|69|2026-03-13 12:30:00|2026-03-18 12:30:00|Elective|Walk-in|Abdominal Pain|Self-pay|Improving|10
+329|383|2026-06-23 02:00:00|2026-07-03 02:00:00|Observation|Physician Referral|Fever|Private Insurance|Critical|6
+330|753|2026-02-16 06:15:00|2026-02-19 06:15:00|Elective|Physician Referral|Shortness of Breath|Private Insurance|Observation|11
+331|116|2026-04-25 07:00:00|2026-04-27 07:00:00|Emergency|Physician Referral|Syncope|None|Improving|9
+332|154|2026-08-18 00:15:00|2026-08-20 00:15:00|Urgent|Physician Referral|Abdominal Pain|Private Insurance|Observation|10
+333|514|2026-03-28 10:00:00|2026-03-31 10:00:00|EMERGENCY|Emergency Room|Fever|Private Insurance|Improving|6
+334|613|2026-06-19 17:15:00|2026-06-25 17:15:00|Elective|Emergency Room|Trauma|None|Critical|8
+335|218|2026-06-04 04:30:00|2026-06-09 04:30:00|Urgent|Emergency Room|Chest Pain|Private Insurance|Observation|2
+336|420|2026-04-10 18:45:00|2026-04-16 18:45:00|Urgent|Physician Referral|Fever|None|Improving|10
+337|557|2026-04-10 06:30:00|2026-04-14 06:30:00|Emergency|Emergency Room|Fever|Public (RAMQ)|Critical|7
+338|554|2026-04-07 15:45:00|2026-04-12 15:45:00|Urgent|Transfer|Chest Pain|Public (RAMQ)|Stable|2
+339|50|2026-03-23 06:30:00|2026-03-31 06:30:00|Observation|Walk-in|Fever|None|Improving|8
+340|747|2026-01-12 22:00:00|2026-01-19 22:00:00|Emergency|Emergency Room|Abdominal Pain|None|Stable|1
+341|245|2026-07-06 04:00:00|2026-07-12 04:00:00|Urgent|Walk-in|Trauma|None|Observation|5
+342|427|2026-09-03 15:45:00|2026-09-06 15:45:00|Elective|Walk-in|Fever|Public (RAMQ)|Observation|1
+343|827|2026-01-24 09:00:00|2026-02-01 09:00:00|Elective|Walk-in|Syncope|Self-pay|Critical|13
+344|343|2026-03-17 01:30:00|2026-03-22 01:30:00|Observation|Physician Referral|Syncope|None|Stable|12
+345|333|2026-01-21 20:30:00|2026-01-22 20:30:00| Observation |Walk-in|Chest Pain|Self-pay|Improving|10
+346|264|2026-04-25 11:15:00|2026-04-26 11:15:00|Urgent|Physician Referral|Shortness of Breath|Private Insurance|Observation|2
+347|662|2026-05-27 07:30:00|2026-06-05 07:30:00|Emergency|Physician Referral|Chest Pain|None|Stable|14
+348|140|2026-08-26 22:30:00|2026-09-04 22:30:00|Urgent|Emergency Room|Shortness of Breath|Private Insurance|Improving|9
+349|328|2026-05-18 08:30:00||Elective|Emergency Room|Syncope|None|Improving|6
+350|376|2026-07-20 15:45:00|2026-07-26 15:45:00|Observation|Emergency Room|Chest Pain|Self-pay|Improving|6
+351|735|2026-05-16 09:15:00|2026-05-21 09:15:00|Observation|Transfer|Shortness of Breath|None|Stable|2
+352|543|2026-01-10 09:00:00|2026-01-12 09:00:00|Urgent|Walk-in|Abdominal Pain|Private Insurance|Observation|6
+353|413|2026-07-06 19:30:00|2026-07-16 19:30:00|Emergency|Walk-in|Shortness of Breath|Public (RAMQ)|Critical|12
+354|671|2026-09-04 19:00:00|2026-09-05 19:00:00|Emergency|Transfer|Chest Pain|Public (RAMQ)|Observation|11
+355|768|2026-06-26 15:15:00|2026-07-01 15:15:00|Urgent|Walk-in|Shortness of Breath|None|Stable|4
+356|66|2026-09-05 14:15:00|2026-09-10 14:15:00|Observation|Physician Referral|Syncope|Private Insurance|Critical|1
+357|719|2026-01-02 15:45:00|2026-01-12 15:45:00|Elective|Emergency Room|Shortness of Breath|None|Critical|11
+358|76|2026-01-17 08:45:00|2026-01-27 08:45:00|elective|Walk-in|Syncope|Self-pay|Stable|7
+359|783|2026-08-23 12:45:00|2026-08-25 12:45:00|Emergency|Emergency Room|Chest Pain|Private Insurance|Improving|7
+360|590|2026-01-27 10:45:00|2026-02-05 10:45:00|Urgent|Transfer|Trauma|Public (RAMQ)|Observation|9
+361|144|2026-09-08 17:00:00|2026-09-15 17:00:00|Elective|Walk-in|Syncope|Self-pay|Critical|14
+362|797|2026-07-23 12:15:00|2026-08-01 12:15:00|Elective|Transfer|Syncope|Private Insurance|Improving|8
+363|496|2026-05-24 15:00:00|2026-05-31 15:00:00|Emergency|Physician Referral|Abdominal Pain|Public (RAMQ)|Stable|5
+364|38|2026-08-14 00:15:00|2026-08-17 00:15:00|Elective|Walk-in|Syncope|Public (RAMQ)|Critical|14
+365|753|2026-04-13 06:30:00|2026-04-19 06:30:00|Urgent|Emergency Room|Fever|None|Observation|7
+366|358|2026-05-31 15:00:00|2026-06-08 15:00:00|Elective|Walk-in|Trauma|Self-pay|Stable|8
+367|104|2026-07-09 17:30:00|2026-07-12 17:30:00|Urgent|Transfer|Abdominal Pain|Self-pay|Critical|7
+368|145|2026-07-10 11:00:00|2026-07-12 11:00:00|Urgent|Emergency Room|Chest Pain|Public (RAMQ)|Stable|11
+369|531|2026-03-22 16:30:00|2026-03-30 16:30:00|Emergency|Walk-in|Fever|Private Insurance|Observation|3
+370|220|2026-07-28 07:00:00|2026-08-04 07:00:00|Observation|Emergency Room|Trauma|Public (RAMQ)|Critical|9
+371|584|2026-01-21 04:00:00|2026-01-23 04:00:00|Urgent|Walk-in|Syncope|Self-pay|Critical|1
+372|625|2026-05-01 22:45:00|2026-05-09 22:45:00|Urgent|Physician Referral|Fever|Private Insurance|Improving|14
+373|617|2026-07-02 19:15:00|2026-07-07 19:15:00|Observation|Walk-in|Shortness of Breath|Private Insurance|Improving|9
+374|546|2026-09-06 00:00:00|2026-09-15 00:00:00|Urgent|Physician Referral|Shortness of Breath|Public (RAMQ)|Critical|13
+375|721|2026-06-20 13:15:00|2026-06-23 13:15:00|Emergency|Transfer|Syncope|Private Insurance|Stable|11
+376|224|2026-07-26 07:15:00|2026-07-27 07:15:00|Emergency|Physician Referral|Abdominal Pain|Public (RAMQ)|Critical|2
+377|284|2026-05-12 07:30:00|2026-05-14 07:30:00|Emergency|Physician Referral|Chest Pain|Self-pay|Observation|4
+378|70|2026-09-03 07:15:00|2026-09-09 07:15:00|Urgent|Transfer|Shortness of Breath|None|Stable|10
+379|724|2026-02-13 00:15:00|2026-02-18 00:15:00|Observation|Transfer|Chest Pain|None|Critical|4
+380|19|2026-05-26 15:30:00|2026-06-03 15:30:00|Urgent|Emergency Room|Chest Pain|Public (RAMQ)|Stable|8
+381|201|2026-04-18 19:00:00|2026-04-25 19:00:00|Observation|Physician Referral|Chest Pain|Self-pay|Observation|2
+382|286|2026-02-28 08:00:00|2026-03-01 08:00:00|Emergency|Emergency Room|Trauma|Self-pay|Observation|12
+383|275|2026-08-29 09:00:00|2026-09-04 09:00:00|Observation|Emergency Room|Chest Pain|Public (RAMQ)|Observation|6
+384|525|2026-07-22 10:45:00|2026-07-26 10:45:00|Emergency|Physician Referral|Chest Pain|Public (RAMQ)|Critical|15
+385|194|2026-03-13 03:45:00|2026-03-19 03:45:00|Observation|Transfer|Fever|Self-pay|Improving|8
+386|678|2026-05-06 03:45:00|2026-05-16 03:45:00|Observation|Emergency Room|Trauma|Private Insurance|Stable|12
+387|522|2026-01-11 06:30:00|2026-01-17 06:30:00|OBSERVATION|Transfer|Shortness of Breath|Private Insurance|Stable|9
+388|378|2026-02-15 00:00:00|2026-02-23 00:00:00|Urgent|Physician Referral|Fever|None|Observation|14
+389|737|2026-02-03 03:45:00|2026-02-04 03:45:00|Emergency|Physician Referral|Fever|None|Improving|4
+390|175|2026-08-12 08:30:00|2026-08-22 08:30:00|Emergency|Emergency Room|Shortness of Breath|Private Insurance|Stable|13
+391|213|2026-06-29 04:45:00|2026-07-01 04:45:00|Urgent|Transfer|Syncope|Public (RAMQ)|Critical|6
+392|174|2026-06-28 14:45:00|2026-07-01 14:45:00|Emergency|Emergency Room|Trauma|None|Stable|6
+393|537|2026-04-08 02:00:00|2026-04-17 02:00:00|Emergency|Walk-in|Abdominal Pain|Public (RAMQ)|Critical|2
+394|800|2026-03-22 00:30:00|2026-03-25 00:30:00|Observation|Physician Referral|Shortness of Breath|Public (RAMQ)|Stable|2
+395|610|2026-08-09 20:45:00|2026-08-11 20:45:00|Emergency|Emergency Room|Syncope|Public (RAMQ)|Improving|5
+396|46|2026-07-31 21:00:00|2026-08-01 21:00:00|Emergency|Physician Referral|Syncope|Self-pay|Critical|2
+397|32|2026-01-21 07:45:00|2026-01-30 07:45:00|Observation|Transfer|Abdominal Pain|Public (RAMQ)|Improving|12
+398|465|2026-07-20 17:30:00|2026-07-25 17:30:00|Observation|Transfer|Fever|Public (RAMQ)|Critical|4
+399|133|2026-03-13 23:30:00|2026-03-15 23:30:00|Elective|Walk-in|Fever|Private Insurance|Critical|9
+400|289|2026-08-31 11:45:00|2026-09-08 11:45:00|Elective|Physician Referral|Fever|Private Insurance|Improving|14
+401|92|2026-01-17 05:15:00||Urgent|Transfer|Chest Pain|Private Insurance|Stable|12
+402|728|2026-05-31 14:15:00|2026-06-10 14:15:00|Observation|Physician Referral|Trauma|Self-pay|Critical|12
+403|678|2026-05-14 21:00:00|2026-05-16 21:00:00|Urgent|Physician Referral|Chest Pain|None|Stable|11
+404|314|2026-07-15 03:00:00|2026-07-16 03:00:00|Elective|Walk-in|Fever|Public (RAMQ)|Observation|10
+405|349|2026-02-03 05:15:00|2026-02-09 05:15:00|Urgent|Walk-in|Fever|Private Insurance|Improving|5
+406|134|2026-02-01 01:30:00|2026-02-09 01:30:00|Observation|Physician Referral|Fever|Public (RAMQ)|Improving|6
+407|323|2026-02-05 21:15:00|2026-02-11 21:15:00|Emergency|Physician Referral|Abdominal Pain|None|Observation|3
+408|835|2026-04-04 19:30:00|2026-04-06 19:30:00|EMERGENCY|Emergency Room|Trauma|None|Critical|10
+409|574|2026-08-08 07:30:00|2026-08-11 07:30:00|Observation|Emergency Room|Shortness of Breath|Self-pay|Critical|15
+410|578|2026-05-06 11:30:00|2026-05-13 11:30:00|Elective|Walk-in|Abdominal Pain|None|Critical|15
+411|749|2026-05-24 05:00:00|2026-05-27 05:00:00|Emergency|Walk-in|Shortness of Breath|Public (RAMQ)|Critical|8
+412|758|2026-06-17 17:45:00|2026-06-24 17:45:00|Urgent|Transfer|Fever|None|Critical|15
+413|766|2026-04-25 14:45:00|2026-04-30 14:45:00|Elective|Physician Referral|Syncope|None|Critical|1
+414|762|2026-08-19 10:30:00|2026-08-26 10:30:00|Emergency|Transfer|Abdominal Pain|Public (RAMQ)|Improving|10
+415|159|2026-04-12 02:30:00|2026-04-14 02:30:00|Observation|Transfer|Abdominal Pain|None|Stable|11
+416|448|2026-05-28 21:15:00|2026-05-29 21:15:00|Elective|Emergency Room|Trauma|Self-pay|Improving|9
+417|624|2026-01-16 06:00:00|2026-01-22 06:00:00|Observation|Transfer|Syncope|Self-pay|Stable|8
+418|401|2026-03-22 09:00:00|2026-03-28 09:00:00|Observation|Physician Referral|Syncope|Self-pay|Critical|3
+419|570|2026-08-07 05:00:00|2026-08-08 05:00:00|Elective|Emergency Room|Chest Pain|Self-pay|Improving|13
+420|591|2026-03-03 05:45:00|2026-03-07 05:45:00|Elective|Physician Referral|Shortness of Breath|Private Insurance|Improving|7
+421|469|2026-02-27 15:15:00|2026-03-07 15:15:00|Urgent|Physician Referral|Trauma|None|Critical|8
+422|158|2026-09-01 12:30:00|2026-09-07 12:30:00|Elective|Walk-in|Fever|None|Stable|7
+423|556|2026-03-30 13:45:00|2026-04-04 13:45:00|Observation|Transfer|Shortness of Breath|Private Insurance|Stable|12
+424|209|2026-05-27 17:30:00|2026-05-31 17:30:00|Emergency|Walk-in|Syncope|Private Insurance|Stable|13
+425|525|2026-08-14 00:00:00|2026-08-19 00:00:00|Urgent|Walk-in|Shortness of Breath|None|Critical|11
+426|795|2026-05-31 03:00:00|2026-06-08 03:00:00|Elective|Physician Referral|Abdominal Pain|Public (RAMQ)|Stable|4
+427|646|2026-05-25 13:00:00|2026-05-28 13:00:00|Emergency|Emergency Room|Trauma|None|Critical|4
+428|720|2026-03-21 23:45:00|2026-03-27 23:45:00|Elective|Physician Referral|Abdominal Pain|Private Insurance|Critical|12
+429|219|2026-07-17 16:30:00|2026-07-27 16:30:00|Elective|Physician Referral|Shortness of Breath|None|Improving|3
+430|537|2026-08-18 04:45:00|2026-08-25 04:45:00|Elective|Physician Referral|Fever|Public (RAMQ)|Critical|3
+431|345|2026-03-11 05:00:00|2026-03-20 05:00:00|Emergency|Transfer|Fever|Self-pay|Critical|14
+432|255|2026-05-14 21:45:00|2026-05-22 21:45:00|Emergency|Transfer|Shortness of Breath|None|Stable|3
+433|621|2026-05-21 21:00:00|2026-05-19 21:00:00|Observation|Emergency Room|Syncope|Public (RAMQ)|Critical|15
+434|300|2026-02-20 19:45:00|2026-02-21 19:45:00|Elective|Transfer|Fever|Private Insurance|Improving|8
+435|563|2026-07-18 20:00:00|2026-07-28 20:00:00|Emergency|Emergency Room|Syncope|Public (RAMQ)|Improving|3
+436|481|2026-02-17 07:30:00|2026-02-24 07:30:00|Observation|Emergency Room|Trauma|None|Observation|4
+437|301|2026-03-08 20:45:00|2026-03-12 20:45:00|Emergency|Emergency Room|Shortness of Breath|Private Insurance|Stable|10
+438|671|2026-01-04 18:30:00|2026-01-12 18:30:00|Emergency|Physician Referral|Fever|None|Stable|6
+439|537|2026-07-08 13:15:00|2026-07-12 13:15:00|Observation|Physician Referral|Fever|None|Critical|4
+440|412|2026-04-07 17:30:00|2026-04-12 17:30:00|Urgent|Emergency Room|Trauma|Private Insurance|Stable|2
+441|72|2026-03-18 20:15:00|2026-03-20 20:15:00|Urgent|Transfer|Fever|Public (RAMQ)|Stable|2
+442|594|2026-08-20 13:15:00|2026-08-24 13:15:00|Elective|Emergency Room|Chest Pain|Public (RAMQ)|Observation|7
+443|393|2026-07-13 02:00:00|2026-07-17 02:00:00|Urgent|Emergency Room|Abdominal Pain|Private Insurance|Improving|9
+444|243|2026-03-31 14:00:00|2026-04-07 14:00:00|Observation|Transfer|Shortness of Breath|Private Insurance|Critical|7
+445|542|2026-07-09 10:30:00|2026-07-14 10:30:00|Observation|Walk-in|Shortness of Breath|Private Insurance|Stable|14
+446|267|2026-01-01 04:00:00|2026-01-09 04:00:00|Elective|Transfer|  Abdominal Pain  |Self-pay|Critical|4
+447|736|2026-05-19 08:00:00|2026-05-22 08:00:00|Emergency|Transfer|Shortness of Breath|Self-pay|Critical|10
+448|117|2026-05-22 15:00:00|2026-05-28 15:00:00|Urgent|Transfer|Abdominal Pain|Self-pay|Stable|4
+449|732|2026-04-19 12:15:00|2026-04-21 12:15:00|Elective|Emergency Room|Fever|None|Critical|14
+450|61|2026-02-27 18:00:00|2026-03-08 18:00:00|Observation|Emergency Room|Abdominal Pain|Private Insurance|Critical|11
+451|529|2026-03-18 13:15:00|2026-03-19 13:15:00|Urgent|Emergency Room|Abdominal Pain|Self-pay|Stable|12
+452|579|2026-04-06 09:15:00|2026-04-10 09:15:00|Elective|Physician Referral|Abdominal Pain|None|Improving|5
+453|621|2026-02-11 07:30:00|2026-02-14 07:30:00|Emergency|Physician Referral|Chest Pain|Public (RAMQ)|Stable|3
+454|612|2026-07-21 11:30:00|2026-07-31 11:30:00|Emergency|Walk-in|Syncope|Public (RAMQ)|Stable|13
+455|745|2026-03-23 16:30:00|2026-03-29 16:30:00|Elective|Transfer|Trauma|None|Observation|15
+456|545|2026-03-20 15:00:00|2026-03-26 15:00:00|Urgent|Walk-in|Chest Pain|Public (RAMQ)|Stable|15
+457|665|2026-04-23 11:45:00|2026-05-02 11:45:00|Observation|Physician Referral|Shortness of Breath|Private Insurance|Stable|9
+458|506|2026-02-02 23:15:00|2026-02-10 23:15:00|Elective|Walk-in|Syncope|Public (RAMQ)|Critical|3
+459|685|2026-03-18 08:45:00||Emergency|Walk-in|Abdominal Pain|Self-pay|Stable|15
+460|629|2026-01-18 03:45:00|2026-01-22 03:45:00|Urgent|Physician Referral|Shortness of Breath|Private Insurance|Critical|11
+461|197|2026-08-05 18:00:00|2026-08-14 18:00:00|Elective|Emergency Room|Syncope|Self-pay|Critical|7
+462|595|2026-08-08 02:45:00|2026-08-11 02:45:00|Urgent|Transfer|Chest Pain|Public (RAMQ)|Improving|2
+463|591|2026-06-03 22:45:00|2026-06-05 22:45:00|Urgent|Emergency Room|Syncope|Self-pay|Stable|7
+464|27|2026-07-06 12:45:00|2026-07-15 12:45:00|Elective|Transfer|Trauma|Self-pay|Stable|7
+465|782|2026-04-05 15:00:00|2026-04-06 15:00:00|Elective|Transfer|Shortness of Breath|Private Insurance|Critical|12
+466|692|2026-06-25 00:15:00|2026-06-27 00:15:00|Urgent|Physician Referral|Fever|Private Insurance|Observation|5
+467|404|2026-03-15 01:00:00|2026-03-23 01:00:00|Urgent|Walk-in|Shortness of Breath|Private Insurance|Stable|10
+468|563|2026-06-16 01:45:00|2026-06-21 01:45:00|Observation|Physician Referral|Fever|None|Observation|10
+469|44|2026-08-10 03:00:00|2026-08-19 03:00:00|Observation|Walk-in|Shortness of Breath|None|Improving|5
+470|743|2026-09-05 01:15:00|2026-09-15 01:15:00|Emergency|Emergency Room|Abdominal Pain|Self-pay|Stable|9
+471|487|2026-01-02 00:45:00|2026-01-10 00:45:00|Emergency|Transfer|Trauma|Private Insurance|Critical|13
+472|167|2026-07-07 09:00:00|2026-07-17 09:00:00|Urgent|Transfer|Fever|None|Stable|9
+473|793|2026-06-05 01:00:00|2026-06-03 01:00:00|Observation|Emergency Room|Shortness of Breath|Public (RAMQ)|Stable|4
+474|726|2026-04-28 06:00:00|2026-04-26 06:00:00|Emergency|Walk-in|Chest Pain|Private Insurance|Stable|7
+475|42|2026-06-29 19:00:00|2026-06-30 19:00:00|Observation|Transfer|Chest Pain|Self-pay|Stable|9
+476|808|2026-02-23 09:00:00|2026-02-27 09:00:00|Elective|Transfer|Trauma|Self-pay|Improving|3
+477|172|2026-03-08 14:30:00|2026-03-13 14:30:00|Urgent|Walk-in|Abdominal Pain|None|Critical|1
+478|222|2026-03-18 23:45:00|2026-03-22 23:45:00|Urgent|Transfer|Shortness of Breath|Public (RAMQ)|Improving|14
+479|220|2026-06-26 02:30:00|2026-06-30 02:30:00|Elective|Physician Referral|Syncope|Self-pay|Stable|5
+480|201|2026-05-02 05:45:00|| Elective |Emergency Room|Syncope|None|Stable|12
+481|447|2026-04-23 19:30:00|2026-04-24 19:30:00|Elective|Walk-in|Fever|Public (RAMQ)|Observation|10
+482|206|2026-05-19 21:30:00|2026-05-21 21:30:00|Elective|Physician Referral|Fever|Private Insurance|Critical|11
+483|26|2026-03-27 11:15:00|2026-04-04 11:15:00|Observation|Physician Referral|Fever|Self-pay|Critical|15
+484|590|2026-02-09 20:45:00|2026-02-19 20:45:00|Observation|Physician Referral|Shortness of Breath|Private Insurance|Improving|7
+485|574|2026-04-09 03:15:00|2026-04-14 03:15:00|Urgent|Transfer|Abdominal Pain|Private Insurance|Stable|12
+486|511|2026-03-30 00:15:00|2026-04-01 00:15:00|Observation|Physician Referral|Syncope|Public (RAMQ)|Stable|12
+487|491|2026-08-11 18:30:00|2026-08-14 18:30:00|Urgent|Physician Referral|  Trauma  |None|Stable|12
+488|651|2026-05-14 02:30:00|2026-05-20 02:30:00|Emergency|Transfer|Syncope|Private Insurance|Observation|4
+489|13|2026-04-06 14:45:00|2026-04-15 14:45:00|Observation|Physician Referral|Syncope|Self-pay|Improving|13
+490|116|2026-05-30 10:15:00|2026-05-31 10:15:00|Urgent|Emergency Room|Shortness of Breath|None|Improving|4
+491|674|2026-06-14 23:45:00|2026-06-16 23:45:00|Urgent|Physician Referral|Shortness of Breath|Public (RAMQ)|Improving|13
+492|758|2026-08-31 05:30:00|2026-09-07 05:30:00|Observation|Transfer|Trauma|Self-pay|Observation|3
+493|129|2026-08-01 13:15:00|2026-08-08 13:15:00|Emergency|Physician Referral|Shortness of Breath|Public (RAMQ)|Observation|14
+494|136|2026-02-15 08:15:00|2026-02-16 08:15:00|Emergency|Physician Referral|Abdominal Pain|None|Improving|10
+495|52|2026-05-17 04:45:00|2026-05-18 04:45:00|Urgent|Transfer|Chest Pain|Public (RAMQ)|Critical|3
+496|40|2026-03-27 10:15:00|2026-04-03 10:15:00|Emergency|Physician Referral|Chest Pain|Public (RAMQ)|Observation|4
+497|675|2026-02-25 15:00:00|2026-03-01 15:00:00|EMERGENCY|Walk-in|Syncope|Self-pay|Stable|2
+498|700|2026-05-03 09:30:00|2026-05-01 09:30:00|Elective|Physician Referral|Shortness of Breath|Self-pay|Improving|3
+499|204|2026-06-09 05:00:00|2026-06-11 05:00:00|Emergency|Physician Referral|Syncope|Public (RAMQ)|Improving|3
+500|691|2026-03-09 14:45:00|2026-03-15 14:45:00|Urgent|Emergency Room|Abdominal Pain|Private Insurance|Improving|6
+501|683|2026-07-17 11:30:00|2026-07-27 11:30:00|Urgent|Walk-in|Syncope|Public (RAMQ)|Improving|10
+502|708|2026-01-24 03:45:00|2026-02-03 03:45:00|Elective|Transfer|Syncope|Public (RAMQ)|Critical|10
+503|188|2026-08-31 01:45:00|2026-09-06 01:45:00|Emergency|Transfer|Shortness of Breath|None|Critical|6
+504|211|2026-06-10 23:45:00|2026-06-19 23:45:00|Observation|Walk-in|Trauma|Public (RAMQ)|Critical|9
+505|471|2026-08-09 12:00:00|2026-08-15 12:00:00|Urgent|Walk-in|Abdominal Pain|Self-pay|Improving|13
+506|243|2026-05-19 03:00:00|2026-05-20 03:00:00|Elective|Transfer|Abdominal Pain|Private Insurance|Stable|7
+507|230|2026-01-22 17:45:00|2026-01-27 17:45:00|Elective|Transfer|Shortness of Breath|Public (RAMQ)|Critical|15
+508|560|2026-08-03 15:15:00|2026-08-10 15:15:00|Elective|Physician Referral|Abdominal Pain|Self-pay|Stable|14
+509|763|2026-06-01 03:30:00|2026-06-02 03:30:00|Observation|Transfer|Trauma|Public (RAMQ)|Observation|2
+510|606|2026-06-15 12:15:00|2026-06-16 12:15:00|Emergency|Physician Referral|Shortness of Breath|Self-pay|Improving|7
+511|211|2026-09-07 03:45:00|2026-09-09 03:45:00|Observation|Transfer|Trauma|Self-pay|Stable|12
+512|110|2026-05-21 14:00:00|2026-05-25 14:00:00|Emergency|Physician Referral|Abdominal Pain|Self-pay|Observation|9
+513|530|2026-04-28 12:00:00|2026-05-04 12:00:00|Observation|Transfer|Trauma|Public (RAMQ)|Improving|5
+514|420|2026-03-09 19:00:00|2026-03-16 19:00:00|elective|Physician Referral|Chest Pain|Self-pay|Improving|11
+515|631|2026-01-28 06:15:00||Urgent|Emergency Room|Fever|Private Insurance|Stable|9
+516|124|2026-07-15 22:00:00|2026-07-16 22:00:00|Emergency|Walk-in|Trauma|Public (RAMQ)|Improving|3
+517|184|2026-03-07 07:45:00|2026-03-15 07:45:00|Emergency|Physician Referral|Syncope|Self-pay|Stable|3
+518|669|2026-01-04 04:30:00|2026-01-14 04:30:00|Observation|Walk-in|Syncope|Private Insurance|Improving|2
+519|152|2026-03-10 04:15:00|2026-03-16 04:15:00|Urgent|Walk-in|Chest Pain|Self-pay|Improving|8
+520|31|2026-03-19 04:15:00|2026-03-25 04:15:00|Observation|Physician Referral|Shortness of Breath|Public (RAMQ)|Observation|10
+521|598|2026-04-09 01:00:00|2026-04-15 01:00:00|Urgent|Walk-in|Abdominal Pain|Public (RAMQ)|Stable|3
+522|30|2026-04-02 13:15:00|2026-04-11 13:15:00|Observation|Transfer|Fever|Public (RAMQ)|Improving|4
+523|411|2026-08-24 13:15:00|2026-08-28 13:15:00|Urgent|Walk-in|Syncope|Self-pay|Stable|5
+524|263|2026-07-15 08:30:00|2026-07-18 08:30:00|Observation|Physician Referral|Trauma|Public (RAMQ)|Stable|6
+525|92|2026-08-03 10:00:00|2026-08-09 10:00:00|Emergency|Walk-in|Fever|Public (RAMQ)|Critical|6
+526|552|2026-01-26 23:45:00|2026-02-02 23:45:00|Elective|Emergency Room|  Trauma  |Private Insurance|Observation|8
+527|722|2026-04-29 20:45:00|2026-05-07 20:45:00|Elective|Physician Referral|Trauma|Private Insurance|Critical|9
+528|4|2026-07-21 21:00:00|2026-07-23 21:00:00|Urgent|Physician Referral|  Trauma  |None|Observation|11
+529|493|2026-08-18 03:30:00|2026-08-21 03:30:00|Observation|Transfer|Chest Pain|Private Insurance|Observation|14
+530|315|2026-01-10 12:45:00|2026-01-12 12:45:00| Urgent |Walk-in|Chest Pain|None|Stable|6
+531|478|2026-07-14 02:15:00|2026-07-16 02:15:00|urgent|Walk-in|Chest Pain|Public (RAMQ)|Stable|11
+532|742|2026-01-11 13:15:00|2026-01-12 13:15:00|Elective|Walk-in|Chest Pain|Self-pay|Observation|11
+533|32|2026-05-21 08:00:00|2026-05-27 08:00:00|Elective|Walk-in|  Abdominal Pain  |Self-pay|Stable|13
+534|138|2026-09-08 13:30:00|2026-09-10 13:30:00|Observation|Walk-in|Abdominal Pain|Self-pay|Critical|3
+535|800|2026-08-17 13:00:00|2026-08-23 13:00:00|Elective|Physician Referral|Syncope|Self-pay|Critical|14
+536|271|2026-03-16 16:15:00|2026-03-18 16:15:00|Observation|Walk-in|Shortness of Breath|None|Stable|13
+537|14|2026-02-26 23:45:00|2026-03-06 23:45:00|Urgent|Physician Referral|Chest Pain|Self-pay|Observation|15
+538|456|2026-05-15 20:15:00|2026-05-20 20:15:00|Emergency|Physician Referral|Shortness of Breath|Self-pay|Observation|1
+539|844|2026-03-13 10:00:00|2026-03-18 10:00:00|Emergency|Walk-in|Fever|Public (RAMQ)|Critical|15
+540|666|2026-07-20 23:00:00|2026-07-28 23:00:00|Elective|Transfer|Chest Pain|Self-pay|Critical|3
+541|577|2026-01-29 00:30:00|2026-02-01 00:30:00|Urgent|Transfer|Abdominal Pain|None|Stable|11
+542|50|2026-05-10 14:45:00|2026-05-20 14:45:00|Urgent|Emergency Room|Trauma|None|Stable|5
+543|630|2026-04-06 04:15:00|2026-04-15 04:15:00|Observation|Walk-in|Trauma|Private Insurance|Observation|12
+544|439|2026-03-31 03:30:00|2026-04-10 03:30:00|Urgent|Physician Referral|Trauma|Self-pay|Improving|5
+545|310|2026-05-02 21:45:00||Urgent|Emergency Room|Chest Pain|Public (RAMQ)|Observation|2
+546|753|2026-02-05 09:45:00|2026-02-15 09:45:00|Emergency|Transfer|Trauma|None|Critical|14
+547|437|2026-01-17 21:15:00|2026-01-26 21:15:00|Emergency|Transfer|Syncope|Public (RAMQ)|Stable|1
+548|665|2026-09-01 09:15:00|2026-09-02 09:15:00|Urgent|Transfer|Shortness of Breath|Public (RAMQ)|Improving|4
+549|548|2026-01-11 08:15:00|2026-01-15 08:15:00|Emergency|Transfer|Fever|Private Insurance|Improving|1
+550|53|2026-06-27 00:30:00|2026-06-30 00:30:00|Elective|Walk-in|Syncope|Private Insurance|Improving|3
+551|199|2026-07-25 05:45:00|2026-07-31 05:45:00|Urgent|Physician Referral|Syncope|Self-pay|Observation|11
+552|522|2026-07-10 23:45:00|2026-07-20 23:45:00|Elective|Transfer|Trauma|Private Insurance|Observation|5
+553|314|2026-02-28 16:15:00|2026-03-09 16:15:00|Observation|Emergency Room|Trauma|Public (RAMQ)|Observation|2
+554|554|2026-01-07 23:45:00|2026-01-11 23:45:00|Emergency|Transfer|Chest Pain|None|Stable|14
+555|10|2026-05-17 03:15:00|2026-05-26 03:15:00|Urgent|Emergency Room|Trauma|Private Insurance|Improving|8
+556|712|2026-06-03 09:15:00|2026-06-12 09:15:00|Emergency|Transfer|Fever|Self-pay|Stable|1
+557|205|2026-01-05 11:45:00|2026-01-12 11:45:00|Observation|Transfer|Chest Pain|Public (RAMQ)|Stable|11
+558|440|2026-03-27 13:30:00|2026-03-29 13:30:00|Observation|Physician Referral|Chest Pain|None|Improving|3
+559|282|2026-03-25 00:45:00|2026-04-03 00:45:00|Elective|Transfer|Fever|Private Insurance|Stable|7
+560|779|2026-08-04 21:45:00|2026-08-08 21:45:00|Urgent|Transfer|Syncope|None|Observation|9
+561|457|2026-09-02 19:15:00|2026-09-03 19:15:00|Observation|Walk-in|Abdominal Pain|Self-pay|Observation|1
+562|618|2026-07-30 08:15:00|2026-08-08 08:15:00|Urgent|Emergency Room|Syncope|Self-pay|Observation|1
+563|620|2026-08-04 12:00:00|2026-08-14 12:00:00|Elective|Walk-in|Trauma|Private Insurance|Observation|10
+564|523|2026-04-27 20:30:00|2026-05-03 20:30:00|Elective|Emergency Room|Abdominal Pain|Public (RAMQ)|Stable|15
+565|84|2026-06-12 08:45:00|2026-06-17 08:45:00|Urgent|Emergency Room|Trauma|None|Stable|13
+566|761|2026-05-14 16:30:00|2026-05-18 16:30:00|Urgent|Emergency Room|Abdominal Pain|Public (RAMQ)|Critical|12
+567|323|2026-05-19 10:45:00|2026-05-21 10:45:00|Urgent|Transfer|Abdominal Pain|Public (RAMQ)|Critical|10
+568|739|2026-07-25 07:30:00|2026-07-29 07:30:00|Emergency|Physician Referral|Syncope|Public (RAMQ)|Observation|9
+569|382|2026-03-09 10:30:00|2026-03-10 10:30:00|Emergency|Emergency Room|Abdominal Pain|None|Critical|13
+570|342|2026-06-14 09:15:00|2026-06-19 09:15:00|Emergency|Emergency Room|Shortness of Breath|None|Improving|2
+571|667|2026-06-21 05:15:00|2026-06-29 05:15:00|Urgent|Transfer|Syncope|None|Improving|14
+572|696|2026-04-13 00:30:00|2026-04-18 00:30:00|Observation|Physician Referral|Chest Pain|Public (RAMQ)|Observation|4
+573|388|2026-05-19 06:00:00|2026-05-20 06:00:00|Elective|Walk-in|Shortness of Breath|Self-pay|Critical|14
+574|2|2026-07-13 23:15:00|2026-07-21 23:15:00|Observation|Physician Referral|Trauma|Public (RAMQ)|Critical|1
+575|563|2026-04-06 12:00:00|2026-04-08 12:00:00|Elective|Physician Referral|Shortness of Breath|Public (RAMQ)|Improving|13
+576|672|2026-06-08 07:15:00|2026-06-13 07:15:00|Urgent|Walk-in|Fever|Self-pay|Observation|4
+577|435|2026-06-14 21:00:00|2026-06-22 21:00:00|Urgent|Emergency Room|Shortness of Breath|Self-pay|Observation|11
+578|486|2026-04-14 17:45:00|2026-04-18 17:45:00|Observation|Walk-in|Abdominal Pain|Public (RAMQ)|Improving|2
+579|505|2026-04-12 20:15:00|2026-04-15 20:15:00|Observation|Emergency Room|Chest Pain|Private Insurance|Improving|15
+580|349|2026-06-04 18:30:00|2026-06-12 18:30:00|Emergency|Walk-in|Shortness of Breath|None|Stable|11
+581|47|2026-08-07 12:15:00|2026-08-12 12:15:00|Elective|Physician Referral|Abdominal Pain|Self-pay|Improving|13
+582|748|2026-07-09 04:45:00|2026-07-10 04:45:00|Urgent|Walk-in|Shortness of Breath|Public (RAMQ)|Critical|9
+583|287|2026-07-11 03:00:00|2026-07-12 03:00:00|Observation|Physician Referral|Fever|None|Improving|15
+584|229|2026-05-21 11:45:00|2026-05-27 11:45:00|Observation|Emergency Room|Syncope|Private Insurance|Stable|4
+585|533|2026-03-31 21:45:00|2026-04-03 21:45:00|Elective|Emergency Room|Shortness of Breath|Public (RAMQ)|Stable|14
+586|37|2026-01-11 19:00:00|2026-01-12 19:00:00|Urgent|Transfer|Shortness of Breath|None|Stable|7
+587|471|2026-09-08 17:30:00|2026-09-14 17:30:00|Urgent|Emergency Room|Chest Pain|None|Observation|2
+588|350|2026-02-01 11:15:00|2026-02-10 11:15:00|Observation|Walk-in|Syncope|None|Stable|11
+589|153|2026-04-25 14:45:00|2026-05-05 14:45:00|Elective|Emergency Room|Trauma|Private Insurance|Observation|9
+590|231|2026-05-26 14:15:00|2026-05-28 14:15:00|Urgent|Walk-in|Abdominal Pain|Private Insurance|Improving|15
+591|454|2026-09-06 00:45:00|2026-09-13 00:45:00| Urgent |Transfer|Syncope|None|Critical|9
+592|29|2026-01-28 10:00:00|2026-01-31 10:00:00| Observation |Emergency Room|Abdominal Pain|Public (RAMQ)|Improving|10
+593|310|2026-08-10 15:45:00||Urgent|Walk-in|Syncope|Public (RAMQ)|Stable|4
+594|115|2026-04-21 20:15:00|2026-04-27 20:15:00|Urgent|Transfer|Fever|Self-pay|Critical|12
+595|319|2026-06-25 14:00:00|2026-06-28 14:00:00|Observation|Transfer|Chest Pain|Self-pay|Stable|11
+596|487|2026-04-02 17:30:00|2026-04-05 17:30:00|Emergency|Walk-in|Abdominal Pain|Private Insurance|Observation|2
+597|98|2026-05-06 11:00:00|2026-05-16 11:00:00|Emergency|Transfer|Trauma|Self-pay|Stable|10
+598|325|2026-08-26 18:45:00|2026-08-31 18:45:00|Emergency|Emergency Room|Syncope|Public (RAMQ)|Observation|10
+599|389|2026-07-05 06:00:00|2026-07-06 06:00:00|Urgent|Physician Referral|Fever|Public (RAMQ)|Critical|1
+600|545|2026-08-21 13:15:00||Urgent|Walk-in|Chest Pain|None|Stable|12
+601|370|2026-04-28 16:00:00|2026-04-30 16:00:00|Emergency|Emergency Room|Fever|Private Insurance|Improving|10
+602|42|2026-08-16 10:00:00|2026-08-24 10:00:00|Observation|Transfer|Chest Pain|Private Insurance|Critical|7
+603|172|2026-05-31 13:00:00|2026-06-03 13:00:00|Urgent|Transfer|Shortness of Breath|Private Insurance|Improving|9
+604|246|2026-02-19 07:00:00|2026-02-23 07:00:00|Observation|Walk-in|Abdominal Pain|None|Stable|8
+605|666|2026-08-07 09:15:00|2026-08-10 09:15:00|Emergency|Physician Referral|Abdominal Pain|Public (RAMQ)|Improving|2
+606|338|2026-01-17 08:15:00|2026-01-20 08:15:00|Elective|Physician Referral|Trauma|Self-pay|Observation|15
+607|57|2026-06-07 07:30:00|2026-06-09 07:30:00|Emergency|Transfer|Shortness of Breath|Self-pay|Observation|14
+608|151|2026-03-05 08:30:00|2026-03-11 08:30:00|Observation|Emergency Room|Fever|Public (RAMQ)|Critical|13
+609|789|2026-01-25 22:30:00|2026-01-28 22:30:00|Observation|Emergency Room|Abdominal Pain|None|Stable|12
+610|150|2026-01-24 05:30:00|2026-02-03 05:30:00|Elective|Transfer|Trauma|Public (RAMQ)|Stable|9
+611|573|2026-04-27 00:00:00|2026-05-05 00:00:00|Elective|Transfer|Chest Pain|Self-pay|Improving|12
+612|38|2026-03-13 18:15:00|2026-03-14 18:15:00| Urgent |Physician Referral|Fever|None|Stable|5
+613|125|2026-05-06 13:00:00|2026-05-07 13:00:00|Urgent|Walk-in|Fever|Self-pay|Observation|9
+614|86|2026-01-24 09:30:00|2026-01-29 09:30:00|ELECTIVE|Emergency Room|Abdominal Pain|Self-pay|Stable|12
+615|596|2026-07-12 08:15:00|2026-07-16 08:15:00|Urgent|Transfer|Shortness of Breath|Self-pay|Stable|15
+616|364|2026-05-22 03:15:00|2026-06-01 03:15:00|Emergency|Walk-in|Abdominal Pain|Self-pay|Stable|11
+617|254|2026-01-19 05:15:00|2026-01-27 05:15:00|Observation|Walk-in|Trauma|Self-pay|Improving|3
+618|120|2026-07-20 23:00:00|2026-07-21 23:00:00|Emergency|Transfer|Chest Pain|Public (RAMQ)|Improving|10
+619|695|2026-03-02 12:00:00|2026-03-10 12:00:00|Urgent|Walk-in|Abdominal Pain|None|Critical|5
+620|329|2026-01-28 20:45:00|2026-02-06 20:45:00|Emergency|Physician Referral|Syncope|Public (RAMQ)|Observation|11
+621|681|2026-08-17 12:00:00|2026-08-24 12:00:00|Emergency|Emergency Room|Chest Pain|Private Insurance|Improving|4
+622|59|2026-05-27 08:00:00|2026-06-02 08:00:00|Elective|Emergency Room|Fever|Public (RAMQ)|Stable|5
+623|741|2026-07-16 18:15:00|2026-07-22 18:15:00|Emergency|Transfer|Chest Pain|Private Insurance|Critical|8
+624|412|2026-01-19 07:30:00|2026-01-26 07:30:00|Observation|Transfer|Shortness of Breath|None|Critical|5
+625|25|2026-05-16 12:15:00|2026-05-23 12:15:00|Elective|Walk-in|Syncope|Private Insurance|Critical|13
+626|33|2026-03-19 12:30:00|2026-03-29 12:30:00|Emergency|Emergency Room|Syncope|Self-pay|Stable|4
+627|357|2026-09-03 11:00:00|2026-09-11 11:00:00|Emergency|Emergency Room|Fever|Private Insurance|Critical|12
+628|757|2026-06-14 16:45:00|2026-06-22 16:45:00|Observation|Walk-in|Syncope|None|Stable|11
+629|179|2026-08-24 04:15:00|2026-09-03 04:15:00|Emergency|Walk-in|Chest Pain|Private Insurance|Stable|2
+630|400|2026-03-21 08:15:00|2026-03-28 08:15:00|Elective|Walk-in|Syncope|Private Insurance|Critical|15
+631|560|2026-06-18 14:15:00|2026-06-27 14:15:00|Observation|Emergency Room|Abdominal Pain|Public (RAMQ)|Critical|5
+632|480|2026-01-28 06:00:00|2026-02-02 06:00:00|Elective|Physician Referral|Abdominal Pain|None|Improving|2
+633|516|2026-07-15 12:15:00|2026-07-19 12:15:00|Urgent|Transfer|Syncope|Public (RAMQ)|Observation|8
+634|471|2026-03-24 05:45:00|2026-03-25 05:45:00| Emergency |Emergency Room|Syncope|Private Insurance|Stable|12
+635|198|2026-04-02 06:00:00|2026-04-09 06:00:00|elective|Walk-in|Trauma|Self-pay|Critical|10
+636|595|2026-04-25 05:30:00|2026-05-05 05:30:00|Observation|Physician Referral|Syncope|Self-pay|Improving|7
+637|448|2026-07-14 15:00:00|2026-07-19 15:00:00|Urgent|Emergency Room|Trauma|None|Observation|6
+638|242|2026-08-13 03:45:00|2026-08-21 03:45:00|Observation|Walk-in|Syncope|Private Insurance|Stable|3
+639|357|2026-01-12 05:00:00|2026-01-17 05:00:00|Urgent|Physician Referral|Fever|Private Insurance|Critical|13
+640|408|2026-02-10 08:45:00|2026-02-19 08:45:00|Urgent|Transfer|Chest Pain|None|Stable|7
+641|574|2026-04-02 08:45:00|2026-04-06 08:45:00|Observation|Physician Referral|Abdominal Pain|Private Insurance|Improving|8
+642|639|2026-08-19 20:15:00|2026-08-23 20:15:00|Urgent|Physician Referral|Syncope|Public (RAMQ)|Stable|15
+643|49|2026-05-26 19:45:00|2026-05-31 19:45:00|Elective|Transfer|Shortness of Breath|Private Insurance|Stable|8
+644|766|2026-08-04 11:30:00|2026-08-14 11:30:00|Emergency|Emergency Room|Trauma|Private Insurance|Improving|8
+645|230|2026-02-17 06:30:00|2026-02-24 06:30:00|Elective|Emergency Room|Trauma|Public (RAMQ)|Stable|2
+646|387|2026-05-09 00:45:00|2026-05-18 00:45:00|Emergency|Transfer|Abdominal Pain|Private Insurance|Stable|10
+647|757|2026-06-25 16:15:00||Observation|Emergency Room|Fever|None|Critical|4
+648|142|2026-06-13 12:00:00|2026-06-14 12:00:00|Observation|Emergency Room|Chest Pain|Public (RAMQ)|Improving|15
+649|738|2026-06-03 15:15:00|2026-06-09 15:15:00|Elective|Emergency Room|Chest Pain|None|Stable|7
+650|320|2026-08-17 04:30:00|2026-08-19 04:30:00|Urgent|Emergency Room|Fever|Public (RAMQ)|Observation|8
+651|622|2026-01-18 14:15:00|2026-01-27 14:15:00|Emergency|Emergency Room|Shortness of Breath|None|Observation|11
+652|369|2026-08-07 02:30:00|2026-08-12 02:30:00|Elective|Emergency Room|Syncope|Private Insurance|Improving|15
+653|272|2026-05-29 21:45:00|2026-05-30 21:45:00|Urgent|Physician Referral|Shortness of Breath|Private Insurance|Stable|14
+654|83|2026-02-28 02:00:00|2026-03-02 02:00:00|Observation|Transfer|Abdominal Pain|None|Improving|6
+655|448|2026-08-18 18:15:00|2026-08-28 18:15:00|Elective|Walk-in|Syncope|Private Insurance|Improving|6
+656|249|2026-08-12 16:15:00|2026-08-17 16:15:00|Urgent|Transfer|Chest Pain|Private Insurance|Improving|11
+657|60|2026-07-08 10:00:00|2026-07-16 10:00:00|ELECTIVE|Transfer|Syncope|None|Improving|5
+658|130|2026-01-18 10:45:00|2026-01-28 10:45:00|Elective|Walk-in|Abdominal Pain|None|Improving|3
+659|7|2026-04-11 22:15:00|2026-04-20 22:15:00|Emergency|Transfer|Chest Pain|Self-pay|Improving|13
+660|743|2026-04-17 16:45:00|2026-04-20 16:45:00|Emergency|Transfer|Abdominal Pain|Self-pay|Stable|15
+661|583|2026-08-12 01:45:00|2026-08-13 01:45:00|Observation|Emergency Room|Chest Pain|Public (RAMQ)|Observation|14
+662|684|2026-02-07 20:45:00|2026-02-12 20:45:00|observation|Emergency Room|Chest Pain|None|Observation|1
+663|728|2026-02-06 08:30:00|2026-02-10 08:30:00|Elective|Transfer|Shortness of Breath|Private Insurance|Critical|1
+664|213|2026-02-08 20:45:00|2026-02-18 20:45:00|Emergency|Emergency Room|Fever|Self-pay|Stable|15
+665|698|2026-05-30 16:15:00|2026-06-04 16:15:00|Urgent|Transfer|Trauma|None|Critical|9
+666|512|2026-07-14 13:30:00|2026-07-24 13:30:00|Observation|Walk-in|Trauma|Public (RAMQ)|Observation|11
+667|554|2026-02-22 21:15:00|2026-02-27 21:15:00|Emergency|Emergency Room|Chest Pain|Self-pay|Improving|8
+668|590|2026-04-11 12:30:00|2026-04-16 12:30:00|Emergency|Emergency Room|Shortness of Breath|Self-pay|Stable|4
+669|658|2026-06-30 09:30:00|2026-07-04 09:30:00|Elective|Walk-in|Abdominal Pain|Private Insurance|Stable|14
+670|164|2026-06-08 18:45:00|2026-06-13 18:45:00|Observation|Walk-in|Syncope|Self-pay|Observation|11
+671|567|2026-08-21 03:30:00|2026-08-28 03:30:00|Emergency|Emergency Room|Syncope|Public (RAMQ)|Critical|4
+672|425|2026-06-19 07:15:00|2026-06-22 07:15:00|Elective|Emergency Room|Abdominal Pain|Private Insurance|Critical|13
+673|545|2026-08-14 22:45:00|2026-08-20 22:45:00|Observation|Transfer|Fever|None|Improving|4
+674|235|2026-02-11 03:15:00|2026-02-13 03:15:00|Elective|Emergency Room|Shortness of Breath|Private Insurance|Critical|5
+675|7|2026-03-30 09:15:00|2026-04-03 09:15:00|Elective|Transfer|Trauma|Self-pay|Stable|3
+676|135|2026-03-29 22:15:00|2026-04-05 22:15:00|Observation|Transfer|Chest Pain|Self-pay|Critical|5
+677|661|2026-01-30 16:30:00|2026-02-06 16:30:00|Emergency|Emergency Room|Syncope|None|Observation|12
+678|753|2026-01-15 04:15:00|2026-01-13 04:15:00|Emergency|Transfer|Chest Pain|Self-pay|Improving|7
+679|203|2026-07-13 23:45:00|2026-07-21 23:45:00|Urgent|Physician Referral|Chest Pain|Private Insurance|Improving|5
+680|28|2026-01-02 16:30:00|2026-01-05 16:30:00|Urgent|Physician Referral|Trauma|None|Improving|12
+681|432|2026-07-27 03:00:00|2026-07-30 03:00:00|Observation|Walk-in|Chest Pain|None|Stable|8
+682|182|2026-06-18 22:45:00|2026-06-24 22:45:00|Elective|Emergency Room|Chest Pain|None|Stable|3
+683|692|2026-04-22 01:45:00|2026-04-23 01:45:00|Emergency|Emergency Room|Shortness of Breath|Self-pay|Observation|14
+684|517|2026-02-25 03:00:00|2026-03-03 03:00:00|Elective|Emergency Room|Trauma|Public (RAMQ)|Stable|7
+685|557|2026-07-28 07:45:00|2026-08-06 07:45:00|Emergency|Physician Referral|Syncope|Public (RAMQ)|Critical|11
+686|225|2026-05-12 10:15:00|2026-05-20 10:15:00|Elective|Emergency Room|Chest Pain|Private Insurance|Observation|14
+687|2|2026-05-08 10:45:00|2026-05-13 10:45:00|Emergency|Transfer|Abdominal Pain|Self-pay|Stable|10
+688|75|2026-01-06 18:45:00|2026-01-04 18:45:00|Elective|Emergency Room|Abdominal Pain|Private Insurance|Critical|1
+689|800|2026-05-30 04:45:00|2026-06-05 04:45:00|Emergency|Walk-in|Syncope|Self-pay|Improving|1
+690|727|2026-01-04 09:30:00|2026-01-02 09:30:00|Urgent|Transfer|Syncope|Self-pay|Stable|12
+691|748|2026-07-28 21:30:00|2026-08-04 21:30:00|Emergency|Walk-in|Trauma|None|Stable|14
+692|344|2026-02-15 03:45:00|2026-02-18 03:45:00|URGENT|Emergency Room|Chest Pain|Public (RAMQ)|Improving|15
+693|304|2026-08-24 10:00:00|2026-08-26 10:00:00|Elective|Transfer|Syncope|None|Stable|8
+694|423|2026-04-20 14:45:00||Emergency|Emergency Room|Fever|Public (RAMQ)|Observation|5
+695|792|2026-02-19 03:15:00|2026-02-21 03:15:00|Urgent|Emergency Room|Chest Pain|Public (RAMQ)|Stable|11
+696|44|2026-03-06 16:30:00|2026-03-15 16:30:00|Observation|Physician Referral|Shortness of Breath|Public (RAMQ)|Stable|13
+697|134|2026-06-07 13:30:00|2026-06-15 13:30:00|Elective|Physician Referral|Chest Pain|Public (RAMQ)|Stable|2
+698|395|2026-05-19 10:15:00|2026-05-22 10:15:00|Elective|Walk-in|Fever|None|Stable|2
+699|155|2026-07-21 13:45:00|2026-07-28 13:45:00|Urgent|Transfer|Trauma|None|Critical|7
+700|552|2026-05-20 19:30:00|2026-05-28 19:30:00| Emergency |Emergency Room|Chest Pain|Private Insurance|Improving|5
+701|208|2026-05-04 07:00:00|2026-05-14 07:00:00|Elective|Transfer|Syncope|Self-pay|Critical|6
+702|395|2026-01-01 22:45:00|2026-01-05 22:45:00|Emergency|Physician Referral|Fever|Self-pay|Observation|3
+703|134|2026-01-04 01:30:00|2026-01-10 01:30:00|Emergency|Emergency Room|Abdominal Pain|Private Insurance|Critical|1
+704|47|2026-07-31 22:45:00|2026-08-09 22:45:00|Urgent|Transfer|Shortness of Breath|Self-pay|Observation|8
+705|343|2026-07-25 04:00:00|2026-08-03 04:00:00|Emergency|Emergency Room|Fever|Self-pay|Improving|1
+706|248|2026-02-25 09:45:00|2026-02-23 09:45:00|Emergency|Emergency Room|Abdominal Pain|Public (RAMQ)|Observation|15
+707|682|2026-07-24 12:00:00|2026-08-02 12:00:00|Observation|Emergency Room|Fever|Public (RAMQ)|Stable|15
+708|815|2026-05-24 17:15:00|2026-06-02 17:15:00|Emergency|Walk-in|Shortness of Breath|None|Stable|3
+709|52|2026-01-12 20:30:00|2026-01-22 20:30:00|Urgent|Physician Referral|Fever|None|Critical|6
+710|308|2026-04-16 20:45:00|2026-04-19 20:45:00|EMERGENCY|Emergency Room|Fever|Public (RAMQ)|Critical|7
+711|168|2026-03-28 01:00:00|2026-04-03 01:00:00|Emergency|Walk-in|Trauma|Public (RAMQ)|Observation|6
+712|169|2026-05-23 07:30:00|2026-05-27 07:30:00|Elective|Walk-in|Fever|None|Critical|8
+713|40|2026-07-31 06:15:00|2026-08-08 06:15:00|Observation|Emergency Room|Abdominal Pain|None|Stable|4
+714|466|2026-08-23 11:45:00|2026-08-29 11:45:00|Elective|Emergency Room|Chest Pain|Self-pay|Critical|7
+715|342|2026-05-20 22:15:00|2026-05-27 22:15:00|Emergency|Walk-in|Fever|Public (RAMQ)|Improving|13
+716|385|2026-01-09 21:30:00|2026-01-10 21:30:00|Observation|Walk-in|Trauma|Public (RAMQ)|Critical|9
+717|630|2026-07-09 15:15:00|2026-07-17 15:15:00|Elective|Physician Referral|Trauma|None|Observation|1
+718|716|2026-02-20 18:30:00|2026-02-22 18:30:00|Emergency|Transfer|Fever|Self-pay|Observation|1
+719|476|2026-03-23 00:30:00|2026-04-01 00:30:00|Observation|Transfer|Chest Pain|Public (RAMQ)|Improving|7
+720|155|2026-09-03 04:30:00|2026-09-09 04:30:00|Emergency|Emergency Room|Fever|Self-pay|Observation|3
+721|477|2026-07-14 21:45:00|2026-07-24 21:45:00|Elective|Transfer|Trauma|Private Insurance|Improving|2
+722|640|2026-02-19 17:45:00|2026-02-21 17:45:00|Urgent|Physician Referral|Shortness of Breath|Private Insurance|Stable|7
+723|464|2026-05-18 06:30:00|2026-05-26 06:30:00|Elective|Transfer|Syncope|Public (RAMQ)|Observation|7
+724|42|2026-06-13 19:15:00|2026-06-23 19:15:00|Observation|Walk-in|Shortness of Breath|None|Stable|13
+725|748|2026-04-22 20:30:00|2026-04-26 20:30:00|Elective|Physician Referral|Trauma|Private Insurance|Improving|4
+726|275|2026-08-16 07:00:00|2026-08-22 07:00:00|Urgent|Transfer|Syncope|Private Insurance|Improving|4
+727|431|2026-07-21 12:00:00|2026-07-23 12:00:00|Elective|Emergency Room|Trauma|None|Observation|8
+728|562|2026-02-07 14:00:00|2026-02-15 14:00:00|Observation|Physician Referral|Chest Pain|None|Critical|9
+729|145|2026-03-15 21:15:00|2026-03-16 21:15:00|Emergency|Walk-in|Abdominal Pain|None|Observation|2
+730|204|2026-03-22 21:00:00|2026-03-30 21:00:00|Emergency|Walk-in|Chest Pain|Self-pay|Critical|10
+731|769|2026-02-27 02:30:00|2026-03-01 02:30:00|Elective|Walk-in|Fever|Self-pay|Stable|5
+732|9|2026-07-20 07:00:00|2026-07-29 07:00:00|Emergency|Emergency Room|Abdominal Pain|None|Stable|15
+733|14|2026-03-17 21:45:00|2026-03-24 21:45:00|Observation|Physician Referral|Chest Pain|Public (RAMQ)|Observation|9
+734|610|2026-06-18 19:30:00|2026-06-28 19:30:00|Emergency|Walk-in|Chest Pain|Private Insurance|Critical|1
+735|602|2026-08-04 16:30:00|2026-08-11 16:30:00|Urgent|Transfer|Fever|Self-pay|Observation|5
+736|651|2026-06-04 22:15:00|2026-06-08 22:15:00|Emergency|Walk-in|Trauma|Self-pay|Stable|12
+737|160|2026-05-20 00:00:00|2026-05-25 00:00:00|Urgent|Walk-in|Chest Pain|Self-pay|Stable|12
+738|139|2026-01-30 18:15:00|2026-02-01 18:15:00|Observation|Transfer|Fever|Self-pay|Stable|6
+739|465|2026-06-07 03:30:00|2026-06-14 03:30:00|Elective|Physician Referral|Trauma|None|Observation|15
+740|608|2026-05-27 04:45:00|2026-06-03 04:45:00|Urgent|Physician Referral|Fever|Private Insurance|Observation|7
+741|514|2026-01-04 19:45:00|2026-01-12 19:45:00|Urgent|Emergency Room|Syncope|None|Observation|13
+742|682|2026-03-29 23:15:00|2026-04-05 23:15:00|Observation|Walk-in|Syncope|Self-pay|Improving|5
+743|59|2026-07-22 17:45:00|2026-07-24 17:45:00|Urgent|Physician Referral|Syncope|None|Critical|5
+744|720|2026-01-29 01:15:00|2026-02-03 01:15:00|Elective|Transfer|Chest Pain|Self-pay|Critical|1
+745|93|2026-07-13 14:00:00|2026-07-11 14:00:00|Emergency|Physician Referral|Chest Pain|Self-pay|Observation|15
+746|620|2026-05-16 02:45:00|2026-05-19 02:45:00|Urgent|Transfer|Fever|Self-pay|Critical|3
+747|842|2026-04-27 19:45:00|2026-05-02 19:45:00|Emergency|Emergency Room|Trauma|Self-pay|Critical|9
+748|68|2026-08-13 16:30:00|2026-08-20 16:30:00|Elective|Physician Referral|Abdominal Pain|Private Insurance|Critical|13
+749|363|2026-02-07 11:30:00|2026-02-15 11:30:00|Observation|Emergency Room|Syncope|Self-pay|Stable|15
+750|703|2026-06-20 18:30:00|2026-06-29 18:30:00|Observation|Walk-in|Fever|Private Insurance|Stable|6
+751|763|2026-02-19 21:45:00|2026-02-20 21:45:00|Observation|Transfer|Fever|Self-pay|Critical|2
+752|770|2026-05-14 00:30:00|2026-05-16 00:30:00|Observation|Physician Referral|Syncope|Private Insurance|Critical|4
+753|269|2026-05-18 08:45:00|2026-05-19 08:45:00|Emergency|Physician Referral|Trauma|Public (RAMQ)|Improving|10
+754|78|2026-08-14 19:45:00|2026-08-15 19:45:00|observation|Emergency Room|Shortness of Breath|Self-pay|Stable|12
+755|195|2026-06-12 07:30:00|2026-06-18 07:30:00|urgent|Physician Referral|Abdominal Pain|None|Critical|13
+756|650|2026-08-15 19:30:00|2026-08-16 19:30:00|Urgent|Emergency Room|Shortness of Breath|Self-pay|Critical|7
+757|728|2026-06-22 08:00:00|2026-06-29 08:00:00|Observation|Physician Referral|Trauma|Private Insurance|Critical|11
+758|79|2026-01-09 20:30:00|2026-01-13 20:30:00|Elective|Emergency Room|Shortness of Breath|Private Insurance|Stable|10
+759|538|2026-08-27 08:15:00|2026-08-29 08:15:00|Observation|Walk-in|Abdominal Pain|Public (RAMQ)|Stable|8
+760|408|2026-01-25 15:00:00|2026-01-26 15:00:00|OBSERVATION|Physician Referral|Shortness of Breath|None|Stable|3
+761|21|2026-03-09 23:00:00|2026-03-12 23:00:00|Elective|Transfer|Syncope|Self-pay|Critical|4
+762|290|2026-08-15 10:00:00|2026-08-25 10:00:00|Urgent|Physician Referral|Fever|None|Observation|5
+763|547|2026-02-24 14:00:00|2026-03-02 14:00:00|Observation|Walk-in|Trauma|Public (RAMQ)|Improving|1
+764|108|2026-07-03 03:15:00|2026-07-12 03:15:00|Emergency|Emergency Room|Chest Pain|Public (RAMQ)|Improving|14
+765|78|2026-06-09 13:45:00|2026-06-19 13:45:00|Emergency|Emergency Room|Chest Pain|Public (RAMQ)|Observation|14
+766|457|2026-01-22 06:30:00|2026-01-31 06:30:00|Emergency|Physician Referral|Syncope|Private Insurance|Stable|13
+767|291|2026-08-29 23:45:00|2026-09-01 23:45:00|Urgent|Emergency Room|Abdominal Pain|None|Improving|2
+768|69|2026-09-01 12:30:00|2026-09-07 12:30:00|Emergency|Walk-in|Chest Pain|Public (RAMQ)|Critical|8
+769|701|2026-01-15 15:15:00|2026-01-18 15:15:00|Observation|Walk-in|Shortness of Breath|Private Insurance|Stable|4
+770|475|2026-05-03 15:45:00|2026-05-10 15:45:00|Emergency|Transfer|Trauma|Private Insurance|Observation|4
+771|563|2026-01-31 19:30:00|2026-02-02 19:30:00|Emergency|Emergency Room|Abdominal Pain|Private Insurance|Stable|9
+772|74|2026-05-31 00:15:00|2026-06-06 00:15:00|Emergency|Physician Referral|Shortness of Breath|Self-pay|Improving|9
+773|14|2026-01-31 14:30:00|2026-02-07 14:30:00|Urgent|Walk-in|Abdominal Pain|Self-pay|Observation|3
+774|410|2026-03-30 14:15:00|2026-04-09 14:15:00|Elective|Transfer|Shortness of Breath|Private Insurance|Stable|5
+775|309|2026-08-17 20:00:00|2026-08-22 20:00:00|Elective|Walk-in|Trauma|Self-pay|Critical|14
+776|629|2026-08-29 08:15:00|2026-09-08 08:15:00|Observation|Physician Referral|Fever|Self-pay|Observation|3
+777|617|2026-03-25 11:30:00|2026-03-31 11:30:00|Elective|Transfer|Abdominal Pain|None|Observation|9
+778|9|2026-01-28 04:30:00|2026-02-06 04:30:00|Observation|Transfer|Trauma|Public (RAMQ)|Critical|1
+779|558|2026-07-29 05:00:00|2026-08-03 05:00:00|Observation|Transfer|Fever|Public (RAMQ)|Critical|12
+780|267|2026-08-04 16:30:00|2026-08-05 16:30:00|Urgent|Transfer|Syncope|Public (RAMQ)|Stable|4
+781|496|2026-07-27 18:30:00|2026-08-02 18:30:00|Observation|Transfer|Chest Pain|Public (RAMQ)|Critical|13
+782|711|2026-08-14 13:30:00|2026-08-18 13:30:00|Elective|Transfer|Fever|None|Observation|4
+783|272|2026-07-13 08:45:00|2026-07-15 08:45:00|Observation|Emergency Room|Fever|Self-pay|Observation|8
+784|691|2026-08-21 20:45:00|2026-08-24 20:45:00|Urgent|Walk-in|Chest Pain|Private Insurance|Observation|2
+785|278|2026-02-14 12:00:00|2026-02-23 12:00:00|Elective|Transfer|Fever|Public (RAMQ)|Observation|2
+786|174|2026-04-02 21:30:00|2026-04-10 21:30:00|Emergency|Physician Referral|Shortness of Breath|None|Improving|8
+787|56|2026-07-02 19:30:00|2026-07-04 19:30:00|Urgent|Transfer|Syncope|Public (RAMQ)|Improving|9
+788|466|2026-05-12 21:00:00|2026-05-20 21:00:00|Elective|Physician Referral|Fever|None|Improving|11
+789|237|2026-01-06 15:45:00|2026-01-10 15:45:00|Emergency|Emergency Room|Abdominal Pain|Self-pay|Critical|9
+790|731|2026-01-28 21:00:00|2026-01-26 21:00:00|Observation|Emergency Room|Abdominal Pain|Self-pay|Observation|7
+791|133|2026-08-21 14:30:00|2026-08-26 14:30:00|Elective|Transfer|Trauma|Self-pay|Stable|2
+792|341|2026-05-16 01:00:00|2026-05-19 01:00:00|Urgent|Walk-in|Fever|Public (RAMQ)|Improving|14
+793|245|2026-08-14 20:45:00|2026-08-21 20:45:00|Observation|Transfer|Fever|Self-pay|Improving|2
+794|482|2026-02-14 00:45:00|2026-02-17 00:45:00|Elective|Walk-in|  Chest Pain  |Self-pay|Improving|6
+795|602|2026-07-26 07:00:00|2026-08-03 07:00:00|Elective|Transfer|Shortness of Breath|None|Stable|3
+796|625|2026-07-21 05:30:00|2026-07-19 05:30:00|Observation|Transfer|Chest Pain|None|Observation|8
+797|478|2026-02-07 11:30:00|2026-02-11 11:30:00|Emergency|Transfer|Syncope|Private Insurance|Improving|7
+798|224|2026-06-24 13:30:00|2026-06-27 13:30:00|Emergency|Physician Referral|Shortness of Breath|Private Insurance|Critical|7
+799|233|2026-04-10 12:30:00|2026-04-14 12:30:00|Elective|Walk-in|Chest Pain|Private Insurance|Critical|1
+800|812|2026-09-04 04:00:00|2026-09-11 04:00:00|Emergency|Walk-in|Fever|Public (RAMQ)|Stable|15
+801|57|2026-02-13 16:15:00|2026-02-20 16:15:00|Emergency|Physician Referral|Trauma|Private Insurance|Improving|15
+802|440|2026-07-13 09:45:00|2026-07-20 09:45:00|Emergency|Emergency Room|Trauma|None|Observation|6
+803|596|2026-03-13 14:45:00|2026-03-15 14:45:00|Urgent|Physician Referral|Fever|None|Observation|12
+804|634|2026-07-11 07:15:00|2026-07-20 07:15:00|Observation|Physician Referral|Chest Pain|None|Improving|1
+805|669|2026-07-21 17:45:00|2026-07-29 17:45:00|Elective|Physician Referral|Shortness of Breath|Self-pay|Improving|1
+806|128|2026-05-04 16:30:00|2026-05-13 16:30:00|Observation|Physician Referral|Syncope|Public (RAMQ)|Improving|11
+807|762|2026-03-02 11:45:00|2026-03-07 11:45:00|Urgent|Walk-in|Abdominal Pain|Self-pay|Observation|9
+808|31|2026-04-16 04:15:00|2026-04-18 04:15:00|Elective|Physician Referral|Trauma|Self-pay|Observation|3
+809|689|2026-03-20 13:45:00|2026-03-26 13:45:00|Observation|Physician Referral|Chest Pain|Self-pay|Stable|15
+810|245|2026-09-06 10:30:00|2026-09-12 10:30:00|Observation|Physician Referral|Abdominal Pain|Private Insurance|Improving|13
+811|141|2026-04-19 17:45:00|2026-04-23 17:45:00|Urgent|Transfer|Chest Pain|Self-pay|Improving|9
+812|651|2026-03-19 15:30:00|2026-03-29 15:30:00|Urgent|Physician Referral|Fever|Self-pay|Critical|15
+813|456|2026-07-14 04:15:00|2026-07-24 04:15:00|Elective|Physician Referral|Shortness of Breath|Public (RAMQ)|Stable|9
+814|394|2026-06-04 16:15:00|2026-06-11 16:15:00|Observation|Walk-in|Fever|None|Observation|9
+815|8|2026-01-05 22:00:00|2026-01-15 22:00:00|Urgent|Emergency Room|Trauma|Public (RAMQ)|Observation|1
+816|741|2026-04-26 09:00:00|2026-05-04 09:00:00|Urgent|Walk-in|Syncope|Public (RAMQ)|Critical|6
+817|179|2026-07-05 22:30:00|2026-07-14 22:30:00|Observation|Emergency Room|Syncope|None|Stable|10
+818|624|2026-08-02 01:15:00|2026-08-12 01:15:00|Emergency|Physician Referral|Trauma|Private Insurance|Critical|15
+819|807|2026-01-04 21:45:00|2026-01-11 21:45:00|Emergency|Emergency Room|Trauma|Private Insurance|Improving|11
+820|387|2026-01-05 02:00:00|2026-01-11 02:00:00|Elective|Transfer|Abdominal Pain|Self-pay|Observation|8
+821|502|2026-07-21 20:45:00|2026-07-27 20:45:00| Elective |Physician Referral|Shortness of Breath|Private Insurance|Improving|3
+822|114|2026-08-08 08:15:00|2026-08-13 08:15:00|Elective|Transfer|Fever|None|Observation|6
+823|328|2026-06-15 08:45:00|2026-06-19 08:45:00|Elective|Emergency Room|Shortness of Breath|None|Improving|2
+824|8|2026-03-02 12:15:00|2026-03-07 12:15:00|Observation|Emergency Room|Trauma|Public (RAMQ)|Observation|10
+825|371|2026-02-22 15:30:00|2026-02-27 15:30:00|Emergency|Transfer|Chest Pain|Private Insurance|Improving|4
+826|677|2026-04-19 19:30:00|2026-04-20 19:30:00|Urgent|Walk-in|Shortness of Breath|Public (RAMQ)|Observation|7
+827|626|2026-04-16 02:45:00|2026-04-14 02:45:00|Urgent|Transfer|Chest Pain|None|Critical|4
+828|158|2026-02-25 09:00:00|2026-03-05 09:00:00|Elective|Emergency Room|Trauma|None|Stable|8
+829|709|2026-01-05 13:00:00|2026-01-09 13:00:00|urgent|Emergency Room|Syncope|None|Critical|2
+830|786|2026-01-08 23:45:00|2026-01-18 23:45:00|Urgent|Walk-in|Chest Pain|None|Stable|7
+831|441|2026-04-30 09:45:00|2026-05-03 09:45:00|Elective|Emergency Room|Syncope|Self-pay|Improving|11
+832|471|2026-08-20 19:45:00|2026-08-25 19:45:00|Urgent|Transfer|Fever|Public (RAMQ)|Stable|6
+833|767|2026-03-28 12:30:00|2026-04-05 12:30:00|Elective|Transfer|Syncope|Private Insurance|Improving|5
+834|487|2026-06-14 22:00:00|2026-06-15 22:00:00|Observation|Physician Referral|Abdominal Pain|Public (RAMQ)|Stable|11
+835|341|2026-09-02 14:30:00|2026-09-09 14:30:00|Elective|Physician Referral|Chest Pain|Private Insurance|Improving|14
+836|33|2026-08-12 05:45:00|2026-08-13 05:45:00|Emergency|Transfer|Syncope|Self-pay|Improving|12
+837|178|2026-08-08 01:30:00|2026-08-18 01:30:00|Observation|Transfer|Shortness of Breath|Private Insurance|Observation|3
+838|296|2026-08-23 04:45:00|2026-08-29 04:45:00|Elective|Physician Referral|Chest Pain|Self-pay|Observation|5
+839|169|2026-08-19 16:00:00|2026-08-27 16:00:00|Emergency|Physician Referral|Syncope|Private Insurance|Improving|12
+840|166|2026-08-20 18:30:00|2026-08-29 18:30:00|Emergency|Physician Referral|Abdominal Pain|Self-pay|Stable|9
+841|648|2026-04-10 11:45:00|2026-04-15 11:45:00|Elective|Transfer|Chest Pain|Private Insurance|Stable|14
+842|287|2026-06-08 23:00:00|2026-06-11 23:00:00|Urgent|Emergency Room|Abdominal Pain|Private Insurance|Critical|4
+843|341|2026-05-29 22:00:00|2026-06-04 22:00:00|Emergency|Walk-in|Chest Pain|None|Stable|15
+844|694|2026-07-04 22:30:00|2026-07-07 22:30:00|Observation|Walk-in|Abdominal Pain|Private Insurance|Stable|13
+845|748|2026-05-19 23:15:00|2026-05-24 23:15:00|Observation|Transfer|Abdominal Pain|Public (RAMQ)|Observation|5
+846|474|2026-03-05 02:30:00|2026-03-07 02:30:00|Observation|Transfer|Trauma|Self-pay|Stable|7
+847|566|2026-06-02 09:45:00|2026-06-06 09:45:00|Emergency|Physician Referral|Trauma|None|Improving|6
+848|620|2026-01-01 14:15:00|2026-01-09 14:15:00|Elective|Walk-in|Trauma|None|Stable|5
+849|710|2026-08-20 01:45:00|2026-08-30 01:45:00|Emergency|Physician Referral|Syncope|Public (RAMQ)|Improving|7
+850|267|2026-05-10 06:15:00|2026-05-14 06:15:00|Urgent|Emergency Room|Syncope|Public (RAMQ)|Stable|15
+851|783|2026-07-13 15:45:00|2026-07-14 15:45:00|Emergency|Transfer|Syncope|None|Critical|9
+852|62|2026-05-07 00:45:00|2026-05-12 00:45:00| Elective |Physician Referral|  Trauma  |Self-pay|Stable|8
+853|705|2026-02-16 13:30:00|2026-02-21 13:30:00|Urgent|Emergency Room|Trauma|None|Improving|15
+854|167|2026-07-26 20:00:00|2026-07-30 20:00:00|Observation|Walk-in|Chest Pain|None|Critical|1
+855|241|2026-03-23 11:00:00|2026-03-28 11:00:00|Urgent|Transfer|Shortness of Breath|None|Stable|4
+856|122|2026-04-26 00:30:00|2026-04-27 00:30:00|Observation|Emergency Room|Fever|Self-pay|Improving|13
+857|176|2026-06-10 04:30:00|2026-06-15 04:30:00|Observation|Walk-in|Chest Pain|Public (RAMQ)|Observation|8
+858|444|2026-06-09 17:15:00|2026-06-12 17:15:00|Emergency|Emergency Room|Trauma|Self-pay|Observation|2
+859|419|2026-01-28 11:00:00|2026-01-30 11:00:00|Emergency|Transfer|Abdominal Pain|None|Stable|4
+860|133|2026-07-26 19:45:00|2026-07-28 19:45:00|Urgent|Physician Referral|Syncope|None|Stable|14
+861|714|2026-07-14 00:45:00|2026-07-12 00:45:00|Urgent|Emergency Room|Shortness of Breath|Self-pay|Critical|3
+862|720|2026-04-24 15:45:00|2026-04-28 15:45:00| Emergency |Emergency Room|Shortness of Breath|Public (RAMQ)|Stable|12
+863|489|2026-05-31 12:00:00|2026-06-06 12:00:00|URGENT|Physician Referral|Chest Pain|Self-pay|Observation|14
+864|217|2026-06-28 06:45:00|2026-07-06 06:45:00| Emergency |Physician Referral|Fever|Private Insurance|Observation|7
+865|181|2026-01-31 16:30:00|2026-02-07 16:30:00|Emergency|Walk-in|Shortness of Breath|Self-pay|Critical|11
+866|278|2026-07-11 06:45:00|2026-07-20 06:45:00|Observation|Walk-in|Shortness of Breath|Public (RAMQ)|Critical|6
+867|204|2026-08-25 19:00:00|2026-08-26 19:00:00|Elective|Emergency Room|Syncope|Private Insurance|Stable|11
+868|779|2026-02-20 03:00:00|2026-02-21 03:00:00|Urgent|Walk-in|Syncope|Public (RAMQ)|Stable|14
+869|143|2026-03-16 00:45:00|2026-03-22 00:45:00|Observation|Physician Referral|Shortness of Breath|None|Improving|8
+870|600|2026-04-27 01:30:00|2026-05-07 01:30:00|Observation|Transfer|Chest Pain|Self-pay|Observation|5
+871|320|2026-07-29 09:30:00|2026-08-05 09:30:00|Observation|Emergency Room|Abdominal Pain|Public (RAMQ)|Critical|6
+872|584|2026-07-08 19:15:00|2026-07-12 19:15:00|Urgent|Walk-in|Shortness of Breath|None|Observation|10
+873|747|2026-08-29 01:15:00|2026-09-02 01:15:00|Emergency|Emergency Room|Shortness of Breath|Self-pay|Critical|1
+874|729|2026-04-12 20:00:00|2026-04-13 20:00:00|Observation|Physician Referral|Shortness of Breath|Self-pay|Observation|9
+875|505|2026-01-08 18:15:00|2026-01-18 18:15:00|Emergency|Emergency Room|Shortness of Breath|Private Insurance|Critical|3
+876|391|2026-05-25 14:00:00|2026-05-27 14:00:00|Observation|Physician Referral|Chest Pain|Self-pay|Improving|14
+877|23|2026-06-21 20:15:00|2026-06-23 20:15:00|Elective|Emergency Room|Syncope|Private Insurance|Stable|12
+878|24|2026-01-01 20:30:00|2026-01-05 20:30:00|Elective|Transfer|Syncope|None|Stable|5
+879|429|2026-06-27 19:45:00|2026-07-01 19:45:00|Observation|Transfer|  Abdominal Pain  |Self-pay|Critical|11
+880|85|2026-07-25 22:30:00|2026-07-28 22:30:00|Elective|Physician Referral|Chest Pain|Private Insurance|Improving|8
+881|176|2026-02-22 00:00:00|2026-02-23 00:00:00|Emergency|Transfer|Syncope|Self-pay|Observation|5
+882|147|2026-01-10 17:30:00||Emergency|Physician Referral|Syncope|None|Improving|10
+883|523|2026-03-30 10:15:00|2026-04-02 10:15:00|Observation|Physician Referral|Trauma|Self-pay|Stable|8
+884|717|2026-03-06 16:15:00|2026-03-10 16:15:00|Urgent|Physician Referral|Shortness of Breath|None|Observation|4
+885|346|2026-01-01 03:30:00|2025-12-30 03:30:00|Elective|Walk-in|  Trauma  |Self-pay|Observation|2
+886|98|2026-03-08 05:45:00|2026-03-11 05:45:00| Emergency |Transfer|Syncope|Private Insurance|Improving|11
+887|36|2026-06-09 20:15:00|2026-06-17 20:15:00|Elective|Walk-in|Chest Pain|Private Insurance|Observation|8
+888|707|2026-01-20 08:00:00|2026-01-28 08:00:00|Elective|Walk-in|Fever|Self-pay|Stable|9
+889|442|2026-09-08 01:00:00|2026-09-13 01:00:00|Observation|Transfer|Abdominal Pain|Private Insurance|Critical|14
+890|376|2026-01-10 22:30:00|2026-01-17 22:30:00|Elective|Physician Referral|Trauma|Self-pay|Improving|13
+891|603|2026-01-23 06:30:00|2026-01-24 06:30:00|Observation|Emergency Room|Fever|Public (RAMQ)|Critical|12
+892|584|2026-08-17 05:30:00|2026-08-24 05:30:00|Elective|Emergency Room|  Abdominal Pain  |Public (RAMQ)|Observation|5
+893|392|2026-01-05 02:45:00|2026-01-14 02:45:00|Elective|Transfer|Syncope|Public (RAMQ)|Stable|4
+894|93|2026-03-23 01:30:00|2026-03-28 01:30:00|Emergency|Walk-in|Syncope|Self-pay|Critical|11
+895|85|2026-04-22 22:45:00|2026-04-28 22:45:00|Observation|Emergency Room|Syncope|Public (RAMQ)|Observation|2
+896|600|2026-04-09 18:15:00|2026-04-18 18:15:00|Emergency|Walk-in|Shortness of Breath|Public (RAMQ)|Observation|3
+897|296|2026-03-29 21:30:00|2026-04-01 21:30:00|Elective|Walk-in|Chest Pain|Private Insurance|Critical|12
+898|196|2026-02-15 21:30:00|2026-02-17 21:30:00|Elective|Physician Referral|Syncope|Self-pay|Observation|8
+899|734|2026-06-21 08:45:00|2026-06-29 08:45:00|Emergency|Emergency Room|Abdominal Pain|Public (RAMQ)|Stable|1
+900|303|2026-05-23 16:45:00|2026-05-24 16:45:00|Elective|Physician Referral|Syncope|Private Insurance|Critical|6
+901|736|2026-08-09 03:30:00|2026-08-10 03:30:00|Emergency|Transfer|Fever|Self-pay|Critical|1
+902|318|2026-01-08 16:00:00|2026-01-18 16:00:00|Emergency|Walk-in|Fever|Private Insurance|Observation|1
+903|81|2026-04-06 12:15:00|2026-04-10 12:15:00|Elective|Transfer|Shortness of Breath|Self-pay|Stable|2
+904|609|2026-08-04 05:30:00|2026-08-08 05:30:00|Urgent|Emergency Room|Abdominal Pain|Self-pay|Improving|11
+905|415|2026-06-15 01:30:00|2026-06-20 01:30:00|Urgent|Physician Referral|Syncope|Private Insurance|Critical|12
+906|674|2026-03-17 13:00:00|2026-03-25 13:00:00|Elective|Emergency Room|Shortness of Breath|None|Critical|4
+907|505|2026-02-17 16:15:00|2026-02-23 16:15:00|Observation|Emergency Room|Fever|Public (RAMQ)|Observation|1
+908|396|2026-03-12 13:15:00|2026-03-17 13:15:00|Elective|Emergency Room|Abdominal Pain|Private Insurance|Improving|5
+909|787|2026-01-09 23:00:00|2026-01-13 23:00:00|Observation|Physician Referral|Fever|Private Insurance|Observation|15
+910|610|2026-03-19 07:00:00|2026-03-20 07:00:00|Emergency|Physician Referral|Fever|Self-pay|Observation|15
+911|242|2026-09-04 17:45:00|2026-09-14 17:45:00|Emergency|Physician Referral|Shortness of Breath|Self-pay|Improving|1
+912|565|2026-07-16 01:45:00||Elective|Physician Referral|Chest Pain|Self-pay|Stable|4
+913|729|2026-07-26 14:15:00|2026-08-02 14:15:00|Emergency|Emergency Room|Trauma|None|Improving|9
+914|277|2026-04-11 07:30:00|2026-04-15 07:30:00|Observation|Transfer|Trauma|Public (RAMQ)|Observation|12
+915|629|2026-04-17 23:00:00|2026-04-23 23:00:00|Emergency|Physician Referral|Chest Pain|Public (RAMQ)|Stable|9
+916|296|2026-04-27 03:00:00|2026-05-06 03:00:00|Urgent|Walk-in|Syncope|None|Critical|7
+917|361|2026-07-07 00:30:00|2026-07-11 00:30:00|Elective|Transfer|Shortness of Breath|Private Insurance|Critical|7
+918|441|2026-05-28 05:00:00|2026-05-31 05:00:00|Emergency|Transfer|Abdominal Pain|None|Critical|1
+919|666|2026-04-16 16:00:00|2026-04-24 16:00:00|Elective|Transfer|Fever|Public (RAMQ)|Critical|8
+920|180|2026-01-22 23:15:00|2026-01-31 23:15:00|Elective|Walk-in|Abdominal Pain|None|Improving|2
+921|461|2026-07-28 21:00:00|2026-08-07 21:00:00|Emergency|Emergency Room|Shortness of Breath|Private Insurance|Improving|8
+922|279|2026-04-14 10:15:00|2026-04-18 10:15:00|Observation|Physician Referral|Chest Pain|Private Insurance|Stable|7
+923|757|2026-05-30 06:30:00|2026-06-02 06:30:00|Urgent|Emergency Room|Abdominal Pain|Self-pay|Observation|10
+924|179|2026-07-02 13:30:00|2026-07-05 13:30:00|Emergency|Emergency Room|Shortness of Breath|None|Critical|9
+925|483|2026-06-28 05:30:00|2026-07-04 05:30:00|Urgent|Transfer|Fever|Public (RAMQ)|Stable|1
+926|683|2026-08-08 14:00:00|2026-08-09 14:00:00|Emergency|Emergency Room|Abdominal Pain|Private Insurance|Observation|8
+927|698|2026-02-26 19:00:00|2026-02-28 19:00:00|Elective|Emergency Room|Shortness of Breath|None|Improving|2
+928|483|2026-07-19 06:30:00|2026-07-25 06:30:00|Urgent|Emergency Room|Abdominal Pain|Self-pay|Critical|2
+929|497|2026-08-04 20:45:00|2026-08-12 20:45:00|Observation|Physician Referral|Shortness of Breath|Public (RAMQ)|Critical|15
+930|242|2026-03-17 21:45:00|2026-03-23 21:45:00|Urgent|Emergency Room|Shortness of Breath|Public (RAMQ)|Observation|1
+931|284|2026-06-09 09:00:00|2026-06-13 09:00:00|Observation|Transfer|Fever|Public (RAMQ)|Stable|3
+932|840|2026-06-18 03:30:00|2026-06-28 03:30:00|Urgent|Physician Referral|Syncope|Private Insurance|Critical|3
+933|557|2026-06-28 12:45:00|2026-07-05 12:45:00|Urgent|Physician Referral|Fever|Self-pay|Critical|10
+934|439|2026-08-30 19:30:00|2026-09-06 19:30:00|Observation|Emergency Room|Abdominal Pain|None|Improving|14
+935|638|2026-08-20 16:15:00|2026-08-27 16:15:00|Observation|Physician Referral|Abdominal Pain|Public (RAMQ)|Improving|12
+936|6|2026-06-09 17:45:00|2026-06-18 17:45:00|URGENT|Transfer|Abdominal Pain|Self-pay|Observation|3
+937|343|2026-03-31 05:15:00|2026-04-03 05:15:00|Elective|Walk-in|Trauma|Public (RAMQ)|Stable|8
+938|480|2026-04-17 22:15:00|2026-04-19 22:15:00|Elective|Walk-in|Fever|Private Insurance|Observation|7
+939|703|2026-01-05 16:30:00|2026-01-15 16:30:00|Elective|Walk-in|Chest Pain|None|Stable|9
+940|159|2026-03-25 07:45:00|2026-03-31 07:45:00|Elective|Walk-in|Shortness of Breath|None|Critical|14
+941|653|2026-07-11 13:45:00|2026-07-13 13:45:00|Emergency|Physician Referral|  Fever  |None|Critical|13
+942|675|2026-03-26 21:00:00|2026-03-30 21:00:00|Urgent|Physician Referral|Trauma|Private Insurance|Stable|3
+943|655|2026-06-10 16:45:00|2026-06-19 16:45:00|Observation|Physician Referral|Chest Pain|Private Insurance|Observation|15
+944|360|2026-05-03 21:00:00|2026-05-11 21:00:00|Emergency|Transfer|Fever|Private Insurance|Stable|15
+945|300|2026-05-17 20:45:00|2026-05-25 20:45:00|Observation|Walk-in|Abdominal Pain|Private Insurance|Stable|13
+946|289|2026-07-21 12:00:00|2026-07-29 12:00:00|Observation|Transfer|Chest Pain|Private Insurance|Critical|11
+947|520|2026-01-09 18:45:00|2026-01-16 18:45:00|Observation|Emergency Room|Chest Pain|None|Observation|1
+948|727|2026-08-18 10:45:00|2026-08-28 10:45:00|Elective|Physician Referral|Trauma|None|Improving|14
+949|701|2026-05-22 17:30:00|2026-05-28 17:30:00|Elective|Physician Referral|Syncope|Self-pay|Improving|8
+950|447|2026-05-06 08:30:00|2026-05-08 08:30:00|Observation|Transfer|Abdominal Pain|Public (RAMQ)|Improving|6
+951|306|2026-02-16 13:30:00|2026-02-18 13:30:00|Emergency|Emergency Room|Syncope|Private Insurance|Observation|14
+952|264|2026-01-10 10:30:00|2026-01-16 10:30:00|Emergency|Physician Referral|Abdominal Pain|Public (RAMQ)|Observation|7
+953|314|2026-04-16 08:45:00|2026-04-18 08:45:00|Urgent|Physician Referral|Chest Pain|Private Insurance|Stable|12
+954|553|2026-03-23 17:30:00|2026-03-28 17:30:00|Emergency|Walk-in|Chest Pain|Public (RAMQ)|Stable|2
+955|392|2026-04-07 00:30:00||Urgent|Emergency Room|Shortness of Breath|Private Insurance|Stable|5
+956|279|2026-05-19 20:45:00|2026-05-27 20:45:00|Elective|Transfer|Shortness of Breath|Public (RAMQ)|Critical|14
+957|588|2026-07-26 11:45:00|2026-07-30 11:45:00|Urgent|Physician Referral|Fever|Private Insurance|Observation|7
+958|21|2026-02-16 09:15:00|2026-02-26 09:15:00|Observation|Emergency Room|Trauma|Public (RAMQ)|Critical|2
+959|372|2026-09-03 23:45:00|2026-09-13 23:45:00|Urgent|Emergency Room|Trauma|Private Insurance|Stable|3
+960|52|2026-02-16 16:45:00|2026-02-20 16:45:00|Elective|Physician Referral|Shortness of Breath|Private Insurance|Improving|5
+961|371|2026-04-02 21:45:00|2026-04-06 21:45:00|Urgent|Emergency Room|Fever|None|Improving|9
+962|789|2026-03-04 21:45:00|2026-03-05 21:45:00|Elective|Emergency Room|Syncope|Self-pay|Observation|11
+963|227|2026-01-15 09:30:00|2026-01-21 09:30:00|Urgent|Walk-in|Fever|Self-pay|Observation|6
+964|123|2026-08-10 16:30:00|2026-08-20 16:30:00|Observation|Walk-in|  Chest Pain  |Self-pay|Stable|14
+965|134|2026-08-30 17:15:00|2026-09-09 17:15:00|elective|Physician Referral|Fever|None|Observation|5
+966|451|2026-02-05 05:30:00|2026-02-14 05:30:00|Emergency|Emergency Room|Trauma|None|Critical|13
+967|169|2026-04-02 23:30:00|2026-04-07 23:30:00|Urgent|Emergency Room|Fever|Private Insurance|Observation|4
+968|11|2026-06-15 10:15:00|2026-06-21 10:15:00|Elective|Transfer|Trauma|Self-pay|Stable|13
+969|422|2026-08-02 09:45:00|2026-08-07 09:45:00|Observation|Transfer|Shortness of Breath|Self-pay|Critical|14
+970|138|2026-05-29 10:45:00|2026-05-31 10:45:00|Emergency|Emergency Room|Shortness of Breath|None|Critical|1
+971|1|2026-01-01 17:30:00|2026-01-08 17:30:00|Elective|Walk-in|Abdominal Pain|None|Stable|1
+972|638|2026-08-21 23:15:00|2026-08-31 23:15:00|Elective|Transfer|Shortness of Breath|Private Insurance|Stable|7
+973|132|2026-05-28 01:45:00|2026-06-02 01:45:00|Urgent|Emergency Room|Abdominal Pain|None|Stable|9
+974|766|2026-03-08 02:45:00|2026-03-15 02:45:00|Emergency|Walk-in|Chest Pain|None|Observation|6
+975|555|2026-02-05 06:00:00|2026-02-15 06:00:00|Urgent|Emergency Room|Trauma|Public (RAMQ)|Observation|1
+976|684|2026-01-12 15:00:00|2026-01-17 15:00:00|Emergency|Transfer|Chest Pain|Self-pay|Critical|11
+977|667|2026-06-22 06:15:00|2026-06-27 06:15:00|Elective|Emergency Room|Fever|None|Critical|4
+978|489|2026-05-09 13:30:00|2026-05-16 13:30:00|Elective|Transfer|Shortness of Breath|Self-pay|Improving|3
+979|455|2026-07-19 20:45:00|2026-07-25 20:45:00|Emergency|Transfer|Fever|Private Insurance|Observation|6
+980|801|2026-07-16 09:15:00|2026-07-17 09:15:00|Urgent|Transfer|Syncope|Self-pay|Stable|15
+981|62|2026-03-08 12:45:00|2026-03-18 12:45:00|Observation|Walk-in|Fever|Private Insurance|Observation|5
+982|788|2026-01-14 07:15:00|2026-01-24 07:15:00|Emergency|Transfer|Chest Pain|None|Improving|4
+983|685|2026-05-10 14:15:00|2026-05-11 14:15:00|Observation|Transfer|Fever|Public (RAMQ)|Observation|1
+984|572|2026-08-24 12:45:00|2026-08-26 12:45:00|Emergency|Emergency Room|Fever|Self-pay|Improving|2
+985|340|2026-03-01 21:45:00|2026-03-10 21:45:00|Urgent|Emergency Room|Abdominal Pain|Self-pay|Stable|8
+986|500|2026-08-18 05:45:00|2026-08-22 05:45:00|Emergency|Physician Referral|Fever|None|Improving|14
+987|256|2026-08-27 11:30:00|2026-08-30 11:30:00|Observation|Transfer|Shortness of Breath|None|Critical|7
+988|230|2026-07-24 01:45:00|2026-08-03 01:45:00|Observation|Transfer|Chest Pain|Private Insurance|Stable|9
+989|465|2026-06-03 14:00:00|2026-06-13 14:00:00|Emergency|Transfer|Chest Pain|None|Critical|2
+990|135|2026-04-08 12:00:00|2026-04-12 12:00:00|Emergency|Physician Referral|Fever|Public (RAMQ)|Stable|6
+991|242|2026-07-01 06:45:00|2026-07-07 06:45:00|Emergency|Emergency Room|Syncope|Public (RAMQ)|Critical|3
+992|58|2026-03-14 18:00:00|2026-03-23 18:00:00|Emergency|Transfer|Shortness of Breath|Private Insurance|Stable|15
+993|285|2026-09-05 18:00:00|2026-09-06 18:00:00|Elective|Physician Referral|Syncope|None|Improving|12
+994|135|2026-04-17 23:15:00|2026-04-23 23:15:00|Observation|Walk-in|Abdominal Pain|Self-pay|Improving|13
+995|671|2026-06-24 08:45:00|2026-06-29 08:45:00|Emergency|Transfer|Chest Pain|None|Stable|11
+996|743|2026-06-30 15:45:00|2026-07-07 15:45:00|Urgent|Walk-in|Chest Pain|Private Insurance|Observation|4
+997|326|2026-01-13 03:30:00|2026-01-18 03:30:00|Urgent|Physician Referral|Chest Pain|Private Insurance|Observation|5
+998|755|2026-07-11 01:45:00|2026-07-17 01:45:00|Emergency|Walk-in|Chest Pain|Private Insurance|Observation|4
+999|289|2026-05-16 13:00:00|2026-05-22 13:00:00|Urgent|Physician Referral|Abdominal Pain|Self-pay|Improving|1
+1000|551|2026-08-20 14:00:00|2026-08-23 14:00:00|Urgent|Walk-in|Abdominal Pain|Public (RAMQ)|Improving|6
+1001|645|2026-04-06 22:15:00|2026-04-11 22:15:00|Elective|Emergency Room|Trauma|Public (RAMQ)|Critical|5
+1002|756|2026-08-13 15:00:00|2026-08-16 15:00:00|Urgent|Walk-in|Fever|None|Observation|6
+1003|494|2026-02-10 08:45:00|2026-02-17 08:45:00|Elective|Transfer|Abdominal Pain|None|Stable|13
+1004|204|2026-04-17 22:45:00|2026-04-24 22:45:00|Emergency|Transfer|  Trauma  |None|Observation|4
+1005|297|2026-05-20 20:15:00|2026-05-22 20:15:00|Urgent|Physician Referral|Fever|None|Critical|4
+1006|737|2026-08-12 01:15:00|2026-08-22 01:15:00|Emergency|Physician Referral|Fever|Public (RAMQ)|Observation|10
+1007|561|2026-02-17 10:45:00|2026-02-18 10:45:00|Emergency|Emergency Room|Fever|Public (RAMQ)|Critical|9
+1008|368|2026-04-08 20:15:00|2026-04-13 20:15:00|Urgent|Transfer|Abdominal Pain|Private Insurance|Observation|15
+1009|293|2026-08-07 20:15:00|2026-08-08 20:15:00|Observation|Transfer|Fever|None|Observation|2
+1010|753|2026-01-29 10:15:00|2026-02-01 10:15:00|Emergency|Physician Referral|Syncope|Self-pay|Observation|2
+1011|590|2026-05-23 04:30:00|2026-06-02 04:30:00|Emergency|Emergency Room|Chest Pain|Self-pay|Improving|2
+1012|166|2026-07-13 10:30:00|2026-07-14 10:30:00|Observation|Transfer|Abdominal Pain|Private Insurance|Improving|14
+1013|277|2026-05-20 14:15:00|2026-05-21 14:15:00|Emergency|Physician Referral|Shortness of Breath|Public (RAMQ)|Stable|4
+1014|646|2026-03-03 23:00:00|2026-03-07 23:00:00|Elective|Transfer|Trauma|Public (RAMQ)|Stable|12
+1015|423|2026-07-19 18:15:00|2026-07-25 18:15:00|Emergency|Transfer|Shortness of Breath|Public (RAMQ)|Improving|7
+1016|586|2026-06-24 17:15:00|2026-06-30 17:15:00|Elective|Emergency Room|Chest Pain|None|Stable|13
+1017|187|2026-04-12 09:15:00|2026-04-14 09:15:00|Observation|Emergency Room|Trauma|Public (RAMQ)|Observation|4
+1018|88|2026-01-02 06:00:00|2026-01-11 06:00:00|Observation|Emergency Room|Fever|Public (RAMQ)|Stable|5
+1019|226|2026-06-15 20:00:00|2026-06-25 20:00:00|Urgent|Emergency Room|Abdominal Pain|None|Improving|2
+1020|395|2026-02-23 12:45:00|2026-02-27 12:45:00|Observation|Transfer|Trauma|None|Improving|1
+1021|336|2026-06-24 02:30:00|2026-07-03 02:30:00|Elective|Walk-in|Fever|Private Insurance|Observation|14
+1022|383|2026-06-21 16:15:00|2026-06-27 16:15:00| Emergency |Emergency Room|Fever|Private Insurance|Improving|10
+1023|776|2026-08-15 04:45:00|2026-08-16 04:45:00|Urgent|Emergency Room|Fever|None|Stable|10
+1024|681|2026-08-24 18:00:00|2026-08-27 18:00:00|Urgent|Walk-in|Abdominal Pain|Public (RAMQ)|Stable|9
+1025|842|2026-02-18 18:00:00|2026-02-23 18:00:00|Elective|Transfer|Shortness of Breath|Private Insurance|Improving|6
+1026|39|2026-01-22 17:15:00|2026-01-27 17:15:00|Observation|Emergency Room|Fever|Public (RAMQ)|Stable|2
+1027|624|2026-03-28 08:30:00|2026-04-07 08:30:00|Urgent|Walk-in|Abdominal Pain|Private Insurance|Observation|1
+1028|672|2026-07-22 13:45:00|2026-08-01 13:45:00|Observation|Walk-in|Abdominal Pain|None|Critical|4
+1029|756|2026-04-11 01:45:00|2026-04-19 01:45:00|Observation|Emergency Room|Syncope|Public (RAMQ)|Improving|3
+1030|447|2026-08-12 23:00:00|2026-08-16 23:00:00|Emergency|Emergency Room|Trauma|Self-pay|Critical|3
+1031|501|2026-05-04 01:30:00|2026-05-06 01:30:00|Elective|Walk-in|Syncope|Public (RAMQ)|Critical|11
+1032|331|2026-01-17 20:30:00|2026-01-25 20:30:00|Elective|Physician Referral|Abdominal Pain|None|Improving|11
+1033|629|2026-08-08 06:00:00|2026-08-11 06:00:00|Urgent|Walk-in|Shortness of Breath|Public (RAMQ)|Improving|10
+1034|579|2026-08-24 05:45:00|2026-08-27 05:45:00|Observation|Physician Referral|Abdominal Pain|Public (RAMQ)|Observation|7
+1035|347|2026-05-03 22:45:00|2026-05-11 22:45:00|Observation|Transfer|Syncope|Private Insurance|Observation|6
+1036|633|2026-06-16 12:45:00|2026-06-26 12:45:00|Elective|Walk-in|Abdominal Pain|Private Insurance|Improving|1
+1037|223|2026-07-19 15:00:00|2026-07-26 15:00:00|Urgent|Physician Referral|Fever|None|Observation|12
+1038|119|2026-07-03 21:45:00|2026-07-05 21:45:00|Emergency|Physician Referral|Trauma|Self-pay|Stable|3
+1039|781|2026-08-05 02:30:00|2026-08-07 02:30:00|Emergency|Walk-in|Shortness of Breath|Private Insurance|Improving|6
+1040|329|2026-01-30 12:15:00|2026-02-04 12:15:00|Emergency|Emergency Room|Chest Pain|None|Critical|4
+1041|85|2026-08-19 14:45:00|2026-08-26 14:45:00|Urgent|Emergency Room|Syncope|Public (RAMQ)|Stable|3
+1042|761|2026-08-09 16:30:00|2026-08-14 16:30:00|Emergency|Physician Referral|Trauma|Private Insurance|Improving|15
+1043|304|2026-01-29 22:15:00|2026-02-01 22:15:00|Emergency|Transfer|Chest Pain|Self-pay|Critical|9
+1044|290|2026-02-08 09:15:00|2026-02-10 09:15:00|Elective|Emergency Room|Fever|Private Insurance|Stable|2
+1045|601|2026-02-08 20:45:00|2026-02-16 20:45:00|Elective|Emergency Room|Chest Pain|Public (RAMQ)|Critical|5
+1046|248|2026-05-10 21:45:00|2026-05-18 21:45:00|Elective|Emergency Room|Chest Pain|Private Insurance|Critical|11
+1047|455|2026-07-01 10:00:00|2026-07-09 10:00:00|Observation|Emergency Room|Shortness of Breath|Public (RAMQ)|Critical|15
+1048|769|2026-07-23 06:45:00|2026-07-24 06:45:00|Observation|Emergency Room|Trauma|Private Insurance|Improving|10
+1049|60|2026-05-01 01:45:00|2026-05-07 01:45:00|Elective|Transfer|Fever|Self-pay|Observation|8
+1050|601|2026-01-22 06:45:00||Elective|Walk-in|Abdominal Pain|Private Insurance|Critical|4
+1051|28|2026-09-03 05:45:00|2026-09-01 05:45:00|Emergency|Walk-in|Shortness of Breath|Public (RAMQ)|Critical|2
+1052|300|2026-06-08 19:00:00|2026-06-17 19:00:00|Emergency|Emergency Room|Fever|None|Observation|3
+1053|417|2026-04-14 21:00:00|2026-04-21 21:00:00| Emergency |Emergency Room|Chest Pain|Private Insurance|Observation|2
+1054|714|2026-07-01 15:30:00|2026-07-04 15:30:00|Elective|Physician Referral|Abdominal Pain|Public (RAMQ)|Stable|1
+1055|788|2026-03-07 18:30:00|2026-03-14 18:30:00|Emergency|Transfer|Abdominal Pain|Private Insurance|Stable|5
+1056|497|2026-08-13 01:00:00||Elective|Walk-in|Trauma|None|Critical|4
+1057|427|2026-06-09 00:00:00|2026-06-17 00:00:00|Emergency|Walk-in|Trauma|Public (RAMQ)|Improving|14
+1058|442|2026-05-04 00:15:00|2026-05-08 00:15:00|Elective|Physician Referral|Abdominal Pain|Public (RAMQ)|Critical|11
+1059|734|2026-02-08 08:15:00|2026-02-15 08:15:00|Elective|Transfer|Trauma|None|Improving|4
+1060|690|2026-07-03 01:15:00|2026-07-12 01:15:00|urgent|Physician Referral|Chest Pain|Self-pay|Stable|10
+1061|64|2026-02-23 17:45:00|2026-02-24 17:45:00|Urgent|Physician Referral|Chest Pain|Private Insurance|Critical|14
+1062|791|2026-04-01 13:00:00|2026-04-04 13:00:00|Emergency|Emergency Room|Syncope|None|Critical|2
+1063|27|2026-06-26 10:45:00|2026-06-27 10:45:00|Urgent|Walk-in|Fever|Public (RAMQ)|Improving|7
+1064|414|2026-01-01 17:45:00|2026-01-05 17:45:00|Observation|Transfer|Chest Pain|Self-pay|Observation|11
+1065|282|2026-05-17 21:30:00|2026-05-25 21:30:00|Observation|Transfer|Syncope|None|Stable|13
+1066|669|2026-07-02 22:30:00|2026-07-08 22:30:00|Elective|Transfer|Abdominal Pain|None|Stable|13
+1067|263|2026-04-03 20:15:00|2026-04-04 20:15:00|Elective|Emergency Room|Fever|Self-pay|Critical|10
+1068|39|2026-06-20 09:15:00|2026-06-28 09:15:00|Elective|Walk-in|Chest Pain|Self-pay|Stable|13
+1069|405|2026-05-10 21:00:00|2026-05-12 21:00:00|Urgent|Emergency Room|Shortness of Breath|Private Insurance|Stable|13
+1070|93|2026-04-03 14:45:00|2026-04-04 14:45:00|Elective|Walk-in|Chest Pain|Private Insurance|Improving|10
+1071|488|2026-05-01 10:00:00|2026-05-06 10:00:00|Elective|Emergency Room|Shortness of Breath|Public (RAMQ)|Observation|5
+1072|379|2026-07-22 00:15:00|2026-07-29 00:15:00|Urgent|Emergency Room|Chest Pain|None|Observation|3
+1073|508|2026-03-29 21:45:00|2026-04-04 21:45:00|Emergency|Transfer|Shortness of Breath|Public (RAMQ)|Improving|3
+1074|39|2026-05-31 04:30:00|2026-06-01 04:30:00|Observation|Physician Referral|Fever|Self-pay|Stable|1
+1075|698|2026-08-07 05:30:00|2026-08-09 05:30:00|Elective|Emergency Room|Chest Pain|None|Critical|2
+1076|145|2026-08-22 22:45:00|2026-08-31 22:45:00|Emergency|Physician Referral|Chest Pain|None|Observation|3
+1077|324|2026-08-04 01:15:00||Elective|Walk-in|Abdominal Pain|None|Observation|8
+1078|353|2026-02-20 18:30:00|2026-02-27 18:30:00|Emergency|Emergency Room|Chest Pain|None|Stable|10
+1079|4|2026-04-20 17:00:00|2026-04-24 17:00:00|Observation|Walk-in|Fever|None|Critical|9
+1080|720|2026-06-12 04:30:00|2026-06-13 04:30:00|Emergency|Physician Referral|Fever|Self-pay|Improving|14
+1081|357|2026-01-10 16:30:00|2026-01-11 16:30:00|Observation|Emergency Room|Trauma|Self-pay|Observation|7
+1082|389|2026-02-26 02:30:00|2026-02-28 02:30:00|Observation|Walk-in|Shortness of Breath|Self-pay|Critical|7
+1083|304|2026-09-05 18:30:00|2026-09-13 18:30:00|Urgent|Physician Referral|Abdominal Pain|Public (RAMQ)|Improving|15
+1084|77|2026-08-19 13:00:00|2026-08-25 13:00:00|Elective|Transfer|Fever|Public (RAMQ)|Observation|1
+1085|530|2026-02-27 19:30:00|2026-02-28 19:30:00|Urgent|Physician Referral|Abdominal Pain|None|Observation|5
+1086|487|2026-02-02 14:30:00|2026-02-12 14:30:00|Emergency|Physician Referral|Shortness of Breath|Public (RAMQ)|Critical|8
+1087|646|2026-02-12 18:45:00|2026-02-17 18:45:00|Observation|Physician Referral|  Chest Pain  |None|Improving|7
+1088|612|2026-06-03 03:45:00|2026-06-12 03:45:00|Elective|Emergency Room|Shortness of Breath|Self-pay|Critical|7
+1089|53|2026-09-08 12:15:00|2026-09-16 12:15:00|Elective|Physician Referral|Fever|Public (RAMQ)|Critical|2
+1090|688|2026-04-21 08:45:00|2026-04-25 08:45:00|Elective|Walk-in|Shortness of Breath|Self-pay|Stable|10
+1091|90|2026-02-24 14:45:00|2026-02-25 14:45:00|Elective|Transfer|Shortness of Breath|None|Stable|14
+1092|767|2026-03-07 03:15:00|2026-03-09 03:15:00|Emergency|Walk-in|Trauma|Self-pay|Improving|10
+1093|155|2026-02-17 04:15:00|2026-02-19 04:15:00|Emergency|Transfer|Shortness of Breath|Self-pay|Observation|10
+1094|349|2026-05-07 22:15:00|2026-05-08 22:15:00|Urgent|Walk-in|Chest Pain|None|Improving|13
+1095|214|2026-03-03 14:30:00|2026-03-13 14:30:00|Emergency|Walk-in|Chest Pain|None|Improving|9
+1096|750|2026-05-09 21:30:00|2026-05-16 21:30:00|Elective|Physician Referral|Fever|Private Insurance|Critical|11
+1097|339|2026-04-17 12:45:00||Observation|Transfer|Chest Pain|Self-pay|Critical|11
+1098|822|2026-02-04 22:00:00|2026-02-05 22:00:00|Elective|Physician Referral|Fever|Private Insurance|Improving|2
+1099|562|2026-06-06 16:00:00|2026-06-16 16:00:00|Urgent|Physician Referral|Trauma|Private Insurance|Stable|10
+1100|123|2026-05-12 04:15:00|2026-05-15 04:15:00|ELECTIVE|Walk-in|Trauma|Private Insurance|Observation|5
+1101|437|2026-04-22 06:30:00|2026-04-25 06:30:00|Emergency|Emergency Room|Syncope|Private Insurance|Observation|5
+1102|602|2026-04-11 04:00:00|2026-04-21 04:00:00|Urgent|Transfer|Syncope|Private Insurance|Improving|1
+1103|597|2026-01-21 15:30:00|2026-01-23 15:30:00|Elective|Physician Referral|Fever|None|Observation|2
+1104|491|2026-07-08 01:45:00|2026-07-09 01:45:00|Emergency|Transfer|Chest Pain|None|Improving|7
+1105|274|2026-03-15 14:00:00|2026-03-23 14:00:00|Emergency|Physician Referral|Abdominal Pain|None|Critical|6
+1106|416|2026-06-28 00:15:00|2026-07-01 00:15:00|Observation|Emergency Room|Chest Pain|Self-pay|Improving|10
+1107|496|2026-01-11 17:45:00|2026-01-12 17:45:00|Elective|Emergency Room|Abdominal Pain|None|Improving|9
+1108|80|2026-06-09 02:00:00|2026-06-07 02:00:00|Urgent|Walk-in|Fever|Self-pay|Improving|6
+1109|52|2026-01-06 10:30:00|2026-01-09 10:30:00|Elective|Physician Referral|Fever|Private Insurance|Stable|14
+1110|152|2026-02-20 11:15:00|2026-02-22 11:15:00|Urgent|Physician Referral|Fever|None|Improving|1
+1111|780|2026-04-13 23:30:00|2026-04-14 23:30:00|Emergency|Walk-in|Abdominal Pain|Public (RAMQ)|Improving|15
+1112|588|2026-03-29 01:15:00|2026-04-03 01:15:00|Elective|Physician Referral|Abdominal Pain|Self-pay|Improving|5
+1113|435|2026-07-24 02:00:00|2026-07-25 02:00:00|Elective|Walk-in|Trauma|Self-pay|Improving|11
+1114|628|2026-02-15 11:15:00|2026-02-17 11:15:00|Emergency|Physician Referral|Chest Pain|Self-pay|Critical|2
+1115|607|2026-01-31 15:00:00|2026-02-10 15:00:00|Emergency|Physician Referral|Trauma|Private Insurance|Critical|15
+1116|446|2026-03-30 09:45:00|2026-04-04 09:45:00|Observation|Physician Referral|Abdominal Pain|None|Stable|1
+1117|692|2026-04-24 16:15:00|2026-04-27 16:15:00|Elective|Walk-in|Shortness of Breath|Self-pay|Observation|13
+1118|41|2026-05-21 10:45:00|2026-05-29 10:45:00|Urgent|Physician Referral|Chest Pain|None|Observation|11
+1119|124|2026-01-21 03:45:00|2026-01-24 03:45:00|Elective|Transfer|Trauma|Self-pay|Observation|10
+1120|619|2026-06-26 23:30:00|2026-06-27 23:30:00|OBSERVATION|Emergency Room|Chest Pain|Private Insurance|Stable|8
+1121|277|2026-06-24 00:00:00|2026-06-27 00:00:00|Observation|Physician Referral|Syncope|None|Observation|10
+1122|659|2026-01-10 05:30:00|2026-01-17 05:30:00|Urgent|Transfer|Syncope|Private Insurance|Stable|4
+1123|128|2026-05-15 21:00:00|2026-05-18 21:00:00|Urgent|Transfer|Syncope|Public (RAMQ)|Stable|15
+1124|582|2026-09-05 04:15:00|2026-09-10 04:15:00|Elective|Emergency Room|Syncope|None|Observation|3
+1125|496|2026-08-23 03:45:00|2026-09-01 03:45:00|Urgent|Physician Referral|Abdominal Pain|None|Critical|8
+1126|415|2026-04-17 04:00:00|2026-04-22 04:00:00|Observation|Physician Referral|Fever|Self-pay|Improving|1
+1127|19|2026-06-08 14:30:00|2026-06-17 14:30:00|Elective|Walk-in|Fever|Self-pay|Improving|9
+1128|619|2026-01-07 16:00:00|2026-01-12 16:00:00|Urgent|Transfer|Shortness of Breath|Public (RAMQ)|Stable|15
+1129|513|2026-04-23 18:15:00|2026-05-03 18:15:00|Urgent|Emergency Room|Chest Pain|None|Stable|2
+1130|270|2026-07-07 12:30:00|2026-07-13 12:30:00|Urgent|Walk-in|Syncope|Public (RAMQ)|Observation|2
+1131|619|2026-05-08 12:00:00|2026-05-16 12:00:00|Observation|Physician Referral|Shortness of Breath|Public (RAMQ)|Stable|13
+1132|115|2026-06-22 08:00:00|2026-06-26 08:00:00|Emergency|Emergency Room|Abdominal Pain|None|Stable|10
+1133|516|2026-05-17 06:45:00|2026-05-18 06:45:00|Observation|Emergency Room|Syncope|Private Insurance|Improving|1
+1134|670|2026-01-15 14:45:00|2026-01-17 14:45:00|Observation|Emergency Room|Trauma|Self-pay|Observation|15
+1135|30|2026-02-10 22:15:00||Urgent|Physician Referral|Shortness of Breath|Public (RAMQ)|Observation|12
+1136|505|2026-07-26 19:00:00|2026-07-24 19:00:00|Emergency|Emergency Room|Shortness of Breath|Self-pay|Critical|6
+1137|701|2026-07-15 15:00:00|2026-07-24 15:00:00|Observation|Transfer|Abdominal Pain|Self-pay|Improving|8
+1138|694|2026-08-01 18:15:00|2026-08-08 18:15:00|Urgent|Physician Referral|Syncope|Private Insurance|Observation|7
+1139|501|2026-07-16 22:45:00|2026-07-25 22:45:00|Urgent|Transfer|Syncope|Private Insurance|Critical|4
+1140|79|2026-07-14 17:30:00|2026-07-19 17:30:00|Elective|Physician Referral|Chest Pain|None|Observation|8
+1141|37|2026-01-08 18:30:00|2026-01-18 18:30:00|Urgent|Walk-in|Fever|None|Observation|3
+1142|313|2026-06-27 21:00:00|2026-07-03 21:00:00|Urgent|Transfer|Trauma|None|Critical|8
+1143|165|2026-06-13 10:00:00|2026-06-16 10:00:00|Observation|Physician Referral|Fever|Public (RAMQ)|Improving|6
+1144|359|2026-08-21 02:30:00|2026-08-31 02:30:00|Elective|Physician Referral|Syncope|Public (RAMQ)|Improving|7
+1145|650|2026-07-09 01:00:00|2026-07-19 01:00:00|Emergency|Emergency Room|Fever|None|Observation|6
+1146|718|2026-02-23 12:15:00|2026-03-02 12:15:00|Elective|Transfer|Shortness of Breath|Self-pay|Stable|2
+1147|396|2026-08-19 08:45:00|2026-08-28 08:45:00|Elective|Walk-in|Syncope|None|Stable|15
+1148|459|2026-04-07 23:45:00|2026-04-13 23:45:00|Emergency|Emergency Room|Trauma|Self-pay|Critical|12
+1149|191|2026-07-04 01:30:00|2026-07-11 01:30:00|Urgent|Transfer|Trauma|Private Insurance|Stable|8
+1150|689|2026-05-07 22:45:00|2026-05-16 22:45:00|Emergency|Physician Referral|Trauma|Private Insurance|Improving|12
+1151|345|2026-03-01 15:30:00|2026-03-11 15:30:00|Elective|Emergency Room|Fever|Public (RAMQ)|Stable|6
+1152|30|2026-01-15 06:30:00|2026-01-20 06:30:00|Observation|Emergency Room|Chest Pain|Public (RAMQ)|Critical|10
+1153|61|2026-04-12 02:45:00|2026-04-14 02:45:00|Urgent|Physician Referral|Chest Pain|Public (RAMQ)|Stable|9
+1154|439|2026-08-24 03:45:00|2026-08-28 03:45:00|Observation|Physician Referral|Fever|None|Improving|4
+1155|618|2026-04-16 22:45:00|2026-04-25 22:45:00|Urgent|Physician Referral|Syncope|None|Observation|5
+1156|664|2026-04-03 14:45:00|2026-04-12 14:45:00|Observation|Transfer|Syncope|Private Insurance|Improving|4
+1157|40|2026-01-22 00:45:00|2026-02-01 00:45:00|Observation|Walk-in|Trauma|Private Insurance|Observation|7
+1158|240|2026-03-09 14:15:00|2026-03-15 14:15:00|urgent|Emergency Room|Syncope|None|Improving|3
+1159|465|2026-07-19 18:15:00|2026-07-29 18:15:00|Observation|Physician Referral|Trauma|Public (RAMQ)|Stable|5
+1160|105|2026-02-20 22:45:00|2026-02-27 22:45:00|Observation|Transfer|Trauma|None|Critical|2
+1161|764|2026-06-25 22:00:00|2026-07-05 22:00:00|Emergency|Physician Referral|Syncope|Private Insurance|Observation|7
+1162|485|2026-07-24 12:00:00|2026-07-27 12:00:00|urgent|Emergency Room|Shortness of Breath|None|Observation|8
+1163|44|2026-07-18 09:00:00|2026-07-26 09:00:00|Urgent|Transfer|Trauma|None|Improving|6
+1164|41|2026-08-08 11:30:00|2026-08-13 11:30:00|Urgent|Transfer|Fever|Public (RAMQ)|Critical|14
+1165|436|2026-06-28 23:15:00|2026-07-02 23:15:00|Urgent|Physician Referral|Chest Pain|None|Observation|10
+1166|390|2026-07-27 02:15:00|2026-08-03 02:15:00|Observation|Transfer|Trauma|Public (RAMQ)|Stable|14
+1167|508|2026-09-05 00:45:00|2026-09-08 00:45:00|Emergency|Walk-in|Shortness of Breath|Self-pay|Improving|10
+1168|251|2026-07-07 03:15:00|2026-07-17 03:15:00|Emergency|Transfer|Chest Pain|Self-pay|Stable|5
+1169|739|2026-08-16 12:45:00|2026-08-21 12:45:00|Observation|Emergency Room|Chest Pain|Public (RAMQ)|Critical|1
+1170|536|2026-08-11 22:45:00|2026-08-12 22:45:00|emergency|Walk-in|Trauma|Public (RAMQ)|Improving|14
+1171|385|2026-08-22 21:45:00|2026-08-26 21:45:00|Urgent|Walk-in|Chest Pain|None|Critical|15
+1172|136|2026-07-11 14:45:00|2026-07-18 14:45:00|Urgent|Walk-in|Chest Pain|None|Critical|2
+1173|673|2026-02-24 04:00:00|2026-02-27 04:00:00|Emergency|Emergency Room|Shortness of Breath|Private Insurance|Critical|9
+1174|317|2026-05-28 10:15:00|2026-06-07 10:15:00|Elective|Transfer|Abdominal Pain|Private Insurance|Observation|5
+1175|216|2026-01-22 14:45:00|2026-01-31 14:45:00|Emergency|Emergency Room|Syncope|None|Improving|4
+1176|681|2026-07-10 05:15:00|2026-07-13 05:15:00|Elective|Emergency Room|Syncope|None|Observation|11
+1177|473|2026-09-08 11:00:00|2026-09-12 11:00:00|Emergency|Emergency Room|Syncope|Private Insurance|Improving|1
+1178|208|2026-05-07 12:30:00|2026-05-13 12:30:00|Emergency|Transfer|Abdominal Pain|Public (RAMQ)|Stable|11
+1179|250|2026-04-05 10:00:00|2026-04-08 10:00:00|Observation|Physician Referral|Trauma|Private Insurance|Critical|7
+1180|652|2026-07-17 16:30:00|2026-07-21 16:30:00|Observation|Physician Referral|Syncope|None|Improving|7
+1181|632|2026-07-14 02:00:00|2026-07-18 02:00:00|Observation|Physician Referral|Trauma|Private Insurance|Improving|2
+1182|638|2026-08-04 18:15:00|2026-08-05 18:15:00|Emergency|Walk-in|Chest Pain|Self-pay|Improving|2
+1183|228|2026-08-13 18:00:00|2026-08-20 18:00:00|Observation|Emergency Room|Trauma|None|Improving|7
+1184|307|2026-07-28 19:00:00|2026-07-29 19:00:00|Urgent|Transfer|Trauma|Public (RAMQ)|Stable|5
+1185|291|2026-02-18 08:30:00|2026-02-19 08:30:00|Elective|Walk-in|Abdominal Pain|Private Insurance|Stable|8
+1186|271|2026-05-06 17:30:00|2026-05-13 17:30:00|Elective|Transfer|Fever|Public (RAMQ)|Improving|8
+1187|89|2026-05-30 21:00:00|2026-06-08 21:00:00|Observation|Transfer|Trauma|Private Insurance|Critical|6
+1188|113|2026-05-29 21:15:00|2026-06-08 21:15:00|Observation|Walk-in|Fever|Private Insurance|Improving|6
+1189|760|2026-03-13 01:45:00|2026-03-23 01:45:00|Elective|Physician Referral|Shortness of Breath|Public (RAMQ)|Improving|13
+1190|129|2026-03-01 04:15:00|2026-03-06 04:15:00|Urgent|Walk-in|Syncope|Private Insurance|Observation|11
+1191|397|2026-08-23 06:00:00|2026-08-26 06:00:00|Emergency|Transfer|Syncope|Self-pay|Critical|13
+1192|652|2026-08-20 17:30:00|2026-08-21 17:30:00|Emergency|Physician Referral|Trauma|None|Critical|3
+1193|73|2026-03-16 00:15:00|2026-03-21 00:15:00|Observation|Walk-in|Abdominal Pain|Self-pay|Critical|3
+1194|206|2026-05-23 00:30:00|2026-05-31 00:30:00|Urgent|Transfer|Shortness of Breath|Self-pay|Improving|13
+1195|72|2026-01-10 04:15:00|2026-01-20 04:15:00|Elective|Emergency Room|Shortness of Breath|Private Insurance|Critical|1
+1196|741|2026-08-30 08:30:00|2026-09-07 08:30:00|Elective|Physician Referral|Abdominal Pain|Public (RAMQ)|Stable|3
+1197|779|2026-08-22 01:00:00|2026-08-20 01:00:00|Elective|Emergency Room|Trauma|None|Stable|1
+1198|134|2026-05-23 03:00:00|2026-06-01 03:00:00|Elective|Transfer|Fever|Private Insurance|Stable|11
+1199|274|2026-04-25 22:15:00|2026-04-28 22:15:00|Emergency|Walk-in|Fever|Private Insurance|Observation|10
+1200|757|2026-09-07 12:30:00|2026-09-13 12:30:00|Elective|Emergency Room|Fever|Private Insurance|Observation|14

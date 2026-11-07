@@ -1,20 +1,3 @@
-"""
-Generate the ICU_STAY table for Source A (North America / TXT).
-Output: SourceA_icu_stays.txt
-
-Reads SourceA_admissions.txt to anchor ICU stays to real admission timelines.
-Links to physicians (IDs 1-15).
-
-Record layout (pipe-delimited):
-  unit_stay_id | admission_id | responsible_physician_id | unit_type 
-  | room_number | bed_number | entry_date_time | exit_date_time | reason_transfer
-
-Anomalies injected (documented):
-  - Chronological error (~3%): exit_date_time < entry_date_time
-  - Missing exit date (~5%): patient is still in the ICU (open stay)
-  - Broken admission FK (~2%): admission_id = 9999
-  - Inconsistent unit_type formatting (~5%): "icu", " CCU "
-"""
 import random
 from datetime import datetime, timedelta
 
@@ -24,9 +7,15 @@ SEED = 666
 
 PHYSICIAN_IDS = list(range(1, 16))     # professionals 1..15
 UNIT_TYPES = ["ICU", "CCU", "MICU", "SICU"]
+REASONS = [
+    "Continuous Monitoring", 
+    "Post-operative recovery", 
+    "Respiratory distress", 
+    "Hemodynamic instability", 
+    "Cardiac arrhythmia"
+]
 
 def load_admissions(path=ADMISSIONS_FILE):
-    """Returns a list of dicts with admission_id and admission_date_time."""
     admissions = []
     with open(path, encoding="utf-8") as f:
         for line in f:
@@ -53,8 +42,6 @@ def generate_icu_stays():
     ]
 
     stay_id = 1
-    # Not every admission requires an ICU stay. 
-    # We will generate ICU stays for ~30% of the admissions.
     for adm in admissions:
         if random.random() > 0.30:
             continue
@@ -62,29 +49,22 @@ def generate_icu_stays():
         a_id = adm["admission_id"]
         doc_id = random.choice(PHYSICIAN_IDS)
 
-        # --- ANOMALY: Broken admission FK (~2%) ---
         output_a_id = a_id
         if random.random() < 0.02:
             output_a_id = 9999
 
-        # ICU entry happens typically 1-24 hours after admission
         entry_dt = adm["admit_dt"] + timedelta(hours=random.randint(1, 24))
-        
-        # ICU stay lasts between 1 and 7 days
         exit_dt = entry_dt + timedelta(days=random.randint(1, 7), hours=random.randint(0, 23))
 
-        # --- ANOMALY: Chronological error (~3%) ---
         if random.random() < 0.03:
-            exit_dt = entry_dt - timedelta(days=2) # Exits before entering!
+            exit_dt = entry_dt - timedelta(days=2)
 
         entry_str = entry_dt.strftime("%Y-%m-%d %H:%M:%S")
         exit_str = exit_dt.strftime("%Y-%m-%d %H:%M:%S")
 
-        # --- ANOMALY: Missing exit date (~5%) ---
         if random.random() < 0.05:
             exit_str = ""
 
-        # --- ANOMALY: Inconsistent unit_type formatting (~5%) ---
         unit = random.choice(UNIT_TYPES)
         if random.random() < 0.05:
             unit = random.choice([unit.lower(), f" {unit} "])
@@ -92,9 +72,14 @@ def generate_icu_stays():
         room = f"Room {random.choice(['A', 'B', 'C'])}"
         bed = f"Bed {random.randint(1, 4)}"
         
+        # --- UPDATED: Randomize the transfer reason with some formatting anomalies ---
+        reason = random.choice(REASONS)
+        if random.random() < 0.05:
+            reason = random.choice([reason.lower(), reason.upper(), f"  {reason}  "])
+        
         lines.append(
             f"{stay_id}|{output_a_id}|{doc_id}|{unit}|{room}|{bed}"
-            f"|{entry_str}|{exit_str}|Continuous Monitoring Required"
+            f"|{entry_str}|{exit_str}|{reason}"
         )
         stay_id += 1
 

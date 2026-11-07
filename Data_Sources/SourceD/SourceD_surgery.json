@@ -1,0 +1,1759 @@
+[
+  {
+    "surgeryId": 1,
+    "visitId": 1,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 15,
+    "surgeryTimestamp": 1772755200
+  },
+  {
+    "surgeryId": 2,
+    "visitId": 2,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 10,
+    "surgeryTimestamp": 1769212800
+  },
+  {
+    "surgeryId": 3,
+    "visitId": 3,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 9,
+    "surgeryTimestamp": 1772582400
+  },
+  {
+    "surgeryId": 4,
+    "visitId": 5,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1779926400
+  },
+  {
+    "surgeryId": 5,
+    "visitId": 6,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 9,
+    "surgeryTimestamp": 1770768000
+  },
+  {
+    "surgeryId": 6,
+    "visitId": 9,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 13,
+    "surgeryTimestamp": 1777248000
+  },
+  {
+    "surgeryId": 7,
+    "visitId": 13,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 13,
+    "surgeryTimestamp": 1788048000
+  },
+  {
+    "surgeryId": 8,
+    "visitId": 21,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 15,
+    "surgeryTimestamp": 1785974400
+  },
+  {
+    "surgeryId": 9,
+    "visitId": 25,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 12,
+    "surgeryTimestamp": 1767744000
+  },
+  {
+    "surgeryId": 10,
+    "visitId": 43,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 4,
+    "surgeryTimestamp": 1770854400
+  },
+  {
+    "surgeryId": 11,
+    "visitId": 51,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 11,
+    "surgeryTimestamp": 1785888000
+  },
+  {
+    "surgeryId": 12,
+    "visitId": 65,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 15,
+    "surgeryTimestamp": 1774742400
+  },
+  {
+    "surgeryId": 13,
+    "visitId": 71,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 14,
+    "surgeryTimestamp": 1774483200
+  },
+  {
+    "surgeryId": 14,
+    "visitId": 72,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 6,
+    "surgeryTimestamp": 1783123200
+  },
+  {
+    "surgeryId": 15,
+    "visitId": 75,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 15,
+    "surgeryTimestamp": 1768608000
+  },
+  {
+    "surgeryId": 16,
+    "visitId": 78,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 4,
+    "surgeryTimestamp": 1788739200
+  },
+  {
+    "surgeryId": 17,
+    "visitId": 81,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 13,
+    "surgeryTimestamp": 1782691200
+  },
+  {
+    "surgeryId": 18,
+    "visitId": 85,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 9,
+    "surgeryTimestamp": 1768780800
+  },
+  {
+    "surgeryId": 19,
+    "visitId": 87,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 7,
+    "surgeryTimestamp": 1774396800
+  },
+  {
+    "surgeryId": 20,
+    "visitId": 89,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 7,
+    "surgeryTimestamp": 1779148800
+  },
+  {
+    "surgeryId": 21,
+    "visitId": 101,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 5,
+    "surgeryTimestamp": 1770163200
+  },
+  {
+    "surgeryId": 22,
+    "visitId": 106,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 14,
+    "surgeryTimestamp": 1775347200
+  },
+  {
+    "surgeryId": 23,
+    "visitId": 112,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 9,
+    "surgeryTimestamp": 1778112000
+  },
+  {
+    "surgeryId": 24,
+    "visitId": 117,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 13,
+    "surgeryTimestamp": 1775174400
+  },
+  {
+    "surgeryId": 25,
+    "visitId": 122,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 5,
+    "surgeryTimestamp": 1782604800
+  },
+  {
+    "surgeryId": 26,
+    "visitId": 131,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1778025600
+  },
+  {
+    "surgeryId": 27,
+    "visitId": 141,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 3,
+    "surgeryTimestamp": 1772323200
+  },
+  {
+    "surgeryId": 28,
+    "visitId": 143,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 13,
+    "surgeryTimestamp": 1779062400
+  },
+  {
+    "surgeryId": 29,
+    "visitId": 150,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 15,
+    "surgeryTimestamp": 1786233600
+  },
+  {
+    "surgeryId": 30,
+    "visitId": 152,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 4,
+    "surgeryTimestamp": 1782172800
+  },
+  {
+    "surgeryId": 31,
+    "visitId": 157,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 5,
+    "surgeryTimestamp": 1783296000
+  },
+  {
+    "surgeryId": 32,
+    "visitId": 162,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 15,
+    "surgeryTimestamp": 1781308800
+  },
+  {
+    "surgeryId": 33,
+    "visitId": 166,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 14,
+    "surgeryTimestamp": 1770508800
+  },
+  {
+    "surgeryId": 34,
+    "visitId": 168,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 4,
+    "surgeryTimestamp": 1785542400
+  },
+  {
+    "surgeryId": 35,
+    "visitId": 170,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 9,
+    "surgeryTimestamp": 1783900800
+  },
+  {
+    "surgeryId": 36,
+    "visitId": 173,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 3,
+    "surgeryTimestamp": 1770163200
+  },
+  {
+    "surgeryId": 37,
+    "visitId": 176,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 12,
+    "surgeryTimestamp": 1779408000
+  },
+  {
+    "surgeryId": 38,
+    "visitId": 177,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 12,
+    "surgeryTimestamp": 1772409600
+  },
+  {
+    "surgeryId": 39,
+    "visitId": 180,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 7,
+    "surgeryTimestamp": 1788566400
+  },
+  {
+    "surgeryId": 40,
+    "visitId": 181,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 12,
+    "surgeryTimestamp": 1786924800
+  },
+  {
+    "surgeryId": 41,
+    "visitId": 183,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 12,
+    "surgeryTimestamp": 1773187200
+  },
+  {
+    "surgeryId": 42,
+    "visitId": 192,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 3,
+    "surgeryTimestamp": 1782604800
+  },
+  {
+    "surgeryId": 43,
+    "visitId": 193,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 2,
+    "surgeryTimestamp": 1777680000
+  },
+  {
+    "surgeryId": 44,
+    "visitId": 194,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1783900800
+  },
+  {
+    "surgeryId": 45,
+    "visitId": 195,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 8,
+    "surgeryTimestamp": 1782345600
+  },
+  {
+    "surgeryId": 46,
+    "visitId": 204,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 2,
+    "surgeryTimestamp": 1784505600
+  },
+  {
+    "surgeryId": 47,
+    "visitId": 208,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 3,
+    "surgeryTimestamp": 1768521600
+  },
+  {
+    "surgeryId": 48,
+    "visitId": 210,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 4,
+    "surgeryTimestamp": 1786924800
+  },
+  {
+    "surgeryId": 49,
+    "visitId": 217,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 12,
+    "surgeryTimestamp": 1773792000
+  },
+  {
+    "surgeryId": 50,
+    "visitId": 219,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 4,
+    "surgeryTimestamp": 1769990400
+  },
+  {
+    "surgeryId": 51,
+    "visitId": 223,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 6,
+    "surgeryTimestamp": 1778457600
+  },
+  {
+    "surgeryId": 52,
+    "visitId": 225,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 5,
+    "surgeryTimestamp": 1783382400
+  },
+  {
+    "surgeryId": 53,
+    "visitId": 232,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 14,
+    "surgeryTimestamp": 1772323200
+  },
+  {
+    "surgeryId": 54,
+    "visitId": 236,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 8,
+    "surgeryTimestamp": 1778457600
+  },
+  {
+    "surgeryId": 55,
+    "visitId": 254,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 7,
+    "surgeryTimestamp": 1774483200
+  },
+  {
+    "surgeryId": 56,
+    "visitId": 265,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 7,
+    "surgeryTimestamp": 1770076800
+  },
+  {
+    "surgeryId": 57,
+    "visitId": 270,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 8,
+    "surgeryTimestamp": 1778025600
+  },
+  {
+    "surgeryId": 58,
+    "visitId": 272,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 9,
+    "surgeryTimestamp": 1784678400
+  },
+  {
+    "surgeryId": 59,
+    "visitId": 279,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1781308800
+  },
+  {
+    "surgeryId": 60,
+    "visitId": 280,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 3,
+    "surgeryTimestamp": 1778198400
+  },
+  {
+    "surgeryId": 61,
+    "visitId": 287,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 3,
+    "surgeryTimestamp": 1769299200
+  },
+  {
+    "surgeryId": 62,
+    "visitId": 291,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 4,
+    "surgeryTimestamp": 1771459200
+  },
+  {
+    "surgeryId": 63,
+    "visitId": 303,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 12,
+    "surgeryTimestamp": 1781481600
+  },
+  {
+    "surgeryId": 64,
+    "visitId": 311,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 8,
+    "surgeryTimestamp": 1784937600
+  },
+  {
+    "surgeryId": 65,
+    "visitId": 315,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 6,
+    "surgeryTimestamp": 1770595200
+  },
+  {
+    "surgeryId": 66,
+    "visitId": 320,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 10,
+    "surgeryTimestamp": 1773532800
+  },
+  {
+    "surgeryId": 67,
+    "visitId": 325,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 15,
+    "surgeryTimestamp": 1771977600
+  },
+  {
+    "surgeryId": 68,
+    "visitId": 330,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 13,
+    "surgeryTimestamp": 1786838400
+  },
+  {
+    "surgeryId": 69,
+    "visitId": 344,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1778716800
+  },
+  {
+    "surgeryId": 70,
+    "visitId": 346,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1777334400
+  },
+  {
+    "surgeryId": 71,
+    "visitId": 348,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1781308800
+  },
+  {
+    "surgeryId": 72,
+    "visitId": 349,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 8,
+    "surgeryTimestamp": 1771027200
+  },
+  {
+    "surgeryId": 73,
+    "visitId": 353,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 2,
+    "surgeryTimestamp": 1772323200
+  },
+  {
+    "surgeryId": 74,
+    "visitId": 356,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 11,
+    "surgeryTimestamp": 1771200000
+  },
+  {
+    "surgeryId": 75,
+    "visitId": 357,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 7,
+    "surgeryTimestamp": 1769990400
+  },
+  {
+    "surgeryId": 76,
+    "visitId": 358,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 15,
+    "surgeryTimestamp": 1786147200
+  },
+  {
+    "surgeryId": 77,
+    "visitId": 359,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 8,
+    "surgeryTimestamp": 1785369600
+  },
+  {
+    "surgeryId": 78,
+    "visitId": 365,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 14,
+    "surgeryTimestamp": 1782345600
+  },
+  {
+    "surgeryId": 79,
+    "visitId": 374,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 5,
+    "surgeryTimestamp": 1787184000
+  },
+  {
+    "surgeryId": 80,
+    "visitId": 384,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 15,
+    "surgeryTimestamp": 1774137600
+  },
+  {
+    "surgeryId": 81,
+    "visitId": 399,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 4,
+    "surgeryTimestamp": 1787184000
+  },
+  {
+    "surgeryId": 82,
+    "visitId": 400,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 10,
+    "surgeryTimestamp": 1776643200
+  },
+  {
+    "surgeryId": 83,
+    "visitId": 401,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1774483200
+  },
+  {
+    "surgeryId": 84,
+    "visitId": 407,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 4,
+    "surgeryTimestamp": 1773705600
+  },
+  {
+    "surgeryId": 85,
+    "visitId": 408,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 10,
+    "surgeryTimestamp": 1786320000
+  },
+  {
+    "surgeryId": 86,
+    "visitId": 412,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 12,
+    "surgeryTimestamp": 1771372800
+  },
+  {
+    "surgeryId": 87,
+    "visitId": 422,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 6,
+    "surgeryTimestamp": 1772928000
+  },
+  {
+    "surgeryId": 88,
+    "visitId": 424,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 9,
+    "surgeryTimestamp": 1772496000
+  },
+  {
+    "surgeryId": 89,
+    "visitId": 425,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 4,
+    "surgeryTimestamp": 1781308800
+  },
+  {
+    "surgeryId": 90,
+    "visitId": 430,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 12,
+    "surgeryTimestamp": 1787184000
+  },
+  {
+    "surgeryId": 91,
+    "visitId": 443,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 13,
+    "surgeryTimestamp": 1770076800
+  },
+  {
+    "surgeryId": 92,
+    "visitId": 448,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 12,
+    "surgeryTimestamp": 1787184000
+  },
+  {
+    "surgeryId": 93,
+    "visitId": 450,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 6,
+    "surgeryTimestamp": 1778112000
+  },
+  {
+    "surgeryId": 94,
+    "visitId": 455,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 13,
+    "surgeryTimestamp": 1781827200
+  },
+  {
+    "surgeryId": 95,
+    "visitId": 457,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 2,
+    "surgeryTimestamp": 1777507200
+  },
+  {
+    "surgeryId": 96,
+    "visitId": 463,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 14,
+    "surgeryTimestamp": 1775692800
+  },
+  {
+    "surgeryId": 97,
+    "visitId": 478,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 15,
+    "surgeryTimestamp": 1782086400
+  },
+  {
+    "surgeryId": 98,
+    "visitId": 485,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 11,
+    "surgeryTimestamp": 1770681600
+  },
+  {
+    "surgeryId": 99,
+    "visitId": 487,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 5,
+    "surgeryTimestamp": 1771632000
+  },
+  {
+    "surgeryId": 100,
+    "visitId": 489,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1780012800
+  },
+  {
+    "surgeryId": 101,
+    "visitId": 498,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 13,
+    "surgeryTimestamp": 1767571200
+  },
+  {
+    "surgeryId": 102,
+    "visitId": 499,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 10,
+    "surgeryTimestamp": 1783036800
+  },
+  {
+    "surgeryId": 103,
+    "visitId": 501,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 15,
+    "surgeryTimestamp": 1769990400
+  },
+  {
+    "surgeryId": 104,
+    "visitId": 502,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 8,
+    "surgeryTimestamp": 1783123200
+  },
+  {
+    "surgeryId": 105,
+    "visitId": 505,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 6,
+    "surgeryTimestamp": 1784505600
+  },
+  {
+    "surgeryId": 106,
+    "visitId": 510,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 3,
+    "surgeryTimestamp": 1780444800
+  },
+  {
+    "surgeryId": 107,
+    "visitId": 512,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 5,
+    "surgeryTimestamp": 1781222400
+  },
+  {
+    "surgeryId": 108,
+    "visitId": 520,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 7,
+    "surgeryTimestamp": 1779235200
+  },
+  {
+    "surgeryId": 109,
+    "visitId": 523,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 8,
+    "surgeryTimestamp": 1778112000
+  },
+  {
+    "surgeryId": 110,
+    "visitId": 526,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1768867200
+  },
+  {
+    "surgeryId": 111,
+    "visitId": 529,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 4,
+    "surgeryTimestamp": 1777593600
+  },
+  {
+    "surgeryId": 112,
+    "visitId": 534,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 5,
+    "surgeryTimestamp": 1785196800
+  },
+  {
+    "surgeryId": 113,
+    "visitId": 535,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 9,
+    "surgeryTimestamp": 1774656000
+  },
+  {
+    "surgeryId": 114,
+    "visitId": 538,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 12,
+    "surgeryTimestamp": 1776988800
+  },
+  {
+    "surgeryId": 115,
+    "visitId": 554,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1788739200
+  },
+  {
+    "surgeryId": 116,
+    "visitId": 564,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 5,
+    "surgeryTimestamp": 1784592000
+  },
+  {
+    "surgeryId": 117,
+    "visitId": 566,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 8,
+    "surgeryTimestamp": 1781827200
+  },
+  {
+    "surgeryId": 118,
+    "visitId": 573,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 4,
+    "surgeryTimestamp": 1787443200
+  },
+  {
+    "surgeryId": 119,
+    "visitId": 576,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 10,
+    "surgeryTimestamp": 1781481600
+  },
+  {
+    "surgeryId": 120,
+    "visitId": 586,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 15,
+    "surgeryTimestamp": 1780876800
+  },
+  {
+    "surgeryId": 121,
+    "visitId": 588,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 9,
+    "surgeryTimestamp": 1769126400
+  },
+  {
+    "surgeryId": 122,
+    "visitId": 595,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 13,
+    "surgeryTimestamp": 1779667200
+  },
+  {
+    "surgeryId": 123,
+    "visitId": 596,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 13,
+    "surgeryTimestamp": 1768348800
+  },
+  {
+    "surgeryId": 124,
+    "visitId": 600,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 7,
+    "surgeryTimestamp": 1779235200
+  },
+  {
+    "surgeryId": 125,
+    "visitId": 603,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 6,
+    "surgeryTimestamp": 1781913600
+  },
+  {
+    "surgeryId": 126,
+    "visitId": 606,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1785542400
+  },
+  {
+    "surgeryId": 127,
+    "visitId": 617,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 3,
+    "surgeryTimestamp": 1776211200
+  },
+  {
+    "surgeryId": 128,
+    "visitId": 628,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 2,
+    "surgeryTimestamp": 1786060800
+  },
+  {
+    "surgeryId": 129,
+    "visitId": 647,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1775865600
+  },
+  {
+    "surgeryId": 130,
+    "visitId": 648,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 8,
+    "surgeryTimestamp": 1775174400
+  },
+  {
+    "surgeryId": 131,
+    "visitId": 654,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 9,
+    "surgeryTimestamp": 1782518400
+  },
+  {
+    "surgeryId": 132,
+    "visitId": 662,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 3,
+    "surgeryTimestamp": 1780617600
+  },
+  {
+    "surgeryId": 133,
+    "visitId": 667,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 8,
+    "surgeryTimestamp": 1785024000
+  },
+  {
+    "surgeryId": 134,
+    "visitId": 675,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 10,
+    "surgeryTimestamp": 1775174400
+  },
+  {
+    "surgeryId": 135,
+    "visitId": 676,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 11,
+    "surgeryTimestamp": 1787443200
+  },
+  {
+    "surgeryId": 136,
+    "visitId": 684,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 7,
+    "surgeryTimestamp": 1782864000
+  },
+  {
+    "surgeryId": 137,
+    "visitId": 690,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1774310400
+  },
+  {
+    "surgeryId": 138,
+    "visitId": 701,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 9,
+    "surgeryTimestamp": 1780876800
+  },
+  {
+    "surgeryId": 139,
+    "visitId": 712,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 10,
+    "surgeryTimestamp": 1781222400
+  },
+  {
+    "surgeryId": 140,
+    "visitId": 719,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 3,
+    "surgeryTimestamp": 1770163200
+  },
+  {
+    "surgeryId": 141,
+    "visitId": 725,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 15,
+    "surgeryTimestamp": 1769212800
+  },
+  {
+    "surgeryId": 142,
+    "visitId": 727,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 9,
+    "surgeryTimestamp": 1779840000
+  },
+  {
+    "surgeryId": 143,
+    "visitId": 728,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 10,
+    "surgeryTimestamp": 1788652800
+  },
+  {
+    "surgeryId": 144,
+    "visitId": 743,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 2,
+    "surgeryTimestamp": 1788825600
+  },
+  {
+    "surgeryId": 145,
+    "visitId": 746,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 10,
+    "surgeryTimestamp": 1771113600
+  },
+  {
+    "surgeryId": 146,
+    "visitId": 747,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 10,
+    "surgeryTimestamp": 1787529600
+  },
+  {
+    "surgeryId": 147,
+    "visitId": 749,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 11,
+    "surgeryTimestamp": 1784937600
+  },
+  {
+    "surgeryId": 148,
+    "visitId": 752,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1769472000
+  },
+  {
+    "surgeryId": 149,
+    "visitId": 753,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 7,
+    "surgeryTimestamp": 1787961600
+  },
+  {
+    "surgeryId": 150,
+    "visitId": 756,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 11,
+    "surgeryTimestamp": 1778716800
+  },
+  {
+    "surgeryId": 151,
+    "visitId": 758,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 2,
+    "surgeryTimestamp": 1768003200
+  },
+  {
+    "surgeryId": 152,
+    "visitId": 775,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 7,
+    "surgeryTimestamp": 1781827200
+  },
+  {
+    "surgeryId": 153,
+    "visitId": 778,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 3,
+    "surgeryTimestamp": 1767830400
+  },
+  {
+    "surgeryId": 154,
+    "visitId": 782,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 5,
+    "surgeryTimestamp": 1774483200
+  },
+  {
+    "surgeryId": 155,
+    "visitId": 785,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 15,
+    "surgeryTimestamp": 1771804800
+  },
+  {
+    "surgeryId": 156,
+    "visitId": 791,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 2,
+    "surgeryTimestamp": 1788480000
+  },
+  {
+    "surgeryId": 157,
+    "visitId": 799,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 15,
+    "surgeryTimestamp": 1772755200
+  },
+  {
+    "surgeryId": 158,
+    "visitId": 803,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 8,
+    "surgeryTimestamp": 1771286400
+  },
+  {
+    "surgeryId": 159,
+    "visitId": 804,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1768953600
+  },
+  {
+    "surgeryId": 160,
+    "visitId": 806,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 12,
+    "surgeryTimestamp": 1770940800
+  },
+  {
+    "surgeryId": 161,
+    "visitId": 808,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 10,
+    "surgeryTimestamp": 1777507200
+  },
+  {
+    "surgeryId": 162,
+    "visitId": 820,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 4,
+    "surgeryTimestamp": 1786665600
+  },
+  {
+    "surgeryId": 163,
+    "visitId": 822,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 15,
+    "surgeryTimestamp": 1770508800
+  },
+  {
+    "surgeryId": 164,
+    "visitId": 826,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 5,
+    "surgeryTimestamp": 1784505600
+  },
+  {
+    "surgeryId": 165,
+    "visitId": 828,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 8,
+    "surgeryTimestamp": 1787875200
+  },
+  {
+    "surgeryId": 166,
+    "visitId": 833,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 4,
+    "surgeryTimestamp": 1788220800
+  },
+  {
+    "surgeryId": 167,
+    "visitId": 837,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 7,
+    "surgeryTimestamp": 1779840000
+  },
+  {
+    "surgeryId": 168,
+    "visitId": 840,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 14,
+    "surgeryTimestamp": 1787875200
+  },
+  {
+    "surgeryId": 169,
+    "visitId": 842,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 15,
+    "surgeryTimestamp": 1788652800
+  },
+  {
+    "surgeryId": 170,
+    "visitId": 843,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1787097600
+  },
+  {
+    "surgeryId": 171,
+    "visitId": 852,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 10,
+    "surgeryTimestamp": 1767830400
+  },
+  {
+    "surgeryId": 172,
+    "visitId": 857,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 10,
+    "surgeryTimestamp": 1778716800
+  },
+  {
+    "surgeryId": 173,
+    "visitId": 860,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 2,
+    "surgeryTimestamp": 1775088000
+  },
+  {
+    "surgeryId": 174,
+    "visitId": 862,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 4,
+    "surgeryTimestamp": 1776297600
+  },
+  {
+    "surgeryId": 175,
+    "visitId": 866,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 8,
+    "surgeryTimestamp": 1778716800
+  },
+  {
+    "surgeryId": 176,
+    "visitId": 868,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1777507200
+  },
+  {
+    "surgeryId": 177,
+    "visitId": 880,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 4,
+    "surgeryTimestamp": 1775692800
+  },
+  {
+    "surgeryId": 178,
+    "visitId": 881,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 2,
+    "surgeryTimestamp": 1782777600
+  },
+  {
+    "surgeryId": 179,
+    "visitId": 885,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 15,
+    "surgeryTimestamp": 1775088000
+  },
+  {
+    "surgeryId": 180,
+    "visitId": 889,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 9,
+    "surgeryTimestamp": 1780963200
+  },
+  {
+    "surgeryId": 181,
+    "visitId": 890,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 15,
+    "surgeryTimestamp": 1771977600
+  },
+  {
+    "surgeryId": 182,
+    "visitId": 891,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 3,
+    "surgeryTimestamp": 1775865600
+  },
+  {
+    "surgeryId": 183,
+    "visitId": 898,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 8,
+    "surgeryTimestamp": 1787875200
+  },
+  {
+    "surgeryId": 184,
+    "visitId": 902,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 11,
+    "surgeryTimestamp": 1771113600
+  },
+  {
+    "surgeryId": 185,
+    "visitId": 908,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 9,
+    "surgeryTimestamp": 1777852800
+  },
+  {
+    "surgeryId": 186,
+    "visitId": 909,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 10,
+    "surgeryTimestamp": 1784332800
+  },
+  {
+    "surgeryId": 187,
+    "visitId": 914,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 3,
+    "surgeryTimestamp": 1771286400
+  },
+  {
+    "surgeryId": 188,
+    "visitId": 915,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 11,
+    "surgeryTimestamp": 1785628800
+  },
+  {
+    "surgeryId": 189,
+    "visitId": 916,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 2,
+    "surgeryTimestamp": 1774224000
+  },
+  {
+    "surgeryId": 190,
+    "visitId": 924,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1774828800
+  },
+  {
+    "surgeryId": 191,
+    "visitId": 925,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 11,
+    "surgeryTimestamp": 1771459200
+  },
+  {
+    "surgeryId": 192,
+    "visitId": 926,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 13,
+    "surgeryTimestamp": 1769385600
+  },
+  {
+    "surgeryId": 193,
+    "visitId": 927,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 2,
+    "surgeryTimestamp": 1780790400
+  },
+  {
+    "surgeryId": 194,
+    "visitId": 928,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 5,
+    "surgeryTimestamp": 1779580800
+  },
+  {
+    "surgeryId": 195,
+    "visitId": 935,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 9,
+    "surgeryTimestamp": 1768348800
+  },
+  {
+    "surgeryId": 196,
+    "visitId": 938,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 8,
+    "surgeryTimestamp": 1770076800
+  },
+  {
+    "surgeryId": 197,
+    "visitId": 946,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 8,
+    "surgeryTimestamp": 1782777600
+  },
+  {
+    "surgeryId": 198,
+    "visitId": 947,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 5,
+    "surgeryTimestamp": 1780963200
+  },
+  {
+    "surgeryId": 199,
+    "visitId": 948,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 5,
+    "surgeryTimestamp": 1781222400
+  },
+  {
+    "surgeryId": 200,
+    "visitId": 950,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 3,
+    "surgeryTimestamp": 1781136000
+  },
+  {
+    "surgeryId": 201,
+    "visitId": 953,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 11,
+    "surgeryTimestamp": 1784419200
+  },
+  {
+    "surgeryId": 202,
+    "visitId": 954,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1784592000
+  },
+  {
+    "surgeryId": 203,
+    "visitId": 960,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1769126400
+  },
+  {
+    "surgeryId": 204,
+    "visitId": 961,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 8,
+    "surgeryTimestamp": 1781136000
+  },
+  {
+    "surgeryId": 205,
+    "visitId": 962,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 5,
+    "surgeryTimestamp": 1772582400
+  },
+  {
+    "surgeryId": 206,
+    "visitId": 965,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 7,
+    "surgeryTimestamp": 1768089600
+  },
+  {
+    "surgeryId": 207,
+    "visitId": 970,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1774224000
+  },
+  {
+    "surgeryId": 208,
+    "visitId": 973,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 11,
+    "surgeryTimestamp": 1768867200
+  },
+  {
+    "surgeryId": 209,
+    "visitId": 997,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 2,
+    "surgeryTimestamp": 1773792000
+  },
+  {
+    "surgeryId": 210,
+    "visitId": 999,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 11,
+    "surgeryTimestamp": 1784505600
+  },
+  {
+    "surgeryId": 211,
+    "visitId": 1000,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 6,
+    "surgeryTimestamp": 1777420800
+  },
+  {
+    "surgeryId": 212,
+    "visitId": 1001,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 8,
+    "surgeryTimestamp": 1775865600
+  },
+  {
+    "surgeryId": 213,
+    "visitId": 1004,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 11,
+    "surgeryTimestamp": 1774569600
+  },
+  {
+    "surgeryId": 214,
+    "visitId": 1006,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 7,
+    "surgeryTimestamp": 1785456000
+  },
+  {
+    "surgeryId": 215,
+    "visitId": 1013,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 4,
+    "surgeryTimestamp": 1778457600
+  },
+  {
+    "surgeryId": 216,
+    "visitId": 1014,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 13,
+    "surgeryTimestamp": 1786924800
+  },
+  {
+    "surgeryId": 217,
+    "visitId": 1015,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 11,
+    "surgeryTimestamp": 1783123200
+  },
+  {
+    "surgeryId": 218,
+    "visitId": 1016,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 10,
+    "surgeryTimestamp": 1768003200
+  },
+  {
+    "surgeryId": 219,
+    "visitId": 1019,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 7,
+    "surgeryTimestamp": 1779062400
+  },
+  {
+    "surgeryId": 220,
+    "visitId": 1039,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 11,
+    "surgeryTimestamp": 1780963200
+  },
+  {
+    "surgeryId": 221,
+    "visitId": 1043,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 3,
+    "surgeryTimestamp": 1767744000
+  },
+  {
+    "surgeryId": 222,
+    "visitId": 1048,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 9,
+    "surgeryTimestamp": 1786579200
+  },
+  {
+    "surgeryId": 223,
+    "visitId": 1052,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 15,
+    "surgeryTimestamp": 1773619200
+  },
+  {
+    "surgeryId": 224,
+    "visitId": 1060,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 10,
+    "surgeryTimestamp": 1771718400
+  },
+  {
+    "surgeryId": 225,
+    "visitId": 1066,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 9,
+    "surgeryTimestamp": 1777420800
+  },
+  {
+    "surgeryId": 226,
+    "visitId": 1071,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 3,
+    "surgeryTimestamp": 1781308800
+  },
+  {
+    "surgeryId": 227,
+    "visitId": 1082,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 13,
+    "surgeryTimestamp": 1785628800
+  },
+  {
+    "surgeryId": 228,
+    "visitId": 1086,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 14,
+    "surgeryTimestamp": 1778976000
+  },
+  {
+    "surgeryId": 229,
+    "visitId": 1089,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 15,
+    "surgeryTimestamp": 1783728000
+  },
+  {
+    "surgeryId": 230,
+    "visitId": 1091,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 13,
+    "surgeryTimestamp": 1771459200
+  },
+  {
+    "surgeryId": 231,
+    "visitId": 1092,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 5,
+    "surgeryTimestamp": 1781913600
+  },
+  {
+    "surgeryId": 232,
+    "visitId": 1103,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 4,
+    "surgeryTimestamp": 1783382400
+  },
+  {
+    "surgeryId": 233,
+    "visitId": 1122,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 12,
+    "surgeryTimestamp": 1771372800
+  },
+  {
+    "surgeryId": 234,
+    "visitId": 1123,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 7,
+    "surgeryTimestamp": 1775174400
+  },
+  {
+    "surgeryId": 235,
+    "visitId": 1124,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 2,
+    "surgeryTimestamp": 1778889600
+  },
+  {
+    "surgeryId": 236,
+    "visitId": 1128,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1768780800
+  },
+  {
+    "surgeryId": 237,
+    "visitId": 1136,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 9,
+    "surgeryTimestamp": 1770595200
+  },
+  {
+    "surgeryId": 238,
+    "visitId": 1143,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 13,
+    "surgeryTimestamp": 1786406400
+  },
+  {
+    "surgeryId": 239,
+    "visitId": 1144,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 10,
+    "surgeryTimestamp": 1787270400
+  },
+  {
+    "surgeryId": 240,
+    "visitId": 1148,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 4,
+    "surgeryTimestamp": 1782172800
+  },
+  {
+    "surgeryId": 241,
+    "visitId": 1155,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 4,
+    "surgeryTimestamp": 1782950400
+  },
+  {
+    "surgeryId": 242,
+    "visitId": 1156,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1786838400
+  },
+  {
+    "surgeryId": 243,
+    "visitId": 1159,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 3,
+    "surgeryTimestamp": 1777075200
+  },
+  {
+    "surgeryId": 244,
+    "visitId": 1164,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 15,
+    "surgeryTimestamp": 1772928000
+  },
+  {
+    "surgeryId": 245,
+    "visitId": 1174,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 11,
+    "surgeryTimestamp": 1785283200
+  },
+  {
+    "surgeryId": 246,
+    "visitId": 1177,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1768348800
+  },
+  {
+    "surgeryId": 247,
+    "visitId": 1183,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 7,
+    "surgeryTimestamp": 1783555200
+  },
+  {
+    "surgeryId": 248,
+    "visitId": 1191,
+    "procedureCode": "PROC-CHOL",
+    "surgeonId": 7,
+    "surgeryTimestamp": 1768348800
+  },
+  {
+    "surgeryId": 249,
+    "visitId": 1194,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 5,
+    "surgeryTimestamp": 1787788800
+  },
+  {
+    "surgeryId": 250,
+    "visitId": 1195,
+    "procedureCode": "PROC-CABG",
+    "surgeonId": 1,
+    "surgeryTimestamp": 1772755200
+  },
+  {
+    "surgeryId": 251,
+    "visitId": 1197,
+    "procedureCode": "PROC-APP",
+    "surgeonId": 15,
+    "surgeryTimestamp": 1787097600
+  }
+]

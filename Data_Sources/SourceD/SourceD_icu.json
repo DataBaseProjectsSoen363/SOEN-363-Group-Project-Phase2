@@ -1,0 +1,2810 @@
+[
+  {
+    "stayId": 1,
+    "visitId": 4,
+    "wardType": "ICU",
+    "doctorId": 11,
+    "entryTimestamp": 1780722000,
+    "exitTimestamp": 1781326800
+  },
+  {
+    "stayId": 2,
+    "visitId": 9,
+    "wardType": "CCU",
+    "doctorId": 6,
+    "entryTimestamp": 1780768800,
+    "exitTimestamp": null
+  },
+  {
+    "stayId": 3,
+    "visitId": 9999,
+    "wardType": "CCU",
+    "doctorId": 12,
+    "entryTimestamp": 1777633200,
+    "exitTimestamp": 1777806000
+  },
+  {
+    "stayId": 4,
+    "visitId": 14,
+    "wardType": "CCU",
+    "doctorId": 8,
+    "entryTimestamp": 1768266000,
+    "exitTimestamp": 1768438800
+  },
+  {
+    "stayId": 5,
+    "visitId": 25,
+    "wardType": "ICU",
+    "doctorId": 11,
+    "entryTimestamp": 1771412400,
+    "exitTimestamp": 1771844400
+  },
+  {
+    "stayId": 6,
+    "visitId": 27,
+    "wardType": "CCU",
+    "doctorId": 2,
+    "entryTimestamp": 1773111600,
+    "exitTimestamp": 1773543600
+  },
+  {
+    "stayId": 7,
+    "visitId": 33,
+    "wardType": "MICU",
+    "doctorId": 13,
+    "entryTimestamp": 1771563600,
+    "exitTimestamp": 1771909200
+  },
+  {
+    "stayId": 8,
+    "visitId": 48,
+    "wardType": "ICU",
+    "doctorId": 1,
+    "entryTimestamp": 1782745200,
+    "exitTimestamp": 1783350000
+  },
+  {
+    "stayId": 9,
+    "visitId": 55,
+    "wardType": "CCU",
+    "doctorId": 5,
+    "entryTimestamp": 1782403200,
+    "exitTimestamp": 1782921600
+  },
+  {
+    "stayId": 10,
+    "visitId": 56,
+    "wardType": "SICU",
+    "doctorId": 7,
+    "entryTimestamp": 1773021600,
+    "exitTimestamp": 1773367200
+  },
+  {
+    "stayId": 11,
+    "visitId": 57,
+    "wardType": "SICU",
+    "doctorId": 8,
+    "entryTimestamp": 1776042000,
+    "exitTimestamp": 1776301200
+  },
+  {
+    "stayId": 12,
+    "visitId": 62,
+    "wardType": "ICU",
+    "doctorId": 8,
+    "entryTimestamp": 1775833200,
+    "exitTimestamp": 1776178800
+  },
+  {
+    "stayId": 13,
+    "visitId": 66,
+    "wardType": "MICU",
+    "doctorId": 13,
+    "entryTimestamp": 1770228000,
+    "exitTimestamp": 1770746400
+  },
+  {
+    "stayId": 14,
+    "visitId": 68,
+    "wardType": "MICU",
+    "doctorId": 7,
+    "entryTimestamp": 1787252400,
+    "exitTimestamp": 1787684400
+  },
+  {
+    "stayId": 15,
+    "visitId": 72,
+    "wardType": "MICU",
+    "doctorId": 9,
+    "entryTimestamp": 1774580400,
+    "exitTimestamp": 1775012400
+  },
+  {
+    "stayId": 16,
+    "visitId": 76,
+    "wardType": "MICU",
+    "doctorId": 15,
+    "entryTimestamp": 1785762000,
+    "exitTimestamp": 1786280400
+  },
+  {
+    "stayId": 17,
+    "visitId": 77,
+    "wardType": "SICU",
+    "doctorId": 8,
+    "entryTimestamp": 1769194800,
+    "exitTimestamp": 1769540400
+  },
+  {
+    "stayId": 18,
+    "visitId": 80,
+    "wardType": "SICU",
+    "doctorId": 9,
+    "entryTimestamp": 1776866400,
+    "exitTimestamp": 1777039200
+  },
+  {
+    "stayId": 19,
+    "visitId": 82,
+    "wardType": "MICU",
+    "doctorId": 3,
+    "entryTimestamp": 1767229200,
+    "exitTimestamp": 1767402000
+  },
+  {
+    "stayId": 20,
+    "visitId": 91,
+    "wardType": "SICU",
+    "doctorId": 15,
+    "entryTimestamp": 1773702000,
+    "exitTimestamp": 1773788400
+  },
+  {
+    "stayId": 21,
+    "visitId": 95,
+    "wardType": "ICU",
+    "doctorId": 5,
+    "entryTimestamp": 1774785600,
+    "exitTimestamp": 1775304000
+  },
+  {
+    "stayId": 22,
+    "visitId": 100,
+    "wardType": "MICU",
+    "doctorId": 12,
+    "entryTimestamp": 1774814400,
+    "exitTimestamp": 1775246400
+  },
+  {
+    "stayId": 23,
+    "visitId": 114,
+    "wardType": "MICU",
+    "doctorId": 2,
+    "entryTimestamp": 1772031600,
+    "exitTimestamp": 1772550000
+  },
+  {
+    "stayId": 24,
+    "visitId": 117,
+    "wardType": "CCU",
+    "doctorId": 12,
+    "entryTimestamp": 1768802400,
+    "exitTimestamp": 1768975200
+  },
+  {
+    "stayId": 25,
+    "visitId": 120,
+    "wardType": "ICU",
+    "doctorId": 8,
+    "entryTimestamp": 1770926400,
+    "exitTimestamp": 1771012800
+  },
+  {
+    "stayId": 26,
+    "visitId": 126,
+    "wardType": "CCU",
+    "doctorId": 8,
+    "entryTimestamp": 1785380400,
+    "exitTimestamp": 1785639600
+  },
+  {
+    "stayId": 27,
+    "visitId": 9999,
+    "wardType": "MICU",
+    "doctorId": 6,
+    "entryTimestamp": 1773136800,
+    "exitTimestamp": 1773223200
+  },
+  {
+    "stayId": 28,
+    "visitId": 129,
+    "wardType": "CCU",
+    "doctorId": 14,
+    "entryTimestamp": 1777492800,
+    "exitTimestamp": 1778011200
+  },
+  {
+    "stayId": 29,
+    "visitId": 131,
+    "wardType": "MICU",
+    "doctorId": 1,
+    "entryTimestamp": 1773550800,
+    "exitTimestamp": 1774155600
+  },
+  {
+    "stayId": 30,
+    "visitId": 133,
+    "wardType": "MICU",
+    "doctorId": 9,
+    "entryTimestamp": 1773554400,
+    "exitTimestamp": 1773640800
+  },
+  {
+    "stayId": 31,
+    "visitId": 136,
+    "wardType": "CCU",
+    "doctorId": 5,
+    "entryTimestamp": 1779368400,
+    "exitTimestamp": 1779886800
+  },
+  {
+    "stayId": 32,
+    "visitId": 143,
+    "wardType": "ICU",
+    "doctorId": 1,
+    "entryTimestamp": 1778940000,
+    "exitTimestamp": 1779458400
+  },
+  {
+    "stayId": 33,
+    "visitId": 145,
+    "wardType": "ICU",
+    "doctorId": 3,
+    "entryTimestamp": 1777665600,
+    "exitTimestamp": 1777752000
+  },
+  {
+    "stayId": 34,
+    "visitId": 148,
+    "wardType": "CCU",
+    "doctorId": 13,
+    "entryTimestamp": 1780264800,
+    "exitTimestamp": 1780869600
+  },
+  {
+    "stayId": 35,
+    "visitId": 149,
+    "wardType": "ICU",
+    "doctorId": 15,
+    "entryTimestamp": 1772992800,
+    "exitTimestamp": 1773165600
+  },
+  {
+    "stayId": 36,
+    "visitId": 156,
+    "wardType": "CCU",
+    "doctorId": 13,
+    "entryTimestamp": 1788458400,
+    "exitTimestamp": 1789063200
+  },
+  {
+    "stayId": 37,
+    "visitId": 159,
+    "wardType": "CCU",
+    "doctorId": 4,
+    "entryTimestamp": 1782622800,
+    "exitTimestamp": 1782882000
+  },
+  {
+    "stayId": 38,
+    "visitId": 168,
+    "wardType": "ICU",
+    "doctorId": 2,
+    "entryTimestamp": 1770544800,
+    "exitTimestamp": 1770976800
+  },
+  {
+    "stayId": 39,
+    "visitId": 169,
+    "wardType": "SICU",
+    "doctorId": 15,
+    "entryTimestamp": 1770332400,
+    "exitTimestamp": 1770764400
+  },
+  {
+    "stayId": 40,
+    "visitId": 171,
+    "wardType": "MICU",
+    "doctorId": 1,
+    "entryTimestamp": 1774555200,
+    "exitTimestamp": null
+  },
+  {
+    "stayId": 41,
+    "visitId": 176,
+    "wardType": "ICU",
+    "doctorId": 14,
+    "entryTimestamp": 1772640000,
+    "exitTimestamp": 1773244800
+  },
+  {
+    "stayId": 42,
+    "visitId": 181,
+    "wardType": "SICU",
+    "doctorId": 14,
+    "entryTimestamp": 1787392800,
+    "exitTimestamp": 1787479200
+  },
+  {
+    "stayId": 43,
+    "visitId": 182,
+    "wardType": "CCU",
+    "doctorId": 15,
+    "entryTimestamp": 1771347600,
+    "exitTimestamp": 1771606800
+  },
+  {
+    "stayId": 44,
+    "visitId": 186,
+    "wardType": "ICU",
+    "doctorId": 4,
+    "entryTimestamp": 1778072400,
+    "exitTimestamp": 1778158800
+  },
+  {
+    "stayId": 45,
+    "visitId": 187,
+    "wardType": "MICU",
+    "doctorId": 4,
+    "entryTimestamp": 1782770400,
+    "exitTimestamp": 1783375200
+  },
+  {
+    "stayId": 46,
+    "visitId": 191,
+    "wardType": "ICU",
+    "doctorId": 8,
+    "entryTimestamp": 1783728000,
+    "exitTimestamp": 1784160000
+  },
+  {
+    "stayId": 47,
+    "visitId": 194,
+    "wardType": "MICU",
+    "doctorId": 7,
+    "entryTimestamp": 1768312800,
+    "exitTimestamp": 1768658400
+  },
+  {
+    "stayId": 48,
+    "visitId": 196,
+    "wardType": "ICU",
+    "doctorId": 10,
+    "entryTimestamp": 1782532800,
+    "exitTimestamp": 1782964800
+  },
+  {
+    "stayId": 49,
+    "visitId": 199,
+    "wardType": "MICU",
+    "doctorId": 5,
+    "entryTimestamp": 1771131600,
+    "exitTimestamp": 1771563600
+  },
+  {
+    "stayId": 50,
+    "visitId": 200,
+    "wardType": "SICU",
+    "doctorId": 4,
+    "entryTimestamp": 1779490800,
+    "exitTimestamp": 1780095600
+  },
+  {
+    "stayId": 51,
+    "visitId": 202,
+    "wardType": "ICU",
+    "doctorId": 2,
+    "entryTimestamp": 1771977600,
+    "exitTimestamp": null
+  },
+  {
+    "stayId": 52,
+    "visitId": 203,
+    "wardType": "MICU",
+    "doctorId": 13,
+    "entryTimestamp": 1780254000,
+    "exitTimestamp": 1780513200
+  },
+  {
+    "stayId": 53,
+    "visitId": 205,
+    "wardType": "MICU",
+    "doctorId": 1,
+    "entryTimestamp": 1779973200,
+    "exitTimestamp": 1780232400
+  },
+  {
+    "stayId": 54,
+    "visitId": 209,
+    "wardType": "ICU",
+    "doctorId": 9,
+    "entryTimestamp": 1780596000,
+    "exitTimestamp": null
+  },
+  {
+    "stayId": 55,
+    "visitId": 210,
+    "wardType": "CCU",
+    "doctorId": 12,
+    "entryTimestamp": 1770674400,
+    "exitTimestamp": 1770760800
+  },
+  {
+    "stayId": 56,
+    "visitId": 212,
+    "wardType": "ICU",
+    "doctorId": 7,
+    "entryTimestamp": 1788825600,
+    "exitTimestamp": 1789257600
+  },
+  {
+    "stayId": 57,
+    "visitId": 222,
+    "wardType": "SICU",
+    "doctorId": 1,
+    "entryTimestamp": 1787407200,
+    "exitTimestamp": 1788012000
+  },
+  {
+    "stayId": 58,
+    "visitId": 226,
+    "wardType": "CCU",
+    "doctorId": 1,
+    "entryTimestamp": 1772931600,
+    "exitTimestamp": 1773363600
+  },
+  {
+    "stayId": 59,
+    "visitId": 227,
+    "wardType": "SICU",
+    "doctorId": 4,
+    "entryTimestamp": 1783800000,
+    "exitTimestamp": 1784404800
+  },
+  {
+    "stayId": 60,
+    "visitId": 232,
+    "wardType": "ICU",
+    "doctorId": 8,
+    "entryTimestamp": 1779397200,
+    "exitTimestamp": 1779915600
+  },
+  {
+    "stayId": 61,
+    "visitId": 234,
+    "wardType": "SICU",
+    "doctorId": 7,
+    "entryTimestamp": 1773378000,
+    "exitTimestamp": 1773896400
+  },
+  {
+    "stayId": 62,
+    "visitId": 236,
+    "wardType": "CCU",
+    "doctorId": 12,
+    "entryTimestamp": 1776466800,
+    "exitTimestamp": 1776812400
+  },
+  {
+    "stayId": 63,
+    "visitId": 242,
+    "wardType": "MICU",
+    "doctorId": 14,
+    "entryTimestamp": 1772726400,
+    "exitTimestamp": 1772812800
+  },
+  {
+    "stayId": 64,
+    "visitId": 243,
+    "wardType": "CCU",
+    "doctorId": 9,
+    "entryTimestamp": 1787839200,
+    "exitTimestamp": 1788098400
+  },
+  {
+    "stayId": 65,
+    "visitId": 244,
+    "wardType": "ICU",
+    "doctorId": 5,
+    "entryTimestamp": 1773097200,
+    "exitTimestamp": 1773270000
+  },
+  {
+    "stayId": 66,
+    "visitId": 245,
+    "wardType": "CCU",
+    "doctorId": 3,
+    "entryTimestamp": 1772802000,
+    "exitTimestamp": 1772974800
+  },
+  {
+    "stayId": 67,
+    "visitId": 246,
+    "wardType": "CCU",
+    "doctorId": 13,
+    "entryTimestamp": 1768852800,
+    "exitTimestamp": 1769457600
+  },
+  {
+    "stayId": 68,
+    "visitId": 247,
+    "wardType": "CCU",
+    "doctorId": 13,
+    "entryTimestamp": 1782964800,
+    "exitTimestamp": 1783569600
+  },
+  {
+    "stayId": 69,
+    "visitId": 253,
+    "wardType": "MICU",
+    "doctorId": 7,
+    "entryTimestamp": 1779058800,
+    "exitTimestamp": 1779663600
+  },
+  {
+    "stayId": 70,
+    "visitId": 254,
+    "wardType": "CCU",
+    "doctorId": 7,
+    "entryTimestamp": 1774440000,
+    "exitTimestamp": null
+  },
+  {
+    "stayId": 71,
+    "visitId": 255,
+    "wardType": "MICU",
+    "doctorId": 7,
+    "entryTimestamp": 1769216400,
+    "exitTimestamp": null
+  },
+  {
+    "stayId": 72,
+    "visitId": 258,
+    "wardType": "ICU",
+    "doctorId": 9,
+    "entryTimestamp": 1772751600,
+    "exitTimestamp": 1773183600
+  },
+  {
+    "stayId": 73,
+    "visitId": 266,
+    "wardType": "MICU",
+    "doctorId": 11,
+    "entryTimestamp": 1782745200,
+    "exitTimestamp": 1782918000
+  },
+  {
+    "stayId": 74,
+    "visitId": 268,
+    "wardType": "SICU",
+    "doctorId": 9,
+    "entryTimestamp": 1782147600,
+    "exitTimestamp": null
+  },
+  {
+    "stayId": 75,
+    "visitId": 269,
+    "wardType": "ICU",
+    "doctorId": 2,
+    "entryTimestamp": 1784851200,
+    "exitTimestamp": 1785456000
+  },
+  {
+    "stayId": 76,
+    "visitId": 277,
+    "wardType": "SICU",
+    "doctorId": 3,
+    "entryTimestamp": 1768219200,
+    "exitTimestamp": 1768392000
+  },
+  {
+    "stayId": 77,
+    "visitId": 279,
+    "wardType": "MICU",
+    "doctorId": 12,
+    "entryTimestamp": 1775905200,
+    "exitTimestamp": 1776078000
+  },
+  {
+    "stayId": 78,
+    "visitId": 282,
+    "wardType": "SICU",
+    "doctorId": 7,
+    "entryTimestamp": 1777644000,
+    "exitTimestamp": 1778248800
+  },
+  {
+    "stayId": 79,
+    "visitId": 284,
+    "wardType": "CCU",
+    "doctorId": 14,
+    "entryTimestamp": 1775448000,
+    "exitTimestamp": 1775880000
+  },
+  {
+    "stayId": 80,
+    "visitId": 289,
+    "wardType": "CCU",
+    "doctorId": 1,
+    "entryTimestamp": 1777978800,
+    "exitTimestamp": 1778410800
+  },
+  {
+    "stayId": 81,
+    "visitId": 296,
+    "wardType": "SICU",
+    "doctorId": 10,
+    "entryTimestamp": 1771966800,
+    "exitTimestamp": 1772398800
+  },
+  {
+    "stayId": 82,
+    "visitId": 297,
+    "wardType": "ICU",
+    "doctorId": 1,
+    "entryTimestamp": 1772406000,
+    "exitTimestamp": 1772578800
+  },
+  {
+    "stayId": 83,
+    "visitId": 298,
+    "wardType": "ICU",
+    "doctorId": 11,
+    "entryTimestamp": 1787947200,
+    "exitTimestamp": 1788033600
+  },
+  {
+    "stayId": 84,
+    "visitId": 301,
+    "wardType": "CCU",
+    "doctorId": 10,
+    "entryTimestamp": 1778194800,
+    "exitTimestamp": 1778281200
+  },
+  {
+    "stayId": 85,
+    "visitId": 305,
+    "wardType": "CCU",
+    "doctorId": 13,
+    "entryTimestamp": 1776279600,
+    "exitTimestamp": 1776366000
+  },
+  {
+    "stayId": 86,
+    "visitId": 306,
+    "wardType": "CCU",
+    "doctorId": 9,
+    "entryTimestamp": 1781978400,
+    "exitTimestamp": 1782237600
+  },
+  {
+    "stayId": 87,
+    "visitId": 308,
+    "wardType": "ICU",
+    "doctorId": 2,
+    "entryTimestamp": 1774087200,
+    "exitTimestamp": 1774346400
+  },
+  {
+    "stayId": 88,
+    "visitId": 319,
+    "wardType": "SICU",
+    "doctorId": 4,
+    "entryTimestamp": 1767632400,
+    "exitTimestamp": 1767978000
+  },
+  {
+    "stayId": 89,
+    "visitId": 320,
+    "wardType": "CCU",
+    "doctorId": 14,
+    "entryTimestamp": 1783044000,
+    "exitTimestamp": 1783648800
+  },
+  {
+    "stayId": 90,
+    "visitId": 325,
+    "wardType": "CCU",
+    "doctorId": 10,
+    "entryTimestamp": 1772157600,
+    "exitTimestamp": 1772330400
+  },
+  {
+    "stayId": 91,
+    "visitId": 329,
+    "wardType": "SICU",
+    "doctorId": 7,
+    "entryTimestamp": 1780794000,
+    "exitTimestamp": 1780966800
+  },
+  {
+    "stayId": 92,
+    "visitId": 332,
+    "wardType": "CCU",
+    "doctorId": 10,
+    "entryTimestamp": 1780610400,
+    "exitTimestamp": 1781042400
+  },
+  {
+    "stayId": 93,
+    "visitId": 335,
+    "wardType": "ICU",
+    "doctorId": 13,
+    "entryTimestamp": 1781247600,
+    "exitTimestamp": 1781852400
+  },
+  {
+    "stayId": 94,
+    "visitId": 338,
+    "wardType": "CCU",
+    "doctorId": 6,
+    "entryTimestamp": 1787662800,
+    "exitTimestamp": 1787749200
+  },
+  {
+    "stayId": 95,
+    "visitId": 340,
+    "wardType": "CCU",
+    "doctorId": 3,
+    "entryTimestamp": 1775577600,
+    "exitTimestamp": 1775664000
+  },
+  {
+    "stayId": 96,
+    "visitId": 342,
+    "wardType": "ICU",
+    "doctorId": 10,
+    "entryTimestamp": 1781438400,
+    "exitTimestamp": 1781956800
+  },
+  {
+    "stayId": 97,
+    "visitId": 346,
+    "wardType": "SICU",
+    "doctorId": 1,
+    "entryTimestamp": 1783188000,
+    "exitTimestamp": 1783620000
+  },
+  {
+    "stayId": 98,
+    "visitId": 348,
+    "wardType": "MICU",
+    "doctorId": 6,
+    "entryTimestamp": 1769385600,
+    "exitTimestamp": 1769990400
+  },
+  {
+    "stayId": 99,
+    "visitId": 350,
+    "wardType": "CCU",
+    "doctorId": 7,
+    "entryTimestamp": 1773442800,
+    "exitTimestamp": 1773702000
+  },
+  {
+    "stayId": 100,
+    "visitId": 371,
+    "wardType": "SICU",
+    "doctorId": 6,
+    "entryTimestamp": 1776204000,
+    "exitTimestamp": 1776376800
+  },
+  {
+    "stayId": 101,
+    "visitId": 376,
+    "wardType": "MICU",
+    "doctorId": 14,
+    "entryTimestamp": 1767970800,
+    "exitTimestamp": 1768057200
+  },
+  {
+    "stayId": 102,
+    "visitId": 392,
+    "wardType": "SICU",
+    "doctorId": 4,
+    "entryTimestamp": 1787925600,
+    "exitTimestamp": 1788530400
+  },
+  {
+    "stayId": 103,
+    "visitId": 397,
+    "wardType": "MICU",
+    "doctorId": 8,
+    "entryTimestamp": 1782723600,
+    "exitTimestamp": 1783242000
+  },
+  {
+    "stayId": 104,
+    "visitId": 403,
+    "wardType": "ICU",
+    "doctorId": 9,
+    "entryTimestamp": 1780333200,
+    "exitTimestamp": 1780592400
+  },
+  {
+    "stayId": 105,
+    "visitId": 405,
+    "wardType": "SICU",
+    "doctorId": 8,
+    "entryTimestamp": 1784656800,
+    "exitTimestamp": 1784916000
+  },
+  {
+    "stayId": 106,
+    "visitId": 408,
+    "wardType": "MICU",
+    "doctorId": 15,
+    "entryTimestamp": 1783033200,
+    "exitTimestamp": 1783638000
+  },
+  {
+    "stayId": 107,
+    "visitId": 410,
+    "wardType": "MICU",
+    "doctorId": 2,
+    "entryTimestamp": 1775322000,
+    "exitTimestamp": 1775840400
+  },
+  {
+    "stayId": 108,
+    "visitId": 412,
+    "wardType": "SICU",
+    "doctorId": 6,
+    "entryTimestamp": 1776906000,
+    "exitTimestamp": 1777078800
+  },
+  {
+    "stayId": 109,
+    "visitId": 413,
+    "wardType": "CCU",
+    "doctorId": 11,
+    "entryTimestamp": 1773957600,
+    "exitTimestamp": null
+  },
+  {
+    "stayId": 110,
+    "visitId": 415,
+    "wardType": "ICU",
+    "doctorId": 3,
+    "entryTimestamp": 1782705600,
+    "exitTimestamp": 1783051200
+  },
+  {
+    "stayId": 111,
+    "visitId": 423,
+    "wardType": "MICU",
+    "doctorId": 3,
+    "entryTimestamp": 1769360400,
+    "exitTimestamp": 1769706000
+  },
+  {
+    "stayId": 112,
+    "visitId": 425,
+    "wardType": "ICU",
+    "doctorId": 12,
+    "entryTimestamp": 1779130800,
+    "exitTimestamp": 1779217200
+  },
+  {
+    "stayId": 113,
+    "visitId": 430,
+    "wardType": "MICU",
+    "doctorId": 10,
+    "entryTimestamp": 1776895200,
+    "exitTimestamp": 1777327200
+  },
+  {
+    "stayId": 114,
+    "visitId": 433,
+    "wardType": "MICU",
+    "doctorId": 11,
+    "entryTimestamp": 1776466800,
+    "exitTimestamp": 1776726000
+  },
+  {
+    "stayId": 115,
+    "visitId": 436,
+    "wardType": "CCU",
+    "doctorId": 4,
+    "entryTimestamp": 1786802400,
+    "exitTimestamp": 1787320800
+  },
+  {
+    "stayId": 116,
+    "visitId": 437,
+    "wardType": "ICU",
+    "doctorId": 1,
+    "entryTimestamp": 1775876400,
+    "exitTimestamp": 1776135600
+  },
+  {
+    "stayId": 117,
+    "visitId": 440,
+    "wardType": "SICU",
+    "doctorId": 3,
+    "entryTimestamp": 1778569200,
+    "exitTimestamp": 1778742000
+  },
+  {
+    "stayId": 118,
+    "visitId": 446,
+    "wardType": "MICU",
+    "doctorId": 13,
+    "entryTimestamp": 1775959200,
+    "exitTimestamp": 1776132000
+  },
+  {
+    "stayId": 119,
+    "visitId": 448,
+    "wardType": "ICU",
+    "doctorId": 2,
+    "entryTimestamp": 1770289200,
+    "exitTimestamp": 1770634800
+  },
+  {
+    "stayId": 120,
+    "visitId": 449,
+    "wardType": "ICU",
+    "doctorId": 3,
+    "entryTimestamp": 1772956800,
+    "exitTimestamp": 1773561600
+  },
+  {
+    "stayId": 121,
+    "visitId": 453,
+    "wardType": "ICU",
+    "doctorId": 3,
+    "entryTimestamp": 1785157200,
+    "exitTimestamp": 1785330000
+  },
+  {
+    "stayId": 122,
+    "visitId": 454,
+    "wardType": "SICU",
+    "doctorId": 15,
+    "entryTimestamp": 1781820000,
+    "exitTimestamp": 1782252000
+  },
+  {
+    "stayId": 123,
+    "visitId": 459,
+    "wardType": "CCU",
+    "doctorId": 13,
+    "entryTimestamp": 1776531600,
+    "exitTimestamp": 1777136400
+  },
+  {
+    "stayId": 124,
+    "visitId": 463,
+    "wardType": "MICU",
+    "doctorId": 5,
+    "entryTimestamp": 1768795200,
+    "exitTimestamp": 1769313600
+  },
+  {
+    "stayId": 125,
+    "visitId": 467,
+    "wardType": "SICU",
+    "doctorId": 3,
+    "entryTimestamp": 1780664400,
+    "exitTimestamp": 1781182800
+  },
+  {
+    "stayId": 126,
+    "visitId": 468,
+    "wardType": "SICU",
+    "doctorId": 1,
+    "entryTimestamp": 1768532400,
+    "exitTimestamp": 1768791600
+  },
+  {
+    "stayId": 127,
+    "visitId": 471,
+    "wardType": "SICU",
+    "doctorId": 6,
+    "entryTimestamp": 1783375200,
+    "exitTimestamp": 1783980000
+  },
+  {
+    "stayId": 128,
+    "visitId": 472,
+    "wardType": "CCU",
+    "doctorId": 3,
+    "entryTimestamp": 1769281200,
+    "exitTimestamp": 1769540400
+  },
+  {
+    "stayId": 129,
+    "visitId": 475,
+    "wardType": "SICU",
+    "doctorId": 13,
+    "entryTimestamp": 1779836400,
+    "exitTimestamp": 1780095600
+  },
+  {
+    "stayId": 130,
+    "visitId": 476,
+    "wardType": "SICU",
+    "doctorId": 15,
+    "entryTimestamp": 1770465600,
+    "exitTimestamp": 1770811200
+  },
+  {
+    "stayId": 131,
+    "visitId": 478,
+    "wardType": "MICU",
+    "doctorId": 6,
+    "entryTimestamp": 1776585600,
+    "exitTimestamp": 1777104000
+  },
+  {
+    "stayId": 132,
+    "visitId": 479,
+    "wardType": "CCU",
+    "doctorId": 10,
+    "entryTimestamp": 1781208000,
+    "exitTimestamp": 1781294400
+  },
+  {
+    "stayId": 133,
+    "visitId": 481,
+    "wardType": "ICU",
+    "doctorId": 12,
+    "entryTimestamp": 1768672800,
+    "exitTimestamp": 1768932000
+  },
+  {
+    "stayId": 134,
+    "visitId": 482,
+    "wardType": "MICU",
+    "doctorId": 11,
+    "entryTimestamp": 1785286800,
+    "exitTimestamp": 1785459600
+  },
+  {
+    "stayId": 135,
+    "visitId": 486,
+    "wardType": "ICU",
+    "doctorId": 8,
+    "entryTimestamp": 1787367600,
+    "exitTimestamp": 1787713200
+  },
+  {
+    "stayId": 136,
+    "visitId": 487,
+    "wardType": "SICU",
+    "doctorId": 3,
+    "entryTimestamp": 1780434000,
+    "exitTimestamp": 1780866000
+  },
+  {
+    "stayId": 137,
+    "visitId": 493,
+    "wardType": "CCU",
+    "doctorId": 3,
+    "entryTimestamp": 1768813200,
+    "exitTimestamp": 1768899600
+  },
+  {
+    "stayId": 138,
+    "visitId": 496,
+    "wardType": "SICU",
+    "doctorId": 12,
+    "entryTimestamp": 1786852800,
+    "exitTimestamp": 1787112000
+  },
+  {
+    "stayId": 139,
+    "visitId": 497,
+    "wardType": "MICU",
+    "doctorId": 13,
+    "entryTimestamp": 1785913200,
+    "exitTimestamp": 1786086000
+  },
+  {
+    "stayId": 140,
+    "visitId": 501,
+    "wardType": "CCU",
+    "doctorId": 4,
+    "entryTimestamp": 1772017200,
+    "exitTimestamp": 1772535600
+  },
+  {
+    "stayId": 141,
+    "visitId": 503,
+    "wardType": "MICU",
+    "doctorId": 6,
+    "entryTimestamp": 1787943600,
+    "exitTimestamp": 1788548400
+  },
+  {
+    "stayId": 142,
+    "visitId": 504,
+    "wardType": "MICU",
+    "doctorId": 8,
+    "entryTimestamp": 1769068800,
+    "exitTimestamp": 1769050800
+  },
+  {
+    "stayId": 143,
+    "visitId": 506,
+    "wardType": "SICU",
+    "doctorId": 15,
+    "entryTimestamp": 1783602000,
+    "exitTimestamp": 1783861200
+  },
+  {
+    "stayId": 144,
+    "visitId": 507,
+    "wardType": "CCU",
+    "doctorId": 6,
+    "entryTimestamp": 1770642000,
+    "exitTimestamp": 1771074000
+  },
+  {
+    "stayId": 145,
+    "visitId": 508,
+    "wardType": "MICU",
+    "doctorId": 4,
+    "entryTimestamp": 1786485600,
+    "exitTimestamp": 1786917600
+  },
+  {
+    "stayId": 146,
+    "visitId": 510,
+    "wardType": "CCU",
+    "doctorId": 4,
+    "entryTimestamp": 1770620400,
+    "exitTimestamp": null
+  },
+  {
+    "stayId": 147,
+    "visitId": 514,
+    "wardType": "MICU",
+    "doctorId": 6,
+    "entryTimestamp": 1776096000,
+    "exitTimestamp": 1776355200
+  },
+  {
+    "stayId": 148,
+    "visitId": 516,
+    "wardType": "ICU",
+    "doctorId": 12,
+    "entryTimestamp": 1782730800,
+    "exitTimestamp": 1783335600
+  },
+  {
+    "stayId": 149,
+    "visitId": 517,
+    "wardType": "MICU",
+    "doctorId": 3,
+    "entryTimestamp": 1783620000,
+    "exitTimestamp": 1783706400
+  },
+  {
+    "stayId": 150,
+    "visitId": 520,
+    "wardType": "CCU",
+    "doctorId": 12,
+    "entryTimestamp": 1771005600,
+    "exitTimestamp": 1771351200
+  },
+  {
+    "stayId": 151,
+    "visitId": 522,
+    "wardType": "ICU",
+    "doctorId": 5,
+    "entryTimestamp": 1788357600,
+    "exitTimestamp": 1788530400
+  },
+  {
+    "stayId": 152,
+    "visitId": 524,
+    "wardType": "ICU",
+    "doctorId": 15,
+    "entryTimestamp": 1779177600,
+    "exitTimestamp": 1779350400
+  },
+  {
+    "stayId": 153,
+    "visitId": 527,
+    "wardType": "CCU",
+    "doctorId": 4,
+    "entryTimestamp": 1786978800,
+    "exitTimestamp": 1787583600
+  },
+  {
+    "stayId": 154,
+    "visitId": 537,
+    "wardType": "SICU",
+    "doctorId": 2,
+    "entryTimestamp": 1782892800,
+    "exitTimestamp": 1782979200
+  },
+  {
+    "stayId": 155,
+    "visitId": 547,
+    "wardType": "MICU",
+    "doctorId": 11,
+    "entryTimestamp": 1776294000,
+    "exitTimestamp": 1776466800
+  },
+  {
+    "stayId": 156,
+    "visitId": 550,
+    "wardType": "SICU",
+    "doctorId": 6,
+    "entryTimestamp": 1774364400,
+    "exitTimestamp": 1774450800
+  },
+  {
+    "stayId": 157,
+    "visitId": 552,
+    "wardType": "MICU",
+    "doctorId": 13,
+    "entryTimestamp": 1787954400,
+    "exitTimestamp": 1788213600
+  },
+  {
+    "stayId": 158,
+    "visitId": 9999,
+    "wardType": "SICU",
+    "doctorId": 14,
+    "entryTimestamp": 1777953600,
+    "exitTimestamp": 1778385600
+  },
+  {
+    "stayId": 159,
+    "visitId": 557,
+    "wardType": "CCU",
+    "doctorId": 4,
+    "entryTimestamp": 1771070400,
+    "exitTimestamp": 1771156800
+  },
+  {
+    "stayId": 160,
+    "visitId": 565,
+    "wardType": "CCU",
+    "doctorId": 9,
+    "entryTimestamp": 1777716000,
+    "exitTimestamp": 1777802400
+  },
+  {
+    "stayId": 161,
+    "visitId": 580,
+    "wardType": "MICU",
+    "doctorId": 1,
+    "entryTimestamp": 1783735200,
+    "exitTimestamp": 1784080800
+  },
+  {
+    "stayId": 162,
+    "visitId": 582,
+    "wardType": "CCU",
+    "doctorId": 10,
+    "entryTimestamp": 1778562000,
+    "exitTimestamp": 1778821200
+  },
+  {
+    "stayId": 163,
+    "visitId": 583,
+    "wardType": "CCU",
+    "doctorId": 14,
+    "entryTimestamp": 1786024800,
+    "exitTimestamp": 1786006800
+  },
+  {
+    "stayId": 164,
+    "visitId": 584,
+    "wardType": "MICU",
+    "doctorId": 6,
+    "entryTimestamp": 1788771600,
+    "exitTimestamp": 1789030800
+  },
+  {
+    "stayId": 165,
+    "visitId": 594,
+    "wardType": "ICU",
+    "doctorId": 10,
+    "entryTimestamp": 1775300400,
+    "exitTimestamp": 1775732400
+  },
+  {
+    "stayId": 166,
+    "visitId": 596,
+    "wardType": "ICU",
+    "doctorId": 12,
+    "entryTimestamp": 1769371200,
+    "exitTimestamp": 1769976000
+  },
+  {
+    "stayId": 167,
+    "visitId": 601,
+    "wardType": "CCU",
+    "doctorId": 2,
+    "entryTimestamp": 1779166800,
+    "exitTimestamp": 1779426000
+  },
+  {
+    "stayId": 168,
+    "visitId": 606,
+    "wardType": "ICU",
+    "doctorId": 15,
+    "entryTimestamp": 1771574400,
+    "exitTimestamp": 1772179200
+  },
+  {
+    "stayId": 169,
+    "visitId": 609,
+    "wardType": "ICU",
+    "doctorId": 15,
+    "entryTimestamp": 1784098800,
+    "exitTimestamp": 1784444400
+  },
+  {
+    "stayId": 170,
+    "visitId": 613,
+    "wardType": "MICU",
+    "doctorId": 10,
+    "entryTimestamp": 1773457200,
+    "exitTimestamp": 1773802800
+  },
+  {
+    "stayId": 171,
+    "visitId": 614,
+    "wardType": "CCU",
+    "doctorId": 8,
+    "entryTimestamp": 1787526000,
+    "exitTimestamp": 1787612400
+  },
+  {
+    "stayId": 172,
+    "visitId": 615,
+    "wardType": "ICU",
+    "doctorId": 14,
+    "entryTimestamp": 1784916000,
+    "exitTimestamp": null
+  },
+  {
+    "stayId": 173,
+    "visitId": 617,
+    "wardType": "MICU",
+    "doctorId": 14,
+    "entryTimestamp": 1774882800,
+    "exitTimestamp": 1775314800
+  },
+  {
+    "stayId": 174,
+    "visitId": 628,
+    "wardType": "MICU",
+    "doctorId": 5,
+    "entryTimestamp": 1786705200,
+    "exitTimestamp": 1787223600
+  },
+  {
+    "stayId": 175,
+    "visitId": 629,
+    "wardType": "MICU",
+    "doctorId": 1,
+    "entryTimestamp": 1783987200,
+    "exitTimestamp": 1784419200
+  },
+  {
+    "stayId": 176,
+    "visitId": 632,
+    "wardType": "ICU",
+    "doctorId": 7,
+    "entryTimestamp": 1771304400,
+    "exitTimestamp": 1771477200
+  },
+  {
+    "stayId": 177,
+    "visitId": 637,
+    "wardType": "ICU",
+    "doctorId": 6,
+    "entryTimestamp": 1788537600,
+    "exitTimestamp": 1789142400
+  },
+  {
+    "stayId": 178,
+    "visitId": 641,
+    "wardType": "CCU",
+    "doctorId": 6,
+    "entryTimestamp": 1774807200,
+    "exitTimestamp": 1775325600
+  },
+  {
+    "stayId": 179,
+    "visitId": 643,
+    "wardType": "SICU",
+    "doctorId": 4,
+    "entryTimestamp": 1773334800,
+    "exitTimestamp": 1773507600
+  },
+  {
+    "stayId": 180,
+    "visitId": 644,
+    "wardType": "ICU",
+    "doctorId": 6,
+    "entryTimestamp": 1767942000,
+    "exitTimestamp": 1768028400
+  },
+  {
+    "stayId": 181,
+    "visitId": 645,
+    "wardType": "MICU",
+    "doctorId": 2,
+    "entryTimestamp": 1778490000,
+    "exitTimestamp": 1778835600
+  },
+  {
+    "stayId": 182,
+    "visitId": 647,
+    "wardType": "ICU",
+    "doctorId": 3,
+    "entryTimestamp": 1785150000,
+    "exitTimestamp": 1785754800
+  },
+  {
+    "stayId": 183,
+    "visitId": 650,
+    "wardType": "CCU",
+    "doctorId": 3,
+    "entryTimestamp": 1776427200,
+    "exitTimestamp": 1776945600
+  },
+  {
+    "stayId": 184,
+    "visitId": 651,
+    "wardType": "ICU",
+    "doctorId": 12,
+    "entryTimestamp": 1775066400,
+    "exitTimestamp": 1775584800
+  },
+  {
+    "stayId": 185,
+    "visitId": 652,
+    "wardType": "ICU",
+    "doctorId": 2,
+    "entryTimestamp": 1770206400,
+    "exitTimestamp": 1770552000
+  },
+  {
+    "stayId": 186,
+    "visitId": 656,
+    "wardType": "ICU",
+    "doctorId": 5,
+    "entryTimestamp": 1768485600,
+    "exitTimestamp": 1768744800
+  },
+  {
+    "stayId": 187,
+    "visitId": 657,
+    "wardType": "CCU",
+    "doctorId": 4,
+    "entryTimestamp": 1772330400,
+    "exitTimestamp": 1772676000
+  },
+  {
+    "stayId": 188,
+    "visitId": 658,
+    "wardType": "ICU",
+    "doctorId": 6,
+    "entryTimestamp": 1770300000,
+    "exitTimestamp": 1770645600
+  },
+  {
+    "stayId": 189,
+    "visitId": 659,
+    "wardType": "CCU",
+    "doctorId": 1,
+    "entryTimestamp": 1772722800,
+    "exitTimestamp": 1772809200
+  },
+  {
+    "stayId": 190,
+    "visitId": 663,
+    "wardType": "CCU",
+    "doctorId": 13,
+    "entryTimestamp": 1785996000,
+    "exitTimestamp": 1786514400
+  },
+  {
+    "stayId": 191,
+    "visitId": 665,
+    "wardType": "SICU",
+    "doctorId": 10,
+    "entryTimestamp": 1775883600,
+    "exitTimestamp": 1776056400
+  },
+  {
+    "stayId": 192,
+    "visitId": 666,
+    "wardType": "MICU",
+    "doctorId": 11,
+    "entryTimestamp": 1784037600,
+    "exitTimestamp": 1784383200
+  },
+  {
+    "stayId": 193,
+    "visitId": 671,
+    "wardType": "ICU",
+    "doctorId": 7,
+    "entryTimestamp": 1782428400,
+    "exitTimestamp": 1782687600
+  },
+  {
+    "stayId": 194,
+    "visitId": 672,
+    "wardType": "ICU",
+    "doctorId": 14,
+    "entryTimestamp": 1783094400,
+    "exitTimestamp": 1783353600
+  },
+  {
+    "stayId": 195,
+    "visitId": 678,
+    "wardType": "CCU",
+    "doctorId": 14,
+    "entryTimestamp": 1775048400,
+    "exitTimestamp": 1775566800
+  },
+  {
+    "stayId": 196,
+    "visitId": 679,
+    "wardType": "ICU",
+    "doctorId": 2,
+    "entryTimestamp": 1770386400,
+    "exitTimestamp": 1770559200
+  },
+  {
+    "stayId": 197,
+    "visitId": 681,
+    "wardType": "ICU",
+    "doctorId": 4,
+    "entryTimestamp": 1776913200,
+    "exitTimestamp": 1777345200
+  },
+  {
+    "stayId": 198,
+    "visitId": 682,
+    "wardType": "ICU",
+    "doctorId": 9,
+    "entryTimestamp": 1776326400,
+    "exitTimestamp": 1776412800
+  },
+  {
+    "stayId": 199,
+    "visitId": 685,
+    "wardType": "MICU",
+    "doctorId": 10,
+    "entryTimestamp": 1776970800,
+    "exitTimestamp": null
+  },
+  {
+    "stayId": 200,
+    "visitId": 691,
+    "wardType": "SICU",
+    "doctorId": 12,
+    "entryTimestamp": 1786744800,
+    "exitTimestamp": 1787090400
+  },
+  {
+    "stayId": 201,
+    "visitId": 697,
+    "wardType": "CCU",
+    "doctorId": 15,
+    "entryTimestamp": 1771196400,
+    "exitTimestamp": 1771714800
+  },
+  {
+    "stayId": 202,
+    "visitId": 698,
+    "wardType": "MICU",
+    "doctorId": 4,
+    "entryTimestamp": 1779800400,
+    "exitTimestamp": 1780232400
+  },
+  {
+    "stayId": 203,
+    "visitId": 701,
+    "wardType": "SICU",
+    "doctorId": 4,
+    "entryTimestamp": 1773500400,
+    "exitTimestamp": 1773586800
+  },
+  {
+    "stayId": 204,
+    "visitId": 704,
+    "wardType": "MICU",
+    "doctorId": 11,
+    "entryTimestamp": 1778475600,
+    "exitTimestamp": 1778562000
+  },
+  {
+    "stayId": 205,
+    "visitId": 705,
+    "wardType": "SICU",
+    "doctorId": 1,
+    "entryTimestamp": 1781276400,
+    "exitTimestamp": 1781258400
+  },
+  {
+    "stayId": 206,
+    "visitId": 706,
+    "wardType": "CCU",
+    "doctorId": 10,
+    "entryTimestamp": 1779793200,
+    "exitTimestamp": 1779966000
+  },
+  {
+    "stayId": 207,
+    "visitId": 707,
+    "wardType": "ICU",
+    "doctorId": 9,
+    "entryTimestamp": 1788775200,
+    "exitTimestamp": 1789293600
+  },
+  {
+    "stayId": 208,
+    "visitId": 708,
+    "wardType": "CCU",
+    "doctorId": 5,
+    "entryTimestamp": 1767873600,
+    "exitTimestamp": 1768046400
+  },
+  {
+    "stayId": 209,
+    "visitId": 711,
+    "wardType": "CCU",
+    "doctorId": 2,
+    "entryTimestamp": 1771329600,
+    "exitTimestamp": 1771934400
+  },
+  {
+    "stayId": 210,
+    "visitId": 715,
+    "wardType": "CCU",
+    "doctorId": 6,
+    "entryTimestamp": 1778450400,
+    "exitTimestamp": 1778709600
+  },
+  {
+    "stayId": 211,
+    "visitId": 722,
+    "wardType": "CCU",
+    "doctorId": 14,
+    "entryTimestamp": 1780304400,
+    "exitTimestamp": 1780909200
+  },
+  {
+    "stayId": 212,
+    "visitId": 723,
+    "wardType": "CCU",
+    "doctorId": 10,
+    "entryTimestamp": 1781971200,
+    "exitTimestamp": null
+  },
+  {
+    "stayId": 213,
+    "visitId": 727,
+    "wardType": "CCU",
+    "doctorId": 9,
+    "entryTimestamp": 1786935600,
+    "exitTimestamp": 1787281200
+  },
+  {
+    "stayId": 214,
+    "visitId": 729,
+    "wardType": "MICU",
+    "doctorId": 5,
+    "entryTimestamp": 1772596800,
+    "exitTimestamp": 1772769600
+  },
+  {
+    "stayId": 215,
+    "visitId": 730,
+    "wardType": "MICU",
+    "doctorId": 12,
+    "entryTimestamp": 1767830400,
+    "exitTimestamp": 1768348800
+  },
+  {
+    "stayId": 216,
+    "visitId": 737,
+    "wardType": "ICU",
+    "doctorId": 5,
+    "entryTimestamp": 1776780000,
+    "exitTimestamp": 1777039200
+  },
+  {
+    "stayId": 217,
+    "visitId": 739,
+    "wardType": "CCU",
+    "doctorId": 3,
+    "entryTimestamp": 1775455200,
+    "exitTimestamp": 1775887200
+  },
+  {
+    "stayId": 218,
+    "visitId": 742,
+    "wardType": "ICU",
+    "doctorId": 3,
+    "entryTimestamp": 1777600800,
+    "exitTimestamp": 1777773600
+  },
+  {
+    "stayId": 219,
+    "visitId": 744,
+    "wardType": "SICU",
+    "doctorId": 11,
+    "entryTimestamp": 1785585600,
+    "exitTimestamp": 1786017600
+  },
+  {
+    "stayId": 220,
+    "visitId": 746,
+    "wardType": "MICU",
+    "doctorId": 15,
+    "entryTimestamp": 1784732400,
+    "exitTimestamp": 1785337200
+  },
+  {
+    "stayId": 221,
+    "visitId": 9999,
+    "wardType": "CCU",
+    "doctorId": 13,
+    "entryTimestamp": 1775865600,
+    "exitTimestamp": 1776038400
+  },
+  {
+    "stayId": 222,
+    "visitId": 751,
+    "wardType": "CCU",
+    "doctorId": 1,
+    "entryTimestamp": 1777366800,
+    "exitTimestamp": 1777348800
+  },
+  {
+    "stayId": 223,
+    "visitId": 754,
+    "wardType": "MICU",
+    "doctorId": 15,
+    "entryTimestamp": 1776459600,
+    "exitTimestamp": 1777064400
+  },
+  {
+    "stayId": 224,
+    "visitId": 756,
+    "wardType": "SICU",
+    "doctorId": 10,
+    "entryTimestamp": 1776942000,
+    "exitTimestamp": 1777287600
+  },
+  {
+    "stayId": 225,
+    "visitId": 757,
+    "wardType": "CCU",
+    "doctorId": 12,
+    "entryTimestamp": 1773093600,
+    "exitTimestamp": 1773698400
+  },
+  {
+    "stayId": 226,
+    "visitId": 760,
+    "wardType": "MICU",
+    "doctorId": 11,
+    "entryTimestamp": 1788447600,
+    "exitTimestamp": 1788793200
+  },
+  {
+    "stayId": 227,
+    "visitId": 763,
+    "wardType": "ICU",
+    "doctorId": 4,
+    "entryTimestamp": 1767452400,
+    "exitTimestamp": 1768057200
+  },
+  {
+    "stayId": 228,
+    "visitId": 765,
+    "wardType": "SICU",
+    "doctorId": 15,
+    "entryTimestamp": 1779559200,
+    "exitTimestamp": 1779991200
+  },
+  {
+    "stayId": 229,
+    "visitId": 766,
+    "wardType": "SICU",
+    "doctorId": 2,
+    "entryTimestamp": 1784437200,
+    "exitTimestamp": 1784523600
+  },
+  {
+    "stayId": 230,
+    "visitId": 769,
+    "wardType": "SICU",
+    "doctorId": 5,
+    "entryTimestamp": 1785823200,
+    "exitTimestamp": 1786255200
+  },
+  {
+    "stayId": 231,
+    "visitId": 770,
+    "wardType": "ICU",
+    "doctorId": 4,
+    "entryTimestamp": 1775055600,
+    "exitTimestamp": 1775401200
+  },
+  {
+    "stayId": 232,
+    "visitId": 771,
+    "wardType": "MICU",
+    "doctorId": 9,
+    "entryTimestamp": 1787353200,
+    "exitTimestamp": 1787612400
+  },
+  {
+    "stayId": 233,
+    "visitId": 775,
+    "wardType": "MICU",
+    "doctorId": 8,
+    "entryTimestamp": 1785056400,
+    "exitTimestamp": 1785229200
+  },
+  {
+    "stayId": 234,
+    "visitId": 779,
+    "wardType": "MICU",
+    "doctorId": 10,
+    "entryTimestamp": 1775692800,
+    "exitTimestamp": 1775779200
+  },
+  {
+    "stayId": 235,
+    "visitId": 781,
+    "wardType": "ICU",
+    "doctorId": 4,
+    "entryTimestamp": 1777435200,
+    "exitTimestamp": 1777780800
+  },
+  {
+    "stayId": 236,
+    "visitId": 9999,
+    "wardType": "CCU",
+    "doctorId": 15,
+    "entryTimestamp": 1786341600,
+    "exitTimestamp": 1786687200
+  },
+  {
+    "stayId": 237,
+    "visitId": 791,
+    "wardType": "ICU",
+    "doctorId": 5,
+    "entryTimestamp": 1780297200,
+    "exitTimestamp": 1780642800
+  },
+  {
+    "stayId": 238,
+    "visitId": 793,
+    "wardType": "SICU",
+    "doctorId": 7,
+    "entryTimestamp": 1777878000,
+    "exitTimestamp": 1778310000
+  },
+  {
+    "stayId": 239,
+    "visitId": 799,
+    "wardType": "CCU",
+    "doctorId": 14,
+    "entryTimestamp": 1780542000,
+    "exitTimestamp": 1780714800
+  },
+  {
+    "stayId": 240,
+    "visitId": 810,
+    "wardType": "MICU",
+    "doctorId": 1,
+    "entryTimestamp": 1769727600,
+    "exitTimestamp": 1770332400
+  },
+  {
+    "stayId": 241,
+    "visitId": 811,
+    "wardType": "MICU",
+    "doctorId": 5,
+    "entryTimestamp": 1787716800,
+    "exitTimestamp": 1787698800
+  },
+  {
+    "stayId": 242,
+    "visitId": 812,
+    "wardType": "CCU",
+    "doctorId": 13,
+    "entryTimestamp": 1775772000,
+    "exitTimestamp": 1776117600
+  },
+  {
+    "stayId": 243,
+    "visitId": 818,
+    "wardType": "ICU",
+    "doctorId": 15,
+    "entryTimestamp": 1774065600,
+    "exitTimestamp": 1774411200
+  },
+  {
+    "stayId": 244,
+    "visitId": 820,
+    "wardType": "MICU",
+    "doctorId": 3,
+    "entryTimestamp": 1767517200,
+    "exitTimestamp": 1767690000
+  },
+  {
+    "stayId": 245,
+    "visitId": 821,
+    "wardType": "SICU",
+    "doctorId": 12,
+    "entryTimestamp": 1771264800,
+    "exitTimestamp": 1771437600
+  },
+  {
+    "stayId": 246,
+    "visitId": 822,
+    "wardType": "ICU",
+    "doctorId": 12,
+    "entryTimestamp": 1783875600,
+    "exitTimestamp": 1783962000
+  },
+  {
+    "stayId": 247,
+    "visitId": 824,
+    "wardType": "CCU",
+    "doctorId": 5,
+    "entryTimestamp": 1769659200,
+    "exitTimestamp": 1770004800
+  },
+  {
+    "stayId": 248,
+    "visitId": 827,
+    "wardType": "SICU",
+    "doctorId": 2,
+    "entryTimestamp": 1776934800,
+    "exitTimestamp": 1777280400
+  },
+  {
+    "stayId": 249,
+    "visitId": 830,
+    "wardType": "SICU",
+    "doctorId": 12,
+    "entryTimestamp": 1785916800,
+    "exitTimestamp": 1786262400
+  },
+  {
+    "stayId": 250,
+    "visitId": 834,
+    "wardType": "SICU",
+    "doctorId": 1,
+    "entryTimestamp": 1770544800,
+    "exitTimestamp": 1770976800
+  },
+  {
+    "stayId": 251,
+    "visitId": 835,
+    "wardType": "SICU",
+    "doctorId": 6,
+    "entryTimestamp": 1767834000,
+    "exitTimestamp": 1768266000
+  },
+  {
+    "stayId": 252,
+    "visitId": 837,
+    "wardType": "SICU",
+    "doctorId": 1,
+    "entryTimestamp": 1781773200,
+    "exitTimestamp": 1782118800
+  },
+  {
+    "stayId": 253,
+    "visitId": 838,
+    "wardType": "MICU",
+    "doctorId": 1,
+    "entryTimestamp": 1787392800,
+    "exitTimestamp": 1787565600
+  },
+  {
+    "stayId": 254,
+    "visitId": 839,
+    "wardType": "MICU",
+    "doctorId": 7,
+    "entryTimestamp": 1778450400,
+    "exitTimestamp": 1779055200
+  },
+  {
+    "stayId": 255,
+    "visitId": 842,
+    "wardType": "MICU",
+    "doctorId": 7,
+    "entryTimestamp": 1777446000,
+    "exitTimestamp": 1777878000
+  },
+  {
+    "stayId": 256,
+    "visitId": 844,
+    "wardType": "ICU",
+    "doctorId": 3,
+    "entryTimestamp": 1788634800,
+    "exitTimestamp": 1789066800
+  },
+  {
+    "stayId": 257,
+    "visitId": 848,
+    "wardType": "ICU",
+    "doctorId": 13,
+    "entryTimestamp": 1771293600,
+    "exitTimestamp": 1771380000
+  },
+  {
+    "stayId": 258,
+    "visitId": 853,
+    "wardType": "SICU",
+    "doctorId": 6,
+    "entryTimestamp": 1779703200,
+    "exitTimestamp": 1780048800
+  },
+  {
+    "stayId": 259,
+    "visitId": 855,
+    "wardType": "SICU",
+    "doctorId": 2,
+    "entryTimestamp": 1768838400,
+    "exitTimestamp": 1769184000
+  },
+  {
+    "stayId": 260,
+    "visitId": 858,
+    "wardType": "SICU",
+    "doctorId": 13,
+    "entryTimestamp": 1768896000,
+    "exitTimestamp": 1769241600
+  },
+  {
+    "stayId": 261,
+    "visitId": 860,
+    "wardType": "SICU",
+    "doctorId": 3,
+    "entryTimestamp": 1772715600,
+    "exitTimestamp": 1772974800
+  },
+  {
+    "stayId": 262,
+    "visitId": 864,
+    "wardType": "SICU",
+    "doctorId": 12,
+    "entryTimestamp": 1775952000,
+    "exitTimestamp": 1776038400
+  },
+  {
+    "stayId": 263,
+    "visitId": 865,
+    "wardType": "ICU",
+    "doctorId": 9,
+    "entryTimestamp": 1788616800,
+    "exitTimestamp": 1788703200
+  },
+  {
+    "stayId": 264,
+    "visitId": 866,
+    "wardType": "MICU",
+    "doctorId": 11,
+    "entryTimestamp": 1787043600,
+    "exitTimestamp": 1787475600
+  },
+  {
+    "stayId": 265,
+    "visitId": 867,
+    "wardType": "SICU",
+    "doctorId": 11,
+    "entryTimestamp": 1776898800,
+    "exitTimestamp": null
+  },
+  {
+    "stayId": 266,
+    "visitId": 869,
+    "wardType": "ICU",
+    "doctorId": 2,
+    "entryTimestamp": 1786510800,
+    "exitTimestamp": null
+  },
+  {
+    "stayId": 267,
+    "visitId": 871,
+    "wardType": "MICU",
+    "doctorId": 12,
+    "entryTimestamp": 1770120000,
+    "exitTimestamp": 1770724800
+  },
+  {
+    "stayId": 268,
+    "visitId": 881,
+    "wardType": "ICU",
+    "doctorId": 10,
+    "entryTimestamp": 1777100400,
+    "exitTimestamp": 1777273200
+  },
+  {
+    "stayId": 269,
+    "visitId": 882,
+    "wardType": "MICU",
+    "doctorId": 6,
+    "entryTimestamp": 1775822400,
+    "exitTimestamp": 1775908800
+  },
+  {
+    "stayId": 270,
+    "visitId": 883,
+    "wardType": "ICU",
+    "doctorId": 14,
+    "entryTimestamp": 1771408800,
+    "exitTimestamp": 1771495200
+  },
+  {
+    "stayId": 271,
+    "visitId": 885,
+    "wardType": "ICU",
+    "doctorId": 1,
+    "entryTimestamp": 1770008400,
+    "exitTimestamp": 1770094800
+  },
+  {
+    "stayId": 272,
+    "visitId": 9999,
+    "wardType": "MICU",
+    "doctorId": 8,
+    "entryTimestamp": 1778641200,
+    "exitTimestamp": 1778727600
+  },
+  {
+    "stayId": 273,
+    "visitId": 892,
+    "wardType": "MICU",
+    "doctorId": 1,
+    "entryTimestamp": 1777928400,
+    "exitTimestamp": 1778101200
+  },
+  {
+    "stayId": 274,
+    "visitId": 894,
+    "wardType": "MICU",
+    "doctorId": 5,
+    "entryTimestamp": 1786089600,
+    "exitTimestamp": null
+  },
+  {
+    "stayId": 275,
+    "visitId": 898,
+    "wardType": "ICU",
+    "doctorId": 14,
+    "entryTimestamp": 1781071200,
+    "exitTimestamp": 1781330400
+  },
+  {
+    "stayId": 276,
+    "visitId": 904,
+    "wardType": "CCU",
+    "doctorId": 6,
+    "entryTimestamp": 1787205600,
+    "exitTimestamp": 1787724000
+  },
+  {
+    "stayId": 277,
+    "visitId": 910,
+    "wardType": "ICU",
+    "doctorId": 11,
+    "entryTimestamp": 1785164400,
+    "exitTimestamp": 1785510000
+  },
+  {
+    "stayId": 278,
+    "visitId": 913,
+    "wardType": "MICU",
+    "doctorId": 10,
+    "entryTimestamp": 1785938400,
+    "exitTimestamp": 1785920400
+  },
+  {
+    "stayId": 279,
+    "visitId": 9999,
+    "wardType": "ICU",
+    "doctorId": 9,
+    "entryTimestamp": 1782943200,
+    "exitTimestamp": 1783029600
+  },
+  {
+    "stayId": 280,
+    "visitId": 922,
+    "wardType": "MICU",
+    "doctorId": 8,
+    "entryTimestamp": 1768050000,
+    "exitTimestamp": 1768654800
+  },
+  {
+    "stayId": 281,
+    "visitId": 923,
+    "wardType": "MICU",
+    "doctorId": 4,
+    "entryTimestamp": 1784440800,
+    "exitTimestamp": 1784700000
+  },
+  {
+    "stayId": 282,
+    "visitId": 927,
+    "wardType": "SICU",
+    "doctorId": 6,
+    "entryTimestamp": 1788912000,
+    "exitTimestamp": 1788998400
+  },
+  {
+    "stayId": 283,
+    "visitId": 931,
+    "wardType": "MICU",
+    "doctorId": 11,
+    "entryTimestamp": 1772841600,
+    "exitTimestamp": 1773360000
+  },
+  {
+    "stayId": 284,
+    "visitId": 932,
+    "wardType": "CCU",
+    "doctorId": 11,
+    "entryTimestamp": 1782183600,
+    "exitTimestamp": 1782270000
+  },
+  {
+    "stayId": 285,
+    "visitId": 933,
+    "wardType": "SICU",
+    "doctorId": 5,
+    "entryTimestamp": 1783332000,
+    "exitTimestamp": 1783677600
+  },
+  {
+    "stayId": 286,
+    "visitId": 935,
+    "wardType": "MICU",
+    "doctorId": 15,
+    "entryTimestamp": 1773255600,
+    "exitTimestamp": 1773428400
+  },
+  {
+    "stayId": 287,
+    "visitId": 943,
+    "wardType": "ICU",
+    "doctorId": 13,
+    "entryTimestamp": 1768402800,
+    "exitTimestamp": 1768662000
+  },
+  {
+    "stayId": 288,
+    "visitId": 944,
+    "wardType": "MICU",
+    "doctorId": 12,
+    "entryTimestamp": 1787929200,
+    "exitTimestamp": 1788447600
+  },
+  {
+    "stayId": 289,
+    "visitId": 945,
+    "wardType": "SICU",
+    "doctorId": 5,
+    "entryTimestamp": 1788775200,
+    "exitTimestamp": 1789120800
+  },
+  {
+    "stayId": 290,
+    "visitId": 947,
+    "wardType": "CCU",
+    "doctorId": 11,
+    "entryTimestamp": 1784372400,
+    "exitTimestamp": 1784804400
+  },
+  {
+    "stayId": 291,
+    "visitId": 949,
+    "wardType": "MICU",
+    "doctorId": 14,
+    "entryTimestamp": 1769508000,
+    "exitTimestamp": 1769767200
+  },
+  {
+    "stayId": 292,
+    "visitId": 956,
+    "wardType": "SICU",
+    "doctorId": 3,
+    "entryTimestamp": 1778400000,
+    "exitTimestamp": 1779004800
+  },
+  {
+    "stayId": 293,
+    "visitId": 959,
+    "wardType": "CCU",
+    "doctorId": 13,
+    "entryTimestamp": 1768330800,
+    "exitTimestamp": 1768676400
+  },
+  {
+    "stayId": 294,
+    "visitId": 961,
+    "wardType": "CCU",
+    "doctorId": 1,
+    "entryTimestamp": 1783954800,
+    "exitTimestamp": 1784127600
+  },
+  {
+    "stayId": 295,
+    "visitId": 962,
+    "wardType": "SICU",
+    "doctorId": 7,
+    "entryTimestamp": 1775336400,
+    "exitTimestamp": 1775422800
+  },
+  {
+    "stayId": 296,
+    "visitId": 966,
+    "wardType": "MICU",
+    "doctorId": 3,
+    "entryTimestamp": 1770692400,
+    "exitTimestamp": 1771038000
+  },
+  {
+    "stayId": 297,
+    "visitId": 978,
+    "wardType": "CCU",
+    "doctorId": 6,
+    "entryTimestamp": 1771117200,
+    "exitTimestamp": 1771635600
+  },
+  {
+    "stayId": 298,
+    "visitId": 981,
+    "wardType": "CCU",
+    "doctorId": 5,
+    "entryTimestamp": 1771138800,
+    "exitTimestamp": 1771743600
+  },
+  {
+    "stayId": 299,
+    "visitId": 984,
+    "wardType": "ICU",
+    "doctorId": 13,
+    "entryTimestamp": 1786888800,
+    "exitTimestamp": 1786975200
+  },
+  {
+    "stayId": 300,
+    "visitId": 987,
+    "wardType": "SICU",
+    "doctorId": 1,
+    "entryTimestamp": 1767236400,
+    "exitTimestamp": 1767409200
+  },
+  {
+    "stayId": 301,
+    "visitId": 992,
+    "wardType": "SICU",
+    "doctorId": 3,
+    "entryTimestamp": 1788843600,
+    "exitTimestamp": 1789016400
+  },
+  {
+    "stayId": 302,
+    "visitId": 997,
+    "wardType": "SICU",
+    "doctorId": 14,
+    "entryTimestamp": 1772344800,
+    "exitTimestamp": 1772604000
+  },
+  {
+    "stayId": 303,
+    "visitId": 999,
+    "wardType": "MICU",
+    "doctorId": 1,
+    "entryTimestamp": 1786287600,
+    "exitTimestamp": 1786719600
+  },
+  {
+    "stayId": 304,
+    "visitId": 1006,
+    "wardType": "CCU",
+    "doctorId": 4,
+    "entryTimestamp": 1769954400,
+    "exitTimestamp": 1770386400
+  },
+  {
+    "stayId": 305,
+    "visitId": 1009,
+    "wardType": "MICU",
+    "doctorId": 12,
+    "entryTimestamp": 1772938800,
+    "exitTimestamp": 1773284400
+  },
+  {
+    "stayId": 306,
+    "visitId": 1013,
+    "wardType": "CCU",
+    "doctorId": 10,
+    "entryTimestamp": 1773842400,
+    "exitTimestamp": 1774015200
+  },
+  {
+    "stayId": 307,
+    "visitId": 1016,
+    "wardType": "MICU",
+    "doctorId": 10,
+    "entryTimestamp": 1781330400,
+    "exitTimestamp": 1781676000
+  },
+  {
+    "stayId": 308,
+    "visitId": 1020,
+    "wardType": "MICU",
+    "doctorId": 15,
+    "entryTimestamp": 1786006800,
+    "exitTimestamp": 1786352400
+  },
+  {
+    "stayId": 309,
+    "visitId": 1032,
+    "wardType": "MICU",
+    "doctorId": 12,
+    "entryTimestamp": 1777579200,
+    "exitTimestamp": null
+  },
+  {
+    "stayId": 310,
+    "visitId": 1034,
+    "wardType": "MICU",
+    "doctorId": 13,
+    "entryTimestamp": 1783857600,
+    "exitTimestamp": 1784289600
+  },
+  {
+    "stayId": 311,
+    "visitId": 1035,
+    "wardType": "MICU",
+    "doctorId": 4,
+    "entryTimestamp": 1783965600,
+    "exitTimestamp": 1784570400
+  },
+  {
+    "stayId": 312,
+    "visitId": 1037,
+    "wardType": "CCU",
+    "doctorId": 12,
+    "entryTimestamp": 1780848000,
+    "exitTimestamp": 1781107200
+  },
+  {
+    "stayId": 313,
+    "visitId": 1038,
+    "wardType": "SICU",
+    "doctorId": 5,
+    "entryTimestamp": 1772334000,
+    "exitTimestamp": 1772938800
+  },
+  {
+    "stayId": 314,
+    "visitId": 1039,
+    "wardType": "MICU",
+    "doctorId": 15,
+    "entryTimestamp": 1787698800,
+    "exitTimestamp": 1788130800
+  },
+  {
+    "stayId": 315,
+    "visitId": 1042,
+    "wardType": "SICU",
+    "doctorId": 10,
+    "entryTimestamp": 1776441600,
+    "exitTimestamp": 1776700800
+  },
+  {
+    "stayId": 316,
+    "visitId": 1047,
+    "wardType": "SICU",
+    "doctorId": 1,
+    "entryTimestamp": 1781013600,
+    "exitTimestamp": 1781186400
+  },
+  {
+    "stayId": 317,
+    "visitId": 1058,
+    "wardType": "MICU",
+    "doctorId": 12,
+    "entryTimestamp": 1781672400,
+    "exitTimestamp": 1782018000
+  },
+  {
+    "stayId": 318,
+    "visitId": 1062,
+    "wardType": "SICU",
+    "doctorId": 6,
+    "entryTimestamp": 1779249600,
+    "exitTimestamp": 1779681600
+  },
+  {
+    "stayId": 319,
+    "visitId": 1065,
+    "wardType": "CCU",
+    "doctorId": 8,
+    "entryTimestamp": 1779994800,
+    "exitTimestamp": 1780340400
+  },
+  {
+    "stayId": 320,
+    "visitId": 1066,
+    "wardType": "ICU",
+    "doctorId": 8,
+    "entryTimestamp": 1786996800,
+    "exitTimestamp": 1787083200
+  },
+  {
+    "stayId": 321,
+    "visitId": 1067,
+    "wardType": "MICU",
+    "doctorId": 13,
+    "entryTimestamp": 1774206000,
+    "exitTimestamp": 1774810800
+  },
+  {
+    "stayId": 322,
+    "visitId": 1068,
+    "wardType": "CCU",
+    "doctorId": 10,
+    "entryTimestamp": 1785697200,
+    "exitTimestamp": 1786302000
+  },
+  {
+    "stayId": 323,
+    "visitId": 1074,
+    "wardType": "CCU",
+    "doctorId": 7,
+    "entryTimestamp": 1773475200,
+    "exitTimestamp": 1773820800
+  },
+  {
+    "stayId": 324,
+    "visitId": 1082,
+    "wardType": "MICU",
+    "doctorId": 7,
+    "entryTimestamp": 1771059600,
+    "exitTimestamp": 1771318800
+  },
+  {
+    "stayId": 325,
+    "visitId": 1083,
+    "wardType": "MICU",
+    "doctorId": 5,
+    "entryTimestamp": 1775638800,
+    "exitTimestamp": 1776070800
+  },
+  {
+    "stayId": 326,
+    "visitId": 1091,
+    "wardType": "CCU",
+    "doctorId": 11,
+    "entryTimestamp": 1777755600,
+    "exitTimestamp": 1778274000
+  },
+  {
+    "stayId": 327,
+    "visitId": 1092,
+    "wardType": "SICU",
+    "doctorId": 12,
+    "entryTimestamp": 1777845600,
+    "exitTimestamp": 1778450400
+  },
+  {
+    "stayId": 328,
+    "visitId": 9999,
+    "wardType": "SICU",
+    "doctorId": 11,
+    "entryTimestamp": 1767938400,
+    "exitTimestamp": 1768284000
+  },
+  {
+    "stayId": 329,
+    "visitId": 1097,
+    "wardType": "MICU",
+    "doctorId": 14,
+    "entryTimestamp": 1787461200,
+    "exitTimestamp": 1787979600
+  },
+  {
+    "stayId": 330,
+    "visitId": 1105,
+    "wardType": "ICU",
+    "doctorId": 4,
+    "entryTimestamp": 1768395600,
+    "exitTimestamp": 1768568400
+  },
+  {
+    "stayId": 331,
+    "visitId": 1106,
+    "wardType": "SICU",
+    "doctorId": 4,
+    "entryTimestamp": 1780390800,
+    "exitTimestamp": 1780822800
+  },
+  {
+    "stayId": 332,
+    "visitId": 1113,
+    "wardType": "SICU",
+    "doctorId": 1,
+    "entryTimestamp": 1786071600,
+    "exitTimestamp": 1786676400
+  },
+  {
+    "stayId": 333,
+    "visitId": 1120,
+    "wardType": "SICU",
+    "doctorId": 1,
+    "entryTimestamp": 1783357200,
+    "exitTimestamp": 1783875600
+  },
+  {
+    "stayId": 334,
+    "visitId": 1124,
+    "wardType": "MICU",
+    "doctorId": 13,
+    "entryTimestamp": 1787155200,
+    "exitTimestamp": 1787137200
+  },
+  {
+    "stayId": 335,
+    "visitId": 1125,
+    "wardType": "ICU",
+    "doctorId": 8,
+    "entryTimestamp": 1779840000,
+    "exitTimestamp": 1780358400
+  },
+  {
+    "stayId": 336,
+    "visitId": 1136,
+    "wardType": "SICU",
+    "doctorId": 14,
+    "entryTimestamp": 1770440400,
+    "exitTimestamp": 1770699600
+  },
+  {
+    "stayId": 337,
+    "visitId": 1138,
+    "wardType": "ICU",
+    "doctorId": 4,
+    "entryTimestamp": 1782651600,
+    "exitTimestamp": 1783170000
+  },
+  {
+    "stayId": 338,
+    "visitId": 1156,
+    "wardType": "MICU",
+    "doctorId": 9,
+    "entryTimestamp": 1786770000,
+    "exitTimestamp": 1787288400
+  },
+  {
+    "stayId": 339,
+    "visitId": 1158,
+    "wardType": "ICU",
+    "doctorId": 10,
+    "entryTimestamp": 1773615600,
+    "exitTimestamp": 1773874800
+  },
+  {
+    "stayId": 340,
+    "visitId": 1164,
+    "wardType": "SICU",
+    "doctorId": 2,
+    "entryTimestamp": 1773748800,
+    "exitTimestamp": 1774180800
+  },
+  {
+    "stayId": 341,
+    "visitId": 1166,
+    "wardType": "MICU",
+    "doctorId": 3,
+    "entryTimestamp": 1787209200,
+    "exitTimestamp": 1787468400
+  },
+  {
+    "stayId": 342,
+    "visitId": 1167,
+    "wardType": "SICU",
+    "doctorId": 2,
+    "entryTimestamp": 1781510400,
+    "exitTimestamp": 1782115200
+  },
+  {
+    "stayId": 343,
+    "visitId": 1172,
+    "wardType": "CCU",
+    "doctorId": 10,
+    "entryTimestamp": 1786410000,
+    "exitTimestamp": 1786928400
+  },
+  {
+    "stayId": 344,
+    "visitId": 1177,
+    "wardType": "MICU",
+    "doctorId": 6,
+    "entryTimestamp": 1776949200,
+    "exitTimestamp": 1777554000
+  },
+  {
+    "stayId": 345,
+    "visitId": 1180,
+    "wardType": "MICU",
+    "doctorId": 3,
+    "entryTimestamp": 1775491200,
+    "exitTimestamp": 1776009600
+  },
+  {
+    "stayId": 346,
+    "visitId": 1183,
+    "wardType": "CCU",
+    "doctorId": 6,
+    "entryTimestamp": 1784037600,
+    "exitTimestamp": 1784556000
+  },
+  {
+    "stayId": 347,
+    "visitId": 9999,
+    "wardType": "SICU",
+    "doctorId": 7,
+    "entryTimestamp": 1774767600,
+    "exitTimestamp": null
+  },
+  {
+    "stayId": 348,
+    "visitId": 1188,
+    "wardType": "SICU",
+    "doctorId": 10,
+    "entryTimestamp": 1768669200,
+    "exitTimestamp": 1768842000
+  },
+  {
+    "stayId": 349,
+    "visitId": 1189,
+    "wardType": "CCU",
+    "doctorId": 3,
+    "entryTimestamp": 1775278800,
+    "exitTimestamp": 1775797200
+  },
+  {
+    "stayId": 350,
+    "visitId": 1191,
+    "wardType": "MICU",
+    "doctorId": 14,
+    "entryTimestamp": 1774998000,
+    "exitTimestamp": 1775343600
+  },
+  {
+    "stayId": 351,
+    "visitId": 1196,
+    "wardType": "CCU",
+    "doctorId": 5,
+    "entryTimestamp": 1786680000,
+    "exitTimestamp": 1786766400
+  }
+]

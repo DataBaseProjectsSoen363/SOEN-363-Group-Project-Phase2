@@ -1,0 +1,302 @@
+exam_id,order_id,technician_name,scan_datetime,contrast_used,findings_text,radiologist_conclusion
+1,1,Tech C. Bernard,16/07/2026 04:00,Y,,
+2,2,Tech C. Bernard,22/05/2026 19:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+3,3,Tech C. Bernard,12/06/2026 17:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+4,4,Tech C. Bernard,30/05/2026 13:00,Y,Aucune anomalie détectée.,Normal.
+5,5,Tech A. Dupont,27/03/2026 14:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+6,6,Tech B. Martin,09/04/2026 10:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+7,7,Tech C. Bernard,10/01/2026 17:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+8,8,Tech A. Dupont,16/07/2026 10:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+9,9,Tech A. Dupont,09/06/2026 07:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+10,10,Tech C. Bernard,07/02/2026 23:00,N,,
+11,11,Tech B. Martin,03/04/2026 21:00,N,Aucune anomalie détectée.,Normal.
+12,12,Tech C. Bernard,01/08/2026 07:00,Y,Aucune anomalie détectée.,Normal.
+13,13,Tech C. Bernard,25/02/2026 10:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+14,14,Tech A. Dupont,22/06/2026 01:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+15,15,Tech C. Bernard,11/06/2026 04:00,N,Aucune anomalie détectée.,Normal.
+16,16,Tech B. Martin,01/08/2026 00:00,Y,Aucune anomalie détectée.,Normal.
+17,17,Tech C. Bernard,30/08/2026 13:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+18,18,Tech B. Martin,03/06/2026 14:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+19,19,Tech C. Bernard,22/07/2026 21:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+20,20,Tech A. Dupont,17/02/2026 19:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+21,22,Tech B. Martin,16/07/2026 07:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+22,23,Tech C. Bernard,28/04/2026 19:00,Y,Aucune anomalie détectée.,Normal.
+23,24,Tech C. Bernard,16/03/2026 03:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+24,25,Tech A. Dupont,21/07/2026 16:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+25,26,Tech A. Dupont,24/03/2026 15:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+26,27,Tech C. Bernard,16/05/2026 06:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+27,28,Tech A. Dupont,03/02/2026 10:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+28,29,Tech B. Martin,06/03/2026 23:00,N,,
+29,30,Tech B. Martin,17/02/2026 13:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+30,31,Tech C. Bernard,20/01/2026 12:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+31,33,Tech B. Martin,12/03/2026 01:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+32,34,Tech B. Martin,26/08/2026 07:00,Y,Aucune anomalie détectée.,Normal.
+33,35,Tech C. Bernard,27/03/2026 08:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+34,36,Tech C. Bernard,16/07/2026 18:00,N,Aucune anomalie détectée.,Normal.
+35,37,Tech B. Martin,18/02/2026 02:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+36,38,Tech C. Bernard,27/07/2026 11:00,N,Aucune anomalie détectée.,Normal.
+37,39,Tech B. Martin,06/03/2026 02:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+38,40,Tech C. Bernard,19/02/2026 22:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+39,41,Tech B. Martin,08/06/2026 01:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+40,42,Tech A. Dupont,23/05/2026 08:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+41,43,Tech C. Bernard,04/08/2026 08:00,Y,,
+42,44,Tech A. Dupont,09/04/2026 13:00,Y,Aucune anomalie détectée.,Normal.
+43,45,Tech A. Dupont,28/07/2026 16:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+44,46,Tech A. Dupont,07/02/2026 22:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+45,47,Tech C. Bernard,28/04/2026 08:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+46,48,Tech C. Bernard,25/04/2026 20:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+47,49,Tech B. Martin,12/04/2026 07:00,Y,Aucune anomalie détectée.,Normal.
+48,50,Tech B. Martin,27/08/2026 03:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+49,51,Tech C. Bernard,21/06/2026 04:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+50,52,Tech A. Dupont,14/07/2026 05:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+51,53,Tech A. Dupont,16/02/2026 03:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+52,54,Tech C. Bernard,20/05/2026 15:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+53,55,Tech B. Martin,30/06/2026 22:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+54,56,Tech C. Bernard,18/03/2026 07:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+55,57,Tech A. Dupont,18/07/2026 12:00,N,Aucune anomalie détectée.,Normal.
+56,58,Tech B. Martin,20/07/2026 08:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+57,59,Tech A. Dupont,03/07/2026 18:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+58,60,Tech C. Bernard,14/08/2026 12:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+59,61,Tech A. Dupont,10/03/2026 16:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+60,62,Tech A. Dupont,28/05/2026 13:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+61,63,Tech C. Bernard,04/08/2026 14:00,Y,Aucune anomalie détectée.,Normal.
+62,64,Tech B. Martin,08/03/2026 19:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+63,9999,Tech B. Martin,16/06/2026 21:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+64,9999,Tech A. Dupont,08/09/2026 02:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+65,67,Tech A. Dupont,25/05/2026 00:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+66,9999,Tech B. Martin,10/06/2026 05:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+67,69,Tech B. Martin,11/01/2026 09:00,N,,
+68,70,Tech B. Martin,01/07/2026 00:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+69,71,Tech B. Martin,08/07/2026 06:00,Y,Aucune anomalie détectée.,Normal.
+70,72,Tech C. Bernard,03/05/2026 17:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+71,73,Tech B. Martin,27/04/2026 14:00,N,Aucune anomalie détectée.,Normal.
+72,74,Tech B. Martin,27/08/2026 15:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+73,76,Tech B. Martin,14/06/2026 10:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+74,77,Tech A. Dupont,27/05/2026 04:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+75,78,Tech A. Dupont,22/01/2026 04:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+76,79,Tech A. Dupont,01/09/2026 14:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+77,80,Tech A. Dupont,06/02/2026 23:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+78,81,Tech A. Dupont,22/05/2026 18:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+79,82,Tech B. Martin,05/06/2026 15:00,Y,Aucune anomalie détectée.,Normal.
+80,83,Tech A. Dupont,27/05/2026 03:00,N,,
+81,84,Tech B. Martin,02/02/2026 12:00,Y,,
+82,85,Tech B. Martin,16/01/2026 04:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+83,86,Tech C. Bernard,18/01/2026 03:00,Y,Aucune anomalie détectée.,Normal.
+84,87,Tech A. Dupont,25/05/2026 09:00,Y,,
+85,88,Tech C. Bernard,28/05/2026 16:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+86,89,Tech C. Bernard,05/02/2026 08:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+87,90,Tech A. Dupont,09/05/2026 02:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+88,91,Tech C. Bernard,03/06/2026 07:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+89,92,Tech B. Martin,14/03/2026 09:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+90,93,Tech A. Dupont,17/07/2026 19:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+91,94,Tech C. Bernard,03/05/2026 16:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+92,95,Tech C. Bernard,08/09/2026 09:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+93,96,Tech A. Dupont,15/06/2026 03:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+94,97,Tech C. Bernard,10/07/2026 17:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+95,98,Tech B. Martin,04/05/2026 04:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+96,99,Tech B. Martin,22/08/2026 01:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+97,100,Tech B. Martin,11/05/2026 11:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+98,101,Tech A. Dupont,22/08/2026 16:00,N,Aucune anomalie détectée.,Normal.
+99,102,Tech C. Bernard,19/03/2026 00:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+100,103,Tech A. Dupont,19/04/2026 01:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+101,104,Tech B. Martin,09/03/2026 14:00,N,Aucune anomalie détectée.,Normal.
+102,105,Tech B. Martin,24/08/2026 17:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+103,106,Tech B. Martin,04/05/2026 09:00,Y,Aucune anomalie détectée.,Normal.
+104,107,Tech B. Martin,15/01/2026 14:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+105,108,Tech B. Martin,01/09/2026 19:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+106,109,Tech B. Martin,26/01/2026 08:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+107,110,Tech A. Dupont,06/08/2026 07:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+108,111,Tech A. Dupont,15/07/2026 19:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+109,112,Tech B. Martin,17/04/2026 13:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+110,113,Tech B. Martin,18/07/2026 14:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+111,114,Tech A. Dupont,09/02/2026 08:00,Y,Aucune anomalie détectée.,Normal.
+112,115,Tech C. Bernard,15/02/2026 10:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+113,116,Tech B. Martin,07/08/2026 08:00,Y,Aucune anomalie détectée.,Normal.
+114,117,Tech C. Bernard,22/07/2026 13:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+115,118,Tech C. Bernard,20/01/2026 13:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+116,119,Tech B. Martin,26/07/2026 22:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+117,120,Tech C. Bernard,22/07/2026 22:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+118,121,Tech C. Bernard,11/01/2026 03:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+119,122,Tech B. Martin,16/01/2026 14:00,N,Aucune anomalie détectée.,Normal.
+120,123,Tech A. Dupont,05/05/2026 04:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+121,124,Tech C. Bernard,02/06/2026 04:00,Y,Aucune anomalie détectée.,Normal.
+122,125,Tech C. Bernard,29/05/2026 00:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+123,126,Tech C. Bernard,30/04/2026 06:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+124,127,Tech B. Martin,27/01/2026 08:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+125,129,Tech B. Martin,11/05/2026 11:00,Y,Aucune anomalie détectée.,Normal.
+126,130,Tech A. Dupont,05/09/2026 15:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+127,131,Tech A. Dupont,19/05/2026 20:00,N,Aucune anomalie détectée.,Normal.
+128,132,Tech B. Martin,21/07/2026 08:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+129,133,Tech A. Dupont,02/01/2026 14:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+130,134,Tech C. Bernard,21/05/2026 11:00,Y,,
+131,135,Tech B. Martin,28/04/2026 14:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+132,136,Tech C. Bernard,29/08/2026 20:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+133,137,Tech B. Martin,24/02/2026 16:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+134,138,Tech B. Martin,22/07/2026 18:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+135,139,Tech B. Martin,23/01/2026 21:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+136,140,Tech A. Dupont,14/03/2026 03:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+137,141,Tech C. Bernard,04/07/2026 11:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+138,142,Tech A. Dupont,23/05/2026 19:00,N,Aucune anomalie détectée.,Normal.
+139,143,Tech A. Dupont,28/05/2026 16:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+140,144,Tech A. Dupont,17/03/2026 13:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+141,145,Tech C. Bernard,02/09/2026 23:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+142,146,Tech B. Martin,27/06/2026 17:00,Y,Aucune anomalie détectée.,Normal.
+143,147,Tech A. Dupont,24/02/2026 12:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+144,148,Tech A. Dupont,27/06/2026 18:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+145,149,Tech C. Bernard,26/06/2026 07:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+146,150,Tech A. Dupont,19/04/2026 07:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+147,151,Tech C. Bernard,19/08/2026 22:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+148,152,Tech B. Martin,21/05/2026 01:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+149,153,Tech A. Dupont,09/05/2026 07:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+150,154,Tech A. Dupont,23/02/2026 17:00,N,Aucune anomalie détectée.,Normal.
+151,155,Tech A. Dupont,13/02/2026 14:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+152,156,Tech A. Dupont,03/04/2026 20:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+153,157,Tech B. Martin,02/04/2026 22:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+154,158,Tech A. Dupont,30/06/2026 00:00,N,Aucune anomalie détectée.,Normal.
+155,159,Tech C. Bernard,28/07/2026 16:00,Y,Aucune anomalie détectée.,Normal.
+156,160,Tech C. Bernard,29/06/2026 09:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+157,161,Tech C. Bernard,27/02/2026 15:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+158,162,Tech B. Martin,07/07/2026 15:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+159,163,Tech B. Martin,04/07/2026 16:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+160,164,Tech B. Martin,23/05/2026 23:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+161,165,Tech C. Bernard,04/02/2026 15:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+162,166,Tech A. Dupont,08/04/2026 20:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+163,167,Tech C. Bernard,28/02/2026 02:00,N,,
+164,168,Tech B. Martin,04/05/2026 10:00,Y,Aucune anomalie détectée.,Normal.
+165,169,Tech C. Bernard,18/04/2026 11:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+166,170,Tech B. Martin,13/03/2026 22:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+167,171,Tech A. Dupont,25/01/2026 04:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+168,9999,Tech C. Bernard,20/01/2026 19:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+169,173,Tech B. Martin,13/06/2026 23:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+170,174,Tech A. Dupont,29/08/2026 06:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+171,175,Tech B. Martin,23/01/2026 21:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+172,176,Tech A. Dupont,07/06/2026 05:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+173,177,Tech C. Bernard,06/04/2026 17:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+174,178,Tech A. Dupont,06/09/2026 22:00,N,,
+175,179,Tech B. Martin,26/07/2026 18:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+176,180,Tech A. Dupont,22/06/2026 09:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+177,181,Tech A. Dupont,02/01/2026 10:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+178,182,Tech A. Dupont,01/06/2026 08:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+179,183,Tech B. Martin,06/04/2026 03:00,Y,Aucune anomalie détectée.,Normal.
+180,184,Tech B. Martin,14/02/2026 19:00,N,Aucune anomalie détectée.,Normal.
+181,185,Tech C. Bernard,22/07/2026 18:00,Y,Aucune anomalie détectée.,Normal.
+182,186,Tech B. Martin,30/05/2026 07:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+183,187,Tech B. Martin,24/05/2026 13:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+184,188,Tech A. Dupont,24/03/2026 14:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+185,189,Tech B. Martin,29/06/2026 11:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+186,190,Tech A. Dupont,09/07/2026 13:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+187,191,Tech C. Bernard,01/09/2026 15:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+188,192,Tech B. Martin,27/04/2026 23:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+189,193,Tech A. Dupont,13/07/2026 03:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+190,194,Tech A. Dupont,20/08/2026 18:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+191,196,Tech C. Bernard,07/06/2026 09:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+192,197,Tech A. Dupont,06/02/2026 13:00,Y,Aucune anomalie détectée.,Normal.
+193,198,Tech B. Martin,26/06/2026 23:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+194,199,Tech B. Martin,17/04/2026 19:00,N,Aucune anomalie détectée.,Normal.
+195,200,Tech B. Martin,29/07/2026 18:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+196,201,Tech A. Dupont,24/07/2026 12:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+197,202,Tech B. Martin,12/01/2026 13:00,N,Aucune anomalie détectée.,Normal.
+198,203,Tech A. Dupont,11/02/2026 14:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+199,204,Tech C. Bernard,26/02/2026 01:00,N,Aucune anomalie détectée.,Normal.
+200,205,Tech B. Martin,02/06/2026 11:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+201,206,Tech A. Dupont,09/05/2026 04:00,Y,Aucune anomalie détectée.,Normal.
+202,207,Tech B. Martin,17/08/2026 18:00,N,Aucune anomalie détectée.,Normal.
+203,208,Tech A. Dupont,27/06/2026 11:00,N,Aucune anomalie détectée.,Normal.
+204,209,Tech A. Dupont,15/03/2026 19:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+205,210,Tech A. Dupont,09/07/2026 15:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+206,211,Tech C. Bernard,02/02/2026 10:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+207,212,Tech A. Dupont,08/02/2026 11:00,N,Aucune anomalie détectée.,Normal.
+208,213,Tech B. Martin,08/03/2026 04:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+209,214,Tech C. Bernard,20/02/2026 10:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+210,215,Tech C. Bernard,30/04/2026 11:00,Y,,
+211,216,Tech A. Dupont,18/03/2026 04:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+212,217,Tech A. Dupont,26/05/2026 17:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+213,218,Tech C. Bernard,27/03/2026 10:00,Y,Aucune anomalie détectée.,Normal.
+214,219,Tech B. Martin,28/08/2026 11:00,Y,Aucune anomalie détectée.,Normal.
+215,220,Tech C. Bernard,30/07/2026 01:00,Y,Aucune anomalie détectée.,Normal.
+216,221,Tech B. Martin,29/03/2026 17:00,Y,Aucune anomalie détectée.,Normal.
+217,222,Tech A. Dupont,19/05/2026 12:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+218,223,Tech A. Dupont,29/03/2026 11:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+219,224,Tech C. Bernard,16/01/2026 17:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+220,225,Tech C. Bernard,18/05/2026 01:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+221,226,Tech A. Dupont,31/01/2026 01:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+222,227,Tech A. Dupont,23/02/2026 16:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+223,228,Tech B. Martin,13/04/2026 23:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+224,229,Tech B. Martin,28/03/2026 05:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+225,230,Tech A. Dupont,19/03/2026 13:00,N,Aucune anomalie détectée.,Normal.
+226,232,Tech B. Martin,21/07/2026 19:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+227,233,Tech C. Bernard,27/06/2026 02:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+228,234,Tech C. Bernard,13/06/2026 13:00,N,,
+229,235,Tech C. Bernard,02/02/2026 15:00,N,Aucune anomalie détectée.,Normal.
+230,236,Tech C. Bernard,28/01/2026 17:00,N,,
+231,237,Tech B. Martin,05/09/2026 09:00,N,Aucune anomalie détectée.,Normal.
+232,238,Tech A. Dupont,17/02/2026 20:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+233,239,Tech B. Martin,04/04/2026 18:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+234,240,Tech A. Dupont,27/05/2026 05:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+235,241,Tech A. Dupont,13/05/2026 06:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+236,242,Tech A. Dupont,13/01/2026 11:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+237,243,Tech A. Dupont,31/05/2026 02:00,N,Aucune anomalie détectée.,Normal.
+238,9999,Tech C. Bernard,01/04/2026 23:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+239,245,Tech C. Bernard,08/03/2026 12:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+240,246,Tech A. Dupont,24/03/2026 23:00,N,Aucune anomalie détectée.,Normal.
+241,247,Tech C. Bernard,04/09/2026 12:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+242,248,Tech A. Dupont,21/03/2026 01:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+243,249,Tech A. Dupont,17/03/2026 06:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+244,250,Tech A. Dupont,30/04/2026 15:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+245,251,Tech A. Dupont,16/02/2026 13:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+246,252,Tech A. Dupont,17/02/2026 06:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+247,253,Tech B. Martin,27/06/2026 03:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+248,254,Tech B. Martin,26/08/2026 06:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+249,255,Tech C. Bernard,28/05/2026 03:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+250,256,Tech A. Dupont,09/06/2026 15:00,N,Aucune anomalie détectée.,Normal.
+251,257,Tech B. Martin,23/06/2026 21:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+252,258,Tech B. Martin,11/05/2026 18:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+253,259,Tech A. Dupont,26/05/2026 07:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+254,260,Tech A. Dupont,13/01/2026 01:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+255,261,Tech B. Martin,30/04/2026 03:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+256,262,Tech B. Martin,02/03/2026 12:00,N,Aucune anomalie détectée.,Normal.
+257,263,Tech A. Dupont,28/03/2026 09:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+258,264,Tech B. Martin,13/04/2026 19:00,Y,Aucune anomalie détectée.,Normal.
+259,265,Tech B. Martin,22/03/2026 13:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+260,266,Tech C. Bernard,25/03/2026 18:00,Y,Aucune anomalie détectée.,Normal.
+261,267,Tech A. Dupont,04/08/2026 19:00,Y,Aucune anomalie détectée.,Normal.
+262,268,Tech C. Bernard,05/02/2026 06:00,Y,Aucune anomalie détectée.,Normal.
+263,269,Tech A. Dupont,25/01/2026 11:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+264,270,Tech C. Bernard,18/06/2026 05:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+265,271,Tech C. Bernard,18/04/2026 21:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+266,272,Tech B. Martin,14/02/2026 20:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+267,273,Tech B. Martin,15/02/2026 18:00,N,Aucune anomalie détectée.,Normal.
+268,274,Tech A. Dupont,16/07/2026 08:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+269,275,Tech C. Bernard,14/06/2026 09:00,Y,,
+270,276,Tech C. Bernard,18/05/2026 02:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+271,277,Tech B. Martin,22/06/2026 23:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+272,278,Tech C. Bernard,01/04/2026 13:00,Y,Aucune anomalie détectée.,Normal.
+273,279,Tech A. Dupont,02/04/2026 06:00,Y,Aucune anomalie détectée.,Normal.
+274,280,Tech C. Bernard,29/07/2026 16:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+275,281,Tech B. Martin,03/04/2026 00:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+276,282,Tech A. Dupont,24/06/2026 08:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+277,283,Tech A. Dupont,21/04/2026 10:00,N,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+278,284,Tech C. Bernard,05/05/2026 23:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+279,285,Tech B. Martin,29/07/2026 16:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+280,286,Tech B. Martin,14/08/2026 19:00,Y,Aucune anomalie détectée.,Normal.
+281,287,Tech A. Dupont,12/01/2026 04:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+282,288,Tech B. Martin,22/03/2026 18:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+283,289,Tech B. Martin,19/01/2026 08:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+284,290,Tech A. Dupont,09/08/2026 16:00,Y,Fracture non déplacée visible.,Corrélation clinique recommandée.
+285,9999,Tech B. Martin,25/06/2026 05:00,N,Aucune anomalie détectée.,Normal.
+286,292,Tech A. Dupont,13/04/2026 03:00,N,Aucune anomalie détectée.,Normal.
+287,293,Tech A. Dupont,18/04/2026 13:00,N,Aucune anomalie détectée.,Normal.
+288,294,Tech A. Dupont,24/08/2026 08:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+289,295,Tech A. Dupont,28/01/2026 00:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+290,296,Tech C. Bernard,18/02/2026 14:00,Y,Aucune anomalie détectée.,Normal.
+291,297,Tech B. Martin,13/06/2026 23:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+292,298,Tech A. Dupont,22/03/2026 21:00,N,Aucune anomalie détectée.,Normal.
+293,299,Tech A. Dupont,31/08/2026 20:00,Y,Aucune anomalie détectée.,Normal.
+294,300,Tech C. Bernard,08/09/2026 11:00,N,,
+295,301,Tech A. Dupont,12/06/2026 06:00,Y,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+296,302,Tech C. Bernard,09/04/2026 12:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+297,303,Tech A. Dupont,16/01/2026 09:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.
+298,304,Tech C. Bernard,06/03/2026 20:00,N,Pas d'épanchement pleural.,Corrélation clinique recommandée.
+299,305,Tech A. Dupont,22/06/2026 23:00,N,Fracture non déplacée visible.,Corrélation clinique recommandée.
+300,306,Tech C. Bernard,05/01/2026 18:00,N,Aucune anomalie détectée.,Normal.
+301,307,Tech C. Bernard,01/07/2026 20:00,Y,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.

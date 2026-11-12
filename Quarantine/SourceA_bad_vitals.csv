@@ -1,0 +1,31 @@
+triage_id,admission_id,nurse_id,blood_pressure,heart_rate,respiratory_rate,body_temperature,oxygen_saturation,pain_level,reported_symptoms,known_allergies,current_medications,triage_priority_level,rejection_reason
+4,4,19.0,120/81,-99,20,45.2,0,6,Fever,,Metoprolol,High-Priority Emergency,Out of bounds vitals
+17,17,25.0,105/60,-99,12,45.2,0,8,Dizziness,Latex,Atorvastatin,STAT,Out of bounds vitals
+73,73,24.0,122/66,-99,17,45.2,0,9,Dizziness,Peanuts,Atorvastatin,Routine,Out of bounds vitals
+110,110,20.0,108/68,-99,16,45.2,0,7,Dizziness,,Metoprolol,STAT,Out of bounds vitals
+123,123,23.0,140/86,-99,15,45.2,0,2,Fever,Penicillin,Metoprolol,Urgent,Out of bounds vitals
+130,130,18.0,113/68,-99,16,45.2,0,7,Shortness of Breath,Sulfa drugs,,STAT,Out of bounds vitals
+198,198,18.0,105/75,-99,21,45.2,0,0,Chest Discomfort,Latex,Metformin,Routine,Out of bounds vitals
+221,221,21.0,140/77,-99,22,45.2,0,1,Chest Discomfort,Latex,Lisinopril,Urgent,Out of bounds vitals
+261,261,22.0,105/68,-99,13,45.2,0,4,Dizziness,Sulfa drugs,Lisinopril,High-Priority Emergency,Out of bounds vitals
+293,293,23.0,119/79,-99,17,45.2,0,2,Shortness of Breath,Sulfa drugs,Metformin,High-Priority Emergency,Out of bounds vitals
+333,333,22.0,131/73,-99,14,45.2,0,5,Abdominal Pain,,Aspirin,High-Priority Emergency,Out of bounds vitals
+352,352,25.0,116/72,-99,13,45.2,0,9,Dizziness,,Atorvastatin,Routine,Out of bounds vitals
+405,405,20.0,140/67,-99,21,45.2,0,9,Shortness of Breath,Peanuts,Metformin,Routine,Out of bounds vitals
+408,408,25.0,120/81,-99,20,45.2,0,6,Abdominal Pain,,Aspirin,High-Priority Emergency,Out of bounds vitals
+475,475,18.0,138/84,-99,14,45.2,0,7,Shortness of Breath,Peanuts,Metformin, Urgent ,Out of bounds vitals
+479,479,19.0,106/83,-99,20,45.2,0,8,Dizziness,Peanuts,Atorvastatin,STAT,Out of bounds vitals
+493,493,16.0,131/65,-99,22,45.2,0,9,Fever,Latex,Aspirin,Urgent,Out of bounds vitals
+561,561,18.0,105/83,-99,18,45.2,0,3,Shortness of Breath,Latex,Metformin,High-Priority Emergency,Out of bounds vitals
+574,574,21.0,104/86,-99,16,45.2,0,7,Chest Discomfort,Sulfa drugs,Lisinopril,High-Priority Emergency,Out of bounds vitals
+614,614,19.0,124/60,-99,22,45.2,0,6,Fever,,Metformin,High-Priority Emergency,Out of bounds vitals
+622,622,19.0,101/74,-99,19,45.2,0,4,Dizziness,Latex,Metformin,Urgent,Out of bounds vitals
+658,658,17.0,123/78,-99,13,45.2,0,0,Fever,Peanuts,,High-Priority Emergency,Out of bounds vitals
+661,661,19.0,138/66,-99,15,45.2,0,9,Abdominal Pain,Penicillin,Atorvastatin,Urgent,Out of bounds vitals
+683,683,25.0,130/64,-99,21,45.2,0,1,Shortness of Breath,Penicillin,Lisinopril,Routine,Out of bounds vitals
+703,703,16.0,104/86,-99,16,45.2,0,8,Abdominal Pain,Peanuts,, STAT ,Out of bounds vitals
+823,823,17.0,111/63,-99,22,45.2,0,10,Dizziness,Peanuts,Aspirin,High-Priority Emergency,Out of bounds vitals
+828,828,21.0,117/66,-99,20,45.2,0,6,Chest Discomfort,Latex,Lisinopril,High-Priority Emergency,Out of bounds vitals
+1008,1008,17.0,117/86,-99,22,45.2,0,10,Dizziness,Penicillin,,STAT,Out of bounds vitals
+1069,1069,,108/84,-99,20,45.2,0,7,Abdominal Pain,Penicillin,Metoprolol,STAT,Out of bounds vitals
+1083,1083,19.0,126/86,-99,18,45.2,0,3,Shortness of Breath,Penicillin,Metoprolol,STAT,Out of bounds vitals

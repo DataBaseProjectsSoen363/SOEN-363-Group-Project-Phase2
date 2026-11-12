@@ -1,0 +1,28 @@
+visit_id,patient_mrn,admitting_doctor,admit_date,discharge_date,ward_code,reason_text,rejection_reason
+24,MRN-22792,MRN-10010,2026-03-08 15:00:00,2026-03-06 15:00:00,EMER,Traumatisme,Discharge date before admission date
+93,MRN-66157,MRN-10003,2026-04-04 04:00:00,2026-04-02 04:00:00,OBS,DOULEUR THORACIQUE,Discharge date before admission date
+105,MRN-50090,MRN-10012,2026-05-26 04:00:00,2026-05-24 04:00:00,MED,Traumatisme,Discharge date before admission date
+255,MRN-29534,MRN-10013,2026-07-02 07:00:00,2026-06-30 07:00:00,OBS,Douleur thoracique,Discharge date before admission date
+308,MRN-48481,MRN-10009,2026-07-30 08:00:00,2026-07-28 08:00:00,EMER,Douleur thoracique,Discharge date before admission date
+316,MRN-31937,MRN-10011,2026-05-22 04:00:00,2026-05-20 04:00:00,SURG,Traumatisme,Discharge date before admission date
+346,MRN-62566,MRN-10015,2026-04-08 13:00:00,2026-04-06 13:00:00,OBS,TRAUMATISME,Discharge date before admission date
+372,MRN-83434,MRN-10006,2026-08-10 00:00:00,2026-08-08 00:00:00,OBS,Essoufflement,Discharge date before admission date
+422,MRN-86530,MRN-10009,2026-04-11 19:00:00,2026-04-09 19:00:00,EMER,Traumatisme,Discharge date before admission date
+448,MRN-48222,MRN-10003,2026-06-30 17:00:00,2026-06-28 17:00:00,MED,DOULEUR THORACIQUE,Discharge date before admission date
+503,MRN-63286,MRN-10004,2026-03-20 12:00:00,2026-03-18 12:00:00,MED,Traumatisme,Discharge date before admission date
+629,MRN-20707,MRN-10007,2026-05-04 02:00:00,2026-05-02 02:00:00,MED,Fièvre,Discharge date before admission date
+649,MRN-39140,MRN-10013,2026-06-13 15:00:00,2026-06-11 15:00:00,SURG,Douleur thoracique,Discharge date before admission date
+708,MRN-11730,MRN-10002,2026-06-17 18:00:00,2026-06-15 18:00:00,OBS,Douleur thoracique,Discharge date before admission date
+734,MRN-75516,MRN-10002,2026-05-22 03:00:00,2026-05-20 03:00:00,EMER,Douleur thoracique,Discharge date before admission date
+746,MRN-69697,MRN-10003,2026-06-04 21:00:00,2026-06-02 21:00:00,MED,Douleur thoracique,Discharge date before admission date
+819,MRN-44964,MRN-10007,2026-07-14 00:00:00,2026-07-12 00:00:00,OBS,Traumatisme,Discharge date before admission date
+827,MRN-95270,MRN-10008,2026-03-24 02:00:00,2026-03-22 02:00:00,PEDS,Fièvre,Discharge date before admission date
+869,MRN-47893,MRN-10013,2026-08-13 01:00:00,2026-08-11 01:00:00,SURG,Traumatisme,Discharge date before admission date
+881,MRN-16162,MRN-10015,2026-04-11 19:00:00,2026-04-09 19:00:00,PEDS,Traumatisme,Discharge date before admission date
+907,MRN-40985,MRN-10001,2026-04-20 23:00:00,2026-04-18 23:00:00,MED,Douleur thoracique,Discharge date before admission date
+944,MRN-95233,MRN-10010,2026-02-15 18:00:00,2026-02-13 18:00:00,PEDS,Essoufflement,Discharge date before admission date
+1007,MRN-39011,MRN-10002,2026-06-09 03:00:00,2026-06-07 03:00:00,PEDS,Essoufflement,Discharge date before admission date
+1012,MRN-18476,MRN-10014,2026-05-24 04:00:00,2026-05-22 04:00:00,PEDS,Douleur thoracique,Discharge date before admission date
+1013,MRN-61883,MRN-10005,2026-08-06 13:00:00,2026-08-04 13:00:00,MED,Essoufflement,Discharge date before admission date
+1103,MRN-45586,MRN-10013,2026-03-11 13:00:00,2026-03-09 13:00:00,MED,Douleur thoracique,Discharge date before admission date
+1137,MRN-38563,MRN-10011,2026-07-31 17:00:00,2026-07-29 17:00:00,PEDS,TRAUMATISME,Discharge date before admission date

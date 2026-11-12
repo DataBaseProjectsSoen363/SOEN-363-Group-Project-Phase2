@@ -33,11 +33,11 @@ license_number     0
 
 ===== SAMPLE RECORDS =====
     professional_id            full_name       role        specialty license_number
-9                10   Dr. Michael Miller  Physician       Cardiology       MD-31621
+19               20       Emily Tremblay      Nurse              NaN       RN-87217
+21               22      Rachel Williams      Nurse              NaN       RN-77566
 11               12  Dr. Amelie Williams  physician  General Surgery       MD-69795
-20               21     Michael Tremblay      Nurse              NaN       RN-80069
-17               18         Robert Jones      Nurse              NaN       RN-57024
-2                 3     Dr. Robert Brown  Physician  General Surgery       MD-39260
+4                 5    Dr. Michael Brown  Physician       Cardiology       MD-83434
+15               16          David Brown      NURSE              NaN       RN-75078
 
 ===== SUMMARY STATISTICS =====
         professional_id            full_name       role   specialty license_number

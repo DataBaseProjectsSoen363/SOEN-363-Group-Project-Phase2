@@ -1,13 +1,12 @@
+import pandas as pd
+
 def profile_dataframe(df, output_file):
-    
     df = df.copy() 
     for col in df.columns:
-        # If the column contains lists, dicts, etc., cast it to a string
         if df[col].dtype == 'object':
             df[col] = df[col].astype(str)
 
     with open(output_file, "w") as f:
-
         f.write("===== RECORD COUNT =====\n")
         f.write(f"{len(df)}\n\n")
 
@@ -39,5 +38,3 @@ def profile_dataframe(df, output_file):
         f.write("===== SUMMARY STATISTICS =====\n")
         f.write(df.describe(include="all").to_string())
         f.write("\n")
-
-    

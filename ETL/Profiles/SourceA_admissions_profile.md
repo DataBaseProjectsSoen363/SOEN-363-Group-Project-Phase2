@@ -48,11 +48,11 @@ admitting_professional_id    0
 
 ===== SAMPLE RECORDS =====
       admission_id  patient_id  admission_date_time  discharge_date_time admission_type    admission_source     reason_admission insurance_information current_condition  admitting_professional_id
-1108          1109          52  2026-01-06 10:30:00  2026-01-09 10:30:00       Elective  Physician Referral                Fever     Private Insurance            Stable                         14
+119            120         777  2026-03-30 01:30:00  2026-04-01 01:30:00      EMERGENCY             Walk-in               Trauma         Public (RAMQ)       Observation                         11
+580            581          47  2026-08-07 12:15:00  2026-08-12 12:15:00       Elective  Physician Referral       Abdominal Pain              Self-pay         Improving                         13
+666            667         554  2026-02-22 21:15:00  2026-02-27 21:15:00      Emergency      Emergency Room           Chest Pain              Self-pay         Improving                          8
 916            917         361  2026-07-07 00:30:00  2026-07-11 00:30:00       Elective            Transfer  Shortness of Breath     Private Insurance          Critical                          7
-159            160          44  2026-08-01 14:15:00  2026-08-05 14:15:00       Elective  Physician Referral                Fever     Private Insurance            Stable                         11
-779            780         267  2026-08-04 16:30:00  2026-08-05 16:30:00         Urgent            Transfer              Syncope         Public (RAMQ)            Stable                          4
-223            224         343  2026-08-23 12:45:00  2026-08-26 12:45:00       Elective  Physician Referral                Fever              Self-pay          Critical                         11
+1040          1041          85  2026-08-19 14:45:00  2026-08-26 14:45:00         Urgent      Emergency Room              Syncope         Public (RAMQ)            Stable                          3
 
 ===== SUMMARY STATISTICS =====
         admission_id   patient_id  admission_date_time  discharge_date_time admission_type admission_source reason_admission insurance_information current_condition  admitting_professional_id

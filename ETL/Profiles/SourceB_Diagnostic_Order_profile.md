@@ -39,11 +39,11 @@ order_status      0
 
 ===== SAMPLE RECORDS =====
      order_id  visit_id doctor_mrn               exam_type    order_datetime  priority_level order_status
-306       307      1200  MRN-10013             IRM Cerveau  01/07/2026 16:00               3    COMPLETED
-28         29       119  MRN-10010  Echographie Abdominale  06/03/2026 20:00               1      Pending
-68         69       271  MRN-10010          CT Scan Thorax  11/01/2026 05:00               3    Cancelled
-113       114       449  MRN-10008  Echographie Abdominale  09/02/2026 05:00               1      Pending
-52         53       180  MRN-10013            X-Ray Thorax  16/02/2026 01:00               2    Completed
+195       196       764  MRN-10007  Echographie Abdominale  07/06/2026 08:00               1    Cancelled
+279       280      1098  MRN-10010            X-Ray Thorax  29/07/2026 14:00               2      Pending
+222       223       864  MRN-10010            X-Ray Thorax  29/03/2026 10:00               1    Completed
+293       294      1142  MRN-10001          CT Scan Thorax  24/08/2026 06:00               3      Pending
+86         87       339  MRN-10003  Echographie Abdominale  25/05/2026 05:00               4    Completed
 
 ===== SUMMARY STATISTICS =====
           order_id     visit_id doctor_mrn    exam_type    order_datetime  priority_level order_status

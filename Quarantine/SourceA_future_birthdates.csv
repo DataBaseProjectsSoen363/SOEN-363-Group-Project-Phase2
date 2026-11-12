@@ -1,0 +1,9 @@
+patient_id,name,health_insurance_number,life_status,address,date_birth,gender,emergency_contact_number,phone_number,rejection_reason
+56,Emily Gagnon,RAMQ185131,Alive,"1386 Sainte-Catherine St, Laval",2027-11-06,Female,514-555-8699,514-555-8699,Birthdate in the future
+95,Rachel Charette,RAMQ423401,Alive,"472 Sainte-Catherine St, Sherbrooke",2027-11-06,Female,514-555-3248,514-555-3248,Birthdate in the future
+270,Sarah Roy,RAMQ764259,Alive,"3617 Guy St, Sherbrooke",2027-11-06,Male,514-555-1230,514-555-1230,Birthdate in the future
+574,Rachel Brown,RAMQ419987,Alive,"2422 Sainte-Catherine St, Laval",2027-11-06,Female,514-555-1732,514-555-1732,Birthdate in the future
+584,Robert Charette,RAMQ952118,Alive,"3906 Atwater Ave, Longueuil",2027-11-06,Female,514-555-5110,514-555-5110,Birthdate in the future
+632,Daniel Taylor,RAMQ851210,Alive,"942 Guy St, Longueuil",2027-11-06,Female,514-555-5091,514-555-5091,Birthdate in the future
+654,Michael Smith,RAMQ714094,Alive,"2023 Guy St, Sherbrooke",2027-11-06,Female,514-555-1118,514-555-1118,Birthdate in the future
+785,Michael Smith,RAMQ897191,Alive,"179 Atwater Ave, Longueuil",2027-11-06,Male,514-555-1740,514-555-1740,Birthdate in the future

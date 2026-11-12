@@ -44,12 +44,12 @@ medical_images            0
 0
 
 ===== SAMPLE RECORDS =====
-     examination_id  order_id examination_type examination_date_time body_area_examined  referring_physician_id radiology_technician examination_status medical_images
-4                 5         5      Chest X-Ray   2026-06-06 13:30:00              Chest                       9     Tech D. Tremblay        In Progress     DICOM-9111
-139             140       140        MRI Brain   2026-05-19 18:00:00               Head                       4        Tech C. Smith          Finalized     DICOM-6690
-64               65        65        MRI Brain   2026-08-31 15:15:00               Head                      12        Tech C. Smith          Finalized     DICOM-7126
-209             210       210      Chest X-Ray   2026-07-07 03:30:00              Chest                       5        Tech C. Smith            Pending     DICOM-6370
-60               61        61  CT Scan - Chest   2026-08-28 15:15:00              Chest                      13          Tech A. Roy            Pending     DICOM-2033
+     examination_id  order_id      examination_type examination_date_time body_area_examined  referring_physician_id radiology_technician examination_status medical_images
+191             192       192       CT Scan - Chest   2026-01-09 10:45:00              Chest                      14        Tech C. Smith        In Progress     DICOM-8029
+37               38        38             MRI Brain   2026-04-18 19:00:00               Head                       5          Tech A. Roy        In Progress     DICOM-4237
+120             121       121           Chest X-Ray   2026-07-06 22:45:00              Chest                      14        Tech C. Smith        In Progress     DICOM-1100
+208             209       209  Abdominal Ultrasound   2026-04-27 17:00:00            Abdomen                       4          Tech A. Roy            Pending     DICOM-9556
+50               51        51           Chest X-Ray   2026-01-22 17:45:00              Chest                      13       Tech B. Gagnon            Pending     DICOM-2042
 
 ===== SUMMARY STATISTICS =====
         examination_id     order_id examination_type examination_date_time body_area_examined  referring_physician_id radiology_technician examination_status medical_images

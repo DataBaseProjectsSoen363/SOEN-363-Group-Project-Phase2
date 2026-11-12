@@ -38,12 +38,12 @@ home_address     0
 0
 
 ===== SAMPLE RECORDS =====
-           mrn     full_name insurance_id         dob gender_cd   contact_phone               home_address
-362  MRN-39746   Ava Laurent   INS-847113  09/06/1960         F  01-38-28-55-36   62 Rue Pasteur, Toulouse
-290  MRN-87689   Ethan Leroy   INS-303342  07/01/1955         M  01-53-63-68-60  50 Rue Victor Hugo, Paris
-220  MRN-16267  Chloe Dubois   INS-857362  04/07/1972         F  01-99-64-68-38     3 Rue de la Paix, Lyon
-523  MRN-70754   Lucas Leroy   INS-723575  13/03/1950         F  01-64-41-82-45   36 rue victor hugo, lyon
-440  MRN-17588  Lucas Dubois   INS-505243  07/11/1984         M  01-10-94-51-36   29 Rue Pasteur, Toulouse
+           mrn       full_name insurance_id         dob gender_cd   contact_phone                 home_address
+10   MRN-62853     Liam Michel   INS-156971  12/04/1989         M  01-37-28-95-25    16 Rue Victor Hugo, Paris
+100  MRN-53437    Chloe Moreau   INS-198898  19/11/1959         M  01-56-47-88-74        23 Rue Pasteur, Paris
+588  MRN-16511    Ethan Dubois   INS-448928  16/01/1950         M  01-18-76-23-19     14 Rue de la Paix, Paris
+407  MRN-84860   Liam Lefebvre   INS-497145  28/04/1983         M  01-96-91-87-10  80 Rue de la Paix, Toulouse
+16   MRN-35203  Ethan Lefebvre   INS-865458  12/05/1956         M  01-67-27-14-34         92 Rue Pasteur, Nice
 
 ===== SUMMARY STATISTICS =====
               mrn    full_name insurance_id         dob gender_cd   contact_phone              home_address

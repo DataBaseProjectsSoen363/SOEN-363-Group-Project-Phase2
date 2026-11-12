@@ -45,11 +45,11 @@ order_status                   0
 
 ===== SAMPLE RECORDS =====
      order_id  admission_id  patient_id  requesting_physician_id requested_examination    request_date_time    clinical_reason_examination priority order_status
-40         41           159         734                       15             MRI Brain  2026-07-15 22:30:00  Evaluate for acute pathology.     STAT    Completed
-109       110           422         158                        8  Abdominal Ultrasound  2026-09-01 21:30:00  Evaluate for acute pathology.     STAT      Pending
-110       111           423         556                       10       CT Scan - Chest  2026-03-30 15:45:00   Rule out pulmonary embolism.  Routine      Pending
-52         53           203         389                        5           Chest X-Ray  2026-01-08 13:00:00  Evaluate for acute pathology.   Urgent    Completed
-67         68           248         288                       10             MRI Brain  2026-05-26 11:15:00  Evaluate for acute pathology.   Urgent    Completed
+128       129           506         243                        6             MRI Brain  2026-05-19 06:00:00  Evaluate for acute pathology.  Routine    Cancelled
+23         24           105         190                        9           Chest X-Ray  2026-05-02 16:30:00  Evaluate for acute pathology.     STAT      Pending
+85         86           322         578                        5       CT Scan - Chest  2026-01-28 10:45:00   Rule out pulmonary embolism.  Routine    Completed
+86         87           325         709                       10       CT Scan - Chest  2026-01-12 21:30:00   Rule out pulmonary embolism.     STAT    Completed
+103       104          9999         800                       11             MRI Brain  2026-03-22 03:30:00  Evaluate for acute pathology.     STAT    Cancelled
 
 ===== SUMMARY STATISTICS =====
           order_id  admission_id  patient_id  requesting_physician_id requested_examination    request_date_time    clinical_reason_examination priority order_status

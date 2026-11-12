@@ -29,12 +29,12 @@ clinical_conclusion     0
 0
 
 ===== SAMPLE RECORDS =====
-     radiology_report_id                            radiologist_findings                                          interpretation                clinical_conclusion
-239                  254  Mild degenerative changes in the lumbar spine.                             No major effusion detected.          Normal structural limits.
-38                    40   Mild cardiomegaly noted. No pleural effusion.           No evidence of acute fracture or dislocation.                 No acute findings.
-92                    96   Mild cardiomegaly noted. No pleural effusion.           No evidence of acute fracture or dislocation.    Recommend clinical correlation.
-48                    50     Lungs appear clear. No focal consolidation.  Likely benign etiology. Routine follow-up recommended.  Stable compared to prior imaging.
-169                  177   Mild cardiomegaly noted. No pleural effusion.           No evidence of acute fracture or dislocation.                 No acute findings.
+     radiology_report_id                            radiologist_findings                                          interpretation              clinical_conclusion
+68                    71  Mild degenerative changes in the lumbar spine.  Likely benign etiology. Routine follow-up recommended.  Recommend clinical correlation.
+104                  108                  Soft tissues are unremarkable.  Likely benign etiology. Routine follow-up recommended.               No acute findings.
+222                  234  Mild degenerative changes in the lumbar spine.                                     Unremarkable study.  Recommend clinical correlation.
+40                    42   Mild cardiomegaly noted. No pleural effusion.                             No major effusion detected.  Recommend clinical correlation.
+44                    46  Mild degenerative changes in the lumbar spine.           No evidence of acute fracture or dislocation.        Normal structural limits.
 
 ===== SUMMARY STATISTICS =====
         radiology_report_id                           radiologist_findings                                                interpretation                clinical_conclusion

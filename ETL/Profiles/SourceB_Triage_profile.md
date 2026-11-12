@@ -47,12 +47,12 @@ allergy_note       0
 0
 
 ===== SAMPLE RECORDS =====
-      triage_id  visit_id  nurse_mrn  bp_systolic  bp_diastolic  hr_bpm  temp_fahrenheit  o2_sat esi_priority allergy_note
-788         789       805  MRN-10025          109            79     100             99.9      96        ESI-4        Sulfa
-1027       1028      1050  MRN-10018          129            78      97            100.3     100        ESI-1   Penicillin
-85           86        88  MRN-10024          115            63      74             97.6      95        ESI-2          NaN
-685         686       701  MRN-10022          103            78      68             97.0      97        ESI-3        Latex
-374         375       381  MRN-10022          106            82      94            100.6      99        ESI-1          UNK
+     triage_id  visit_id  nurse_mrn  bp_systolic  bp_diastolic  hr_bpm  temp_fahrenheit  o2_sat esi_priority allergy_note
+57          58        58  MRN-10021          130            89      94            100.0      97        ESI-1        Latex
+473        474       483  MRN-10018          138            77      64             99.3      99        ESI-2   Penicillin
+524        525       535  MRN-10022          139            68      87             97.5     100        ESI-3          NaN
+409        410       418  MRN-10019          122            75      99             98.5      98        ESI-3          NaN
+97          98       100  MRN-10023          121            78      92             98.8      95        ESI-1        Sulfa
 
 ===== SUMMARY STATISTICS =====
          triage_id     visit_id  nurse_mrn  bp_systolic  bp_diastolic       hr_bpm  temp_fahrenheit       o2_sat esi_priority allergy_note

@@ -56,12 +56,12 @@ triage_priority_level    0
 0
 
 ===== SAMPLE RECORDS =====
-      triage_id  admission_id  nurse_id blood_pressure  heart_rate  respiratory_rate  body_temperature  oxygen_saturation pain_level reported_symptoms known_allergies current_medications    triage_priority_level
-1103       1104          1104      18.0         121/82          81                18              38.5                 97         10         Dizziness      Penicillin           Metformin                   Urgent
-1053       1054          1054      24.0         102/65          70                15              36.0                100          3    Abdominal Pain      Penicillin           Metformin                  Routine
-175         176           176      22.0         112/89          75                20              38.1                 96          3  Chest Discomfort      Penicillin        Atorvastatin  High-Priority Emergency
-413         414           414      16.0         133/89          68                17              37.9                 94          1             Fever             NaN             Aspirin                   Urgent
-488         489           489      18.0         128/60          67                20              37.3                 96          4         Dizziness      Penicillin             Aspirin                     STAT
+      triage_id  admission_id  nurse_id blood_pressure  heart_rate  respiratory_rate  body_temperature  oxygen_saturation pain_level    reported_symptoms known_allergies current_medications triage_priority_level
+806         807           807      23.0         123/61         106                16              36.6                 95         10     Chest Discomfort         Peanuts             Aspirin                Urgent
+1062       1063          1063      23.0         136/78         109                20              38.2                 92          3            Dizziness     Sulfa drugs          Metoprolol               Routine
+61           62            62      16.0         108/84         100                14              37.4                 93          3                Fever             NaN                 NaN               Routine
+888         889           889      20.0         102/67          92                13              36.3                100          2  Shortness of Breath         Peanuts          Metoprolol                Urgent
+469         470           470      20.0         130/79          65                18              36.5                 94          0            Dizziness     Sulfa drugs          Metoprolol               Routine
 
 ===== SUMMARY STATISTICS =====
           triage_id  admission_id     nurse_id blood_pressure   heart_rate  respiratory_rate  body_temperature  oxygen_saturation pain_level    reported_symptoms known_allergies current_medications triage_priority_level

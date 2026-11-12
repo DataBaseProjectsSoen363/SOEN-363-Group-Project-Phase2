@@ -39,11 +39,11 @@ Phone          0
 
 ===== SAMPLE RECORDS =====
       id  FirstName   LastName     Address          DateOfBirth Gender            Phone
-686  687     Daniel  Rodriguez  \n          1946-06-15T13:22:27      F  +34-656-175-883
-583  584  Alejandro    Sanchez  \n          2003-06-01T13:22:27      F  +34-611-182-543
-260  261     Daniel      Lopez  \n          2006-01-14T13:22:27      F  +34-674-118-976
-744  745      Mateo      Perez  \n          1957-01-27T13:22:27      M  +34-645-934-244
-282  283  Alejandro   Martinez  \n          1954-04-06T13:22:27      F  +34-636-291-533
+454  455  Alejandro     Garcia  \n          1953-09-23T13:22:27      F  +34-644-490-711
+549  550      Lucia  Rodriguez  \n          1983-10-21T13:22:27      M  +34-657-419-160
+544  545     Carmen  Rodriguez  \n          1963-03-21T13:22:27      M  +34-673-533-851
+128  129  Alejandro  Rodriguez  \n          1963-09-11T13:22:27      F              NaN
+713  714  Alejandro  Rodriguez  \n          1962-07-22T13:22:27      F  +34-609-871-301
 
 ===== SUMMARY STATISTICS =====
               id FirstName LastName     Address          DateOfBirth Gender            Phone

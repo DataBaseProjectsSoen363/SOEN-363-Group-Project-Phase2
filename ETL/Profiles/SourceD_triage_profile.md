@@ -35,12 +35,12 @@ triagePriority    0
 0
 
 ===== SAMPLE RECORDS =====
-     triageId  visitId  nurseId                                                                 vitals                           symptoms triagePriority
-597       598      598     16.0  {'heartRate': 73, 'oxygenSaturation': 100, 'bloodPressure': '125/76'}            ['Shortness of Breath']          ESI-5
-85         86       86     25.0   {'heartRate': 97, 'oxygenSaturation': 97, 'bloodPressure': '117/72'}                      ['Dizziness']          ESI-1
-951       952      952     24.0   {'heartRate': 64, 'oxygenSaturation': 96, 'bloodPressure': '107/70'}                      ['Dizziness']          ESI-1
-752       753      753     23.0  {'heartRate': 65, 'oxygenSaturation': 100, 'bloodPressure': '110/90'}              ['Nausea', 'Fatigue']          ESI-1
-950       951      951     23.0   {'heartRate': 76, 'oxygenSaturation': 97, 'bloodPressure': '125/80'}  ['Shortness of Breath', 'Nausea']          ESI-5
+     triageId  visitId  nurseId                                                                 vitals                             symptoms triagePriority
+810       811      811     17.0   {'heartRate': 61, 'oxygenSaturation': 97, 'bloodPressure': '127/85'}  ['Nausea', 'Chest Pain', 'Fatigue']          ESI-2
+291       292      292     25.0   {'heartRate': 82, 'oxygenSaturation': 97, 'bloodPressure': '121/75'}             ['Dizziness', 'Fatigue']          ESI-2
+977       978      978     21.0   {'heartRate': 84, 'oxygenSaturation': 97, 'bloodPressure': '128/63'}                ['Nausea', 'Fatigue']          ESI-2
+613       614      614     17.0   {'heartRate': 83, 'oxygenSaturation': 99, 'bloodPressure': '133/78'}              ['Shortness of Breath']          ESI-2
+834       835      835     18.0  {'heartRate': 96, 'oxygenSaturation': 100, 'bloodPressure': '113/87'}    ['Shortness of Breath', 'Nausea']          ESI-4
 
 ===== SUMMARY STATISTICS =====
            triageId      visitId      nurseId                                                                vitals       symptoms triagePriority

@@ -45,11 +45,11 @@ reason_transfer             0
 
 ===== SAMPLE RECORDS =====
      unit_stay_id  admission_id  responsible_physician_id unit_type room_number bed_number      entry_date_time       exit_date_time          reason_transfer
-65             66           228                         9       CCU      Room B      Bed 4  2026-01-04 04:30:00  2026-01-09 04:30:00       Cardiac arrhythmia
-306           307          1045                         5       ICU      Room C      Bed 4  2026-02-09 00:45:00  2026-02-11 18:45:00     Respiratory distress
-40             41           140                         1      MICU      Room C      Bed 3  2026-02-07 18:00:00  2026-02-11 06:00:00       Cardiac arrhythmia
-141           142           456                         6       CCU      Room A      Bed 3  2026-03-21 13:00:00  2026-03-28 09:00:00  Post-operative recovery
-168           169           561                         3       CCU      Room C      Bed 2  2026-09-03 05:15:00  2026-09-10 18:15:00  Hemodynamic instability
+113           114           375                        12      SICU      Room C      Bed 2  2026-06-21 13:15:00  2026-06-25 06:15:00     Respiratory distress
+16             17            65                         2       CCU      Room B      Bed 1  2026-05-29 17:15:00  2026-06-05 21:15:00       Cardiac arrhythmia
+241           242           810                        12      MICU      Room A      Bed 2  2026-09-06 18:30:00  2026-09-08 01:30:00  Post-operative recovery
+200           201           682                         7      SICU      Room C      Bed 4  2026-06-19 18:45:00  2026-06-25 03:45:00  Post-operative recovery
+21             22            72                        11      MICU      Room A      Bed 2  2026-07-18 17:45:00  2026-07-22 08:45:00  Post-operative recovery
 
 ===== SUMMARY STATISTICS =====
         unit_stay_id  admission_id  responsible_physician_id unit_type room_number bed_number      entry_date_time       exit_date_time       reason_transfer

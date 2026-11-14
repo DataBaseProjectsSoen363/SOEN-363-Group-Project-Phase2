@@ -11,7 +11,6 @@ admission_id,patient_id,admission_date_time,discharge_date_time,admission_type,a
 10,83,2026-04-23 13:30:00,2026-04-25 13:30:00,Urgent,Transfer,Trauma,,Improving,15
 11,675,2026-06-06 05:30:00,2026-06-13 05:30:00,Observation,Transfer,Abdominal Pain,Private Insurance,Improving,14
 12,198,2026-06-20 21:15:00,2026-06-25 21:15:00,Elective,Emergency Room,Abdominal Pain,Private Insurance,Critical,15
-13,820,2026-09-08 23:15:00,2026-09-17 23:15:00,Elective,Transfer,Syncope,Public (RAMQ),Stable,11
 14,315,2026-05-29 01:00:00,2026-06-05 01:00:00,Urgent,Walk-in,Chest Pain,,Critical,2
 15,337,2026-08-13 04:45:00,2026-08-20 04:45:00,Elective,Walk-in,Shortness of Breath,Public (RAMQ),Observation,3
 16,641,2026-08-23 15:15:00,2026-08-25 15:15:00,Emergency,Emergency Room,Fever,Self-pay,Stable,15
@@ -37,10 +36,8 @@ admission_id,patient_id,admission_date_time,discharge_date_time,admission_type,a
 36,108,2026-08-04 05:45:00,2026-08-11 05:45:00,Urgent,Transfer,Syncope,Private Insurance,Stable,5
 37,72,2026-05-02 12:15:00,2026-05-07 12:15:00,Urgent,Physician Referral,Abdominal Pain,,Improving,5
 38,338,2026-02-02 16:15:00,2026-02-12 16:15:00,Elective,Transfer,Shortness of Breath,,Stable,9
-39,806,2026-04-28 03:00:00,2026-04-29 03:00:00,Elective,Transfer,Chest Pain,Self-pay,Critical,7
 40,693,2026-02-18 02:00:00,2026-02-24 02:00:00,Urgent,Transfer,Trauma,,Improving,11
 41,134,2026-06-29 10:15:00,2026-07-03 10:15:00,Observation,Physician Referral,Shortness of Breath,Self-pay,Stable,1
-42,838,2026-02-09 04:45:00,2026-02-10 04:45:00,Urgent,Emergency Room,Shortness of Breath,Self-pay,Stable,6
 43,352,2026-02-20 20:15:00,2026-02-21 20:15:00,Observation,Transfer,Trauma,,Improving,7
 44,209,2026-04-01 04:00:00,2026-04-06 04:00:00,Urgent,Emergency Room,Trauma,Self-pay,Improving,13
 45,133,2026-06-20 04:30:00,2026-06-21 04:30:00,Elective,Transfer,Trauma,Self-pay,Observation,3
@@ -58,7 +55,6 @@ admission_id,patient_id,admission_date_time,discharge_date_time,admission_type,a
 58,561,2026-09-01 17:00:00,2026-09-03 17:00:00,Elective,Emergency Room,Abdominal Pain,Private Insurance,Critical,7
 59,225,2026-02-22 06:00:00,2026-02-25 06:00:00,Urgent,Emergency Room,Abdominal Pain,,Stable,10
 60,43,2026-08-12 06:45:00,2026-08-17 06:45:00,Urgent,Transfer,Syncope,,Observation,14
-61,802,2026-05-18 19:00:00,2026-05-24 19:00:00,Observation,Emergency Room,Abdominal Pain,Public (RAMQ),Improving,5
 62,604,2026-06-22 08:30:00,2026-06-27 08:30:00,Elective,Walk-in,Trauma,Private Insurance,Stable,6
 63,115,2026-04-10 10:15:00,2026-04-14 10:15:00,Urgent,Emergency Room,Fever,Self-pay,Improving,6
 64,276,2026-07-08 05:15:00,2026-07-18 05:15:00,Emergency,Walk-in,Abdominal Pain,Public (RAMQ),Stable,8
@@ -213,7 +209,6 @@ admission_id,patient_id,admission_date_time,discharge_date_time,admission_type,a
 215,320,2026-08-20 18:15:00,2026-08-26 18:15:00,Emergency,Physician Referral,Shortness of Breath,Private Insurance,Improving,9
 216,539,2026-04-13 17:15:00,2026-04-21 17:15:00,Emergency,Emergency Room,Syncope,Self-pay,Observation,9
 217,661,2026-01-16 20:45:00,2026-01-19 20:45:00,Emergency,Transfer,Trauma,Self-pay,Observation,13
-218,806,2026-06-28 15:45:00,2026-07-03 15:45:00,Observation,Walk-in,Syncope,Public (RAMQ),Improving,10
 219,59,2026-07-29 18:15:00,2026-08-02 18:15:00,Observation,Transfer,Shortness of Breath,Self-pay,Stable,11
 220,242,2026-02-06 09:45:00,2026-02-12 09:45:00,Observation,Transfer,Fever,Public (RAMQ),Critical,14
 221,442,2026-01-06 12:30:00,2026-01-10 12:30:00,Elective,Walk-in,Chest Pain,Public (RAMQ),Observation,6
@@ -237,10 +232,8 @@ admission_id,patient_id,admission_date_time,discharge_date_time,admission_type,a
 239,689,2026-03-28 07:00:00,2026-04-03 07:00:00,Observation,Physician Referral,Abdominal Pain,,Critical,2
 240,282,2026-06-03 21:30:00,2026-06-13 21:30:00,Emergency,Emergency Room,Shortness of Breath,,Improving,4
 241,443,2026-04-26 14:45:00,2026-04-27 14:45:00,Observation,Emergency Room,Shortness of Breath,Self-pay,Observation,1
-242,813,2026-09-02 16:30:00,2026-09-05 16:30:00,Elective,Transfer,Syncope,Self-pay,Critical,3
 243,334,2026-08-02 03:30:00,2026-08-07 03:30:00,Emergency,Physician Referral,Syncope,Self-pay,Stable,4
 244,359,2026-01-17 11:30:00,2026-01-23 11:30:00,Observation,Physician Referral,Chest Pain,Self-pay,Observation,6
-245,809,2026-03-28 07:30:00,2026-04-01 07:30:00,Elective,Walk-in,Trauma,Self-pay,Critical,9
 246,376,2026-05-16 09:30:00,2026-05-23 09:30:00,Observation,Walk-in,Trauma,Private Insurance,Stable,6
 247,741,2026-03-16 23:30:00,2026-03-18 23:30:00,Elective,Physician Referral,Fever,Self-pay,Critical,8
 248,288,2026-05-26 00:15:00,2026-05-29 00:15:00,Observation,Physician Referral,Trauma,Public (RAMQ),Critical,11
@@ -308,7 +301,6 @@ admission_id,patient_id,admission_date_time,discharge_date_time,admission_type,a
 313,649,2026-02-28 01:15:00,2026-03-09 01:15:00,Urgent,Walk-in,Syncope,Self-pay,Improving,6
 314,425,2026-03-27 14:30:00,2026-04-02 14:30:00,Elective,Walk-in,Trauma,Public (RAMQ),Critical,1
 315,779,2026-01-07 08:45:00,2026-01-16 08:45:00,Elective,Physician Referral,Abdominal Pain,Self-pay,Critical,1
-316,816,2026-03-15 14:45:00,2026-03-19 14:45:00,Emergency,Walk-in,Abdominal Pain,,Observation,3
 317,31,2026-08-19 00:45:00,2026-08-29 00:45:00,Elective,Emergency Room,Fever,Private Insurance,Stable,1
 318,3,2026-07-25 14:30:00,2026-08-01 14:30:00,Observation,Transfer,Trauma,,Critical,14
 319,148,2026-02-23 04:45:00,2026-02-24 04:45:00,Urgent,Emergency Room,Fever,Private Insurance,Improving,5
@@ -335,7 +327,6 @@ admission_id,patient_id,admission_date_time,discharge_date_time,admission_type,a
 340,747,2026-01-12 22:00:00,2026-01-19 22:00:00,Emergency,Emergency Room,Abdominal Pain,,Stable,1
 341,245,2026-07-06 04:00:00,2026-07-12 04:00:00,Urgent,Walk-in,Trauma,,Observation,5
 342,427,2026-09-03 15:45:00,2026-09-06 15:45:00,Elective,Walk-in,Fever,Public (RAMQ),Observation,1
-343,827,2026-01-24 09:00:00,2026-02-01 09:00:00,Elective,Walk-in,Syncope,Self-pay,Critical,13
 344,343,2026-03-17 01:30:00,2026-03-22 01:30:00,Observation,Physician Referral,Syncope,,Stable,12
 345,333,2026-01-21 20:30:00,2026-01-22 20:30:00,Observation,Walk-in,Chest Pain,Self-pay,Improving,10
 346,264,2026-04-25 11:15:00,2026-04-26 11:15:00,Urgent,Physician Referral,Shortness of Breath,Private Insurance,Observation,2
@@ -400,7 +391,6 @@ admission_id,patient_id,admission_date_time,discharge_date_time,admission_type,a
 405,349,2026-02-03 05:15:00,2026-02-09 05:15:00,Urgent,Walk-in,Fever,Private Insurance,Improving,5
 406,134,2026-02-01 01:30:00,2026-02-09 01:30:00,Observation,Physician Referral,Fever,Public (RAMQ),Improving,6
 407,323,2026-02-05 21:15:00,2026-02-11 21:15:00,Emergency,Physician Referral,Abdominal Pain,,Observation,3
-408,835,2026-04-04 19:30:00,2026-04-06 19:30:00,Emergency,Emergency Room,Trauma,,Critical,10
 409,574,2026-08-08 07:30:00,2026-08-11 07:30:00,Observation,Emergency Room,Shortness of Breath,Self-pay,Critical,15
 410,578,2026-05-06 11:30:00,2026-05-13 11:30:00,Elective,Walk-in,Abdominal Pain,,Critical,15
 411,749,2026-05-24 05:00:00,2026-05-27 05:00:00,Emergency,Walk-in,Shortness of Breath,Public (RAMQ),Critical,8
@@ -465,7 +455,6 @@ admission_id,patient_id,admission_date_time,discharge_date_time,admission_type,a
 471,487,2026-01-02 00:45:00,2026-01-10 00:45:00,Emergency,Transfer,Trauma,Private Insurance,Critical,13
 472,167,2026-07-07 09:00:00,2026-07-17 09:00:00,Urgent,Transfer,Fever,,Stable,9
 475,42,2026-06-29 19:00:00,2026-06-30 19:00:00,Observation,Transfer,Chest Pain,Self-pay,Stable,9
-476,808,2026-02-23 09:00:00,2026-02-27 09:00:00,Elective,Transfer,Trauma,Self-pay,Improving,3
 477,172,2026-03-08 14:30:00,2026-03-13 14:30:00,Urgent,Walk-in,Abdominal Pain,,Critical,1
 478,222,2026-03-18 23:45:00,2026-03-22 23:45:00,Urgent,Transfer,Shortness of Breath,Public (RAMQ),Improving,14
 479,220,2026-06-26 02:30:00,2026-06-30 02:30:00,Elective,Physician Referral,Syncope,Self-pay,Stable,5
@@ -527,7 +516,6 @@ admission_id,patient_id,admission_date_time,discharge_date_time,admission_type,a
 536,271,2026-03-16 16:15:00,2026-03-18 16:15:00,Observation,Walk-in,Shortness of Breath,,Stable,13
 537,14,2026-02-26 23:45:00,2026-03-06 23:45:00,Urgent,Physician Referral,Chest Pain,Self-pay,Observation,15
 538,456,2026-05-15 20:15:00,2026-05-20 20:15:00,Emergency,Physician Referral,Shortness of Breath,Self-pay,Observation,1
-539,844,2026-03-13 10:00:00,2026-03-18 10:00:00,Emergency,Walk-in,Fever,Public (RAMQ),Critical,15
 540,666,2026-07-20 23:00:00,2026-07-28 23:00:00,Elective,Transfer,Chest Pain,Self-pay,Critical,3
 541,577,2026-01-29 00:30:00,2026-02-01 00:30:00,Urgent,Transfer,Abdominal Pain,,Stable,11
 542,50,2026-05-10 14:45:00,2026-05-20 14:45:00,Urgent,Emergency Room,Trauma,,Stable,5
@@ -692,7 +680,6 @@ admission_id,patient_id,admission_date_time,discharge_date_time,admission_type,a
 704,47,2026-07-31 22:45:00,2026-08-09 22:45:00,Urgent,Transfer,Shortness of Breath,Self-pay,Observation,8
 705,343,2026-07-25 04:00:00,2026-08-03 04:00:00,Emergency,Emergency Room,Fever,Self-pay,Improving,1
 707,682,2026-07-24 12:00:00,2026-08-02 12:00:00,Observation,Emergency Room,Fever,Public (RAMQ),Stable,15
-708,815,2026-05-24 17:15:00,2026-06-02 17:15:00,Emergency,Walk-in,Shortness of Breath,,Stable,3
 709,52,2026-01-12 20:30:00,2026-01-22 20:30:00,Urgent,Physician Referral,Fever,,Critical,6
 710,308,2026-04-16 20:45:00,2026-04-19 20:45:00,Emergency,Emergency Room,Fever,Public (RAMQ),Critical,7
 711,168,2026-03-28 01:00:00,2026-04-03 01:00:00,Emergency,Walk-in,Trauma,Public (RAMQ),Observation,6
@@ -730,7 +717,6 @@ admission_id,patient_id,admission_date_time,discharge_date_time,admission_type,a
 743,59,2026-07-22 17:45:00,2026-07-24 17:45:00,Urgent,Physician Referral,Syncope,,Critical,5
 744,720,2026-01-29 01:15:00,2026-02-03 01:15:00,Elective,Transfer,Chest Pain,Self-pay,Critical,1
 746,620,2026-05-16 02:45:00,2026-05-19 02:45:00,Urgent,Transfer,Fever,Self-pay,Critical,3
-747,842,2026-04-27 19:45:00,2026-05-02 19:45:00,Emergency,Emergency Room,Trauma,Self-pay,Critical,9
 748,68,2026-08-13 16:30:00,2026-08-20 16:30:00,Elective,Physician Referral,Abdominal Pain,Private Insurance,Critical,13
 749,363,2026-02-07 11:30:00,2026-02-15 11:30:00,Observation,Emergency Room,Syncope,Self-pay,Stable,15
 750,703,2026-06-20 18:30:00,2026-06-29 18:30:00,Observation,Walk-in,Fever,Private Insurance,Stable,6
@@ -781,7 +767,6 @@ admission_id,patient_id,admission_date_time,discharge_date_time,admission_type,a
 797,478,2026-02-07 11:30:00,2026-02-11 11:30:00,Emergency,Transfer,Syncope,Private Insurance,Improving,7
 798,224,2026-06-24 13:30:00,2026-06-27 13:30:00,Emergency,Physician Referral,Shortness of Breath,Private Insurance,Critical,7
 799,233,2026-04-10 12:30:00,2026-04-14 12:30:00,Elective,Walk-in,Chest Pain,Private Insurance,Critical,1
-800,812,2026-09-04 04:00:00,2026-09-11 04:00:00,Emergency,Walk-in,Fever,Public (RAMQ),Stable,15
 801,57,2026-02-13 16:15:00,2026-02-20 16:15:00,Emergency,Physician Referral,Trauma,Private Insurance,Improving,15
 802,440,2026-07-13 09:45:00,2026-07-20 09:45:00,Emergency,Emergency Room,Trauma,,Observation,6
 803,596,2026-03-13 14:45:00,2026-03-15 14:45:00,Urgent,Physician Referral,Fever,,Observation,12
@@ -800,7 +785,6 @@ admission_id,patient_id,admission_date_time,discharge_date_time,admission_type,a
 816,741,2026-04-26 09:00:00,2026-05-04 09:00:00,Urgent,Walk-in,Syncope,Public (RAMQ),Critical,6
 817,179,2026-07-05 22:30:00,2026-07-14 22:30:00,Observation,Emergency Room,Syncope,,Stable,10
 818,624,2026-08-02 01:15:00,2026-08-12 01:15:00,Emergency,Physician Referral,Trauma,Private Insurance,Critical,15
-819,807,2026-01-04 21:45:00,2026-01-11 21:45:00,Emergency,Emergency Room,Trauma,Private Insurance,Improving,11
 820,387,2026-01-05 02:00:00,2026-01-11 02:00:00,Elective,Transfer,Abdominal Pain,Self-pay,Observation,8
 821,502,2026-07-21 20:45:00,2026-07-27 20:45:00,Elective,Physician Referral,Shortness of Breath,Private Insurance,Improving,3
 822,114,2026-08-08 08:15:00,2026-08-13 08:15:00,Elective,Transfer,Fever,,Observation,6
@@ -910,7 +894,6 @@ admission_id,patient_id,admission_date_time,discharge_date_time,admission_type,a
 929,497,2026-08-04 20:45:00,2026-08-12 20:45:00,Observation,Physician Referral,Shortness of Breath,Public (RAMQ),Critical,15
 930,242,2026-03-17 21:45:00,2026-03-23 21:45:00,Urgent,Emergency Room,Shortness of Breath,Public (RAMQ),Observation,1
 931,284,2026-06-09 09:00:00,2026-06-13 09:00:00,Observation,Transfer,Fever,Public (RAMQ),Stable,3
-932,840,2026-06-18 03:30:00,2026-06-28 03:30:00,Urgent,Physician Referral,Syncope,Private Insurance,Critical,3
 933,557,2026-06-28 12:45:00,2026-07-05 12:45:00,Urgent,Physician Referral,Fever,Self-pay,Critical,10
 934,439,2026-08-30 19:30:00,2026-09-06 19:30:00,Observation,Emergency Room,Abdominal Pain,,Improving,14
 935,638,2026-08-20 16:15:00,2026-08-27 16:15:00,Observation,Physician Referral,Abdominal Pain,Public (RAMQ),Improving,12
@@ -958,7 +941,6 @@ admission_id,patient_id,admission_date_time,discharge_date_time,admission_type,a
 977,667,2026-06-22 06:15:00,2026-06-27 06:15:00,Elective,Emergency Room,Fever,,Critical,4
 978,489,2026-05-09 13:30:00,2026-05-16 13:30:00,Elective,Transfer,Shortness of Breath,Self-pay,Improving,3
 979,455,2026-07-19 20:45:00,2026-07-25 20:45:00,Emergency,Transfer,Fever,Private Insurance,Observation,6
-980,801,2026-07-16 09:15:00,2026-07-17 09:15:00,Urgent,Transfer,Syncope,Self-pay,Stable,15
 981,62,2026-03-08 12:45:00,2026-03-18 12:45:00,Observation,Walk-in,Fever,Private Insurance,Observation,5
 982,788,2026-01-14 07:15:00,2026-01-24 07:15:00,Emergency,Transfer,Chest Pain,,Improving,4
 983,685,2026-05-10 14:15:00,2026-05-11 14:15:00,Observation,Transfer,Fever,Public (RAMQ),Observation,1
@@ -1003,7 +985,6 @@ admission_id,patient_id,admission_date_time,discharge_date_time,admission_type,a
 1022,383,2026-06-21 16:15:00,2026-06-27 16:15:00,Emergency,Emergency Room,Fever,Private Insurance,Improving,10
 1023,776,2026-08-15 04:45:00,2026-08-16 04:45:00,Urgent,Emergency Room,Fever,,Stable,10
 1024,681,2026-08-24 18:00:00,2026-08-27 18:00:00,Urgent,Walk-in,Abdominal Pain,Public (RAMQ),Stable,9
-1025,842,2026-02-18 18:00:00,2026-02-23 18:00:00,Elective,Transfer,Shortness of Breath,Private Insurance,Improving,6
 1026,39,2026-01-22 17:15:00,2026-01-27 17:15:00,Observation,Emergency Room,Fever,Public (RAMQ),Stable,2
 1027,624,2026-03-28 08:30:00,2026-04-07 08:30:00,Urgent,Walk-in,Abdominal Pain,Private Insurance,Observation,1
 1028,672,2026-07-22 13:45:00,2026-08-01 13:45:00,Observation,Walk-in,Abdominal Pain,,Critical,4
@@ -1075,7 +1056,6 @@ admission_id,patient_id,admission_date_time,discharge_date_time,admission_type,a
 1095,214,2026-03-03 14:30:00,2026-03-13 14:30:00,Emergency,Walk-in,Chest Pain,,Improving,9
 1096,750,2026-05-09 21:30:00,2026-05-16 21:30:00,Elective,Physician Referral,Fever,Private Insurance,Critical,11
 1097,339,2026-04-17 12:45:00,,Observation,Transfer,Chest Pain,Self-pay,Critical,11
-1098,822,2026-02-04 22:00:00,2026-02-05 22:00:00,Elective,Physician Referral,Fever,Private Insurance,Improving,2
 1099,562,2026-06-06 16:00:00,2026-06-16 16:00:00,Urgent,Physician Referral,Trauma,Private Insurance,Stable,10
 1100,123,2026-05-12 04:15:00,2026-05-15 04:15:00,Elective,Walk-in,Trauma,Private Insurance,Observation,5
 1101,437,2026-04-22 06:30:00,2026-04-25 06:30:00,Emergency,Emergency Room,Syncope,Private Insurance,Observation,5

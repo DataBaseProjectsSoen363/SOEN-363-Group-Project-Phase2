@@ -56,12 +56,12 @@ triage_priority_level    0
 0
 
 ===== SAMPLE RECORDS =====
-      triage_id  admission_id  nurse_id blood_pressure  heart_rate  respiratory_rate  body_temperature  oxygen_saturation pain_level    reported_symptoms known_allergies current_medications triage_priority_level
-806         807           807      23.0         123/61         106                16              36.6                 95         10     Chest Discomfort         Peanuts             Aspirin                Urgent
-1062       1063          1063      23.0         136/78         109                20              38.2                 92          3            Dizziness     Sulfa drugs          Metoprolol               Routine
-61           62            62      16.0         108/84         100                14              37.4                 93          3                Fever             NaN                 NaN               Routine
-888         889           889      20.0         102/67          92                13              36.3                100          2  Shortness of Breath         Peanuts          Metoprolol                Urgent
-469         470           470      20.0         130/79          65                18              36.5                 94          0            Dizziness     Sulfa drugs          Metoprolol               Routine
+     triage_id  admission_id  nurse_id blood_pressure  heart_rate  respiratory_rate  body_temperature  oxygen_saturation pain_level reported_symptoms known_allergies current_medications    triage_priority_level
+370        371           371      25.0         101/67          79                21              38.5                 95          7  Chest Discomfort         Peanuts        Atorvastatin  High-Priority Emergency
+133        134           134      23.0         102/77         103                20              38.0                 97          6    Abdominal Pain           Latex        Atorvastatin                   Urgent
+342        343           343      23.0         127/66          80                13              37.0                100          3    Abdominal Pain         Peanuts        Atorvastatin                  Routine
+532        533           533      21.0         132/84         100                13              37.2                 93         10         Dizziness           Latex          Lisinopril                  Routine
+496        497           497      17.0         122/87          67                15              36.8                 94         10    Abdominal Pain         Peanuts                 NaN                   Urgent
 
 ===== SUMMARY STATISTICS =====
           triage_id  admission_id     nurse_id blood_pressure   heart_rate  respiratory_rate  body_temperature  oxygen_saturation pain_level    reported_symptoms known_allergies current_medications triage_priority_level

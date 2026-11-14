@@ -1,41 +1,67 @@
 """
-ETL Load Script for Source A
+ETL Load Script for Source A (Unified Profile & Clean)
 """
 import pandas as pd
 from profile import profile_dataframe
-from cleaner import clean_SourceA_patients, clean_SourceA_admissions, clean_SourceA_triage
+from cleaner import (
+    clean_SourceA_patients, clean_SourceA_admissions, clean_SourceA_triage,
+    clean_SourceA_clinical_notes, clean_SourceA_diagnoses, clean_SourceA_diagnostic_orders,
+    clean_SourceA_discharge_records, clean_SourceA_icu_stays, clean_SourceA_professionals,
+    clean_SourceA_radiology_examinations, clean_SourceA_radiology_reports, clean_SourceA_surgical_procedures
+)
 
-SourceA_Files = [
-    "patients", "admissions", "clinical_notes", "diagnoses", 
-    "diagnostic_orders", "discharge_records", "icd9_dict", 
-    "icu_stays", "professionals", "radiology_examinations", 
-    "radiology_reports", "surgical_procedures", "triage_assessments"
-]
+# The Master Dictionary
+SourceA_Config = {
+    "patients":           clean_SourceA_patients,
+    "admissions":         clean_SourceA_admissions,
+    "triage_assessments": clean_SourceA_triage,
+    "clinical_notes":     clean_SourceA_clinical_notes,
+    "diagnoses":          clean_SourceA_diagnoses,
+    "diagnostic_orders":  clean_SourceA_diagnostic_orders,
+    "discharge_records":  clean_SourceA_discharge_records,
+    "icu_stays":          clean_SourceA_icu_stays,
+    "professionals":      clean_SourceA_professionals,
+    "radiology_examinations": clean_SourceA_radiology_examinations,
+    "radiology_reports":  clean_SourceA_radiology_reports,
+    "surgical_procedures": clean_SourceA_surgical_procedures,
+    "icd9_dict":          None,  # No cleaner needed for the dictionary
+}
 
-# TASK 1. PROFILE THE DATA SOURCE A
-for file_name in SourceA_Files:
+print("--- Starting Task 1 (Profile) & Task 2 (Clean) for Source A ---\n")
+
+# We iterate over the unified dictionary
+for file_name, cleaner_function in SourceA_Config.items():
+    path = f"../Data_Sources/SourceA/SourceA_{file_name}.txt"
+    
+    # --- TASK 1: LOAD & PROFILE ---
     try:
-        path = f"../Data_Sources/SourceA/SourceA_{file_name}.txt"
         df = pd.read_csv(path, sep="|", skiprows=1)
     except Exception as e:
         with open("malformed_records_log.txt", "a") as f:
             f.write(f"Failed to load Source A ({file_name}): {e}\n")
+        continue 
+    
+    # Profile the raw data
+    profile_dataframe(df, f"Profiles/SourceA_{file_name}_profile.md")
+    print(f"[Task 1] Successfully loaded and profiled: {file_name}")
+    
+    # --- TASK 2: CLEAN ---
+    if cleaner_function is not None:
+        try:
+            cleaner_function(df)
+            print(f"[Task 2] Successfully cleaned: {file_name}\n")
+        except Exception as e:
+            with open("malformed_records_log.txt", "a") as f:
+                f.write(f"Failed to clean Source A ({file_name}): {e}\n")
+            print(f"[Task 2] FAILED to clean: {file_name} -> {e}\n")
     else:
-        profile_dataframe(df, f"Profiles/SourceA_{file_name}_profile.md")
-        print(f"Successfully loaded and profiled Source A: {file_name}")
+        df.to_csv(f"../Cleaned_Data/SourceA_{file_name}_clean.csv", index=False)
+        print(f"[Task 2] Skipped cleaning: {file_name} (No cleaner defined)\n")
+
+print("All Source A files profiled and cleaned.")
 
 
-# TASK 2. CLEAN THE DATA SOURCE A
-print("\n--- Starting Task 2 Cleaning for Source A ---")
 
-df_patients = pd.read_csv("../Data_Sources/SourceA/SourceA_patients.txt", sep="|", skiprows=1)
-clean_SourceA_patients(df_patients) 
-
-df_admissions = pd.read_csv("../Data_Sources/SourceA/SourceA_admissions.txt", sep="|", skiprows=1)
-clean_SourceA_admissions(df_admissions) 
-
-df_triage = pd.read_csv("../Data_Sources/SourceA/SourceA_triage_assessments.txt", sep="|", skiprows=1)
-clean_SourceA_triage(df_triage) 
 
 
 

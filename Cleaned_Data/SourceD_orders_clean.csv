@@ -1,0 +1,308 @@
+order_id,admission_id,professional_id,exam_type,request_date_time,exam_date_time,technician_name,findings,conclusion
+1,1,13,X-Ray,2026-02-27 11:00:00,2026-02-27 13:00:00,Tech_2,Normal,No acute findings.
+2,4,15,X-Ray,2026-05-07 05:00:00,2026-05-07 07:00:00,Tech_6,Normal,No acute findings.
+3,11,14,Ct Scan,2026-05-04 05:00:00,2026-05-04 07:00:00,Tech_9,,
+4,15,12,X-Ray,2026-07-17 01:00:00,2026-07-17 03:00:00,Tech_4,Clear,No acute findings.
+5,17,7,X-Ray,2026-03-13 06:00:00,2026-03-13 08:00:00,Tech_2,Mild opacity,No acute findings.
+6,19,8,Mri,2026-04-29 03:00:00,2026-04-29 05:00:00,Tech_3,Normal,No acute findings.
+7,23,9,Ct Scan,2026-06-07 09:00:00,2026-06-07 11:00:00,Tech_4,Clear,No acute findings.
+8,26,5,Ct Scan,2026-04-29 01:00:00,2026-04-29 03:00:00,Tech_8,Mild opacity,No acute findings.
+9,29,6,X-Ray,2026-06-06 06:00:00,2026-06-06 08:00:00,Tech_2,Normal,No acute findings.
+10,32,14,Mri,2026-08-17 01:00:00,2026-08-17 03:00:00,Tech_3,Mild opacity,No acute findings.
+11,34,9,Ct Scan,2026-08-09 07:00:00,2026-08-09 09:00:00,Tech_1,Normal,No acute findings.
+12,35,5,Ct Scan,2026-03-13 08:00:00,2026-03-13 10:00:00,Tech_4,Mild opacity,No acute findings.
+13,36,8,Mri,2026-02-12 01:00:00,2026-02-12 03:00:00,Tech_2,Clear,No acute findings.
+14,39,14,X-Ray,2026-02-22 08:00:00,2026-02-22 10:00:00,Tech_7,Clear,No acute findings.
+15,40,3,Mri,2026-04-08 02:00:00,2026-04-08 04:00:00,Tech_9,Clear,No acute findings.
+16,41,3,X-Ray,2026-06-23 07:00:00,2026-06-23 09:00:00,Tech_1,Normal,No acute findings.
+17,42,3,Mri,2026-02-12 12:00:00,2026-02-12 14:00:00,Tech_6,Clear,No acute findings.
+18,47,3,Ct Scan,2026-06-25 05:00:00,2026-06-25 07:00:00,Tech_7,Mild opacity,No acute findings.
+19,51,8,Ct Scan,2026-09-01 07:00:00,2026-09-01 09:00:00,Tech_6,Normal,No acute findings.
+20,55,6,Mri,2026-03-29 05:00:00,2026-03-29 07:00:00,Tech_7,Normal,No acute findings.
+21,59,13,X-Ray,2026-04-13 09:00:00,2026-04-13 11:00:00,Tech_9,Mild opacity,No acute findings.
+22,61,13,X-Ray,2026-06-02 10:00:00,2026-06-02 12:00:00,Tech_5,Clear,No acute findings.
+23,72,9,Ct Scan,2026-02-27 09:00:00,2026-02-27 11:00:00,Tech_10,Normal,No acute findings.
+24,73,11,X-Ray,2026-03-26 12:00:00,2026-03-26 14:00:00,Tech_4,Mild opacity,No acute findings.
+25,74,12,Ct Scan,2026-07-13 12:00:00,2026-07-13 14:00:00,Tech_1,,
+26,75,4,X-Ray,2026-05-04 07:00:00,2026-05-04 09:00:00,Tech_4,Mild opacity,No acute findings.
+27,78,4,Ct Scan,2026-04-17 04:00:00,2026-04-17 06:00:00,Tech_4,Clear,No acute findings.
+28,79,8,Mri,2026-09-04 08:00:00,2026-09-04 10:00:00,Tech_2,Normal,No acute findings.
+29,80,9,Mri,2026-07-16 08:00:00,2026-07-16 10:00:00,Tech_3,Clear,No acute findings.
+30,81,4,Ct Scan,2026-07-14 03:00:00,2026-07-14 05:00:00,Tech_5,Mild opacity,No acute findings.
+31,85,4,Mri,2026-05-08 05:00:00,2026-05-08 07:00:00,Tech_3,Mild opacity,No acute findings.
+32,88,3,Mri,2026-06-03 11:00:00,2026-06-03 13:00:00,Tech_3,Normal,No acute findings.
+33,91,12,Ct Scan,2026-07-16 12:00:00,2026-07-16 14:00:00,Tech_9,Clear,No acute findings.
+34,93,1,Mri,2026-04-25 09:00:00,2026-04-25 11:00:00,Tech_5,Normal,No acute findings.
+35,99,13,X-Ray,2026-07-21 03:00:00,2026-07-21 05:00:00,Tech_9,Normal,No acute findings.
+36,100,12,Ct Scan,2026-02-10 03:00:00,2026-02-10 05:00:00,Tech_8,Mild opacity,No acute findings.
+37,103,9,Mri,2026-01-15 02:00:00,2026-01-15 04:00:00,Tech_2,Clear,No acute findings.
+38,106,12,X-Ray,2026-07-06 04:00:00,2026-07-06 06:00:00,Tech_1,,
+39,107,6,Mri,2026-02-06 01:00:00,2026-02-06 03:00:00,Tech_5,Mild opacity,No acute findings.
+40,113,13,Mri,2026-02-27 11:00:00,2026-02-27 13:00:00,Tech_1,,
+41,115,1,Mri,2026-03-29 03:00:00,2026-03-29 05:00:00,Tech_1,Mild opacity,No acute findings.
+42,117,11,Mri,2026-07-16 07:00:00,2026-07-16 09:00:00,Tech_2,Normal,No acute findings.
+43,119,10,X-Ray,2026-03-20 02:00:00,2026-03-20 04:00:00,Tech_3,Clear,No acute findings.
+44,121,5,Ct Scan,2026-07-17 07:00:00,2026-07-17 09:00:00,Tech_1,Normal,No acute findings.
+45,125,8,Mri,2026-01-03 10:00:00,2026-01-03 12:00:00,Tech_4,,
+46,126,1,Mri,2026-03-26 01:00:00,2026-03-26 03:00:00,Tech_2,Normal,No acute findings.
+47,128,5,Ct Scan,2026-07-19 06:00:00,2026-07-19 08:00:00,Tech_7,Mild opacity,No acute findings.
+48,134,5,X-Ray,2026-06-07 12:00:00,2026-06-07 14:00:00,Tech_2,Clear,No acute findings.
+49,144,13,Ct Scan,2026-07-27 07:00:00,2026-07-27 09:00:00,Tech_1,Clear,No acute findings.
+50,145,12,Mri,2026-07-06 12:00:00,2026-07-06 14:00:00,Tech_10,Normal,No acute findings.
+51,149,3,X-Ray,2026-01-17 01:00:00,2026-01-17 03:00:00,Tech_4,Normal,No acute findings.
+52,150,4,Ct Scan,2026-07-13 05:00:00,2026-07-13 07:00:00,Tech_9,Mild opacity,No acute findings.
+53,151,15,Mri,2026-08-21 03:00:00,2026-08-21 05:00:00,Tech_9,Normal,No acute findings.
+54,154,15,Mri,2026-08-26 12:00:00,2026-08-26 14:00:00,Tech_3,Normal,No acute findings.
+55,157,15,Mri,2026-04-28 02:00:00,2026-04-28 04:00:00,Tech_5,,
+56,162,10,Mri,2026-04-17 09:00:00,2026-04-17 11:00:00,Tech_5,,
+57,170,3,Mri,2026-06-12 04:00:00,2026-06-12 06:00:00,Tech_5,Clear,No acute findings.
+58,176,15,Mri,2026-03-02 12:00:00,2026-03-02 14:00:00,Tech_5,Normal,No acute findings.
+59,188,1,Ct Scan,2026-03-30 09:00:00,2026-03-30 11:00:00,Tech_7,Normal,No acute findings.
+60,189,10,Ct Scan,2026-02-10 08:00:00,2026-02-10 10:00:00,Tech_1,Clear,No acute findings.
+61,190,4,Ct Scan,2026-03-20 01:00:00,2026-03-20 03:00:00,Tech_3,Normal,No acute findings.
+62,196,7,Mri,2026-06-01 02:00:00,2026-06-01 04:00:00,Tech_3,Mild opacity,No acute findings.
+63,205,10,Mri,2026-05-24 06:00:00,2026-05-24 08:00:00,Tech_7,Normal,No acute findings.
+64,207,12,X-Ray,2026-07-14 06:00:00,2026-07-14 08:00:00,Tech_4,Mild opacity,No acute findings.
+65,208,8,Ct Scan,2026-01-28 11:00:00,2026-01-28 13:00:00,Tech_9,Normal,No acute findings.
+66,220,15,Ct Scan,2026-04-11 09:00:00,2026-04-11 11:00:00,Tech_5,Normal,No acute findings.
+67,229,7,X-Ray,2026-07-13 01:00:00,2026-07-13 03:00:00,Tech_8,Mild opacity,No acute findings.
+68,231,8,X-Ray,2026-02-09 03:00:00,2026-02-09 05:00:00,Tech_2,Mild opacity,No acute findings.
+69,232,1,Ct Scan,2026-05-10 09:00:00,2026-05-10 11:00:00,Tech_3,Normal,No acute findings.
+70,234,6,X-Ray,2026-02-25 01:00:00,2026-02-25 03:00:00,Tech_5,Normal,No acute findings.
+71,235,13,X-Ray,2026-04-09 05:00:00,2026-04-09 07:00:00,Tech_3,Clear,No acute findings.
+72,239,2,Mri,2026-03-04 09:00:00,2026-03-04 11:00:00,Tech_3,Mild opacity,No acute findings.
+73,247,3,Mri,2026-07-08 01:00:00,2026-07-08 03:00:00,Tech_4,Mild opacity,No acute findings.
+74,255,13,X-Ray,2026-05-05 01:00:00,2026-05-05 03:00:00,Tech_7,Clear,No acute findings.
+75,268,3,Mri,2026-04-29 01:00:00,2026-04-29 03:00:00,Tech_4,Mild opacity,No acute findings.
+76,278,14,Mri,2026-07-10 11:00:00,2026-07-10 13:00:00,Tech_5,Clear,No acute findings.
+77,287,3,X-Ray,2026-01-05 09:00:00,2026-01-05 11:00:00,Tech_1,Normal,No acute findings.
+78,290,8,X-Ray,2026-03-19 02:00:00,2026-03-19 04:00:00,Tech_2,Normal,No acute findings.
+79,297,8,Ct Scan,2026-01-04 03:00:00,2026-01-04 05:00:00,Tech_4,Normal,No acute findings.
+80,298,9,Mri,2026-04-29 01:00:00,2026-04-29 03:00:00,Tech_8,Normal,No acute findings.
+81,300,6,Ct Scan,2026-08-03 04:00:00,2026-08-03 06:00:00,Tech_9,Clear,No acute findings.
+82,301,2,Ct Scan,2026-07-07 07:00:00,2026-07-07 09:00:00,Tech_8,Mild opacity,No acute findings.
+83,303,6,Mri,2026-08-28 03:00:00,2026-08-28 05:00:00,Tech_1,Mild opacity,No acute findings.
+84,308,1,X-Ray,2026-04-12 10:00:00,2026-04-12 12:00:00,Tech_4,Clear,No acute findings.
+85,318,11,Ct Scan,2026-01-26 02:00:00,2026-01-26 04:00:00,Tech_6,Normal,No acute findings.
+86,321,1,X-Ray,2026-08-20 08:00:00,2026-08-20 10:00:00,Tech_6,Normal,No acute findings.
+87,327,3,Mri,2026-07-29 06:00:00,2026-07-29 08:00:00,Tech_7,,
+88,333,6,Ct Scan,2026-05-15 04:00:00,2026-05-15 06:00:00,Tech_10,Normal,No acute findings.
+89,337,12,X-Ray,2026-04-11 01:00:00,2026-04-11 03:00:00,Tech_6,Normal,No acute findings.
+90,341,15,X-Ray,2026-07-31 03:00:00,2026-07-31 05:00:00,Tech_10,Normal,No acute findings.
+91,345,10,Ct Scan,2026-08-07 07:00:00,2026-08-07 09:00:00,Tech_6,Mild opacity,No acute findings.
+92,346,4,Ct Scan,2026-06-11 03:00:00,2026-06-11 05:00:00,Tech_9,Clear,No acute findings.
+93,350,9,Mri,2026-02-25 12:00:00,2026-02-25 14:00:00,Tech_1,Clear,No acute findings.
+94,354,15,X-Ray,2026-02-20 01:00:00,2026-02-20 03:00:00,Tech_5,Mild opacity,No acute findings.
+95,355,10,X-Ray,2026-06-28 02:00:00,2026-06-28 04:00:00,Tech_9,,
+96,360,14,X-Ray,2026-06-21 04:00:00,2026-06-21 06:00:00,Tech_3,Normal,No acute findings.
+97,367,3,X-Ray,2026-01-10 07:00:00,2026-01-10 09:00:00,Tech_3,Normal,No acute findings.
+98,370,6,X-Ray,2026-01-15 11:00:00,2026-01-15 13:00:00,Tech_2,Normal,No acute findings.
+99,373,5,Mri,2026-07-11 11:00:00,2026-07-11 13:00:00,Tech_1,Normal,No acute findings.
+100,375,9,Ct Scan,2026-05-28 09:00:00,2026-05-28 11:00:00,Tech_10,Normal,No acute findings.
+101,380,1,Ct Scan,2026-01-16 10:00:00,2026-01-16 12:00:00,Tech_4,Clear,No acute findings.
+102,381,14,Ct Scan,2026-07-27 11:00:00,2026-07-27 13:00:00,Tech_5,Normal,No acute findings.
+103,382,4,X-Ray,2026-05-15 07:00:00,2026-05-15 09:00:00,Tech_3,Normal,No acute findings.
+104,383,5,X-Ray,2026-08-05 10:00:00,2026-08-05 12:00:00,Tech_6,Mild opacity,No acute findings.
+105,387,1,X-Ray,2026-08-28 06:00:00,2026-08-28 08:00:00,Tech_2,Clear,No acute findings.
+106,394,1,X-Ray,2026-01-04 03:00:00,2026-01-04 05:00:00,Tech_5,Normal,No acute findings.
+107,395,3,X-Ray,2026-03-02 05:00:00,2026-03-02 07:00:00,Tech_3,Clear,No acute findings.
+108,396,15,Mri,2026-07-28 04:00:00,2026-07-28 06:00:00,Tech_5,Mild opacity,No acute findings.
+109,397,14,Ct Scan,2026-02-09 04:00:00,2026-02-09 06:00:00,Tech_2,Mild opacity,No acute findings.
+110,398,6,Ct Scan,2026-04-08 04:00:00,2026-04-08 06:00:00,Tech_3,Normal,No acute findings.
+111,399,12,Mri,2026-01-08 02:00:00,2026-01-08 04:00:00,Tech_9,Normal,No acute findings.
+112,407,12,Ct Scan,2026-05-27 08:00:00,2026-05-27 10:00:00,Tech_1,Normal,No acute findings.
+113,409,7,Ct Scan,2026-06-27 10:00:00,2026-06-27 12:00:00,Tech_4,Mild opacity,No acute findings.
+114,410,13,X-Ray,2026-03-22 05:00:00,2026-03-22 07:00:00,Tech_10,Normal,No acute findings.
+115,422,14,Mri,2026-04-22 10:00:00,2026-04-22 12:00:00,Tech_10,Normal,No acute findings.
+116,428,4,Mri,2026-09-01 03:00:00,2026-09-01 05:00:00,Tech_9,Normal,No acute findings.
+117,429,12,Mri,2026-06-24 08:00:00,2026-06-24 10:00:00,Tech_6,Clear,No acute findings.
+118,431,3,Mri,2026-02-06 03:00:00,2026-02-06 05:00:00,Tech_10,Normal,No acute findings.
+119,433,10,X-Ray,2026-02-10 02:00:00,2026-02-10 04:00:00,Tech_9,,
+120,435,1,Ct Scan,2026-06-14 11:00:00,2026-06-14 13:00:00,Tech_9,Mild opacity,No acute findings.
+121,439,7,Ct Scan,2026-03-03 10:00:00,2026-03-03 12:00:00,Tech_9,Normal,No acute findings.
+122,446,2,X-Ray,2026-06-07 02:00:00,2026-06-07 04:00:00,Tech_2,Normal,No acute findings.
+123,448,14,Mri,2026-04-09 08:00:00,2026-04-09 10:00:00,Tech_1,Clear,No acute findings.
+124,449,10,Ct Scan,2026-07-19 04:00:00,2026-07-19 06:00:00,Tech_2,Mild opacity,No acute findings.
+125,455,14,Ct Scan,2026-03-26 05:00:00,2026-03-26 07:00:00,Tech_5,Clear,No acute findings.
+126,456,14,X-Ray,2026-05-11 07:00:00,2026-05-11 09:00:00,Tech_4,Mild opacity,No acute findings.
+127,458,10,Ct Scan,2026-03-04 10:00:00,2026-03-04 12:00:00,Tech_5,Mild opacity,No acute findings.
+128,461,9,Mri,2026-01-03 09:00:00,2026-01-03 11:00:00,Tech_6,Clear,No acute findings.
+129,467,3,Mri,2026-01-03 08:00:00,2026-01-03 10:00:00,Tech_6,Mild opacity,No acute findings.
+130,469,15,Mri,2026-05-08 04:00:00,2026-05-08 06:00:00,Tech_5,Normal,No acute findings.
+131,478,6,X-Ray,2026-04-19 07:00:00,2026-04-19 09:00:00,Tech_5,,
+132,486,4,Ct Scan,2026-05-26 04:00:00,2026-05-26 06:00:00,Tech_9,Normal,No acute findings.
+133,490,6,Ct Scan,2026-06-30 05:00:00,2026-06-30 07:00:00,Tech_1,Mild opacity,No acute findings.
+134,501,9,X-Ray,2026-03-15 07:00:00,2026-03-15 09:00:00,Tech_10,Mild opacity,No acute findings.
+135,502,5,Mri,2026-02-24 07:00:00,2026-02-24 09:00:00,Tech_3,Normal,No acute findings.
+136,503,10,Ct Scan,2026-09-08 12:00:00,2026-09-08 14:00:00,Tech_1,Mild opacity,No acute findings.
+137,507,6,X-Ray,2026-02-28 08:00:00,2026-02-28 10:00:00,Tech_1,Mild opacity,No acute findings.
+138,508,10,Ct Scan,2026-01-01 10:00:00,2026-01-01 12:00:00,Tech_7,Normal,No acute findings.
+139,513,3,X-Ray,2026-01-25 04:00:00,2026-01-25 06:00:00,Tech_1,Mild opacity,No acute findings.
+140,516,13,Ct Scan,2026-01-25 07:00:00,2026-01-25 09:00:00,Tech_3,Clear,No acute findings.
+141,517,10,Ct Scan,2026-02-06 12:00:00,2026-02-06 14:00:00,Tech_2,Clear,No acute findings.
+142,522,15,X-Ray,2026-06-27 09:00:00,2026-06-27 11:00:00,Tech_7,Mild opacity,No acute findings.
+143,527,5,Mri,2026-02-05 07:00:00,2026-02-05 09:00:00,Tech_5,Mild opacity,No acute findings.
+144,534,12,X-Ray,2026-04-19 09:00:00,2026-04-19 11:00:00,Tech_7,Clear,No acute findings.
+145,536,9,X-Ray,2026-01-21 08:00:00,2026-01-21 10:00:00,Tech_1,Clear,No acute findings.
+146,545,8,X-Ray,2026-03-09 12:00:00,2026-03-09 14:00:00,Tech_8,Mild opacity,No acute findings.
+147,548,10,Ct Scan,2026-03-01 03:00:00,2026-03-01 05:00:00,Tech_6,Mild opacity,No acute findings.
+148,554,7,Ct Scan,2026-03-12 11:00:00,2026-03-12 13:00:00,Tech_1,Normal,No acute findings.
+149,561,3,X-Ray,2026-05-04 08:00:00,2026-05-04 10:00:00,Tech_7,Clear,No acute findings.
+150,562,13,Ct Scan,2026-03-09 08:00:00,2026-03-09 10:00:00,Tech_2,Normal,No acute findings.
+151,574,3,Ct Scan,2026-05-07 09:00:00,2026-05-07 11:00:00,Tech_10,Mild opacity,No acute findings.
+152,579,6,X-Ray,2026-08-11 12:00:00,2026-08-11 14:00:00,Tech_10,Normal,No acute findings.
+153,582,13,Mri,2026-07-27 01:00:00,2026-07-27 03:00:00,Tech_4,Normal,No acute findings.
+154,586,13,X-Ray,2026-01-23 07:00:00,2026-01-23 09:00:00,Tech_7,Clear,No acute findings.
+155,587,14,Mri,2026-03-21 05:00:00,2026-03-21 07:00:00,Tech_9,Normal,No acute findings.
+156,594,8,X-Ray,2026-08-26 11:00:00,2026-08-26 13:00:00,Tech_4,Clear,No acute findings.
+157,596,13,Mri,2026-08-30 09:00:00,2026-08-30 11:00:00,Tech_1,Normal,No acute findings.
+158,598,6,X-Ray,2026-07-23 02:00:00,2026-07-23 04:00:00,Tech_10,Mild opacity,No acute findings.
+159,601,2,Mri,2026-08-19 07:00:00,2026-08-19 09:00:00,Tech_6,Clear,No acute findings.
+160,605,13,Ct Scan,2026-08-05 09:00:00,2026-08-05 11:00:00,Tech_1,Normal,No acute findings.
+161,607,7,X-Ray,2026-03-02 11:00:00,2026-03-02 13:00:00,Tech_6,Mild opacity,No acute findings.
+162,609,6,Mri,2026-03-10 06:00:00,2026-03-10 08:00:00,Tech_9,,
+163,615,4,Ct Scan,2026-07-18 06:00:00,2026-07-18 08:00:00,Tech_1,Normal,No acute findings.
+164,616,9,Mri,2026-08-09 04:00:00,2026-08-09 06:00:00,Tech_3,,
+165,618,5,Ct Scan,2026-03-28 01:00:00,2026-03-28 03:00:00,Tech_6,Normal,No acute findings.
+166,628,9,Mri,2026-07-23 10:00:00,2026-07-23 12:00:00,Tech_8,Normal,No acute findings.
+167,629,14,Ct Scan,2026-08-14 05:00:00,2026-08-14 07:00:00,Tech_4,Mild opacity,No acute findings.
+168,637,14,Mri,2026-07-27 09:00:00,2026-07-27 11:00:00,Tech_7,Normal,No acute findings.
+169,641,12,Ct Scan,2026-04-24 05:00:00,2026-04-24 07:00:00,Tech_9,Mild opacity,No acute findings.
+170,643,8,Ct Scan,2026-08-02 02:00:00,2026-08-02 04:00:00,Tech_6,Mild opacity,No acute findings.
+171,646,13,Ct Scan,2026-02-25 11:00:00,2026-02-25 13:00:00,Tech_8,Mild opacity,No acute findings.
+172,658,9,Mri,2026-03-25 10:00:00,2026-03-25 12:00:00,Tech_4,Clear,No acute findings.
+173,674,13,Mri,2026-08-24 12:00:00,2026-08-24 14:00:00,Tech_5,Clear,No acute findings.
+174,676,6,Ct Scan,2026-01-04 09:00:00,2026-01-04 11:00:00,Tech_3,Clear,No acute findings.
+175,677,1,X-Ray,2026-09-03 07:00:00,2026-09-03 09:00:00,Tech_4,Normal,No acute findings.
+176,679,9,Ct Scan,2026-01-21 01:00:00,2026-01-21 03:00:00,Tech_2,Clear,No acute findings.
+177,680,10,X-Ray,2026-04-08 07:00:00,2026-04-08 09:00:00,Tech_10,Mild opacity,No acute findings.
+178,682,6,Ct Scan,2026-01-31 09:00:00,2026-01-31 11:00:00,Tech_4,Normal,No acute findings.
+179,683,8,Ct Scan,2026-05-16 03:00:00,2026-05-16 05:00:00,Tech_6,Clear,No acute findings.
+180,689,10,Ct Scan,2026-02-17 08:00:00,2026-02-17 10:00:00,Tech_1,Mild opacity,No acute findings.
+181,702,7,X-Ray,2026-06-29 10:00:00,2026-06-29 12:00:00,Tech_3,Normal,No acute findings.
+182,705,15,Ct Scan,2026-07-12 09:00:00,2026-07-12 11:00:00,Tech_2,Normal,No acute findings.
+183,709,6,Ct Scan,2026-02-25 05:00:00,2026-02-25 07:00:00,Tech_1,Clear,No acute findings.
+184,715,10,X-Ray,2026-06-13 02:00:00,2026-06-13 04:00:00,Tech_5,Clear,No acute findings.
+185,718,3,X-Ray,2026-08-07 05:00:00,2026-08-07 07:00:00,Tech_4,Normal,No acute findings.
+186,725,8,X-Ray,2026-06-12 05:00:00,2026-06-12 07:00:00,Tech_5,Clear,No acute findings.
+187,727,1,Ct Scan,2026-01-31 08:00:00,2026-01-31 10:00:00,Tech_9,Clear,No acute findings.
+188,735,12,Ct Scan,2026-05-01 04:00:00,2026-05-01 06:00:00,Tech_3,Mild opacity,No acute findings.
+189,737,12,Ct Scan,2026-06-21 07:00:00,2026-06-21 09:00:00,Tech_7,Clear,No acute findings.
+190,738,14,X-Ray,2026-08-11 07:00:00,2026-08-11 09:00:00,Tech_4,Normal,No acute findings.
+191,742,5,Ct Scan,2026-08-27 06:00:00,2026-08-27 08:00:00,Tech_10,Clear,No acute findings.
+192,745,2,Mri,2026-07-16 11:00:00,2026-07-16 13:00:00,Tech_1,Normal,No acute findings.
+193,747,13,Ct Scan,2026-02-02 12:00:00,2026-02-02 14:00:00,Tech_9,Mild opacity,No acute findings.
+194,758,13,Ct Scan,2026-05-29 02:00:00,2026-05-29 04:00:00,Tech_2,Clear,No acute findings.
+195,760,12,X-Ray,2026-03-18 06:00:00,2026-03-18 08:00:00,Tech_2,Normal,No acute findings.
+196,763,8,Mri,2026-04-18 03:00:00,2026-04-18 05:00:00,Tech_4,Mild opacity,No acute findings.
+197,767,11,X-Ray,2026-05-06 07:00:00,2026-05-06 09:00:00,Tech_2,Normal,No acute findings.
+198,783,9,X-Ray,2026-01-07 05:00:00,2026-01-07 07:00:00,Tech_7,Mild opacity,No acute findings.
+199,784,5,X-Ray,2026-01-27 12:00:00,2026-01-27 14:00:00,Tech_9,Mild opacity,No acute findings.
+200,785,6,X-Ray,2026-09-03 01:00:00,2026-09-03 03:00:00,Tech_10,Mild opacity,No acute findings.
+201,789,11,Mri,2026-03-04 02:00:00,2026-03-04 04:00:00,Tech_3,Clear,No acute findings.
+202,795,13,Ct Scan,2026-06-25 12:00:00,2026-06-25 14:00:00,Tech_8,Mild opacity,No acute findings.
+203,796,12,Mri,2026-02-27 05:00:00,2026-02-27 07:00:00,Tech_10,Normal,No acute findings.
+204,801,14,Ct Scan,2026-04-02 11:00:00,2026-04-02 13:00:00,Tech_4,Mild opacity,No acute findings.
+205,803,11,Mri,2026-02-14 11:00:00,2026-02-14 13:00:00,Tech_10,Normal,No acute findings.
+206,810,5,X-Ray,2026-06-24 03:00:00,2026-06-24 05:00:00,Tech_2,Mild opacity,No acute findings.
+207,812,5,Mri,2026-08-21 04:00:00,2026-08-21 06:00:00,Tech_3,Mild opacity,No acute findings.
+208,818,9,X-Ray,2026-03-10 01:00:00,2026-03-10 03:00:00,Tech_1,Clear,No acute findings.
+209,819,5,Mri,2026-08-14 02:00:00,2026-08-14 04:00:00,Tech_10,Mild opacity,No acute findings.
+210,820,9,X-Ray,2026-02-10 10:00:00,2026-02-10 12:00:00,Tech_6,Normal,No acute findings.
+211,821,12,Mri,2026-01-18 10:00:00,2026-01-18 12:00:00,Tech_3,Clear,No acute findings.
+212,824,9,Ct Scan,2026-08-11 02:00:00,2026-08-11 04:00:00,Tech_7,Clear,No acute findings.
+213,825,1,X-Ray,2026-07-19 02:00:00,2026-07-19 04:00:00,Tech_8,Clear,No acute findings.
+214,828,4,X-Ray,2026-06-23 09:00:00,2026-06-23 11:00:00,Tech_8,Mild opacity,No acute findings.
+215,834,14,X-Ray,2026-06-21 08:00:00,2026-06-21 10:00:00,Tech_5,Normal,No acute findings.
+216,837,5,Mri,2026-03-24 02:00:00,2026-03-24 04:00:00,Tech_4,Normal,No acute findings.
+217,838,14,Mri,2026-09-02 03:00:00,2026-09-02 05:00:00,Tech_8,Mild opacity,No acute findings.
+218,839,6,Ct Scan,2026-03-26 10:00:00,2026-03-26 12:00:00,Tech_7,Clear,No acute findings.
+219,850,6,Ct Scan,2026-05-22 05:00:00,2026-05-22 07:00:00,Tech_10,Normal,No acute findings.
+220,859,12,Ct Scan,2026-03-26 09:00:00,2026-03-26 11:00:00,Tech_10,Clear,No acute findings.
+221,862,10,X-Ray,2026-03-02 04:00:00,2026-03-02 06:00:00,Tech_10,Normal,No acute findings.
+222,864,9,Mri,2026-02-17 12:00:00,2026-02-17 14:00:00,Tech_4,Normal,No acute findings.
+223,865,14,X-Ray,2026-05-17 08:00:00,2026-05-17 10:00:00,Tech_5,Clear,No acute findings.
+224,883,7,X-Ray,2026-03-18 03:00:00,2026-03-18 05:00:00,Tech_3,Clear,No acute findings.
+225,886,8,Mri,2026-07-10 12:00:00,2026-07-10 14:00:00,Tech_5,Clear,No acute findings.
+226,887,15,X-Ray,2026-05-25 10:00:00,2026-05-25 12:00:00,Tech_5,Mild opacity,No acute findings.
+227,892,2,X-Ray,2026-01-03 12:00:00,2026-01-03 14:00:00,Tech_1,Mild opacity,No acute findings.
+228,893,8,X-Ray,2026-02-20 03:00:00,2026-02-20 05:00:00,Tech_3,Mild opacity,No acute findings.
+229,895,7,Ct Scan,2026-01-24 11:00:00,2026-01-24 13:00:00,Tech_7,Clear,No acute findings.
+230,897,12,Mri,2026-02-07 02:00:00,2026-02-07 04:00:00,Tech_1,Clear,No acute findings.
+231,908,12,X-Ray,2026-06-17 09:00:00,2026-06-17 11:00:00,Tech_6,Normal,No acute findings.
+232,909,10,X-Ray,2026-02-13 06:00:00,2026-02-13 08:00:00,Tech_3,Normal,No acute findings.
+233,919,6,Mri,2026-05-14 08:00:00,2026-05-14 10:00:00,Tech_1,Clear,No acute findings.
+234,929,15,Mri,2026-04-25 05:00:00,2026-04-25 07:00:00,Tech_6,Clear,No acute findings.
+235,932,10,Ct Scan,2026-02-04 01:00:00,2026-02-04 03:00:00,Tech_7,Mild opacity,No acute findings.
+236,935,10,Ct Scan,2026-06-17 04:00:00,2026-06-17 06:00:00,Tech_2,Mild opacity,No acute findings.
+237,938,12,Ct Scan,2026-07-14 12:00:00,2026-07-14 14:00:00,Tech_10,Clear,No acute findings.
+238,944,11,Mri,2026-09-04 08:00:00,2026-09-04 10:00:00,Tech_10,Mild opacity,No acute findings.
+239,947,10,Mri,2026-04-08 06:00:00,2026-04-08 08:00:00,Tech_7,Clear,No acute findings.
+240,950,12,Mri,2026-07-02 10:00:00,2026-07-02 12:00:00,Tech_3,Clear,No acute findings.
+241,954,7,Mri,2026-03-28 05:00:00,2026-03-28 07:00:00,Tech_8,Mild opacity,No acute findings.
+242,959,5,Mri,2026-08-24 07:00:00,2026-08-24 09:00:00,Tech_3,,
+243,967,14,Mri,2026-07-31 02:00:00,2026-07-31 04:00:00,Tech_3,Normal,No acute findings.
+244,968,14,X-Ray,2026-01-12 04:00:00,2026-01-12 06:00:00,Tech_9,Normal,No acute findings.
+245,976,8,Ct Scan,2026-01-23 11:00:00,2026-01-23 13:00:00,Tech_2,Mild opacity,No acute findings.
+246,978,9,Ct Scan,2026-04-24 01:00:00,2026-04-24 03:00:00,Tech_4,Mild opacity,No acute findings.
+247,980,14,Mri,2026-01-08 09:00:00,2026-01-08 11:00:00,Tech_5,Mild opacity,No acute findings.
+248,981,7,X-Ray,2026-04-18 05:00:00,2026-04-18 07:00:00,Tech_5,Clear,No acute findings.
+249,984,15,Mri,2026-05-13 07:00:00,2026-05-13 09:00:00,Tech_4,Mild opacity,No acute findings.
+250,990,3,Ct Scan,2026-06-04 07:00:00,2026-06-04 09:00:00,Tech_2,Mild opacity,No acute findings.
+251,991,4,X-Ray,2026-06-06 07:00:00,2026-06-06 09:00:00,Tech_2,Clear,No acute findings.
+252,992,7,Mri,2026-02-12 03:00:00,2026-02-12 05:00:00,Tech_2,Mild opacity,No acute findings.
+253,996,10,X-Ray,2026-01-09 11:00:00,2026-01-09 13:00:00,Tech_5,Mild opacity,No acute findings.
+254,1001,3,X-Ray,2026-01-17 08:00:00,2026-01-17 10:00:00,Tech_3,Clear,No acute findings.
+255,1002,9,Ct Scan,2026-06-27 10:00:00,2026-06-27 12:00:00,Tech_9,Normal,No acute findings.
+256,1004,13,Mri,2026-04-18 01:00:00,2026-04-18 03:00:00,Tech_3,Normal,No acute findings.
+257,1005,14,X-Ray,2026-03-12 06:00:00,2026-03-12 08:00:00,Tech_2,Mild opacity,No acute findings.
+258,1028,12,Mri,2026-03-20 04:00:00,2026-03-20 06:00:00,Tech_9,Mild opacity,No acute findings.
+259,1030,6,Ct Scan,2026-05-14 03:00:00,2026-05-14 05:00:00,Tech_7,Normal,No acute findings.
+260,1031,7,Ct Scan,2026-01-05 10:00:00,2026-01-05 12:00:00,Tech_1,Mild opacity,No acute findings.
+261,1034,5,X-Ray,2026-01-14 05:00:00,2026-01-14 07:00:00,Tech_6,Mild opacity,No acute findings.
+262,1041,12,X-Ray,2026-06-25 11:00:00,2026-06-25 13:00:00,Tech_5,Clear,No acute findings.
+263,1045,3,Mri,2026-08-14 05:00:00,2026-08-14 07:00:00,Tech_2,Clear,No acute findings.
+264,1046,6,Ct Scan,2026-03-05 05:00:00,2026-03-05 07:00:00,Tech_10,Clear,No acute findings.
+265,1048,13,Mri,2026-07-04 12:00:00,2026-07-04 14:00:00,Tech_8,Mild opacity,No acute findings.
+266,1051,5,Mri,2026-08-14 12:00:00,2026-08-14 14:00:00,Tech_1,Normal,No acute findings.
+267,1053,2,X-Ray,2026-01-10 02:00:00,2026-01-10 04:00:00,Tech_9,Normal,No acute findings.
+268,1054,4,Mri,2026-08-27 02:00:00,2026-08-27 04:00:00,Tech_3,Normal,No acute findings.
+269,1057,3,Mri,2026-03-26 04:00:00,2026-03-26 06:00:00,Tech_8,Clear,No acute findings.
+270,1058,14,X-Ray,2026-05-09 09:00:00,2026-05-09 11:00:00,Tech_7,,
+271,1059,12,X-Ray,2026-05-30 12:00:00,2026-05-30 14:00:00,Tech_5,Mild opacity,No acute findings.
+272,1060,2,Mri,2026-06-30 08:00:00,2026-06-30 10:00:00,Tech_9,Clear,No acute findings.
+273,1061,1,X-Ray,2026-01-18 06:00:00,2026-01-18 08:00:00,Tech_6,Clear,No acute findings.
+274,1066,14,Mri,2026-01-22 01:00:00,2026-01-22 03:00:00,Tech_4,Normal,No acute findings.
+275,1068,6,Mri,2026-07-25 10:00:00,2026-07-25 12:00:00,Tech_1,Mild opacity,No acute findings.
+276,1070,3,Mri,2026-04-10 07:00:00,2026-04-10 09:00:00,Tech_4,Mild opacity,No acute findings.
+277,1072,5,Mri,2026-08-11 03:00:00,2026-08-11 05:00:00,Tech_5,Mild opacity,No acute findings.
+278,1074,3,X-Ray,2026-05-28 03:00:00,2026-05-28 05:00:00,Tech_9,Clear,No acute findings.
+279,1080,4,X-Ray,2026-02-17 06:00:00,2026-02-17 08:00:00,Tech_4,Normal,No acute findings.
+280,1081,8,X-Ray,2026-01-08 11:00:00,2026-01-08 13:00:00,Tech_2,Clear,No acute findings.
+281,1082,6,Ct Scan,2026-03-23 05:00:00,2026-03-23 07:00:00,Tech_5,Mild opacity,No acute findings.
+282,1084,10,X-Ray,2026-04-20 02:00:00,2026-04-20 04:00:00,Tech_2,Clear,No acute findings.
+283,1086,9,Ct Scan,2026-07-02 09:00:00,2026-07-02 11:00:00,Tech_9,Mild opacity,No acute findings.
+284,1090,13,X-Ray,2026-09-03 04:00:00,2026-09-03 06:00:00,Tech_10,Normal,No acute findings.
+285,1091,10,Ct Scan,2026-03-08 09:00:00,2026-03-08 11:00:00,Tech_9,Clear,No acute findings.
+286,1093,4,Mri,2026-02-18 11:00:00,2026-02-18 13:00:00,Tech_3,Clear,No acute findings.
+287,1096,4,X-Ray,2026-01-05 05:00:00,2026-01-05 07:00:00,Tech_4,Clear,No acute findings.
+288,1109,4,Mri,2026-02-06 11:00:00,2026-02-06 13:00:00,Tech_1,Normal,No acute findings.
+289,1111,11,Ct Scan,2026-06-30 01:00:00,2026-06-30 03:00:00,Tech_4,Mild opacity,No acute findings.
+290,1114,10,Mri,2026-04-08 03:00:00,2026-04-08 05:00:00,Tech_3,Mild opacity,No acute findings.
+291,1118,8,X-Ray,2026-06-25 04:00:00,2026-06-25 06:00:00,Tech_8,Clear,No acute findings.
+292,1121,14,Ct Scan,2026-01-13 01:00:00,2026-01-13 03:00:00,Tech_1,Clear,No acute findings.
+293,1122,5,X-Ray,2026-06-03 01:00:00,2026-06-03 03:00:00,Tech_3,Clear,No acute findings.
+294,1123,6,X-Ray,2026-03-04 12:00:00,2026-03-04 14:00:00,Tech_7,Mild opacity,No acute findings.
+295,1130,8,Ct Scan,2026-06-25 06:00:00,2026-06-25 08:00:00,Tech_6,Clear,No acute findings.
+296,1132,5,Ct Scan,2026-06-14 03:00:00,2026-06-14 05:00:00,Tech_10,Mild opacity,No acute findings.
+297,1143,14,X-Ray,2026-07-17 11:00:00,2026-07-17 13:00:00,Tech_2,Mild opacity,No acute findings.
+298,1144,4,X-Ray,2026-06-22 11:00:00,2026-06-22 13:00:00,Tech_4,Mild opacity,No acute findings.
+299,1147,15,X-Ray,2026-01-14 04:00:00,2026-01-14 06:00:00,Tech_3,Clear,No acute findings.
+300,1154,10,Ct Scan,2026-04-28 01:00:00,2026-04-28 03:00:00,Tech_4,Mild opacity,No acute findings.
+301,1160,4,Ct Scan,2026-06-17 08:00:00,2026-06-17 10:00:00,Tech_8,Mild opacity,No acute findings.
+302,1163,14,Mri,2026-05-30 03:00:00,2026-05-30 05:00:00,Tech_5,Clear,No acute findings.
+303,1165,8,Mri,2026-06-16 07:00:00,2026-06-16 09:00:00,Tech_5,Clear,No acute findings.
+304,1166,7,Mri,2026-07-08 09:00:00,2026-07-08 11:00:00,Tech_7,Normal,No acute findings.
+305,1184,6,Ct Scan,2026-01-22 10:00:00,2026-01-22 12:00:00,Tech_1,Normal,No acute findings.
+306,1185,3,X-Ray,2026-07-09 09:00:00,2026-07-09 11:00:00,Tech_1,Clear,No acute findings.
+307,1197,3,X-Ray,2026-07-16 11:00:00,2026-07-16 13:00:00,Tech_6,Normal,No acute findings.

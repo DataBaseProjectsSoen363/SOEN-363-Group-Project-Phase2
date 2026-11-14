@@ -1,8 +1,8 @@
 ===== RECORD COUNT =====
-1072
+1067
 
 ===== SHAPE =====
-(1072, 5)
+(1067, 5)
 
 ===== FIELD NAMES =====
 ['noteId', 'visitId', 'authorId', 'noteTimestamp', 'noteText']
@@ -32,23 +32,23 @@ noteText         0
 0
 
 ===== SAMPLE RECORDS =====
-     noteId  visitId  authorId  noteTimestamp                                                                                                   noteText
-652     653      730        12     1773882000  **Subjective:** Patient reports mild pain.\n**Objective:** Vitals stable.\n**Plan:** Continue monitoring.
-878     879      980        11     1769130000  **Subjective:** Patient reports mild pain.\n**Objective:** Vitals stable.\n**Plan:** Continue monitoring.
-449     450      504         6     1784422800  **Subjective:** Patient reports mild pain.\n**Objective:** Vitals stable.\n**Plan:** Continue monitoring.
-396     397      447         7     1768179600  **Subjective:** Patient reports mild pain.\n**Objective:** Vitals stable.\n**Plan:** Continue monitoring.
-352     353      400         5     1788483600  **Subjective:** Patient reports mild pain.\n**Objective:** Vitals stable.\n**Plan:** Continue monitoring.
+      noteId  visitId  authorId  noteTimestamp                                                                                                   noteText
+1010    1011     1132         3     1781398800  **Subjective:** Patient reports mild pain.\n**Objective:** Vitals stable.\n**Plan:** Continue monitoring.
+205      206      235         6     1775696400  **Subjective:** Patient reports mild pain.\n**Objective:** Vitals stable.\n**Plan:** Continue monitoring.
+611      612      688         9     1769216400  **Subjective:** Patient reports mild pain.\n**Objective:** Vitals stable.\n**Plan:** Continue monitoring.
+1024    1025     1148         1     1781830800  **Subjective:** Patient reports mild pain.\n**Objective:** Vitals stable.\n**Plan:** Continue monitoring.
+890      891     1000         2     1786669200  **Subjective:** Patient reports mild pain.\n**Objective:** Vitals stable.\n**Plan:** Continue monitoring.
 
 ===== SUMMARY STATISTICS =====
              noteId      visitId     authorId  noteTimestamp                                                                                                   noteText
-count   1072.000000  1072.000000  1072.000000   1.072000e+03                                                                                                       1045
+count   1067.000000  1067.000000  1067.000000   1.067000e+03                                                                                                       1040
 unique          NaN          NaN          NaN            NaN                                                                                                          1
 top             NaN          NaN          NaN            NaN  **Subjective:** Patient reports mild pain.\n**Objective:** Vitals stable.\n**Plan:** Continue monitoring.
-freq            NaN          NaN          NaN            NaN                                                                                                       1045
-mean     536.500000   601.526119     7.947761   1.778036e+09                                                                                                        NaN
-std      309.604048   345.375257     4.387091   6.337030e+06                                                                                                        NaN
-min        1.000000     1.000000     1.000000   1.767316e+09                                                                                                        NaN
-25%      268.750000   305.750000     4.000000   1.772392e+09                                                                                                        NaN
-50%      536.500000   596.500000     8.000000   1.777684e+09                                                                                                        NaN
-75%      804.250000   899.250000    12.000000   1.783580e+09                                                                                                        NaN
-max     1072.000000  1200.000000    15.000000   1.788829e+09                                                                                                        NaN
+freq            NaN          NaN          NaN            NaN                                                                                                       1040
+mean     534.000000   599.314902     7.941893   1.777911e+09                                                                                                        NaN
+std      308.160672   345.015450     4.394948   6.268298e+06                                                                                                        NaN
+min        1.000000     1.000000     1.000000   1.767229e+09                                                                                                        NaN
+25%      267.500000   302.000000     4.000000   1.772370e+09                                                                                                        NaN
+50%      534.000000   596.000000     8.000000   1.777597e+09                                                                                                        NaN
+75%      800.500000   896.500000    12.000000   1.783386e+09                                                                                                        NaN
+max     1067.000000  1200.000000    15.000000   1.788829e+09                                                                                                        NaN

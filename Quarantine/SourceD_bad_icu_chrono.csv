@@ -1,0 +1,8 @@
+unit_stay_id,admission_id,icu_unit,professional_id,entry_date_time,exit_date_time,rejection_reason
+142,504,MICU,8,2026-01-22 08:00:00,2026-01-22 03:00:00,Exit date before entry date
+163,583,CCU,14,2026-08-06 14:00:00,2026-08-06 09:00:00,Exit date before entry date
+205,705,SICU,1,2026-06-12 15:00:00,2026-06-12 10:00:00,Exit date before entry date
+222,751,CCU,1,2026-04-28 09:00:00,2026-04-28 04:00:00,Exit date before entry date
+241,811,MICU,5,2026-08-26 04:00:00,2026-08-25 23:00:00,Exit date before entry date
+278,913,MICU,10,2026-08-05 14:00:00,2026-08-05 09:00:00,Exit date before entry date
+334,1124,MICU,13,2026-08-19 16:00:00,2026-08-19 11:00:00,Exit date before entry date

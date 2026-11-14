@@ -48,11 +48,11 @@ admitting_professional_id    0
 
 ===== SAMPLE RECORDS =====
       admission_id  patient_id  admission_date_time  discharge_date_time admission_type    admission_source     reason_admission insurance_information current_condition  admitting_professional_id
-119            120         777  2026-03-30 01:30:00  2026-04-01 01:30:00      EMERGENCY             Walk-in               Trauma         Public (RAMQ)       Observation                         11
-580            581          47  2026-08-07 12:15:00  2026-08-12 12:15:00       Elective  Physician Referral       Abdominal Pain              Self-pay         Improving                         13
-666            667         554  2026-02-22 21:15:00  2026-02-27 21:15:00      Emergency      Emergency Room           Chest Pain              Self-pay         Improving                          8
-916            917         361  2026-07-07 00:30:00  2026-07-11 00:30:00       Elective            Transfer  Shortness of Breath     Private Insurance          Critical                          7
-1040          1041          85  2026-08-19 14:45:00  2026-08-26 14:45:00         Urgent      Emergency Room              Syncope         Public (RAMQ)            Stable                          3
+219            220         242  2026-02-06 09:45:00  2026-02-12 09:45:00    Observation            Transfer                Fever         Public (RAMQ)          Critical                         14
+150            151          99  2026-01-18 22:45:00  2026-01-28 22:45:00         Urgent            Transfer           Chest Pain              Self-pay         Improving                         12
+961            962         789  2026-03-04 21:45:00  2026-03-05 21:45:00       Elective      Emergency Room              Syncope              Self-pay       Observation                         11
+1119          1120         619  2026-06-26 23:30:00  2026-06-27 23:30:00    OBSERVATION      Emergency Room           Chest Pain     Private Insurance            Stable                          8
+203            204         123  2026-05-16 06:15:00  2026-05-25 06:15:00         Urgent  Physician Referral  Shortness of Breath              Self-pay          Critical                         15
 
 ===== SUMMARY STATISTICS =====
         admission_id   patient_id  admission_date_time  discharge_date_time admission_type admission_source reason_admission insurance_information current_condition  admitting_professional_id

@@ -32,12 +32,12 @@ contact         0
 0
 
 ===== SAMPLE RECORDS =====
-     patientId                                    name  dobTimestamp gender                                         contact
-705        706      {'first': 'Ren', 'last': 'Tanaka'}    -149955583      F               {'phone': None, 'city': 'Nagoya'}
-236        237   {'first': 'Yuki', 'last': 'Watanabe'}     807702016      M  {'phone': '+81-82-7787-1211', 'city': 'Kyoto'}
-535        536   {'first': 'Sota', 'last': 'Watanabe'}     563967616      F  {'phone': '+81-90-5076-5974', 'city': 'Osaka'}
-458        459        {'first': 'Sota', 'last': 'Ito'}    -184947583      F  {'phone': '+81-85-6617-3323', 'city': 'Osaka'}
-121        122  {'first': 'Hina', 'last': 'Takahashi'}     -52841983      M  {'phone': '+81-89-4339-4662', 'city': 'Osaka'}
+     patientId                                    name  dobTimestamp gender                                           contact
+636        637    {'first': 'Yui', 'last': 'Watanabe'}    -171116333      F  {'phone': '+81-85-3129-3046', 'city': 'Sapporo'}
+264        265        {'first': 'Ren', 'last': 'Sato'}    -142085933      F   {'phone': '+81-80-8999-8392', 'city': 'Nagoya'}
+651        652       {'first': 'Yuki', 'last': 'Sato'}    -494338733      M    {'phone': '+81-88-5423-9315', 'city': 'Kyoto'}
+270        271  {'first': 'Yuki', 'last': 'Takahashi'}    -742133933      M  {'phone': '+81-89-1298-1649', 'city': 'Sapporo'}
+37          38         {'first': 'Aoi', 'last': 'Ito'}     930051666      F    {'phone': '+81-83-1141-5023', 'city': 'Tokyo'}
 
 ===== SUMMARY STATISTICS =====
         patientId                                  name  dobTimestamp gender                           contact
@@ -45,10 +45,10 @@ count    800.0000                                   800  8.000000e+02    800    
 unique        NaN                                    48           NaN      2                               772
 top           NaN  {'first': 'Ren', 'last': 'Watanabe'}           NaN      M  {'phone': None, 'city': 'Osaka'}
 freq          NaN                                    26           NaN    410                                 9
-mean     400.5000                                   NaN  1.745415e+08    NaN                               NaN
+mean     400.5000                                   NaN  1.745488e+08    NaN                               NaN
 std      231.0844                                   NaN  5.746581e+08    NaN                               NaN
-min        1.0000                                   NaN -7.970916e+08    NaN                               NaN
-25%      200.7500                                   NaN -3.441828e+08    NaN                               NaN
-50%      400.5000                                   NaN  1.760316e+08    NaN                               NaN
-75%      600.2500                                   NaN  6.669132e+08    NaN                               NaN
-max      800.0000                                   NaN  1.230976e+09    NaN                               NaN
+min        1.0000                                   NaN -7.970843e+08    NaN                               NaN
+25%      200.7500                                   NaN -3.441755e+08    NaN                               NaN
+50%      400.5000                                   NaN  1.760389e+08    NaN                               NaN
+75%      600.2500                                   NaN  6.669205e+08    NaN                               NaN
+max      800.0000                                   NaN  1.230983e+09    NaN                               NaN

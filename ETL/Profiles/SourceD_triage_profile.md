@@ -35,12 +35,12 @@ triagePriority    0
 0
 
 ===== SAMPLE RECORDS =====
-     triageId  visitId  nurseId                                                                 vitals                             symptoms triagePriority
-810       811      811     17.0   {'heartRate': 61, 'oxygenSaturation': 97, 'bloodPressure': '127/85'}  ['Nausea', 'Chest Pain', 'Fatigue']          ESI-2
-291       292      292     25.0   {'heartRate': 82, 'oxygenSaturation': 97, 'bloodPressure': '121/75'}             ['Dizziness', 'Fatigue']          ESI-2
-977       978      978     21.0   {'heartRate': 84, 'oxygenSaturation': 97, 'bloodPressure': '128/63'}                ['Nausea', 'Fatigue']          ESI-2
-613       614      614     17.0   {'heartRate': 83, 'oxygenSaturation': 99, 'bloodPressure': '133/78'}              ['Shortness of Breath']          ESI-2
-834       835      835     18.0  {'heartRate': 96, 'oxygenSaturation': 100, 'bloodPressure': '113/87'}    ['Shortness of Breath', 'Nausea']          ESI-4
+      triageId  visitId  nurseId                                                                 vitals                                          symptoms triagePriority
+1081      1082     1082     20.0   {'heartRate': 73, 'oxygenSaturation': 98, 'bloodPressure': '129/73'}                           ['Dizziness', 'Nausea']          ESI-3
+722        723      723     18.0   {'heartRate': 83, 'oxygenSaturation': 98, 'bloodPressure': '119/82'}                       ['Dizziness', 'Chest Pain']          ESI-5
+1136      1137     1137     22.0  {'heartRate': 65, 'oxygenSaturation': 100, 'bloodPressure': '135/65'}              ['Shortness of Breath', 'Dizziness']          ESI-4
+127        128      128     18.0   {'heartRate': 76, 'oxygenSaturation': 99, 'bloodPressure': '127/64'}                                     ['Dizziness']          ESI-3
+478        479      479     18.0   {'heartRate': -99, 'oxygenSaturation': 0, 'bloodPressure': '114/78'}  ['Fatigue', 'Chest Pain', 'Shortness of Breath']          ESI-3
 
 ===== SUMMARY STATISTICS =====
            triageId      visitId      nurseId                                                                vitals       symptoms triagePriority

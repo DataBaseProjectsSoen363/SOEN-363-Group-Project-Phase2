@@ -38,12 +38,12 @@ home_address     0
 0
 
 ===== SAMPLE RECORDS =====
-           mrn       full_name insurance_id         dob gender_cd   contact_phone                 home_address
-10   MRN-62853     Liam Michel   INS-156971  12/04/1989         M  01-37-28-95-25    16 Rue Victor Hugo, Paris
-100  MRN-53437    Chloe Moreau   INS-198898  19/11/1959         M  01-56-47-88-74        23 Rue Pasteur, Paris
-588  MRN-16511    Ethan Dubois   INS-448928  16/01/1950         M  01-18-76-23-19     14 Rue de la Paix, Paris
-407  MRN-84860   Liam Lefebvre   INS-497145  28/04/1983         M  01-96-91-87-10  80 Rue de la Paix, Toulouse
-16   MRN-35203  Ethan Lefebvre   INS-865458  12/05/1956         M  01-67-27-14-34         92 Rue Pasteur, Nice
+           mrn     full_name insurance_id         dob gender_cd   contact_phone                 home_address
+33   MRN-20539   Liam Michel   INS-941711  29/06/1973         M  01-48-32-89-26    96 Rue Victor Hugo, Paris
+218  MRN-92001   Liam Moreau   INS-569955  13/06/1947         M             NaN  1 Rue Victor Hugo, Toulouse
+649  MRN-82979   Liam Dubois   INS-290128  15/07/2004         M  01-94-72-77-30      46 Rue de la Paix, Nice
+630  MRN-60083  Lucas Dubois   INS-849573  21/02/1987         M  01-49-15-67-24        85 Rue Pasteur, Paris
+204  MRN-90178  Noah Laurent   INS-497519  02/04/1994         F  01-94-19-41-29      93 Rue de la Paix, Lyon
 
 ===== SUMMARY STATISTICS =====
               mrn    full_name insurance_id         dob gender_cd   contact_phone              home_address

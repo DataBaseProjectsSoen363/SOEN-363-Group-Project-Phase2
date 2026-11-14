@@ -45,11 +45,11 @@ phone_number                0
 
 ===== SAMPLE RECORDS =====
      patient_id              name health_insurance_number life_status                          address  date_birth  gender emergency_contact_number  phone_number
-781         782     Daniel Miller              RAMQ169045       Alive    4459 Sherbrooke St, Longueuil  1953-05-30  Female             514-555-2659  514-555-2659
-654         655      Daniel Smith              RAMQ930248       Alive          159 Guy St, Quebec City  1985-03-16  Female             514-555-8036  514-555-8036
-282         283      Rachel Smith              RAMQ861949       Alive           2136 Guy St, Longueuil  1951-07-06    Male             514-555-3571  514-555-3571
-309         310  Jessica Williams              RAMQ803904       Alive    2021 Sherbrooke St, Longueuil  1991-09-11  Female             514-555-6008  514-555-6008
-573         574      Rachel Brown              RAMQ419987       Alive  2422 Sainte-Catherine St, Laval  2027-11-06  Female             514-555-1732  514-555-1732
+735         736     Amelie Miller              RAMQ551832       Alive                427 Guy St, Laval  1954-04-17    Male             514-555-9151  514-555-9151
+477         478     Amelie Miller              RAMQ373056       Alive  3128 Sainte-Catherine St, Laval  2005-12-10  Female             514-555-8347  514-555-8347
+675         676  Michael Tremblay              RAMQ230775       Alive     4246 Papineau Ave, Longueuil  1993-08-28    Male             514-555-1756  514-555-1756
+556         557       John Miller              RAMQ932026       Alive           3507 Guy St, Longueuil  1959-02-05    Male             514-555-5273  514-555-5273
+275         276    Sarah Charette              RAMQ309452       Alive          2254 Atwater Ave, Laval  1972-04-17    Male             514-555-4402  514-555-4402
 
 ===== SUMMARY STATISTICS =====
         patient_id           name health_insurance_number life_status                        address  date_birth gender emergency_contact_number  phone_number

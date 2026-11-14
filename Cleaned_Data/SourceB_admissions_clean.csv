@@ -71,7 +71,6 @@ visit_id,patient_mrn,admitting_doctor,admit_date,discharge_date,ward_code,reason
 71,MRN-39746,MRN-10006,2026-08-30 01:00:00,2026-09-05 01:00:00,Pediatrics,Essoufflement
 72,MRN-81992,MRN-10012,2026-06-03 09:00:00,2026-06-07 09:00:00,Emergency,Fièvre
 73,MRN-10409,MRN-10015,2026-08-12 17:00:00,2026-08-16 17:00:00,Surgery,Fièvre
-74,MRN-99999,MRN-10004,2026-08-30 10:00:00,2026-09-03 10:00:00,Pediatrics,Fièvre
 75,MRN-46777,MRN-10006,2026-07-22 08:00:00,2026-07-26 08:00:00,Pediatrics,Fièvre
 76,MRN-75333,MRN-10003,2026-02-17 15:00:00,2026-02-19 15:00:00,Pediatrics,Essoufflement
 77,MRN-44413,MRN-10002,2026-09-03 16:00:00,2026-09-05 16:00:00,Medical,Essoufflement
@@ -81,7 +80,6 @@ visit_id,patient_mrn,admitting_doctor,admit_date,discharge_date,ward_code,reason
 81,MRN-33857,MRN-10009,2026-08-12 05:00:00,2026-08-22 05:00:00,Medical,Traumatisme
 82,MRN-85349,MRN-10006,2026-02-14 01:00:00,2026-02-19 01:00:00,Observation,Traumatisme
 83,MRN-46092,MRN-10005,2026-06-11 08:00:00,2026-06-21 08:00:00,Pediatrics,Traumatisme
-84,MRN-99999,MRN-10007,2026-05-10 13:00:00,2026-05-13 13:00:00,Pediatrics,Douleur Thoracique
 85,MRN-57461,MRN-10008,2026-05-19 17:00:00,2026-05-20 17:00:00,Observation,Douleur Thoracique
 86,MRN-29884,MRN-10003,2026-06-11 09:00:00,2026-06-21 09:00:00,Pediatrics,Essoufflement
 87,MRN-28802,MRN-10010,2026-01-28 08:00:00,2026-02-03 08:00:00,Surgery,Fièvre
@@ -207,7 +205,6 @@ visit_id,patient_mrn,admitting_doctor,admit_date,discharge_date,ward_code,reason
 209,MRN-49027,MRN-10004,2026-03-09 11:00:00,2026-03-13 11:00:00,Surgery,Essoufflement
 210,MRN-72625,MRN-10004,2026-02-10 23:00:00,2026-02-17 23:00:00,Pediatrics,Traumatisme
 211,MRN-62584,MRN-10005,2026-07-20 00:00:00,2026-07-21 00:00:00,Medical,Fièvre
-212,MRN-99999,MRN-10001,2026-06-30 16:00:00,2026-07-04 16:00:00,Surgery,Essoufflement
 213,MRN-62821,MRN-10011,2026-08-06 11:00:00,2026-08-07 11:00:00,Medical,Douleur Thoracique
 214,MRN-68252,MRN-10013,2026-01-04 06:00:00,2026-01-14 06:00:00,Emergency,Essoufflement
 215,MRN-14609,MRN-10008,2026-09-08 08:00:00,2026-09-09 08:00:00,Surgery,Douleur Thoracique
@@ -252,7 +249,6 @@ visit_id,patient_mrn,admitting_doctor,admit_date,discharge_date,ward_code,reason
 254,MRN-75883,MRN-10009,2026-04-27 00:00:00,2026-05-05 00:00:00,Pediatrics,Fièvre
 256,MRN-37744,MRN-10004,2026-01-05 20:00:00,2026-01-09 20:00:00,Surgery,Fièvre
 257,MRN-94956,MRN-10008,2026-03-17 09:00:00,2026-03-25 09:00:00,Pediatrics,Traumatisme
-258,MRN-99999,MRN-10012,2026-02-21 23:00:00,2026-02-22 23:00:00,Surgery,Traumatisme
 259,MRN-96946,MRN-10014,2026-09-07 20:00:00,2026-09-10 20:00:00,Pediatrics,Douleur Thoracique
 260,MRN-10928,MRN-10001,2026-02-01 00:00:00,2026-02-02 00:00:00,Observation,Fièvre
 261,MRN-19000,MRN-10007,2026-08-21 01:00:00,2026-08-31 01:00:00,Medical,Essoufflement
@@ -333,10 +329,8 @@ visit_id,patient_mrn,admitting_doctor,admit_date,discharge_date,ward_code,reason
 338,MRN-97747,MRN-10010,2026-01-17 15:00:00,,Observation,Essoufflement
 339,MRN-33504,MRN-10014,2026-05-25 04:00:00,2026-06-03 04:00:00,Emergency,Douleur Thoracique
 340,MRN-11875,MRN-10007,2026-05-28 07:00:00,2026-06-02 07:00:00,Pediatrics,Essoufflement
-341,MRN-99999,MRN-10007,2026-03-01 08:00:00,2026-03-04 08:00:00,Observation,Douleur Thoracique
 342,MRN-27649,MRN-10004,2026-02-04 22:00:00,2026-02-09 22:00:00,Pediatrics,Traumatisme
 343,MRN-10409,MRN-10009,2026-02-04 21:00:00,2026-02-11 21:00:00,Pediatrics,Douleur Thoracique
-344,MRN-99999,MRN-10001,2026-07-14 09:00:00,2026-07-24 09:00:00,Surgery,Traumatisme
 345,MRN-29911,MRN-10007,2026-07-02 06:00:00,2026-07-09 06:00:00,Observation,Essoufflement
 347,MRN-16217,MRN-10002,2026-07-08 03:00:00,2026-07-12 03:00:00,Emergency,Essoufflement
 348,MRN-27705,MRN-10001,2026-05-09 00:00:00,2026-05-19 00:00:00,Surgery,Essoufflement
@@ -374,7 +368,6 @@ visit_id,patient_mrn,admitting_doctor,admit_date,discharge_date,ward_code,reason
 381,MRN-87466,MRN-10006,2026-08-19 02:00:00,2026-08-23 02:00:00,Observation,Essoufflement
 382,MRN-68553,MRN-10005,2026-06-26 23:00:00,2026-06-27 23:00:00,Surgery,Traumatisme
 383,MRN-89167,MRN-10009,2026-06-14 13:00:00,2026-06-20 13:00:00,Medical,Fièvre
-384,MRN-99999,MRN-10003,2026-04-28 00:00:00,2026-05-05 00:00:00,Pediatrics,Fièvre
 385,MRN-55536,MRN-10011,2026-08-14 18:00:00,2026-08-21 18:00:00,Emergency,Essoufflement
 386,MRN-49609,MRN-10012,2026-07-14 03:00:00,2026-07-21 03:00:00,Emergency,Traumatisme
 387,MRN-37744,MRN-10014,2026-07-10 07:00:00,2026-07-13 07:00:00,Observation,Douleur Thoracique
@@ -382,7 +375,6 @@ visit_id,patient_mrn,admitting_doctor,admit_date,discharge_date,ward_code,reason
 389,MRN-86172,MRN-10015,2026-05-22 05:00:00,2026-05-24 05:00:00,Medical,Traumatisme
 390,MRN-50641,MRN-10004,2026-01-15 02:00:00,2026-01-23 02:00:00,Pediatrics,Douleur Thoracique
 391,MRN-66940,MRN-10015,2026-05-03 15:00:00,2026-05-11 15:00:00,Emergency,Traumatisme
-392,MRN-99999,MRN-10006,2026-07-01 19:00:00,2026-07-09 19:00:00,Surgery,Essoufflement
 393,MRN-52051,MRN-10009,2026-01-07 08:00:00,2026-01-16 08:00:00,Surgery,Fièvre
 394,MRN-63397,MRN-10001,2026-01-25 06:00:00,2026-02-03 06:00:00,Pediatrics,Douleur Thoracique
 395,MRN-67807,MRN-10014,2026-06-25 06:00:00,2026-07-04 06:00:00,Medical,Douleur Thoracique
@@ -417,7 +409,6 @@ visit_id,patient_mrn,admitting_doctor,admit_date,discharge_date,ward_code,reason
 425,MRN-18244,MRN-10009,2026-06-12 02:00:00,2026-06-22 02:00:00,Medical,Fièvre
 426,MRN-11388,MRN-10006,2026-05-04 16:00:00,2026-05-08 16:00:00,Surgery,Douleur Thoracique
 427,MRN-23626,MRN-10010,2026-07-04 02:00:00,2026-07-06 02:00:00,Emergency,Essoufflement
-428,MRN-99999,MRN-10004,2026-03-14 02:00:00,2026-03-22 02:00:00,Observation,Traumatisme
 429,MRN-29815,MRN-10008,2026-08-01 17:00:00,2026-08-09 17:00:00,Pediatrics,Fièvre
 430,MRN-97175,MRN-10003,2026-01-26 04:00:00,2026-02-03 04:00:00,Medical,Essoufflement
 431,MRN-93159,MRN-10011,2026-08-05 20:00:00,2026-08-14 20:00:00,Surgery,Traumatisme
@@ -517,7 +508,6 @@ visit_id,patient_mrn,admitting_doctor,admit_date,discharge_date,ward_code,reason
 527,MRN-20970,MRN-10007,2026-06-13 18:00:00,2026-06-17 18:00:00,Observation,Essoufflement
 528,MRN-39100,MRN-10014,2026-02-19 01:00:00,2026-02-24 01:00:00,Pediatrics,Fièvre
 529,MRN-40163,MRN-10007,2026-04-28 03:00:00,2026-05-06 03:00:00,Medical,Douleur Thoracique
-530,MRN-99999,MRN-10012,2026-03-07 05:00:00,2026-03-14 05:00:00,Pediatrics,Traumatisme
 531,MRN-66124,MRN-10008,2026-08-29 13:00:00,2026-09-05 13:00:00,Medical,Douleur Thoracique
 532,MRN-85060,MRN-10002,2026-02-24 02:00:00,2026-02-26 02:00:00,Pediatrics,Traumatisme
 533,MRN-26010,MRN-10008,2026-04-22 14:00:00,2026-04-23 14:00:00,Emergency,Fièvre
@@ -546,7 +536,6 @@ visit_id,patient_mrn,admitting_doctor,admit_date,discharge_date,ward_code,reason
 556,MRN-13218,MRN-10009,2026-07-28 08:00:00,2026-08-04 08:00:00,Surgery,Fièvre
 557,MRN-27649,MRN-10001,2026-02-23 21:00:00,2026-02-24 21:00:00,Medical,Essoufflement
 558,MRN-49875,MRN-10010,2026-08-09 15:00:00,2026-08-12 15:00:00,Emergency,Essoufflement
-559,MRN-99999,MRN-10006,2026-01-24 12:00:00,2026-01-26 12:00:00,Surgery,Essoufflement
 560,MRN-12396,MRN-10011,2026-07-06 21:00:00,2026-07-07 21:00:00,Pediatrics,Douleur Thoracique
 561,MRN-21103,MRN-10013,2026-06-27 06:00:00,2026-07-03 06:00:00,Observation,Fièvre
 562,MRN-28969,MRN-10008,2026-06-25 22:00:00,2026-06-28 22:00:00,Medical,Essoufflement
@@ -570,7 +559,6 @@ visit_id,patient_mrn,admitting_doctor,admit_date,discharge_date,ward_code,reason
 580,MRN-34052,MRN-10012,2026-04-05 21:00:00,2026-04-11 21:00:00,Observation,Traumatisme
 581,MRN-68271,MRN-10012,2026-09-04 20:00:00,2026-09-08 20:00:00,Surgery,Traumatisme
 582,MRN-27642,MRN-10007,2026-01-02 00:00:00,2026-01-10 00:00:00,Emergency,Traumatisme
-583,MRN-99999,MRN-10007,2026-04-04 04:00:00,2026-04-12 04:00:00,Medical,Douleur Thoracique
 584,MRN-82135,MRN-10010,2026-02-13 08:00:00,2026-02-17 08:00:00,Surgery,Douleur Thoracique
 585,MRN-47230,MRN-10015,2026-04-03 18:00:00,2026-04-07 18:00:00,Emergency,Essoufflement
 586,MRN-87168,MRN-10015,2026-04-02 13:00:00,2026-04-09 13:00:00,Medical,Fièvre
@@ -646,13 +634,11 @@ visit_id,patient_mrn,admitting_doctor,admit_date,discharge_date,ward_code,reason
 658,MRN-28529,MRN-10013,2026-02-12 20:00:00,2026-02-14 20:00:00,Observation,Fièvre
 659,MRN-96428,MRN-10007,2026-01-03 02:00:00,2026-01-06 02:00:00,Pediatrics,Fièvre
 660,MRN-82171,MRN-10011,2026-02-11 16:00:00,2026-02-19 16:00:00,Surgery,Essoufflement
-661,MRN-99999,MRN-10014,2026-02-11 23:00:00,2026-02-19 23:00:00,Surgery,Traumatisme
 662,MRN-65167,MRN-10001,2026-01-23 15:00:00,2026-01-29 15:00:00,Emergency,Essoufflement
 663,MRN-82979,MRN-10015,2026-01-03 08:00:00,2026-01-10 08:00:00,Observation,Essoufflement
 664,MRN-14432,MRN-10010,2026-02-21 05:00:00,2026-02-28 05:00:00,Pediatrics,Douleur Thoracique
 665,MRN-61638,MRN-10012,2026-03-06 07:00:00,2026-03-07 07:00:00,Pediatrics,Douleur Thoracique
 666,MRN-56086,MRN-10012,2026-02-14 11:00:00,2026-02-21 11:00:00,Surgery,Fièvre
-667,MRN-99999,MRN-10009,2026-07-07 06:00:00,2026-07-10 06:00:00,Emergency,Essoufflement
 668,MRN-16094,MRN-10015,2026-04-11 14:00:00,2026-04-12 14:00:00,Observation,Fièvre
 669,MRN-26286,MRN-10007,2026-07-21 06:00:00,2026-07-31 06:00:00,Emergency,Traumatisme
 670,MRN-17816,MRN-10009,2026-07-12 14:00:00,2026-07-19 14:00:00,Surgery,Traumatisme
@@ -677,7 +663,6 @@ visit_id,patient_mrn,admitting_doctor,admit_date,discharge_date,ward_code,reason
 689,MRN-35718,MRN-10009,2026-06-21 21:00:00,2026-06-26 21:00:00,Observation,Fièvre
 690,MRN-59908,MRN-10005,2026-07-03 21:00:00,2026-07-04 21:00:00,Pediatrics,Fièvre
 691,MRN-50966,MRN-10009,2026-01-02 01:00:00,2026-01-10 01:00:00,Surgery,Traumatisme
-692,MRN-99999,MRN-10009,2026-04-30 17:00:00,2026-05-09 17:00:00,Observation,Douleur Thoracique
 693,MRN-95771,MRN-10005,2026-03-09 19:00:00,2026-03-19 19:00:00,Observation,Essoufflement
 694,MRN-92169,MRN-10004,2026-02-17 00:00:00,2026-02-26 00:00:00,Observation,Traumatisme
 695,MRN-13749,MRN-10014,2026-04-24 14:00:00,2026-05-04 14:00:00,Surgery,Fièvre
@@ -704,7 +689,6 @@ visit_id,patient_mrn,admitting_doctor,admit_date,discharge_date,ward_code,reason
 717,MRN-23036,MRN-10007,2026-07-14 08:00:00,2026-07-24 08:00:00,Medical,Traumatisme
 718,MRN-25852,MRN-10008,2026-06-01 14:00:00,2026-06-05 14:00:00,Surgery,Douleur Thoracique
 719,MRN-24909,MRN-10003,2026-05-29 21:00:00,2026-06-06 21:00:00,Medical,Traumatisme
-720,MRN-99999,MRN-10005,2026-04-12 14:00:00,2026-04-16 14:00:00,Emergency,Essoufflement
 721,MRN-41426,MRN-10003,2026-05-03 12:00:00,2026-05-11 12:00:00,Observation,Traumatisme
 722,MRN-41610,MRN-10013,2026-02-22 10:00:00,2026-02-24 10:00:00,Medical,Fièvre
 723,MRN-13218,MRN-10007,2026-07-08 09:00:00,2026-07-16 09:00:00,Emergency,Traumatisme
@@ -823,7 +807,6 @@ visit_id,patient_mrn,admitting_doctor,admit_date,discharge_date,ward_code,reason
 840,MRN-27021,MRN-10014,2026-05-19 05:00:00,2026-05-22 05:00:00,Emergency,Essoufflement
 841,MRN-97002,MRN-10011,2026-08-22 20:00:00,2026-08-30 20:00:00,Observation,Essoufflement
 842,MRN-75254,MRN-10007,2026-08-28 21:00:00,2026-08-31 21:00:00,Medical,Fièvre
-843,MRN-99999,MRN-10010,2026-08-15 13:00:00,2026-08-23 13:00:00,Pediatrics,Douleur Thoracique
 844,MRN-26040,MRN-10001,2026-08-04 22:00:00,2026-08-09 22:00:00,Emergency,Fièvre
 845,MRN-55536,MRN-10005,2026-07-25 03:00:00,2026-07-31 03:00:00,Surgery,Douleur Thoracique
 846,MRN-86389,MRN-10003,2026-04-26 22:00:00,2026-05-04 22:00:00,Observation,Fièvre
@@ -832,10 +815,8 @@ visit_id,patient_mrn,admitting_doctor,admit_date,discharge_date,ward_code,reason
 849,MRN-39653,MRN-10001,2026-02-14 06:00:00,2026-02-16 06:00:00,Pediatrics,Traumatisme
 850,MRN-66124,MRN-10010,2026-05-01 14:00:00,2026-05-02 14:00:00,Emergency,Traumatisme
 851,MRN-47337,MRN-10009,2026-01-05 17:00:00,2026-01-08 17:00:00,Pediatrics,Fièvre
-852,MRN-99999,MRN-10002,2026-07-29 12:00:00,2026-08-06 12:00:00,Emergency,Traumatisme
 853,MRN-89209,MRN-10012,2026-07-29 16:00:00,2026-08-06 16:00:00,Medical,Essoufflement
 854,MRN-46659,MRN-10004,2026-03-29 10:00:00,2026-04-05 10:00:00,Surgery,Traumatisme
-855,MRN-99999,MRN-10001,2026-02-04 15:00:00,2026-02-05 15:00:00,Observation,Traumatisme
 856,MRN-48222,MRN-10001,2026-05-19 07:00:00,2026-05-26 07:00:00,Surgery,Essoufflement
 857,MRN-51138,MRN-10015,2026-08-28 02:00:00,2026-09-07 02:00:00,Observation,Essoufflement
 858,MRN-17588,MRN-10013,2026-07-06 22:00:00,2026-07-07 22:00:00,Pediatrics,Douleur Thoracique
@@ -881,7 +862,6 @@ visit_id,patient_mrn,admitting_doctor,admit_date,discharge_date,ward_code,reason
 900,MRN-35129,MRN-10014,2026-06-26 23:00:00,2026-06-30 23:00:00,Medical,Traumatisme
 901,MRN-82386,MRN-10011,2026-05-08 11:00:00,2026-05-09 11:00:00,Observation,Douleur Thoracique
 902,MRN-25476,MRN-10011,2026-02-10 10:00:00,2026-02-14 10:00:00,Medical,Traumatisme
-903,MRN-99999,MRN-10002,2026-01-26 03:00:00,2026-01-30 03:00:00,Medical,Essoufflement
 904,MRN-23764,MRN-10004,2026-06-05 22:00:00,2026-06-13 22:00:00,Emergency,Douleur Thoracique
 905,MRN-70684,MRN-10002,2026-06-10 07:00:00,2026-06-20 07:00:00,Emergency,Fièvre
 906,MRN-10409,MRN-10003,2026-03-19 03:00:00,2026-03-28 03:00:00,Emergency,Douleur Thoracique
@@ -942,7 +922,6 @@ visit_id,patient_mrn,admitting_doctor,admit_date,discharge_date,ward_code,reason
 963,MRN-40163,MRN-10004,2026-08-16 16:00:00,2026-08-19 16:00:00,Medical,Fièvre
 964,MRN-10379,MRN-10009,2026-04-01 16:00:00,2026-04-06 16:00:00,Medical,Fièvre
 965,MRN-94113,MRN-10008,2026-01-04 11:00:00,2026-01-14 11:00:00,Emergency,Fièvre
-966,MRN-99999,MRN-10008,2026-02-16 01:00:00,2026-02-22 01:00:00,Medical,Fièvre
 967,MRN-82833,MRN-10013,2026-03-07 22:00:00,2026-03-10 22:00:00,Medical,Essoufflement
 968,MRN-70665,MRN-10006,2026-07-22 09:00:00,2026-07-27 09:00:00,Pediatrics,Fièvre
 969,MRN-92608,MRN-10007,2026-08-04 02:00:00,2026-08-05 02:00:00,Surgery,Fièvre
@@ -985,7 +964,6 @@ visit_id,patient_mrn,admitting_doctor,admit_date,discharge_date,ward_code,reason
 1006,MRN-89217,MRN-10002,2026-06-30 17:00:00,2026-07-07 17:00:00,Observation,Douleur Thoracique
 1008,MRN-60908,MRN-10008,2026-06-23 05:00:00,2026-06-26 05:00:00,Medical,Douleur Thoracique
 1009,MRN-93413,MRN-10015,2026-06-15 08:00:00,2026-06-18 08:00:00,Surgery,Douleur Thoracique
-1010,MRN-99999,MRN-10006,2026-06-08 09:00:00,,Medical,Essoufflement
 1011,MRN-16318,MRN-10004,2026-05-11 09:00:00,2026-05-20 09:00:00,Medical,Fièvre
 1014,MRN-46529,MRN-10007,2026-03-05 04:00:00,2026-03-11 04:00:00,Medical,Fièvre
 1015,MRN-58994,MRN-10009,2026-08-30 12:00:00,2026-09-05 12:00:00,Medical,Douleur Thoracique
@@ -1027,7 +1005,6 @@ visit_id,patient_mrn,admitting_doctor,admit_date,discharge_date,ward_code,reason
 1051,MRN-78440,MRN-10015,2026-03-16 22:00:00,2026-03-22 22:00:00,Medical,Douleur Thoracique
 1052,MRN-81279,MRN-10015,2026-08-04 07:00:00,2026-08-14 07:00:00,Observation,Fièvre
 1053,MRN-29534,MRN-10012,2026-03-18 15:00:00,2026-03-28 15:00:00,Observation,Traumatisme
-1054,MRN-99999,MRN-10008,2026-04-21 20:00:00,2026-04-25 20:00:00,Pediatrics,Fièvre
 1055,MRN-89080,MRN-10002,2026-01-22 14:00:00,2026-01-23 14:00:00,Medical,Traumatisme
 1056,MRN-26018,MRN-10014,2026-01-29 18:00:00,2026-02-05 18:00:00,Emergency,Essoufflement
 1057,MRN-14619,MRN-10013,2026-03-21 03:00:00,2026-03-23 03:00:00,Emergency,Douleur Thoracique
@@ -1051,7 +1028,6 @@ visit_id,patient_mrn,admitting_doctor,admit_date,discharge_date,ward_code,reason
 1075,MRN-72213,MRN-10011,2026-02-14 13:00:00,2026-02-22 13:00:00,Medical,Essoufflement
 1076,MRN-38563,MRN-10015,2026-06-23 19:00:00,2026-07-01 19:00:00,Pediatrics,Traumatisme
 1077,MRN-90411,MRN-10001,2026-05-23 07:00:00,2026-05-25 07:00:00,Pediatrics,Douleur Thoracique
-1078,MRN-99999,MRN-10004,2026-02-24 21:00:00,2026-02-28 21:00:00,Medical,Essoufflement
 1079,MRN-81265,MRN-10004,2026-01-05 07:00:00,2026-01-11 07:00:00,Pediatrics,Traumatisme
 1080,MRN-69191,MRN-10011,2026-02-15 08:00:00,2026-02-18 08:00:00,Surgery,Douleur Thoracique
 1081,MRN-16094,MRN-10014,2026-01-28 10:00:00,2026-02-01 10:00:00,Pediatrics,Essoufflement
@@ -1156,7 +1132,6 @@ visit_id,patient_mrn,admitting_doctor,admit_date,discharge_date,ward_code,reason
 1182,MRN-17831,MRN-10002,2026-08-22 17:00:00,2026-08-26 17:00:00,Medical,Traumatisme
 1183,MRN-84756,MRN-10014,2026-07-23 10:00:00,2026-07-27 10:00:00,Observation,Fièvre
 1184,MRN-96946,MRN-10004,2026-01-16 02:00:00,,Medical,Douleur Thoracique
-1185,MRN-99999,MRN-10014,2026-01-02 13:00:00,2026-01-12 13:00:00,Medical,Traumatisme
 1186,MRN-34715,MRN-10013,2026-06-27 02:00:00,2026-07-02 02:00:00,Medical,Fièvre
 1187,MRN-33857,MRN-10003,2026-03-06 11:00:00,2026-03-12 11:00:00,Pediatrics,Fièvre
 1188,MRN-76080,MRN-10002,2026-05-03 08:00:00,2026-05-08 08:00:00,Observation,Traumatisme

@@ -1,57 +1,66 @@
 ===== RECORD COUNT =====
-299
+307
 
 ===== SHAPE =====
-(299, 6)
+(307, 9)
 
 ===== FIELD NAMES =====
-['orderId', 'visitId', 'doctorId', 'examType', 'orderTimestamp', 'radiologyExam']
+['orderId', 'visitId', 'doctorId', 'examType', 'orderTimestamp', 'examTimestamp', 'technician', 'report_findings', 'report_conclusion']
 
 ===== DATA TYPES =====
-orderId           int64
-visitId           int64
-doctorId          int64
-examType            str
-orderTimestamp    int64
-radiologyExam       str
+orderId              int64
+visitId              int64
+doctorId             int64
+examType               str
+orderTimestamp       int64
+examTimestamp        int64
+technician             str
+report_findings        str
+report_conclusion      str
 
 ===== MISSING VALUES =====
-orderId           0
-visitId           0
-doctorId          0
-examType          0
-orderTimestamp    0
-radiologyExam     0
+orderId               0
+visitId               0
+doctorId              0
+examType              0
+orderTimestamp        0
+examTimestamp         0
+technician            0
+report_findings      15
+report_conclusion    15
 
 ===== HIDDEN MISSING VALUES (String 'N/A') =====
-orderId           0
-visitId           0
-doctorId          0
-examType          0
-orderTimestamp    0
-radiologyExam     0
+orderId              0
+visitId              0
+doctorId             0
+examType             0
+orderTimestamp       0
+examTimestamp        0
+technician           0
+report_findings      0
+report_conclusion    0
 
 ===== DUPLICATE ROWS =====
 0
 
 ===== SAMPLE RECORDS =====
-     orderId  visitId  doctorId examType  orderTimestamp                                                                                                                      radiologyExam
-31        32      101         9    X-Ray      1769569200        {'examTimestamp': 1769576400, 'technician': 'Tech_1', 'report': {'findings': 'Normal', 'conclusion': 'No acute findings.'}}
-247      248      989        10      MRI      1782896400        {'examTimestamp': 1782903600, 'technician': 'Tech_4', 'report': {'findings': 'Normal', 'conclusion': 'No acute findings.'}}
-62        63      209         8      MRI      1773054000        {'examTimestamp': 1773061200, 'technician': 'Tech_8', 'report': {'findings': 'Normal', 'conclusion': 'No acute findings.'}}
-81        82      268        10    X-Ray      1771480800         {'examTimestamp': 1771488000, 'technician': 'Tech_3', 'report': {'findings': 'Clear', 'conclusion': 'No acute findings.'}}
-209      210      817         3      MRI      1778155200  {'examTimestamp': 1778162400, 'technician': 'Tech_3', 'report': {'findings': 'Mild opacity', 'conclusion': 'No acute findings.'}}
+     orderId  visitId  doctorId examType  orderTimestamp  examTimestamp technician report_findings   report_conclusion
+250      251      991         4    X-Ray      1780729200     1780736400     Tech_2           Clear  No acute findings.
+268      269     1057         3      MRI      1774497600     1774504800     Tech_8           Clear  No acute findings.
+159      160      605        13  CT Scan      1785920400     1785927600     Tech_1          Normal  No acute findings.
+229      230      897        12      MRI      1770429600     1770436800     Tech_1           Clear  No acute findings.
+305      306     1185         3    X-Ray      1783587600     1783594800     Tech_1           Clear  No acute findings.
 
 ===== SUMMARY STATISTICS =====
-           orderId      visitId    doctorId examType  orderTimestamp                                                                                                                radiologyExam
-count   299.000000   299.000000  299.000000      299    2.990000e+02                                                                                                                          299
-unique         NaN          NaN         NaN        3             NaN                                                                                                                          299
-top            NaN          NaN         NaN    X-Ray             NaN  {'examTimestamp': 1772197200, 'technician': 'Tech_2', 'report': {'findings': 'Normal', 'conclusion': 'No acute findings.'}}
-freq           NaN          NaN         NaN      108             NaN                                                                                                                            1
-mean    150.000000   572.668896    7.729097      NaN    1.777964e+09                                                                                                                          NaN
-std      86.458082   360.068693    4.351601      NaN    6.268047e+06                                                                                                                          NaN
-min       1.000000     1.000000    1.000000      NaN    1.767337e+09                                                                                                                          NaN
-25%      75.500000   249.500000    4.000000      NaN    1.772352e+09                                                                                                                          NaN
-50%     150.000000   546.000000    7.000000      NaN    1.777882e+09                                                                                                                          NaN
-75%     224.500000   887.500000   12.000000      NaN    1.783544e+09                                                                                                                          NaN
-max     299.000000  1200.000000   15.000000      NaN    1.788847e+09                                                                                                                          NaN
+           orderId      visitId    doctorId examType  orderTimestamp  examTimestamp technician report_findings   report_conclusion
+count   307.000000   307.000000  307.000000      307    3.070000e+02   3.070000e+02        307             292                 292
+unique         NaN          NaN         NaN        3             NaN            NaN         10               3                   1
+top            NaN          NaN         NaN    X-Ray             NaN            NaN     Tech_3          Normal  No acute findings.
+freq           NaN          NaN         NaN      108             NaN            NaN         39             103                 292
+mean    154.000000   585.374593    8.302932      NaN    1.777701e+09   1.777709e+09        NaN             NaN                 NaN
+std      88.767487   357.883922    4.160516      NaN    6.333364e+06   6.333364e+06        NaN             NaN                 NaN
+min       1.000000     1.000000    1.000000      NaN    1.767262e+09   1.767269e+09        NaN             NaN                 NaN
+25%      77.500000   288.500000    5.000000      NaN    1.772190e+09   1.772197e+09        NaN             NaN                 NaN
+50%     154.000000   586.000000    8.000000      NaN    1.777432e+09   1.777439e+09        NaN             NaN                 NaN
+75%     230.500000   902.500000   12.000000      NaN    1.783373e+09   1.783381e+09        NaN             NaN                 NaN
+max     307.000000  1197.000000   15.000000      NaN    1.788869e+09   1.788876e+09        NaN             NaN                 NaN

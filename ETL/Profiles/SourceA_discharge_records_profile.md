@@ -44,12 +44,12 @@ responsible_physician     0
 0
 
 ===== SAMPLE RECORDS =====
-      discharge_record_id  admission_id  discharge_date_time discharge_destination condition_at_discharge discharge_status                    followup_instructions followup_appointments  responsible_physician
-519                   520           531  2026-07-16 02:15:00        Rehab Facility                 Stable       Discharged  Follow up with primary care in 2 weeks.                   NaN                      5
-663                   664           679  2026-07-21 23:45:00        long-term care               Improved       Discharged  Follow up with primary care in 2 weeks.            2026-08-04                      9
-452                   453           462  2026-08-11 02:45:00                  Home               Improved       Discharged  Follow up with primary care in 2 weeks.            2026-08-25                      6
-266                   267           273  2026-05-22 16:45:00                  Home        Fully Recovered       Discharged  Follow up with primary care in 2 weeks.            2026-06-05                     14
-1043                 1044          1065  2026-05-25 21:30:00        Long-Term Care                 Stable       Discharged  Follow up with primary care in 2 weeks.                   NaN                      3
+     discharge_record_id  admission_id  discharge_date_time         discharge_destination condition_at_discharge discharge_status                    followup_instructions followup_appointments  responsible_physician
+638                  639           654  2026-03-02 02:00:00  Transfer to Another Hospital        Fully Recovered       Discharged  Follow up with primary care in 2 weeks.            2026-03-16                      7
+640                  641           656  2026-08-17 16:15:00                          Home                 Stable       Discharged  Follow up with primary care in 2 weeks.            2026-08-31                      3
+721                  722           738  2026-02-01 18:15:00                Long-Term Care                 Stable       Discharged  Follow up with primary care in 2 weeks.                   NaN                      3
+875                  876           893  2026-01-14 02:45:00  Transfer to Another Hospital               Improved       Discharged  Follow up with primary care in 2 weeks.                   NaN                     14
+61                    62            63  2026-04-14 10:15:00                Long-Term Care                 Stable       Discharged  Follow up with primary care in 2 weeks.            2026-04-28                     13
 
 ===== SUMMARY STATISTICS =====
         discharge_record_id  admission_id  discharge_date_time discharge_destination condition_at_discharge discharge_status                    followup_instructions followup_appointments  responsible_physician

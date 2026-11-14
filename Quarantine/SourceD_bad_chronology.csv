@@ -1,0 +1,21 @@
+admission_id,patient_id,admission_date_time,admission_type,reason_admission,admitting_professional_id,discharge_date_time,diagnosis_codes,primary_diagnosis,diagnosis_timestamp,rejection_reason
+44,648,2026-08-18 22:00:00,ELECTIVE,Fever,7,2026-08-16 22:00:00,"410.9, 250.00",410.9,1787104800.0,Discharge date before admission date
+138,787,2026-08-20 18:00:00,ELECTIVE,Chest Pain,1,2026-08-18 18:00:00,"401.9, 250.00, 410.9",401.9,1787292000.0,Discharge date before admission date
+152,730,2026-05-24 00:00:00,EMERGENCY,Shortness of Breath,12,2026-05-22 00:00:00,"250.00, 272.4, 401.9",250.0,1779588000.0,Discharge date before admission date
+166,674,2026-03-11 03:00:00,URGENT,Chest Pain,1,2026-03-09 03:00:00,410.9,410.9,1773201600.0,Discharge date before admission date
+191,408,2026-02-06 20:00:00,ELECTIVE,Fever,10,2026-02-04 20:00:00,"250.00, 401.9, 410.9",250.0,1770422400.0,Discharge date before admission date
+210,679,2026-04-18 10:00:00,ELECTIVE,Fever,7,2026-04-16 10:00:00,"410.9, 272.4",410.9,1776535200.0,Discharge date before admission date
+335,283,2026-05-28 15:00:00,ELECTIVE,Shortness of Breath,11,2026-05-26 15:00:00,"250.00, 401.9, 272.4",250.0,1779984000.0,Discharge date before admission date
+344,779,2026-09-05 21:00:00,URGENT,Shortness of Breath,13,2026-09-03 21:00:00,"272.4, 410.9, 250.00",272.4,1788656400.0,Discharge date before admission date
+477,268,2026-05-10 13:00:00,URGENT,Shortness of Breath,2,2026-05-08 13:00:00,,,,Discharge date before admission date
+573,34,2026-01-08 23:00:00,URGENT,Chest Pain,3,2026-01-06 23:00:00,"410.9, 250.00",410.9,1767927600.0,Discharge date before admission date
+651,287,2026-05-23 00:00:00,URGENT,Chest Pain,7,2026-05-21 00:00:00,"410.9, 250.00, 401.9",410.9,1779537600.0,Discharge date before admission date
+836,696,2026-04-21 09:00:00,ELECTIVE,Fever,4,2026-04-19 09:00:00,401.9,401.9,1776776400.0,Discharge date before admission date
+850,252,2026-02-10 19:00:00,URGENT,Shortness of Breath,3,2026-02-08 19:00:00,250.00,250.0,1770775200.0,Discharge date before admission date
+911,285,2026-07-16 23:00:00,URGENT,Chest Pain,1,2026-07-14 23:00:00,"410.9, 250.00",410.9,,Discharge date before admission date
+946,155,2026-06-15 16:00:00,URGENT,Chest Pain,3,2026-06-13 16:00:00,,,,Discharge date before admission date
+976,608,2026-04-10 04:00:00,ELECTIVE,Chest Pain,7,2026-04-08 04:00:00,250.00,250.0,1775815200.0,Discharge date before admission date
+1046,474,2026-02-23 02:00:00,EMERGENCY,Fever,13,2026-02-21 02:00:00,"410.9, 272.4, 250.00",410.9,1771830000.0,Discharge date before admission date
+1109,145,2026-09-02 16:00:00,ELECTIVE,Fever,10,2026-08-31 16:00:00,401.9,401.9,1788382800.0,Discharge date before admission date
+1111,4,2026-05-29 06:00:00,ELECTIVE,Chest Pain,4,2026-05-27 06:00:00,"250.00, 401.9, 410.9",250.0,1780048800.0,Discharge date before admission date
+1161,409,2026-09-03 20:00:00,EMERGENCY,Fever,11,2026-09-01 20:00:00,"250.00, 410.9, 272.4",250.0,1788508800.0,Discharge date before admission date

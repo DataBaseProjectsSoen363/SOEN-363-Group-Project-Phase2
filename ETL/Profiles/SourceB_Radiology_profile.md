@@ -39,11 +39,11 @@ radiologist_conclusion    0
 
 ===== SAMPLE RECORDS =====
      exam_id  order_id  technician_name     scan_datetime contrast_used                            findings_text             radiologist_conclusion
-78        79        82   Tech B. Martin  05/06/2026 15:00             Y                Aucune anomalie détectée.                            Normal.
-11        12        12  Tech C. Bernard  01/08/2026 07:00             Y                Aucune anomalie détectée.                            Normal.
-198      199       204  Tech C. Bernard  26/02/2026 01:00             N                Aucune anomalie détectée.                            Normal.
-136      137       141  Tech C. Bernard  04/07/2026 11:00             Y  Légère opacité au lobe inférieur droit.  Corrélation clinique recommandée.
-254      255       261   Tech B. Martin  30/04/2026 03:00             N           Fracture non déplacée visible.  Corrélation clinique recommandée.
+29        30        31  Tech C. Bernard  20/01/2026 12:00             Y  Légère opacité au lobe inférieur droit.  Corrélation clinique recommandée.
+271      272       278  Tech C. Bernard  01/04/2026 13:00             Y                Aucune anomalie détectée.                            Normal.
+237      238      9999  Tech C. Bernard  01/04/2026 23:00             N               Pas d'épanchement pleural.  Corrélation clinique recommandée.
+187      188       192   Tech B. Martin  27/04/2026 23:00             Y           Fracture non déplacée visible.  Corrélation clinique recommandée.
+104      105       108   Tech B. Martin  01/09/2026 19:00             Y           Fracture non déplacée visible.  Corrélation clinique recommandée.
 
 ===== SUMMARY STATISTICS =====
            exam_id     order_id technician_name     scan_datetime contrast_used                   findings_text             radiologist_conclusion

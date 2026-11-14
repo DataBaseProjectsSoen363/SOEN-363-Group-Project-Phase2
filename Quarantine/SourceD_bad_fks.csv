@@ -1,0 +1,28 @@
+admission_id,patient_id,admission_date_time,admission_type,reason_admission,admitting_professional_id,discharge_date_time,diagnosis_codes,primary_diagnosis,diagnosis_timestamp,rejection_reason
+76,9999,2026-05-03 13:00:00,URGENT,Shortness of Breath,11,2026-05-13 13:00:00,,,,Broken patient Foreign Key
+146,9999,2026-01-26 00:00:00,ELECTIVE,Fever,1,2026-01-29 00:00:00,,,,Broken patient Foreign Key
+262,9999,2026-05-07 12:00:00,ELECTIVE,Shortness of Breath,15,2026-05-13 12:00:00,"272.4, 410.9, 250.00",272.4,1778162400.0,Broken patient Foreign Key
+354,9999,2026-08-16 06:00:00,EMERGENCY,Chest Pain,1,2026-08-18 06:00:00,410.9,410.9,1786885200.0,Broken patient Foreign Key
+406,9999,2026-03-25 05:00:00,URGENT,Shortness of Breath,3,2026-03-31 05:00:00,410.9,410.9,1774432800.0,Broken patient Foreign Key
+415,9999,2026-03-14 15:00:00,EMERGENCY,Fever,8,2026-03-18 15:00:00,,,,Broken patient Foreign Key
+430,9999,2026-04-19 07:00:00,URGENT,Fever,3,2026-04-22 07:00:00,"250.00, 272.4",250.0,1776614400.0,Broken patient Foreign Key
+446,9999,2026-07-26 03:00:00,URGENT,Shortness of Breath,13,2026-07-30 03:00:00,250.00,250.0,1785067200.0,Broken patient Foreign Key
+474,9999,2026-09-03 04:00:00,EMERGENCY,Shortness of Breath,3,2026-09-08 04:00:00,"272.4, 401.9, 250.00",272.4,1788451200.0,Broken patient Foreign Key
+482,9999,2026-03-02 15:00:00,ELECTIVE,Chest Pain,14,2026-03-09 15:00:00,"272.4, 410.9",272.4,1772499600.0,Broken patient Foreign Key
+582,9999,2026-02-26 16:00:00,ELECTIVE,Shortness of Breath,2,2026-02-28 16:00:00,"272.4, 410.9, 401.9",272.4,1772139600.0,Broken patient Foreign Key
+674,9999,2026-06-07 04:00:00,EMERGENCY,Chest Pain,8,2026-06-13 04:00:00,401.9,401.9,1780833600.0,Broken patient Foreign Key
+759,9999,2026-07-30 22:00:00,ELECTIVE,Shortness of Breath,14,2026-08-08 22:00:00,"250.00, 410.9, 401.9",250.0,1785470400.0,Broken patient Foreign Key
+779,9999,2026-03-13 16:00:00,EMERGENCY,Fever,1,2026-03-15 16:00:00,,,,Broken patient Foreign Key
+795,9999,2026-05-22 14:00:00,ELECTIVE,Chest Pain,14,2026-05-24 14:00:00,,,,Broken patient Foreign Key
+809,9999,2026-07-08 05:00:00,ELECTIVE,Shortness of Breath,5,2026-07-16 05:00:00,401.9,401.9,1783504800.0,Broken patient Foreign Key
+871,9999,2026-08-11 22:00:00,URGENT,Chest Pain,13,2026-08-18 22:00:00,"250.00, 410.9, 272.4",250.0,1786528800.0,Broken patient Foreign Key
+884,9999,2026-07-28 06:00:00,EMERGENCY,Shortness of Breath,1,2026-07-29 06:00:00,"410.9, 250.00",410.9,1785243600.0,Broken patient Foreign Key
+910,9999,2026-06-17 05:00:00,EMERGENCY,Fever,12,2026-06-23 05:00:00,250.00,250.0,1781704800.0,Broken patient Foreign Key
+949,9999,2026-07-02 08:00:00,URGENT,Chest Pain,3,2026-07-07 08:00:00,"272.4, 401.9, 410.9",272.4,1783022400.0,Broken patient Foreign Key
+960,9999,2026-02-06 18:00:00,URGENT,Shortness of Breath,3,2026-02-11 18:00:00,,,,Broken patient Foreign Key
+987,9999,2026-06-29 10:00:00,EMERGENCY,Chest Pain,15,2026-07-06 10:00:00,250.00,250.0,1782763200.0,Broken patient Foreign Key
+1007,9999,2026-06-22 09:00:00,ELECTIVE,Chest Pain,4,2026-06-27 09:00:00,"410.9, 250.00",410.9,1782136800.0,Broken patient Foreign Key
+1010,9999,2026-04-21 03:00:00,EMERGENCY,Chest Pain,2,2026-04-26 03:00:00,,,,Broken patient Foreign Key
+1019,9999,2026-05-29 01:00:00,URGENT,Shortness of Breath,10,2026-06-06 01:00:00,401.9,401.9,1780020000.0,Broken patient Foreign Key
+1086,9999,2026-03-03 06:00:00,URGENT,Shortness of Breath,3,2026-03-08 06:00:00,"272.4, 250.00, 401.9",272.4,1772553600.0,Broken patient Foreign Key
+1170,9999,2026-03-24 07:00:00,EMERGENCY,Chest Pain,8,2026-03-29 07:00:00,"250.00, 272.4, 410.9",250.0,1774357200.0,Broken patient Foreign Key

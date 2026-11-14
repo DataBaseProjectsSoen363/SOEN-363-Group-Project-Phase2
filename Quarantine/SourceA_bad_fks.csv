@@ -1,0 +1,21 @@
+admission_id,patient_id,admission_date_time,discharge_date_time,admission_type,admission_source,reason_admission,insurance_information,current_condition,admitting_professional_id,rejection_reason
+13,820,2026-09-08 23:15:00,2026-09-17 23:15:00,Elective,Transfer,Syncope,Public (RAMQ),Stable,11,Broken patient Foreign Key
+39,806,2026-04-28 03:00:00,2026-04-29 03:00:00,Elective,Transfer,Chest Pain,Self-pay,Critical,7,Broken patient Foreign Key
+42,838,2026-02-09 04:45:00,2026-02-10 04:45:00,Urgent,Emergency Room,Shortness of Breath,Self-pay,Stable,6,Broken patient Foreign Key
+61,802,2026-05-18 19:00:00,2026-05-24 19:00:00,Observation,Emergency Room,Abdominal Pain,Public (RAMQ),Improving,5,Broken patient Foreign Key
+218,806,2026-06-28 15:45:00,2026-07-03 15:45:00,Observation,Walk-in,Syncope,Public (RAMQ),Improving,10,Broken patient Foreign Key
+242,813,2026-09-02 16:30:00,2026-09-05 16:30:00,Elective,Transfer,Syncope,Self-pay,Critical,3,Broken patient Foreign Key
+245,809,2026-03-28 07:30:00,2026-04-01 07:30:00,Elective,Walk-in,Trauma,Self-pay,Critical,9,Broken patient Foreign Key
+316,816,2026-03-15 14:45:00,2026-03-19 14:45:00,Emergency,Walk-in,Abdominal Pain,,Observation,3,Broken patient Foreign Key
+343,827,2026-01-24 09:00:00,2026-02-01 09:00:00,Elective,Walk-in,Syncope,Self-pay,Critical,13,Broken patient Foreign Key
+408,835,2026-04-04 19:30:00,2026-04-06 19:30:00,EMERGENCY,Emergency Room,Trauma,,Critical,10,Broken patient Foreign Key
+476,808,2026-02-23 09:00:00,2026-02-27 09:00:00,Elective,Transfer,Trauma,Self-pay,Improving,3,Broken patient Foreign Key
+539,844,2026-03-13 10:00:00,2026-03-18 10:00:00,Emergency,Walk-in,Fever,Public (RAMQ),Critical,15,Broken patient Foreign Key
+708,815,2026-05-24 17:15:00,2026-06-02 17:15:00,Emergency,Walk-in,Shortness of Breath,,Stable,3,Broken patient Foreign Key
+747,842,2026-04-27 19:45:00,2026-05-02 19:45:00,Emergency,Emergency Room,Trauma,Self-pay,Critical,9,Broken patient Foreign Key
+800,812,2026-09-04 04:00:00,2026-09-11 04:00:00,Emergency,Walk-in,Fever,Public (RAMQ),Stable,15,Broken patient Foreign Key
+819,807,2026-01-04 21:45:00,2026-01-11 21:45:00,Emergency,Emergency Room,Trauma,Private Insurance,Improving,11,Broken patient Foreign Key
+932,840,2026-06-18 03:30:00,2026-06-28 03:30:00,Urgent,Physician Referral,Syncope,Private Insurance,Critical,3,Broken patient Foreign Key
+980,801,2026-07-16 09:15:00,2026-07-17 09:15:00,Urgent,Transfer,Syncope,Self-pay,Stable,15,Broken patient Foreign Key
+1025,842,2026-02-18 18:00:00,2026-02-23 18:00:00,Elective,Transfer,Shortness of Breath,Private Insurance,Improving,6,Broken patient Foreign Key
+1098,822,2026-02-04 22:00:00,2026-02-05 22:00:00,Elective,Physician Referral,Fever,Private Insurance,Improving,2,Broken patient Foreign Key

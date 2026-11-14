@@ -39,11 +39,11 @@ Phone          0
 
 ===== SAMPLE RECORDS =====
       id  FirstName   LastName     Address          DateOfBirth Gender            Phone
-454  455  Alejandro     Garcia  \n          1953-09-23T13:22:27      F  +34-644-490-711
-549  550      Lucia  Rodriguez  \n          1983-10-21T13:22:27      M  +34-657-419-160
-544  545     Carmen  Rodriguez  \n          1963-03-21T13:22:27      M  +34-673-533-851
-128  129  Alejandro  Rodriguez  \n          1963-09-11T13:22:27      F              NaN
-713  714  Alejandro  Rodriguez  \n          1962-07-22T13:22:27      F  +34-609-871-301
+198  199    Valeria      Perez  \n          1974-02-08T13:22:27      M  +34-697-383-591
+22    23     Daniel      Lopez  \n          1954-12-20T13:22:27      F  +34-630-657-917
+98    99       Hugo  Rodriguez  \n          1975-02-23T13:22:27      M  +34-685-650-517
+509  510      Sofia    Sanchez  \n          1966-04-05T13:22:27      M  +34-647-984-216
+660  661  Alejandro      Perez  \n          1993-07-24T13:22:27      F              NaN
 
 ===== SUMMARY STATISTICS =====
               id FirstName LastName     Address          DateOfBirth Gender            Phone

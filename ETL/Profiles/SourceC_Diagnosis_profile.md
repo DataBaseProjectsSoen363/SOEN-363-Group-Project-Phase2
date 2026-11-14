@@ -30,11 +30,11 @@ DoctorId     0
 
 ===== SAMPLE RECORDS =====
       ICD9Code                 Date  IsPrimary  DoctorId
-2089     272.4  2026-03-05T20:00:00      False         3
-920      250.0  2026-06-11T07:00:00       True        14
-285      272.4  2026-06-28T16:00:00       True         8
-1007     272.4  2026-08-30T11:00:00      False         5
-2058     272.4  2026-08-02T21:00:00       True        15
+1280     401.9  2026-08-12T10:00:00      False         1
+1237     401.9  2026-04-11T08:00:00       True         2
+902      272.4  2026-05-31T09:00:00      False         2
+1325     250.0  2026-04-15T12:00:00      False         8
+1307     401.9  2026-08-10T04:00:00       True         6
 
 ===== SUMMARY STATISTICS =====
            ICD9Code                 Date IsPrimary     DoctorId

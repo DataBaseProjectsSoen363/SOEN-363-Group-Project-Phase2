@@ -1,0 +1,37 @@
+triage_id,admission_id,professional_id,symptoms,esi_priority,heart_rate,oxygen_saturation,blood_pressure,rejection_reason
+13,13,24.0,['Nausea'],ESI-5,-99,0,110/66,Out of bounds vitals
+18,18,20.0,"['Dizziness', 'Nausea']",ESI-5,-99,0,100/70,Out of bounds vitals
+109,109,17.0,"['Fatigue', 'Shortness of Breath', 'Nausea']",ESI-4,-99,0,138/84,Out of bounds vitals
+115,115,19.0,"['Dizziness', 'Shortness of Breath', 'Nausea']",ESI-4,-99,0,108/85,Out of bounds vitals
+177,177,24.0,['Dizziness'],ESI-4,-99,0,111/69,Out of bounds vitals
+188,188,22.0,"['Chest Pain', 'Dizziness', 'Shortness of Breath']",ESI-4,-99,0,133/85,Out of bounds vitals
+208,208,18.0,"['Dizziness', 'Chest Pain', 'Shortness of Breath']",ESI-1,-99,0,121/89,Out of bounds vitals
+215,215,24.0,"['Fatigue', 'Chest Pain']",ESI-1,-99,0,112/76,Out of bounds vitals
+220,220,19.0,"['Nausea', 'Fatigue']",ESI-5,-99,0,139/78,Out of bounds vitals
+226,226,21.0,"['Nausea', 'Chest Pain']",ESI-2,-99,0,118/63,Out of bounds vitals
+281,281,21.0,['Fatigue'],ESI-5,-99,0,127/69,Out of bounds vitals
+327,327,19.0,"['Chest Pain', 'Fatigue', 'Nausea']",ESI-3,-99,0,123/63,Out of bounds vitals
+402,402,17.0,['Shortness of Breath'],ESI-1,-99,0,101/76,Out of bounds vitals
+479,479,18.0,"['Fatigue', 'Chest Pain', 'Shortness of Breath']",ESI-3,-99,0,114/78,Out of bounds vitals
+486,486,22.0,['Nausea'],ESI-4,-99,0,100/79,Out of bounds vitals
+552,552,22.0,"['Fatigue', 'Dizziness', 'Shortness of Breath']",ESI-3,-99,0,116/69,Out of bounds vitals
+609,609,24.0,"['Shortness of Breath', 'Dizziness']",ESI-1,-99,0,113/82,Out of bounds vitals
+674,674,16.0,"['Chest Pain', 'Nausea']",ESI-2,-99,0,128/77,Out of bounds vitals
+683,683,19.0,"['Dizziness', 'Shortness of Breath']",ESI-2,-99,0,135/61,Out of bounds vitals
+729,729,19.0,"['Chest Pain', 'Fatigue']",ESI-3,-99,0,127/84,Out of bounds vitals
+795,795,18.0,"['Nausea', 'Dizziness', 'Fatigue']",ESI-4,-99,0,127/72,Out of bounds vitals
+820,820,21.0,"['Chest Pain', 'Dizziness']",ESI-4,-99,0,117/77,Out of bounds vitals
+822,822,21.0,['Shortness of Breath'],ESI-5,-99,0,139/60,Out of bounds vitals
+873,873,20.0,['Chest Pain'],ESI-4,-99,0,102/84,Out of bounds vitals
+878,878,16.0,"['Nausea', 'Fatigue']",ESI-4,-99,0,132/64,Out of bounds vitals
+973,973,25.0,['Fatigue'],ESI-1,-99,0,105/77,Out of bounds vitals
+991,991,22.0,['Dizziness'],ESI-5,-99,0,134/68,Out of bounds vitals
+1013,1013,20.0,['Fatigue'],ESI-5,-99,0,123/74,Out of bounds vitals
+1026,1026,25.0,"['Nausea', 'Dizziness']",ESI-3,-99,0,112/73,Out of bounds vitals
+1030,1030,22.0,['Fatigue'],ESI-5,-99,0,132/87,Out of bounds vitals
+1048,1048,21.0,"['Shortness of Breath', 'Chest Pain', 'Nausea']",ESI-3,-99,0,110/78,Out of bounds vitals
+1063,1063,24.0,"['Dizziness', 'Chest Pain', 'Shortness of Breath']",ESI-5,-99,0,102/89,Out of bounds vitals
+1084,1084,25.0,['Fatigue'],ESI-1,-99,0,110/83,Out of bounds vitals
+1097,1097,17.0,['Chest Pain'],ESI-4,-99,0,107/79,Out of bounds vitals
+1138,1138,17.0,"['Dizziness', 'Nausea']",ESI-4,-99,0,109/76,Out of bounds vitals
+1172,1172,20.0,"['Dizziness', 'Chest Pain']",ESI-3,-99,0,114/70,Out of bounds vitals

@@ -44,12 +44,12 @@ order_status                   0
 0
 
 ===== SAMPLE RECORDS =====
-     order_id  admission_id  patient_id  requesting_physician_id requested_examination    request_date_time    clinical_reason_examination priority order_status
-128       129           506         243                        6             MRI Brain  2026-05-19 06:00:00  Evaluate for acute pathology.  Routine    Cancelled
-23         24           105         190                        9           Chest X-Ray  2026-05-02 16:30:00  Evaluate for acute pathology.     STAT      Pending
-85         86           322         578                        5       CT Scan - Chest  2026-01-28 10:45:00   Rule out pulmonary embolism.  Routine    Completed
-86         87           325         709                       10       CT Scan - Chest  2026-01-12 21:30:00   Rule out pulmonary embolism.     STAT    Completed
-103       104          9999         800                       11             MRI Brain  2026-03-22 03:30:00  Evaluate for acute pathology.     STAT    Cancelled
+     order_id  admission_id  patient_id  requesting_physician_id requested_examination    request_date_time    clinical_reason_examination  priority order_status
+222       223           956         279                        5  Abdominal Ultrasound  2026-05-19 21:45:00  Evaluate for acute pathology.    Urgent    Completed
+127       128           505         471                       12  Abdominal Ultrasound  2026-08-09 14:00:00  Evaluate for acute pathology.    Urgent    Completed
+34         35           140         205                       14       CT Scan - Chest  2026-02-07 22:00:00   Rule out pulmonary embolism.   Urgent     Completed
+79         80           294         659                        7             MRI Brain  2026-08-05 12:00:00  Evaluate for acute pathology.   Routine    Cancelled
+261       262          1142         313                        1       CT Scan - Chest  2026-06-28 04:00:00   Rule out pulmonary embolism.      STAT    Cancelled
 
 ===== SUMMARY STATISTICS =====
           order_id  admission_id  patient_id  requesting_physician_id requested_examination    request_date_time    clinical_reason_examination priority order_status

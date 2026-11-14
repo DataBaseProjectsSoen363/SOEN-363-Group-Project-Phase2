@@ -1,0 +1,15 @@
+stay_id,visit_id,doctor_mrn,ward_type,ventilator_used,in_date,out_date,transfer_reason,rejection_reason
+7,19,MRN-10005,WARD-ICU,N,2026-05-30 19:00:00,2026-05-30 14:00:00,Surveillance continue,ICU discharge before ICU admit
+11,28,MRN-10001,WARD-SICU,N,2026-03-19 12:00:00,2026-03-19 07:00:00,Détresse respiratoire,ICU discharge before ICU admit
+31,86,MRN-10010,WARD-ICU,N,2026-06-12 00:00:00,2026-06-11 19:00:00,Post-opératoire,ICU discharge before ICU admit
+47,127,MRN-10008,WARD-CCU,Y,2026-01-20 09:00:00,2026-01-20 04:00:00,Surveillance continue,ICU discharge before ICU admit
+74,203,MRN-10001,WARD-ICU,Y,2026-03-17 21:00:00,2026-03-17 16:00:00,Détresse respiratoire,ICU discharge before ICU admit
+83,240,MRN-10007,WARD-SICU,N,2026-03-01 06:00:00,2026-03-01 01:00:00,Post-opératoire,ICU discharge before ICU admit
+144,483,MRN-10005,WARD-CCU,Y,2026-01-17 15:00:00,2026-01-17 10:00:00,Détresse respiratoire,ICU discharge before ICU admit
+147,497,MRN-10015,WARD-ICU,Y,2026-07-02 00:00:00,2026-07-01 19:00:00,Post-opératoire,ICU discharge before ICU admit
+169,590,MRN-10008,WARD-CCU,Y,2026-06-30 06:00:00,2026-06-30 01:00:00,Détresse respiratoire,ICU discharge before ICU admit
+175,605,MRN-10007,WARD-SICU,N,2026-05-11 23:00:00,2026-05-11 18:00:00,Post-opératoire,ICU discharge before ICU admit
+183,638,MRN-10012,WARD-SICU,Y,2026-01-27 10:00:00,2026-01-27 05:00:00,Détresse respiratoire,ICU discharge before ICU admit
+224,738,MRN-10007,WARD-CCU,Y,2026-01-13 03:00:00,2026-01-12 22:00:00,Post-opératoire,ICU discharge before ICU admit
+327,1087,MRN-10014,WARD-CCU,N,2026-04-19 12:00:00,2026-04-19 07:00:00,SURVEILLANCE CONTINUE,ICU discharge before ICU admit
+357,1180,MRN-10005,WARD-CCU,Y,2026-08-31 03:00:00,2026-08-30 22:00:00,Post-opératoire,ICU discharge before ICU admit

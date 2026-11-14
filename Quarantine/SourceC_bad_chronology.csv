@@ -1,0 +1,1 @@
+admission_id,patient_id,admission_date_time,discharge_date_time,admission_type,reason_admission,admitting_professional_id,Diagnoses,rejection_reason

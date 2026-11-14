@@ -1,0 +1,26 @@
+visit_id,patient_mrn,admitting_doctor,admit_date,discharge_date,ward_code,reason_text,rejection_reason
+74,MRN-99999,MRN-10004,2026-08-30 10:00:00,2026-09-03 10:00:00,Pediatrics,Fièvre,Broken patient Foreign Key
+84,MRN-99999,MRN-10007,2026-05-10 13:00:00,2026-05-13 13:00:00,Pediatrics,Douleur Thoracique,Broken patient Foreign Key
+212,MRN-99999,MRN-10001,2026-06-30 16:00:00,2026-07-04 16:00:00,Surgery,Essoufflement,Broken patient Foreign Key
+258,MRN-99999,MRN-10012,2026-02-21 23:00:00,2026-02-22 23:00:00,Surgery,Traumatisme,Broken patient Foreign Key
+341,MRN-99999,MRN-10007,2026-03-01 08:00:00,2026-03-04 08:00:00,Observation,Douleur Thoracique,Broken patient Foreign Key
+344,MRN-99999,MRN-10001,2026-07-14 09:00:00,2026-07-24 09:00:00,Surgery,Traumatisme,Broken patient Foreign Key
+384,MRN-99999,MRN-10003,2026-04-28 00:00:00,2026-05-05 00:00:00,Pediatrics,Fièvre,Broken patient Foreign Key
+392,MRN-99999,MRN-10006,2026-07-01 19:00:00,2026-07-09 19:00:00,Surgery,Essoufflement,Broken patient Foreign Key
+428,MRN-99999,MRN-10004,2026-03-14 02:00:00,2026-03-22 02:00:00,Observation,Traumatisme,Broken patient Foreign Key
+530,MRN-99999,MRN-10012,2026-03-07 05:00:00,2026-03-14 05:00:00,Pediatrics,Traumatisme,Broken patient Foreign Key
+559,MRN-99999,MRN-10006,2026-01-24 12:00:00,2026-01-26 12:00:00,Surgery,Essoufflement,Broken patient Foreign Key
+583,MRN-99999,MRN-10007,2026-04-04 04:00:00,2026-04-12 04:00:00,Medical,Douleur Thoracique,Broken patient Foreign Key
+661,MRN-99999,MRN-10014,2026-02-11 23:00:00,2026-02-19 23:00:00,Surgery,Traumatisme,Broken patient Foreign Key
+667,MRN-99999,MRN-10009,2026-07-07 06:00:00,2026-07-10 06:00:00,Emergency,Essoufflement,Broken patient Foreign Key
+692,MRN-99999,MRN-10009,2026-04-30 17:00:00,2026-05-09 17:00:00,Observation,Douleur Thoracique,Broken patient Foreign Key
+720,MRN-99999,MRN-10005,2026-04-12 14:00:00,2026-04-16 14:00:00,Emergency,Essoufflement,Broken patient Foreign Key
+843,MRN-99999,MRN-10010,2026-08-15 13:00:00,2026-08-23 13:00:00,Pediatrics,Douleur Thoracique,Broken patient Foreign Key
+852,MRN-99999,MRN-10002,2026-07-29 12:00:00,2026-08-06 12:00:00,Emergency,Traumatisme,Broken patient Foreign Key
+855,MRN-99999,MRN-10001,2026-02-04 15:00:00,2026-02-05 15:00:00,Observation,Traumatisme,Broken patient Foreign Key
+903,MRN-99999,MRN-10002,2026-01-26 03:00:00,2026-01-30 03:00:00,Medical,Essoufflement,Broken patient Foreign Key
+966,MRN-99999,MRN-10008,2026-02-16 01:00:00,2026-02-22 01:00:00,Medical,Fièvre,Broken patient Foreign Key
+1010,MRN-99999,MRN-10006,2026-06-08 09:00:00,,Medical,Essoufflement,Broken patient Foreign Key
+1054,MRN-99999,MRN-10008,2026-04-21 20:00:00,2026-04-25 20:00:00,Pediatrics,Fièvre,Broken patient Foreign Key
+1078,MRN-99999,MRN-10004,2026-02-24 21:00:00,2026-02-28 21:00:00,Medical,Essoufflement,Broken patient Foreign Key
+1185,MRN-99999,MRN-10014,2026-01-02 13:00:00,2026-01-12 13:00:00,Medical,Traumatisme,Broken patient Foreign Key

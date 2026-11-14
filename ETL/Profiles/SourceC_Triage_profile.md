@@ -35,12 +35,12 @@ Priority            0
 0
 
 ===== SAMPLE RECORDS =====
-        id  admission_ref  NurseId  HeartRate  OxygenSaturation Priority
-983    984            984       19         79                97    ESI-4
-727    728            728       19         64               100    ESI-4
-943    944            944       17         61                93    ESI-4
-1187  1188           1188       22         86                94    ESI-5
-796    797            797       24         79                94    ESI-3
+      id  admission_ref  NurseId  HeartRate  OxygenSaturation Priority
+172  173            173       23         78                96    ESI-3
+422  423            423       18         82                97    ESI-3
+424  425            425       25         67               100    ESI-2
+825  826            826       22         63                97    ESI-1
+403  404            404       18         74                98    ESI-3
 
 ===== SUMMARY STATISTICS =====
                  id  admission_ref      NurseId    HeartRate  OxygenSaturation Priority

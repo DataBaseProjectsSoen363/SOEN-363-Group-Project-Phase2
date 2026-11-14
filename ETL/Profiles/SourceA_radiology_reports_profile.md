@@ -29,12 +29,12 @@ clinical_conclusion     0
 0
 
 ===== SAMPLE RECORDS =====
-     radiology_report_id                            radiologist_findings                                          interpretation              clinical_conclusion
-68                    71  Mild degenerative changes in the lumbar spine.  Likely benign etiology. Routine follow-up recommended.  Recommend clinical correlation.
-104                  108                  Soft tissues are unremarkable.  Likely benign etiology. Routine follow-up recommended.               No acute findings.
-222                  234  Mild degenerative changes in the lumbar spine.                                     Unremarkable study.  Recommend clinical correlation.
-40                    42   Mild cardiomegaly noted. No pleural effusion.                             No major effusion detected.  Recommend clinical correlation.
-44                    46  Mild degenerative changes in the lumbar spine.           No evidence of acute fracture or dislocation.        Normal structural limits.
+     radiology_report_id                            radiologist_findings                                                interpretation                                    clinical_conclusion
+190                  200   Mild cardiomegaly noted. No pleural effusion.        Likely benign etiology. Routine follow-up recommended.      Further evaluation suggested if symptoms persist.
+195                  205  Mild degenerative changes in the lumbar spine.  Findings are consistent with early congestive heart failure.      Further evaluation suggested if symptoms persist.
+146                  152  Mild degenerative changes in the lumbar spine.        Likely benign etiology. Routine follow-up recommended.    Further evaluation suggested if symptoms persist.  
+72                    75   Mild cardiomegaly noted. No pleural effusion.        Likely benign etiology. Routine follow-up recommended.                              Normal structural limits.
+235                  250   Mild cardiomegaly noted. No pleural effusion.                                           Unremarkable study.                        Recommend clinical correlation.
 
 ===== SUMMARY STATISTICS =====
         radiology_report_id                           radiologist_findings                                                interpretation                clinical_conclusion

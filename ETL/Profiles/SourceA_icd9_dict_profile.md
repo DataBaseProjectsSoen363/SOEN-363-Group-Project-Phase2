@@ -29,12 +29,12 @@ disease_category            0
 0
 
 ===== SAMPLE RECORDS =====
-   icd9_code                                official_diagnosis_title                                             description      disease_category
-8     530.81                                       Esophageal reflux                 Gastroesophageal reflux disease (GERD).      Digestive System
-11     599.0             Urinary tract infection, site not specified                        Infection in the urinary system.  Genitourinary System
-1      410.9           Acute myocardial infarction, unspecified site  Heart attack occurring in an unspecified heart region.    Circulatory System
-12     780.2                                    Syncope and collapse                                Fainting or passing out.        Nervous System
-7     491.21  Obstructive chronic bronchitis with acute exacerbation                        Worsening of chronic bronchitis.    Respiratory System
+   icd9_code                                official_diagnosis_title                                             description     disease_category
+2     250.00                  Diabetes mellitus without complication         Type II or unspecified diabetes managed stably.  Endocrine/Metabolic
+7     491.21  Obstructive chronic bronchitis with acute exacerbation                        Worsening of chronic bronchitis.   Respiratory System
+14     784.0                                                Headache                                       Pain in the head.       Nervous System
+16    789.00                        Abdominal pain, unspecified site                                    Pain in the abdomen.     Digestive System
+1      410.9           Acute myocardial infarction, unspecified site  Heart attack occurring in an unspecified heart region.   Circulatory System
 
 ===== SUMMARY STATISTICS =====
        icd9_code            official_diagnosis_title                                  description    disease_category

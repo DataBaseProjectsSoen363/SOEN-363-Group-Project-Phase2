@@ -1,0 +1,4 @@
+Failed to clean Source C (Patient): 'name'
+Failed to clean Source C (Admission): 'admit_datetime'
+Failed to clean Source C (Triage): 'heart_rate'
+Failed to clean Source C (Diagnosis): 'diagnosis_datetime'

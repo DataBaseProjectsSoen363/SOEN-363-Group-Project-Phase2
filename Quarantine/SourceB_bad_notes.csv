@@ -1,0 +1,30 @@
+note_id,visit_id,author_mrn,note_format,created_datetime,note_text,rejection_reason
+32,37,MRN-10014,Narrative,2026-04-10 22:00:00,,Missing note text
+58,66,MRN-10010,Discharge Summary,2026-04-15 00:00:00,,Missing note text
+90,104,MRN-10001,Narrative,2026-08-22 10:00:00,,Missing note text
+142,164,MRN-10006,SOAP,2026-07-28 05:00:00,,Missing note text
+150,173,MRN-10015,Narrative,2026-04-12 04:00:00,,Missing note text
+179,205,MRN-10009,Discharge Summary,2026-07-18 03:00:00,,Missing note text
+187,215,MRN-10005,SOAP,2026-09-08 12:00:00,,Missing note text
+254,288,MRN-10007,Discharge Summary,2026-07-20 01:00:00,,Missing note text
+274,310,MRN-10009,SOAP,2026-01-25 16:00:00,,Missing note text
+275,311,MRN-10003,Discharge Summary,2026-06-05 08:00:00,,Missing note text
+350,402,MRN-10001,Narrative,2026-05-11 03:00:00,,Missing note text
+375,429,MRN-10012,SOAP,2026-08-01 18:00:00,,Missing note text
+380,435,MRN-10003,SOAP,2026-03-10 12:00:00,,Missing note text
+407,466,MRN-10006,SOAP,2026-07-26 19:00:00,,Missing note text
+421,9999,MRN-10007,Narrative,2026-01-17 09:00:00,,Missing note text
+433,496,MRN-10003,SOAP,2026-05-15 12:00:00,,Missing note text
+564,650,MRN-10008,SOAP,2026-02-04 06:00:00,,Missing note text
+592,682,MRN-10004,SOAP,2026-09-06 20:00:00,,Missing note text
+694,792,MRN-10015,Narrative,2026-08-17 11:00:00,,Missing note text
+720,822,MRN-10013,Discharge Summary,2026-08-10 09:00:00,,Missing note text
+741,844,MRN-10012,Narrative,2026-08-04 23:00:00,,Missing note text
+745,9999,MRN-10003,Discharge Summary,2026-07-23 07:00:00,,Missing note text
+858,980,MRN-10006,Narrative,2026-05-12 06:00:00,,Missing note text
+880,1003,MRN-10014,Discharge Summary,2026-01-11 02:00:00,,Missing note text
+985,1122,MRN-10010,Narrative,2026-07-29 10:00:00,,Missing note text
+994,1133,MRN-10007,Narrative,2026-02-20 21:00:00,,Missing note text
+1008,1149,MRN-10008,Narrative,2026-08-30 18:00:00,,Missing note text
+1026,1170,MRN-10012,Discharge Summary,2026-03-25 23:00:00,,Missing note text
+1051,1197,MRN-10005,SOAP,2026-03-20 22:00:00,,Missing note text

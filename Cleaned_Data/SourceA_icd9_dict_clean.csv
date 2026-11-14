@@ -1,0 +1,21 @@
+icd9_code,official_diagnosis_title,description,disease_category
+401.9,Unspecified essential hypertension,High blood pressure with no specific cause.,Circulatory System
+410.9,"Acute myocardial infarction, unspecified site",Heart attack occurring in an unspecified heart region.,Circulatory System
+250.00,Diabetes mellitus without complication,Type II or unspecified diabetes managed stably.,Endocrine/Metabolic
+272.4,Other and unspecified hyperlipidemia,Elevated cholesterol and lipids.,Endocrine/Metabolic
+428.0,"Congestive heart failure, unspecified",Inability of the heart to pump enough blood.,Circulatory System
+427.31,Atrial fibrillation,Irregular and often rapid heart rate.,Circulatory System
+486,"Pneumonia, organism unspecified",Infection of the lungs.,Respiratory System
+491.21,Obstructive chronic bronchitis with acute exacerbation,Worsening of chronic bronchitis.,Respiratory System
+530.81,Esophageal reflux,Gastroesophageal reflux disease (GERD).,Digestive System
+531.90,"Gastric ulcer, unspecified as acute or chronic",Ulcer in the stomach lining.,Digestive System
+584.9,"Acute kidney failure, unspecified",Sudden loss of kidney function.,Genitourinary System
+599.0,"Urinary tract infection, site not specified",Infection in the urinary system.,Genitourinary System
+780.2,Syncope and collapse,Fainting or passing out.,Nervous System
+780.39,Other convulsions,Seizures or convulsions.,Nervous System
+784.0,Headache,Pain in the head.,Nervous System
+786.50,"Chest pain, unspecified",Pain in the chest area.,Respiratory System
+789.00,"Abdominal pain, unspecified site",Pain in the abdomen.,Digestive System
+790.6,Other abnormal blood chemistry,Abnormal findings in blood tests.,Endocrine/Metabolic
+995.3,"Allergy, unspecified",Allergic reaction of unspecified type.,Immune System
+V58.69,Long-term use of other medications,Patient is on long-term medication therapy.,Factors Influencing Health

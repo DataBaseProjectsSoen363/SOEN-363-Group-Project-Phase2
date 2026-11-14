@@ -33,11 +33,11 @@ surgeryTimestamp    0
 
 ===== SAMPLE RECORDS =====
      surgeryId  visitId procedureCode  surgeonId  surgeryTimestamp
-238        239     1144     PROC-CABG         10        1787270400
-49          50      219      PROC-APP          4        1769990400
-192        193      927      PROC-APP          2        1780790400
-122        123      596     PROC-CHOL         13        1768348800
-181        182      891     PROC-CHOL          3        1775865600
+86          87      422      PROC-APP          6        1772928000
+204        205      962     PROC-CABG          5        1772582400
+6            7       13     PROC-CHOL         13        1788048000
+237        238     1143      PROC-APP         13        1786406400
+198        199      948      PROC-APP          5        1781222400
 
 ===== SUMMARY STATISTICS =====
          surgeryId      visitId procedureCode   surgeonId  surgeryTimestamp

@@ -1,0 +1,190 @@
+PS C:\DB_Projects\SOEN-363-Group-Project-Phase2\ETL> python run_all.py
+ Starting Task 1 ETL Pipeline...
+
+Running ETL_Load_SourceA.py...
+--- Starting Task 1 (Profile) & Task 2 (Clean) for Source A ---
+
+[Task 1] Successfully loaded and profiled: patients
+Cleaning Source A Patients...
+ -> Saved 792 clean patients. Quarantined 8 future dates.
+[Task 2] Successfully cleaned: patients
+
+[Task 1] Successfully loaded and profiled: admissions
+Cleaning Source A Admissions...
+ -> Saved 1156 clean admissions. Quarantined 24 bad dates.
+[Task 2] Successfully cleaned: admissions
+
+[Task 1] Successfully loaded and profiled: triage_assessments
+Cleaning Source A Triage...
+ -> Saved 1170 clean triage records. Quarantined 30 bad vitals.
+[Task 2] Successfully cleaned: triage_assessments
+
+[Task 1] Successfully loaded and profiled: clinical_notes
+Cleaning Source A Clinical Notes...
+ -> Saved 1107 clean clinical notes. Quarantined 6 truncated notes.
+[Task 2] Successfully cleaned: clinical_notes
+
+[Task 1] Successfully loaded and profiled: diagnoses
+Cleaning Source A Diagnoses...
+ -> Saved 2119 clean diagnoses.
+[Task 2] Successfully cleaned: diagnoses
+
+[Task 1] Successfully loaded and profiled: diagnostic_orders
+Cleaning Source A Diagnostic Orders...
+ -> Saved 275 clean diagnostic orders.
+[Task 2] Successfully cleaned: diagnostic_orders
+
+[Task 1] Successfully loaded and profiled: discharge_records
+Cleaning Source A Discharge Records...
+ -> Saved 1176 clean discharge records.
+[Task 2] Successfully cleaned: discharge_records
+
+[Task 1] Successfully loaded and profiled: icu_stays
+Cleaning Source A ICU Stays...
+ -> Saved 350 clean ICU stays. Quarantined 5 bad dates.
+[Task 2] Successfully cleaned: icu_stays
+
+[Task 1] Successfully loaded and profiled: professionals
+Cleaning Source A Professionals...
+ -> Saved 25 clean professionals.
+[Task 2] Successfully cleaned: professionals
+
+[Task 1] Successfully loaded and profiled: radiology_examinations
+Cleaning Source A Radiology Examinations...
+ -> Saved 275 clean radiology exams.
+[Task 2] Successfully cleaned: radiology_examinations
+
+[Task 1] Successfully loaded and profiled: radiology_reports
+Cleaning Source A Radiology Reports...
+ -> Saved 257 clean radiology reports.
+[Task 2] Successfully cleaned: radiology_reports
+
+[Task 1] Successfully loaded and profiled: surgical_procedures
+Cleaning Source A Surgical Procedures...
+ -> Saved 247 clean surgical procedures.
+[Task 2] Successfully cleaned: surgical_procedures
+
+[Task 1] Successfully loaded and profiled: icd9_dict
+[Task 2] Skipped cleaning: icd9_dict (No cleaner defined)
+
+All Source A files profiled and cleaned.
+ ETL_Load_SourceA.py completed successfully.
+Running ETL_Load_SourceB.py...
+--- Starting Task 1 (Profile) & Task 2 (Clean) for Source B ---
+
+[Task 1] Successfully loaded and profiled: Patient
+Cleaning Source B Patients...
+ -> Saved 800 clean Source B patients.
+[Task 2] Successfully cleaned: Patient
+
+[Task 1] Successfully loaded and profiled: Admission
+Cleaning Source B Admissions...
+ -> Saved 1148 clean Source B admissions. Quarantined 27 bad dates.
+[Task 2] Successfully cleaned: Admission
+
+[Task 1] Successfully loaded and profiled: Triage
+Cleaning Source B Triage...
+ -> Saved 1130 clean Source B triage. Quarantined 45 bad vitals.
+[Task 2] Successfully cleaned: Triage
+
+[Task 1] Successfully loaded and profiled: Clinical_Note
+Cleaning Source B Clinical Notes...
+ -> Saved 1024 clean clinical notes. Quarantined 29 empty notes.
+[Task 2] Successfully cleaned: Clinical_Note
+
+[Task 1] Successfully loaded and profiled: Diagnosis
+Cleaning Source B Diagnoses...
+ -> Saved 2133 clean diagnoses.
+[Task 2] Successfully cleaned: Diagnosis
+
+[Task 1] Successfully loaded and profiled: Diagnostic_Order
+Cleaning Source B Diagnostic Orders...
+ -> Saved 307 clean diagnostic orders.
+[Task 2] Successfully cleaned: Diagnostic_Order
+
+[Task 1] Successfully loaded and profiled: Discharge_Record
+Cleaning Source B Discharge Records...
+ -> Saved 1148 clean discharge records.
+[Task 2] Successfully cleaned: Discharge_Record
+
+[Task 1] Successfully loaded and profiled: ICU_Stay
+Cleaning Source B ICU Stays...
+ -> Saved 346 clean ICU stays. Quarantined 14 bad dates.
+[Task 2] Successfully cleaned: ICU_Stay
+
+[Task 1] Successfully loaded and profiled: Radiology
+Cleaning Source B Radiology...
+ -> Saved 301 clean radiology exams.
+[Task 2] Successfully cleaned: Radiology
+
+[Task 1] Successfully loaded and profiled: Surgical_Procedure
+Cleaning Source B Surgical Procedures...
+ -> Saved 237 clean surgical procedures.
+[Task 2] Successfully cleaned: Surgical_Procedure
+
+All Source B files profiled and cleaned.
+ ETL_Load_SourceB.py completed successfully.
+Running ETL_Load_SourceC.py...
+--- Starting Task 1 (Profile) & Task 2 (Clean) for Source C ---
+
+[Task 1] Successfully loaded and profiled: Patient
+Cleaning Source C Patients...
+ -> Saved 800 clean Source C patients.
+[Task 2] Successfully cleaned: Patient
+
+[Task 1] Successfully loaded and profiled: Admission
+Cleaning Source C Admissions...
+ -> Saved 1200 clean Source C admissions. Quarantined 0 bad dates.
+[Task 2] Successfully cleaned: Admission
+
+[Task 1] Successfully loaded and profiled: Triage
+Cleaning Source C Triage...
+ -> Saved 1177 clean Source C triage. Quarantined 23 bad vitals.
+[Task 2] Successfully cleaned: Triage
+
+[Task 1] Successfully loaded and profiled: Diagnosis
+Cleaning Source C Diagnoses...
+ -> Saved 2184 clean Source C diagnoses.
+[Task 2] Successfully cleaned: Diagnosis
+
+All Source C files profiled and cleaned.
+ ETL_Load_SourceC.py completed successfully.
+Running ETL_Load_SourceD.py...
+Successfully loaded and profiled Source D: patients
+Successfully loaded and profiled Source D: admissions
+Successfully loaded and profiled Source D: triage
+Successfully loaded and profiled Source D: icu
+Successfully loaded and profiled Source D: surgery
+Successfully loaded and profiled Source D: notes
+Successfully loaded and profiled Source D: orders
+Successfully loaded and profiled Source D: discharge
+
+--- Starting Task 2 Cleaning for Source D ---
+Cleaning Source D Patients...
+ -> Saved 800 clean Source D patients. Quarantined 0 future dates.
+Successfully cleaned Source D: patients
+Cleaning Source D Admissions...
+ -> Saved 1153 clean Source D admissions. Quarantined 20 bad dates, 27 bad FKs.
+Successfully cleaned Source D: admissions
+Cleaning Source D Triage...
+ -> Saved 1164 clean Source D triage. Quarantined 36 bad vitals.
+Successfully cleaned Source D: triage
+Cleaning Source D ICU Stays...
+ -> Saved 344 clean Source D ICU stays. Quarantined 7 bad dates.
+Successfully cleaned Source D: icu
+Cleaning Source D Surgical Procedures...
+ -> Saved 251 clean Source D surgical procedures.
+Successfully cleaned Source D: surgery
+Cleaning Source D Clinical Notes...
+ -> Saved 1040 clean Source D notes. Quarantined 27 empty notes.
+Successfully cleaned Source D: notes
+Cleaning Source D Diagnostic Orders...
+ -> Saved 307 clean Source D diagnostic orders.
+Successfully cleaned Source D: orders
+Cleaning Source D Discharge Records...
+ -> Saved 1136 clean Source D discharge records.
+Successfully cleaned Source D: discharge
+ ETL_Load_SourceD.py completed successfully.
+
+ All Source Loaders Finished.
+PS C:\DB_Projects\SOEN-363-Group-Project-Phase2\ETL> 

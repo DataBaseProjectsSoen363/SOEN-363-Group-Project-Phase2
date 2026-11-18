@@ -33,11 +33,11 @@ condition             0
 
 ===== SAMPLE RECORDS =====
      dischargeId  visitId  dischargeTimestamp destination condition
-368          369      386          1784764800         SNF    Stable
-698          699      731          1772928000        HOME    Stable
-641          642      674          1788048000         SNF    Stable
-841          842      883          1774224000         SNF  Improved
-594          595      627          1768694400       REHAB  Critical
+223          224      234          1772064000       REHAB  Improved
+509          510      535          1768867200         SNF  Improved
+456          457      481          1767830400        HOME  Critical
+201          202      212          1787702400       REHAB  Improved
+358          359      375          1780790400        HOME    Stable
 
 ===== SUMMARY STATISTICS =====
         dischargeId      visitId  dischargeTimestamp destination condition

@@ -45,11 +45,11 @@ report_conclusion    0
 
 ===== SAMPLE RECORDS =====
      orderId  visitId  doctorId examType  orderTimestamp  examTimestamp technician report_findings   report_conclusion
-250      251      991         4    X-Ray      1780729200     1780736400     Tech_2           Clear  No acute findings.
-268      269     1057         3      MRI      1774497600     1774504800     Tech_8           Clear  No acute findings.
-159      160      605        13  CT Scan      1785920400     1785927600     Tech_1          Normal  No acute findings.
-229      230      897        12      MRI      1770429600     1770436800     Tech_1           Clear  No acute findings.
-305      306     1185         3    X-Ray      1783587600     1783594800     Tech_1           Clear  No acute findings.
+138      139      513         3    X-Ray      1769313600     1769320800     Tech_1    Mild opacity  No acute findings.
+123      124      449        10  CT Scan      1784433600     1784440800     Tech_2    Mild opacity  No acute findings.
+164      165      618         5  CT Scan      1774659600     1774666800     Tech_6          Normal  No acute findings.
+279      280     1081         8    X-Ray      1767870000     1767877200     Tech_2           Clear  No acute findings.
+166      167      629        14  CT Scan      1786683600     1786690800     Tech_4    Mild opacity  No acute findings.
 
 ===== SUMMARY STATISTICS =====
            orderId      visitId    doctorId examType  orderTimestamp  examTimestamp technician report_findings   report_conclusion

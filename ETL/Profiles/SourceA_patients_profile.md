@@ -44,12 +44,12 @@ phone_number                0
 0
 
 ===== SAMPLE RECORDS =====
-     patient_id              name health_insurance_number life_status                          address  date_birth  gender emergency_contact_number  phone_number
-735         736     Amelie Miller              RAMQ551832       Alive                427 Guy St, Laval  1954-04-17    Male             514-555-9151  514-555-9151
-477         478     Amelie Miller              RAMQ373056       Alive  3128 Sainte-Catherine St, Laval  2005-12-10  Female             514-555-8347  514-555-8347
-675         676  Michael Tremblay              RAMQ230775       Alive     4246 Papineau Ave, Longueuil  1993-08-28    Male             514-555-1756  514-555-1756
-556         557       John Miller              RAMQ932026       Alive           3507 Guy St, Longueuil  1959-02-05    Male             514-555-5273  514-555-5273
-275         276    Sarah Charette              RAMQ309452       Alive          2254 Atwater Ave, Laval  1972-04-17    Male             514-555-4402  514-555-4402
+     patient_id            name health_insurance_number life_status                          address  date_birth  gender emergency_contact_number  phone_number
+635         636     Emily Brown              RAMQ727959       Alive  4192 Sherbrooke St, Quebec City  1957-12-27    Male             514-555-7366  514-555-7366
+567         568  Sarah Charette              RAMQ872652       Alive            142 Guy St, Longueuil  1956-11-16    Male             514-555-5661  514-555-5661
+239         240    Amelie Jones              RAMQ265154       Alive           3678 Guy St, Longueuil  1958-08-21  Female             514-555-3872  514-555-3872
+142         143     Emily Brown              RAMQ741181       Alive        3963 Sherbrooke St, Laval  1958-09-25  Female             514-555-6140  514-555-6140
+790         791   John Charette              RAMQ648600       Alive    2473 Atwater Ave, Quebec City  1981-10-24    Male             514-555-1255  514-555-1255
 
 ===== SUMMARY STATISTICS =====
         patient_id           name health_insurance_number life_status                        address  date_birth gender emergency_contact_number  phone_number

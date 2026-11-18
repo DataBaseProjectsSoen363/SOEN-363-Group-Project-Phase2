@@ -29,12 +29,12 @@ clinical_conclusion     0
 0
 
 ===== SAMPLE RECORDS =====
-     radiology_report_id                            radiologist_findings                                                interpretation                                    clinical_conclusion
-190                  200   Mild cardiomegaly noted. No pleural effusion.        Likely benign etiology. Routine follow-up recommended.      Further evaluation suggested if symptoms persist.
-195                  205  Mild degenerative changes in the lumbar spine.  Findings are consistent with early congestive heart failure.      Further evaluation suggested if symptoms persist.
-146                  152  Mild degenerative changes in the lumbar spine.        Likely benign etiology. Routine follow-up recommended.    Further evaluation suggested if symptoms persist.  
-72                    75   Mild cardiomegaly noted. No pleural effusion.        Likely benign etiology. Routine follow-up recommended.                              Normal structural limits.
-235                  250   Mild cardiomegaly noted. No pleural effusion.                                           Unremarkable study.                        Recommend clinical correlation.
+     radiology_report_id                           radiologist_findings                                          interpretation                                clinical_conclusion
+60                    63                 Soft tissues are unremarkable.           No evidence of acute fracture or dislocation.  Further evaluation suggested if symptoms persist.
+57                    60  Mild cardiomegaly noted. No pleural effusion.           No evidence of acute fracture or dislocation.                          Normal structural limits.
+259                  275        No acute bony abnormalities identified.                             No major effusion detected.                          Normal structural limits.
+165                  173                 Soft tissues are unremarkable.  Likely benign etiology. Routine follow-up recommended.                    Recommend clinical correlation.
+238                  253  Mild cardiomegaly noted. No pleural effusion.                             No major effusion detected.  Further evaluation suggested if symptoms persist.
 
 ===== SUMMARY STATISTICS =====
         radiology_report_id                           radiologist_findings                                                interpretation                clinical_conclusion

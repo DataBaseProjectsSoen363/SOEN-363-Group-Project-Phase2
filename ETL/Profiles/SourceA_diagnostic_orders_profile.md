@@ -45,11 +45,11 @@ order_status                   0
 
 ===== SAMPLE RECORDS =====
      order_id  admission_id  patient_id  requesting_physician_id requested_examination    request_date_time    clinical_reason_examination  priority order_status
-222       223           956         279                        5  Abdominal Ultrasound  2026-05-19 21:45:00  Evaluate for acute pathology.    Urgent    Completed
-127       128           505         471                       12  Abdominal Ultrasound  2026-08-09 14:00:00  Evaluate for acute pathology.    Urgent    Completed
+189       190           813         168                        6       CT Scan - Chest  2026-07-14 07:15:00   Rule out pulmonary embolism.    Urgent      Pending
+61         62           225          43                       11  Abdominal Ultrasound  2026-02-27 04:30:00  Evaluate for acute pathology.   Routine      Pending
+111       112           424         209                        8       CT Scan - Chest  2026-05-27 21:30:00   Rule out pulmonary embolism.   Routine    Cancelled
 34         35           140         205                       14       CT Scan - Chest  2026-02-07 22:00:00   Rule out pulmonary embolism.   Urgent     Completed
-79         80           294         659                        7             MRI Brain  2026-08-05 12:00:00  Evaluate for acute pathology.   Routine    Cancelled
-261       262          1142         313                        1       CT Scan - Chest  2026-06-28 04:00:00   Rule out pulmonary embolism.      STAT    Cancelled
+172       173           697         134                        4             MRI Brain  2026-06-08 01:30:00  Evaluate for acute pathology.      STAT    Completed
 
 ===== SUMMARY STATISTICS =====
           order_id  admission_id  patient_id  requesting_physician_id requested_examination    request_date_time    clinical_reason_examination priority order_status

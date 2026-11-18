@@ -33,11 +33,11 @@ contact         0
 
 ===== SAMPLE RECORDS =====
      patientId                                    name  dobTimestamp gender                                           contact
-636        637    {'first': 'Yui', 'last': 'Watanabe'}    -171116333      F  {'phone': '+81-85-3129-3046', 'city': 'Sapporo'}
-264        265        {'first': 'Ren', 'last': 'Sato'}    -142085933      F   {'phone': '+81-80-8999-8392', 'city': 'Nagoya'}
-651        652       {'first': 'Yuki', 'last': 'Sato'}    -494338733      M    {'phone': '+81-88-5423-9315', 'city': 'Kyoto'}
-270        271  {'first': 'Yuki', 'last': 'Takahashi'}    -742133933      M  {'phone': '+81-89-1298-1649', 'city': 'Sapporo'}
-37          38         {'first': 'Aoi', 'last': 'Ito'}     930051666      F    {'phone': '+81-83-1141-5023', 'city': 'Tokyo'}
+452        453  {'first': 'Yuki', 'last': 'Takahashi'}    1029325266      M  {'phone': '+81-80-1324-7673', 'city': 'Sapporo'}
+772        773     {'first': 'Hina', 'last': 'Suzuki'}     593696466      F   {'phone': '+81-80-4102-2608', 'city': 'Nagoya'}
+238        239   {'first': 'Aoi', 'last': 'Takahashi'}    -793023533      F    {'phone': '+81-82-9949-9753', 'city': 'Tokyo'}
+350        351      {'first': 'Ren', 'last': 'Tanaka'}    -182434733      F   {'phone': '+81-89-1615-7109', 'city': 'Nagoya'}
+191        192         {'first': 'Aoi', 'last': 'Ito'}    -591279533      F  {'phone': '+81-87-9785-4452', 'city': 'Sapporo'}
 
 ===== SUMMARY STATISTICS =====
         patientId                                  name  dobTimestamp gender                           contact

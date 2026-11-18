@@ -47,12 +47,12 @@ admitting_professional_id    0
 0
 
 ===== SAMPLE RECORDS =====
-      admission_id  patient_id  admission_date_time  discharge_date_time admission_type    admission_source     reason_admission insurance_information current_condition  admitting_professional_id
-219            220         242  2026-02-06 09:45:00  2026-02-12 09:45:00    Observation            Transfer                Fever         Public (RAMQ)          Critical                         14
-150            151          99  2026-01-18 22:45:00  2026-01-28 22:45:00         Urgent            Transfer           Chest Pain              Self-pay         Improving                         12
-961            962         789  2026-03-04 21:45:00  2026-03-05 21:45:00       Elective      Emergency Room              Syncope              Self-pay       Observation                         11
-1119          1120         619  2026-06-26 23:30:00  2026-06-27 23:30:00    OBSERVATION      Emergency Room           Chest Pain     Private Insurance            Stable                          8
-203            204         123  2026-05-16 06:15:00  2026-05-25 06:15:00         Urgent  Physician Referral  Shortness of Breath              Self-pay          Critical                         15
+     admission_id  patient_id  admission_date_time  discharge_date_time admission_type    admission_source     reason_admission insurance_information current_condition  admitting_professional_id
+543           544         439  2026-03-31 03:30:00  2026-04-10 03:30:00         Urgent  Physician Referral               Trauma              Self-pay         Improving                          5
+949           950         447  2026-05-06 08:30:00  2026-05-08 08:30:00    Observation            Transfer       Abdominal Pain         Public (RAMQ)         Improving                          6
+408           409         574  2026-08-08 07:30:00  2026-08-11 07:30:00    Observation      Emergency Room  Shortness of Breath              Self-pay          Critical                         15
+955           956         279  2026-05-19 20:45:00  2026-05-27 20:45:00       Elective            Transfer  Shortness of Breath         Public (RAMQ)          Critical                         14
+497           498         700  2026-05-03 09:30:00  2026-05-01 09:30:00       Elective  Physician Referral  Shortness of Breath              Self-pay         Improving                          3
 
 ===== SUMMARY STATISTICS =====
         admission_id   patient_id  admission_date_time  discharge_date_time admission_type admission_source reason_admission insurance_information current_condition  admitting_professional_id

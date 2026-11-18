@@ -45,11 +45,11 @@ medical_images            0
 
 ===== SAMPLE RECORDS =====
      examination_id  order_id      examination_type examination_date_time body_area_examined  referring_physician_id radiology_technician examination_status medical_images
-107             108       108           Chest X-Ray   2026-02-01 06:30:00              Chest                       6        Tech C. Smith            Pending     DICOM-3992
-106             107       107           Chest X-Ray   2026-02-03 07:15:00              Chest                       1     Tech D. Tremblay          Finalized     DICOM-8346
-244             245       245  Abdominal Ultrasound   2026-06-27 02:45:00            Abdomen                       6        Tech C. Smith            Pending     DICOM-8313
-75               76        76             MRI Brain   2026-06-25 10:30:00               Head                       9        Tech C. Smith            Pending     DICOM-7873
-117             118       118             MRI Brain   2026-03-23 20:30:00               Head                      13        Tech C. Smith        In Progress            NaN
+193             194       194  Abdominal Ultrasound   2026-08-19 22:00:00            Abdomen                       9       Tech B. Gagnon        In Progress     DICOM-6213
+78               79        79  Abdominal Ultrasound   2026-06-15 20:15:00            Abdomen                      15       Tech B. Gagnon            Pending     DICOM-1647
+211             212       212           Chest X-Ray   2026-04-15 00:15:00              Chest                       1       Tech B. Gagnon            Pending     DICOM-4755
+221             222       222           Chest X-Ray   2026-01-10 09:45:00              Chest                      12          Tech A. Roy            Pending     DICOM-3320
+162             163       163             MRI Brain   2026-08-28 11:30:00               Head                       7     Tech D. Tremblay        In Progress            NaN
 
 ===== SUMMARY STATISTICS =====
         examination_id     order_id examination_type examination_date_time body_area_examined  referring_physician_id radiology_technician examination_status medical_images

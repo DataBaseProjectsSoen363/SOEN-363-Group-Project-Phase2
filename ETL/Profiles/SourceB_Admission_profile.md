@@ -38,12 +38,12 @@ reason_text         0
 0
 
 ===== SAMPLE RECORDS =====
-     visit_id patient_mrn admitting_doctor        admit_date    discharge_date ward_code         reason_text
-295       296   MRN-27176        MRN-10013  02/01/2026 20:00  09/01/2026 20:00      PEDS       Essoufflement
-329       330   MRN-62011        MRN-10005  01/06/2026 12:00  02/06/2026 12:00      SURG         Traumatisme
-469       470   MRN-27288        MRN-10012  10/01/2026 11:00  18/01/2026 11:00       MED       Essoufflement
-707       708   MRN-11730        MRN-10002  17/06/2026 18:00  15/06/2026 18:00       OBS  Douleur thoracique
-967       968   MRN-70665        MRN-10006  22/07/2026 09:00  27/07/2026 09:00      PEDS              Fièvre
+      visit_id patient_mrn admitting_doctor        admit_date    discharge_date ward_code         reason_text
+862        863   MRN-41426        MRN-10001  26/02/2026 10:00  27/02/2026 10:00      PEDS         Traumatisme
+1084      1085   MRN-61280        MRN-10010  04/09/2026 12:00  14/09/2026 12:00       MED  Douleur thoracique
+510        511   MRN-63433        MRN-10005  03/06/2026 22:00  09/06/2026 22:00       MED  Douleur thoracique
+293        294   MRN-30948        MRN-10011  21/03/2026 06:00  27/03/2026 06:00      EMER         Traumatisme
+42          43   MRN-38091        MRN-10014  06/01/2026 16:00  16/01/2026 16:00      PEDS  Douleur thoracique
 
 ===== SUMMARY STATISTICS =====
            visit_id patient_mrn admitting_doctor        admit_date discharge_date ward_code         reason_text

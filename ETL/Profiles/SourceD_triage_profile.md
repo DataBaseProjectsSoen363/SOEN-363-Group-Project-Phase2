@@ -35,12 +35,12 @@ triagePriority    0
 0
 
 ===== SAMPLE RECORDS =====
-      triageId  visitId  nurseId                                                                 vitals                                          symptoms triagePriority
-1081      1082     1082     20.0   {'heartRate': 73, 'oxygenSaturation': 98, 'bloodPressure': '129/73'}                           ['Dizziness', 'Nausea']          ESI-3
-722        723      723     18.0   {'heartRate': 83, 'oxygenSaturation': 98, 'bloodPressure': '119/82'}                       ['Dizziness', 'Chest Pain']          ESI-5
-1136      1137     1137     22.0  {'heartRate': 65, 'oxygenSaturation': 100, 'bloodPressure': '135/65'}              ['Shortness of Breath', 'Dizziness']          ESI-4
-127        128      128     18.0   {'heartRate': 76, 'oxygenSaturation': 99, 'bloodPressure': '127/64'}                                     ['Dizziness']          ESI-3
-478        479      479     18.0   {'heartRate': -99, 'oxygenSaturation': 0, 'bloodPressure': '114/78'}  ['Fatigue', 'Chest Pain', 'Shortness of Breath']          ESI-3
+     triageId  visitId  nurseId                                                                 vitals                                            symptoms triagePriority
+913       914      914     18.0  {'heartRate': 100, 'oxygenSaturation': 99, 'bloodPressure': '131/76'}                                       ['Dizziness']          ESI-1
+187       188      188     22.0   {'heartRate': -99, 'oxygenSaturation': 0, 'bloodPressure': '133/85'}  ['Chest Pain', 'Dizziness', 'Shortness of Breath']          ESI-4
+490       491      491     22.0   {'heartRate': 99, 'oxygenSaturation': 96, 'bloodPressure': '129/60'}                               ['Nausea', 'Fatigue']          ESI-1
+935       936      936     22.0   {'heartRate': 64, 'oxygenSaturation': 98, 'bloodPressure': '107/90'}                                       ['Dizziness']          ESI-3
+755       756      756     23.0   {'heartRate': 94, 'oxygenSaturation': 96, 'bloodPressure': '113/76'}                  ['Shortness of Breath', 'Fatigue']          ESI-3
 
 ===== SUMMARY STATISTICS =====
            triageId      visitId      nurseId                                                                vitals       symptoms triagePriority

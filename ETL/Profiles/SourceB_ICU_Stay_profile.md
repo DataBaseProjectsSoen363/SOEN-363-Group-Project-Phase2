@@ -42,11 +42,11 @@ transfer_reason    0
 
 ===== SAMPLE RECORDS =====
      stay_id  visit_id doctor_mrn  ward_type ventilator_used           in_date          out_date        transfer_reason
-118      119       417  MRN-10013  WARD-SICU               N  15/01/2026 07:00  17/01/2026 07:00  Détresse respiratoire
-278      279       937  MRN-10005   WARD-CCU               Y  04/09/2026 22:00  10/09/2026 22:00  Surveillance continue
-343      344      1144  MRN-10013  WARD-SICU               Y  18/04/2026 02:00  21/04/2026 02:00        Post-opératoire
-212      213       710  MRN-10003   WARD-ICU               N  06/05/2026 09:00               NaN  Détresse respiratoire
-313      314      1042  MRN-10012   WARD-CCU               N  27/06/2026 08:00  28/06/2026 08:00  Détresse respiratoire
+14        15        36  MRN-10002   WARD-ICU               N  10/01/2026 15:00  12/01/2026 15:00        Post-opératoire
+320      321      1068  MRN-10009  WARD-SICU               N  03/07/2026 18:00  09/07/2026 18:00        Post-opératoire
+103      104       359  MRN-10011  WARD-SICU               N  04/06/2026 00:00  07/06/2026 00:00        Post-opératoire
+146      147       497  MRN-10015   WARD-ICU               Y  02/07/2026 00:00  01/07/2026 19:00        Post-opératoire
+114      115       400  MRN-10004   WARD-ICU               Y  30/08/2026 13:00  05/09/2026 13:00  Détresse respiratoire
 
 ===== SUMMARY STATISTICS =====
            stay_id     visit_id doctor_mrn ward_type ventilator_used           in_date          out_date        transfer_reason

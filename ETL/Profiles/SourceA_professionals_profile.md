@@ -32,12 +32,12 @@ license_number     0
 0
 
 ===== SAMPLE RECORDS =====
-    professional_id          full_name         role          specialty license_number
-5                 6     Dr. John Smith    Physician  Internal Medicine       MD-81793
-0                 1     Dr. Amelie Roy   Physician          Cardiology       MD-80239
-8                 9    Dr. Emily Smith    Physician    General Surgery       MD-55020
-13               14  Dr. Jessica Jones    Physician                NaN       MD-70515
-22               23    Daniel Charette        Nurse                NaN       RN-99204
+    professional_id          full_name       role        specialty license_number
+15               16        David Brown      NURSE              NaN       RN-75078
+10               11  Dr. John Charette  Physician       Cardiology       MD-85107
+8                 9    Dr. Emily Smith  Physician  General Surgery       MD-55020
+18               19       David Gagnon      Nurse              NaN       RN-33097
+19               20     Emily Tremblay      Nurse              NaN       RN-87217
 
 ===== SUMMARY STATISTICS =====
         professional_id            full_name       role   specialty license_number

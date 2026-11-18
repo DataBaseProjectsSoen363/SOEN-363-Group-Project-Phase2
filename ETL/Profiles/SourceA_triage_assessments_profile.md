@@ -57,11 +57,11 @@ triage_priority_level    0
 
 ===== SAMPLE RECORDS =====
      triage_id  admission_id  nurse_id blood_pressure  heart_rate  respiratory_rate  body_temperature  oxygen_saturation pain_level reported_symptoms known_allergies current_medications    triage_priority_level
-370        371           371      25.0         101/67          79                21              38.5                 95          7  Chest Discomfort         Peanuts        Atorvastatin  High-Priority Emergency
-133        134           134      23.0         102/77         103                20              38.0                 97          6    Abdominal Pain           Latex        Atorvastatin                   Urgent
-342        343           343      23.0         127/66          80                13              37.0                100          3    Abdominal Pain         Peanuts        Atorvastatin                  Routine
-532        533           533      21.0         132/84         100                13              37.2                 93         10         Dizziness           Latex          Lisinopril                  Routine
-496        497           497      17.0         122/87          67                15              36.8                 94         10    Abdominal Pain         Peanuts                 NaN                   Urgent
+767        768           768      23.0         124/67          85                13              37.8                 98          8  Chest Discomfort         Peanuts                 NaN                     STAT
+168        169           169      20.0         140/72          69                13              37.9                 92          4  Chest Discomfort             NaN          Metoprolol                   Urgent
+158        159           159      20.0         122/63         105                14              37.2                 97          5  Chest Discomfort         Peanuts             Aspirin  High-Priority Emergency
+530        531           531      19.0         134/88          88                18              38.1                 92          3             Fever         Peanuts                 NaN                     STAT
+573        574           574      21.0         104/86         -99                16              45.2                  0          7  Chest Discomfort     Sulfa drugs          Lisinopril  High-Priority Emergency
 
 ===== SUMMARY STATISTICS =====
           triage_id  admission_id     nurse_id blood_pressure   heart_rate  respiratory_rate  body_temperature  oxygen_saturation pain_level    reported_symptoms known_allergies current_medications triage_priority_level

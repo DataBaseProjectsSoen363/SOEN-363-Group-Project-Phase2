@@ -42,11 +42,11 @@ Diagnoses        0
 
 ===== SAMPLE RECORDS =====
         id  patient_ref        AdmissionDate        DischargeDate AdmissionType                   Reason  DoctorId   Diagnoses
-1057  1058          137  2026-04-09T08:00:00  2026-04-19T08:00:00     Emergency  Dificultad respiratoria         8  \n        
-322    323          334  2026-06-23T15:00:00  2026-07-03T15:00:00     Emergency                   Fiebre        12  \n        
-882    883          200  2026-07-21T22:00:00  2026-07-29T22:00:00      Elective  Dificultad respiratoria         2  \n        
-168    169          731  2026-02-20T17:00:00  2026-02-22T17:00:00        Urgent           Dolor torácico         6  \n        
-1187  1188          717  2026-04-23T20:00:00  2026-05-02T20:00:00        Urgent                   Fiebre        11  \n        
+1020  1021          355  2026-02-09T13:00:00  2026-02-13T13:00:00      Elective           Dolor torácico        10  \n        
+210    211          650  2026-07-08T10:00:00  2026-07-09T10:00:00      Elective  Dificultad respiratoria         3  \n        
+852    853          209  2026-01-17T22:00:00  2026-01-18T22:00:00      Elective  Dificultad respiratoria         5  \n        
+433    434            9  2026-02-16T19:00:00  2026-02-21T19:00:00        Urgent  Dificultad respiratoria        13  \n        
+729    730          462  2026-03-05T19:00:00  2026-03-10T19:00:00      Elective                   Fiebre        11  \n        
 
 ===== SUMMARY STATISTICS =====
                  id  patient_ref        AdmissionDate        DischargeDate AdmissionType  Reason     DoctorId   Diagnoses

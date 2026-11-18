@@ -38,12 +38,12 @@ Phone          0
 0
 
 ===== SAMPLE RECORDS =====
-      id  FirstName   LastName     Address          DateOfBirth Gender            Phone
-198  199    Valeria      Perez  \n          1974-02-08T13:22:27      M  +34-697-383-591
-22    23     Daniel      Lopez  \n          1954-12-20T13:22:27      F  +34-630-657-917
-98    99       Hugo  Rodriguez  \n          1975-02-23T13:22:27      M  +34-685-650-517
-509  510      Sofia    Sanchez  \n          1966-04-05T13:22:27      M  +34-647-984-216
-660  661  Alejandro      Perez  \n          1993-07-24T13:22:27      F              NaN
+      id FirstName   LastName     Address          DateOfBirth Gender            Phone
+479  480    Carmen      Lopez  \n          1997-02-21T13:22:27      F  +34-668-291-266
+637  638    Daniel   Martinez  \n          1954-09-22T13:22:27      M  +34-604-823-320
+552  553   Valeria  Rodriguez  \n          1983-03-08T13:22:27      M  +34-649-224-339
+90    91    Carmen   Gonzalez  \n          1995-05-21T13:22:27      M  +34-699-348-866
+178  179   Valeria      Lopez  \n          1985-10-19T13:22:27      F  +34-658-810-349
 
 ===== SUMMARY STATISTICS =====
               id FirstName LastName     Address          DateOfBirth Gender            Phone

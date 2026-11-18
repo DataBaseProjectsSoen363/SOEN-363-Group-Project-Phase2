@@ -29,12 +29,12 @@ disease_category            0
 0
 
 ===== SAMPLE RECORDS =====
-   icd9_code                                official_diagnosis_title                                             description     disease_category
-2     250.00                  Diabetes mellitus without complication         Type II or unspecified diabetes managed stably.  Endocrine/Metabolic
-7     491.21  Obstructive chronic bronchitis with acute exacerbation                        Worsening of chronic bronchitis.   Respiratory System
-14     784.0                                                Headache                                       Pain in the head.       Nervous System
-16    789.00                        Abdominal pain, unspecified site                                    Pain in the abdomen.     Digestive System
-1      410.9           Acute myocardial infarction, unspecified site  Heart attack occurring in an unspecified heart region.   Circulatory System
+   icd9_code              official_diagnosis_title                                  description     disease_category
+6        486       Pneumonia, organism unspecified                      Infection of the lungs.   Respiratory System
+12     780.2                  Syncope and collapse                     Fainting or passing out.       Nervous System
+18     995.3                  Allergy, unspecified       Allergic reaction of unspecified type.        Immune System
+3      272.4  Other and unspecified hyperlipidemia             Elevated cholesterol and lipids.  Endocrine/Metabolic
+0      401.9    Unspecified essential hypertension  High blood pressure with no specific cause.   Circulatory System
 
 ===== SUMMARY STATISTICS =====
        icd9_code            official_diagnosis_title                                  description    disease_category

@@ -29,12 +29,12 @@ clinical_conclusion     0
 0
 
 ===== SAMPLE RECORDS =====
-     radiology_report_id                            radiologist_findings                                 interpretation                                clinical_conclusion
-227                  239         No acute bony abnormalities identified.                            Unremarkable study.                  Stable compared to prior imaging.
-114                  118  Mild degenerative changes in the lumbar spine.  No evidence of acute fracture or dislocation.                                 No acute findings.
-186                  196                  Soft tissues are unremarkable.                            Unremarkable study.                          Normal structural limits.
-76                    79     Lungs appear clear. No focal consolidation.                                            NaN                  STABLE COMPARED TO PRIOR IMAGING.
-238                  253   Mild cardiomegaly noted. No pleural effusion.                    No major effusion detected.  Further evaluation suggested if symptoms persist.
+     radiology_report_id                           radiologist_findings                                                interpretation                                clinical_conclusion
+168                  176    Lungs appear clear. No focal consolidation.                                   No major effusion detected.                  Stable compared to prior imaging.
+161                  169                 Soft tissues are unremarkable.  Findings are consistent with early congestive heart failure.                  Stable compared to prior imaging.
+74                    77                 Soft tissues are unremarkable.        Likely benign etiology. Routine follow-up recommended.                    Recommend clinical correlation.
+112                  116  Mild cardiomegaly noted. No pleural effusion.                                           Unremarkable study.                  stable compared to prior imaging.
+6                      7  Mild cardiomegaly noted. No pleural effusion.                 No evidence of acute fracture or dislocation.  Further evaluation suggested if symptoms persist.
 
 ===== SUMMARY STATISTICS =====
         radiology_report_id                           radiologist_findings                                                interpretation                clinical_conclusion

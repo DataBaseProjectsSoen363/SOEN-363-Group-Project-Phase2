@@ -38,12 +38,12 @@ radiologist_conclusion    0
 0
 
 ===== SAMPLE RECORDS =====
-     exam_id  order_id  technician_name     scan_datetime contrast_used                            findings_text             radiologist_conclusion
-0          1         1  Tech C. Bernard  16/07/2026 04:00             Y                                      NaN                                NaN
-92        93        96   Tech A. Dupont  15/06/2026 03:00             N           Fracture non déplacée visible.  Corrélation clinique recommandée.
-231      232       238   Tech A. Dupont  17/02/2026 20:00             Y  Légère opacité au lobe inférieur droit.  Corrélation clinique recommandée.
-236      237       243   Tech A. Dupont  31/05/2026 02:00             N                Aucune anomalie détectée.                            Normal.
-29        30        31  Tech C. Bernard  20/01/2026 12:00             Y  Légère opacité au lobe inférieur droit.  Corrélation clinique recommandée.
+     exam_id  order_id  technician_name     scan_datetime contrast_used                   findings_text             radiologist_conclusion
+213      214       219   Tech B. Martin  28/08/2026 11:00             Y       Aucune anomalie détectée.                            Normal.
+233      234       240   Tech A. Dupont  27/05/2026 05:00             N  Fracture non déplacée visible.  Corrélation clinique recommandée.
+160      161       165  Tech C. Bernard  04/02/2026 15:00             N  Fracture non déplacée visible.  Corrélation clinique recommandée.
+285      286       292   Tech A. Dupont  13/04/2026 03:00             N       Aucune anomalie détectée.                            Normal.
+238      239       245  Tech C. Bernard  08/03/2026 12:00             Y  Fracture non déplacée visible.  Corrélation clinique recommandée.
 
 ===== SUMMARY STATISTICS =====
            exam_id     order_id technician_name     scan_datetime contrast_used                   findings_text             radiologist_conclusion

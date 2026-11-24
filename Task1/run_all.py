@@ -7,8 +7,7 @@ scripts = [
     "ETL_Load_SourceD.py"
 ]
 
-
-print(" Starting Task 1 ETL Pipeline...\n")
+print("\nStarting Task 1 ETL Pipeline...\n")
 
 for script in scripts:
     print(f"Running {script}...")
@@ -16,8 +15,8 @@ for script in scripts:
     result = subprocess.run(["python", script],text=True)
     
     if result.returncode == 0:
-        print(f" {script} completed successfully.")
+        print(f" {script} completed successfully.\n")
     else:
         print(f" {script} failed with error:\n{result.stderr}")
 
-print("\n All Source Loaders Finished.")
+print("\n All Source Loaders Finished.\n")

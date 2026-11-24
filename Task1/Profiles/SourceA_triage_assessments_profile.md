@@ -56,12 +56,12 @@ triage_priority_level    0
 0
 
 ===== SAMPLE RECORDS =====
-     triage_id  admission_id  nurse_id blood_pressure  heart_rate  respiratory_rate  body_temperature  oxygen_saturation pain_level reported_symptoms known_allergies current_medications    triage_priority_level
-830        831           831      16.0         113/73          65                20              36.1                 96          9             Fever           Latex          Metoprolol  High-Priority Emergency
-67          68            68      25.0         101/79         109                22              37.7                100          3         Dizziness             NaN        Atorvastatin                   Urgent
-955        956           956      25.0         101/64          66                17              37.1                 92          1         Dizziness             NaN           Metformin  High-Priority Emergency
-511        512           512      16.0         116/72          60                12              38.0                 96          0             Fever             NaN                 NaN                  Routine
-142        143           143      18.0         107/67          98                14              37.2                 93          5  Chest Discomfort     Sulfa drugs             Aspirin                     STAT
+      triage_id  admission_id  nurse_id blood_pressure  heart_rate  respiratory_rate  body_temperature  oxygen_saturation pain_level    reported_symptoms known_allergies current_medications triage_priority_level
+517         518           518      23.0         129/84          71                22              37.1                 94          8       Abdominal Pain      Penicillin          Lisinopril                  STAT
+1017       1018          1018      25.0         111/90          68                16              36.6                 97          0            Dizziness           Latex          Metoprolol                Urgent
+856         857           857      19.0         120/73         104                15              36.4                 98          8  Shortness of Breath             NaN             Aspirin                  STAT
+1103       1104          1104      18.0         121/82          81                18              38.5                 97         10            Dizziness      Penicillin           Metformin                Urgent
+1031       1032          1032      21.0         115/72          70                18              36.9                 93          2            Dizziness     Sulfa drugs                 NaN               Routine
 
 ===== SUMMARY STATISTICS =====
           triage_id  admission_id     nurse_id blood_pressure   heart_rate  respiratory_rate  body_temperature  oxygen_saturation pain_level    reported_symptoms known_allergies current_medications triage_priority_level

@@ -1,0 +1,26 @@
+PS C:\Users\fmvem\OneDrive\Desktop\Phase2_DB_Project\SOEN-363-Group-Project-Phase2\Task4> python Load_Database.py
+--- Starting Task 4: Load into PostgreSQL (Clean SQLAlchemy Version) ---
+Dropping old tables to prevent duplication...
+
+Loading data (Parents first, then children)...
+ -> Loaded 3192 rows into Unified_Patients
+ -> Loaded 3192 rows into Map_Patients
+ -> Loaded 4657 rows into Unified_Admissions
+ -> Loaded 3510 rows into Map_Admissions
+ -> Loaded 4641 rows into Unified_Triage
+ -> Loaded 4641 rows into Map_Triage
+ -> Loaded 6436 rows into Unified_Diagnoses
+ -> Loaded 6436 rows into Map_Diagnoses
+ -> Loaded 1040 rows into Unified_ICU_Stays
+ -> Loaded 1040 rows into Map_ICU_Stays
+ -> Loaded 3171 rows into Unified_Clinical_Notes
+ -> Loaded 3171 rows into Map_Clinical_Notes
+ -> Loaded 889 rows into Unified_Diagnostic_Orders
+ -> Loaded 889 rows into Map_Diagnostic_Orders
+ -> Loaded 3460 rows into Unified_Discharge_Records
+ -> Loaded 3460 rows into Map_Discharge_Records
+ -> Loaded 735 rows into Unified_Surgical_Procedures
+ -> Loaded 735 rows into Map_Surgical_Procedures
+
+=== TASK 4 COMPLETE ===
+PS C:\Users\fmvem\OneDrive\Desktop\Phase2_DB_Project\SOEN-363-Group-Project-Phase2\Task4> 

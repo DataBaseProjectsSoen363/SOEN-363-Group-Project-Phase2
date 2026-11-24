@@ -1,0 +1,1041 @@
+responsible_physician_id,unit_type,room_number,bed_number,entry_date_time,exit_date_time,reason_transfer,source_system,stay_id,visit_id,doctor_mrn,icu_unit,ventilator_used,icu_admit_datetime,icu_discharge_datetime,transfer_reason,professional_id,global_icu_id,global_admission_id
+14.0,MICU,Room C,Bed 2,2026-07-28 09:45:00,,Post-Operative Recovery,Source_A,,,,,,,,,,1,8.0
+13.0,ICU,Room A,Bed 1,2026-06-21 07:15:00,2026-06-24 02:15:00,Post-Operative Recovery,Source_A,,,,,,,,,,2,12.0
+8.0,SICU,Room C,Bed 4,2026-09-09 14:15:00,2026-09-11 03:15:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,3,
+7.0,SICU,Room B,Bed 4,2026-08-24 14:15:00,2026-08-29 19:15:00,Hemodynamic Instability,Source_A,,,,,,,,,,4,15.0
+4.0,CCU,Room B,Bed 4,2026-05-05 17:30:00,2026-05-12 20:30:00,Respiratory Distress,Source_A,,,,,,,,,,5,17.0
+8.0,CCU,Room A,Bed 4,2026-01-23 08:45:00,2026-01-29 00:45:00,Continuous Monitoring,Source_A,,,,,,,,,,6,18.0
+1.0,SICU,Room B,Bed 1,2026-04-22 09:00:00,2026-04-25 22:00:00,Post-Operative Recovery,Source_A,,,,,,,,,,7,23.0
+3.0,MICU,Room C,Bed 4,2026-06-29 13:15:00,2026-06-30 17:15:00,Post-Operative Recovery,Source_A,,,,,,,,,,8,39.0
+12.0,ICU,Room A,Bed 4,2026-02-09 18:45:00,2026-02-15 15:45:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,9,
+2.0,CCU,Room B,Bed 2,2026-02-21 00:15:00,2026-02-26 15:15:00,Post-Operative Recovery,Source_A,,,,,,,,,,10,40.0
+12.0,SICU,Room B,Bed 4,2026-04-02 13:15:00,2026-04-07 12:15:00,Post-Operative Recovery,Source_A,,,,,,,,,,11,44.0
+2.0,ICU,Room A,Bed 3,2026-04-03 10:15:00,2026-04-08 16:15:00,Post-Operative Recovery,Source_A,,,,,,,,,,12,48.0
+6.0,SICU,Room A,Bed 1,2026-08-25 21:45:00,2026-08-31 12:45:00,Post-Operative Recovery,Source_A,,,,,,,,,,13,52.0
+14.0,SICU,Room A,Bed 4,2026-09-02 15:00:00,2026-09-09 00:00:00,Respiratory Distress,Source_A,,,,,,,,,,14,54.0
+7.0,ICU,Room C,Bed 4,2026-07-08 13:15:00,2026-07-10 21:15:00,Respiratory Distress,Source_A,,,,,,,,,,15,59.0
+2.0,CCU,Room B,Bed 1,2026-05-29 17:15:00,2026-06-05 21:15:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,16,60.0
+1.0,ICU,Room B,Bed 4,2026-03-23 18:45:00,2026-03-29 23:45:00,Post-Operative Recovery,Source_A,,,,,,,,,,17,61.0
+14.0,SICU,Room C,Bed 4,2026-08-07 12:00:00,2026-08-09 14:00:00,Respiratory Distress,Source_A,,,,,,,,,,18,63.0
+8.0,SICU,Room B,Bed 1,2026-01-13 23:15:00,2026-01-20 17:15:00,Respiratory Distress,Source_A,,,,,,,,,,19,64.0
+2.0,ICU,Room A,Bed 3,2026-05-22 20:15:00,2026-05-24 11:15:00,Hemodynamic Instability,Source_A,,,,,,,,,,20,65.0
+11.0,MICU,Room A,Bed 2,2026-07-18 17:45:00,2026-07-22 08:45:00,Post-Operative Recovery,Source_A,,,,,,,,,,21,67.0
+2.0,SICU,Room B,Bed 4,2026-02-14 13:15:00,2026-02-16 18:15:00,Hemodynamic Instability,Source_A,,,,,,,,,,22,68.0
+6.0,SICU,Room C,Bed 1,2026-02-27 19:00:00,2026-03-03 10:00:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,23,70.0
+6.0,CCU,Room A,Bed 2,2026-04-06 01:30:00,2026-04-12 12:30:00,Hemodynamic Instability,Source_A,,,,,,,,,,24,73.0
+14.0,MICU,Room A,Bed 3,2026-04-07 08:45:00,2026-04-09 13:45:00,Post-Operative Recovery,Source_A,,,,,,,,,,25,77.0
+3.0,CCU,Room B,Bed 1,2026-04-03 12:00:00,2026-04-07 11:00:00,Hemodynamic Instability,Source_A,,,,,,,,,,26,78.0
+11.0,MICU,Room B,Bed 2,2026-07-27 03:45:00,2026-07-31 21:45:00,Continuous Monitoring,Source_A,,,,,,,,,,27,83.0
+10.0,SICU,Room A,Bed 4,2026-01-03 03:15:00,2026-01-10 17:15:00,Hemodynamic Instability,Source_A,,,,,,,,,,28,84.0
+2.0,ICU,Room B,Bed 2,2026-09-02 18:15:00,2026-09-06 14:15:00,Continuous Monitoring,Source_A,,,,,,,,,,29,90.0
+14.0,CCU,Room C,Bed 1,2026-07-31 06:15:00,2026-08-03 07:15:00,Hemodynamic Instability,Source_A,,,,,,,,,,30,92.0
+5.0,MICU,Room C,Bed 1,2026-07-25 13:45:00,2026-07-27 09:45:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,31,
+8.0,SICU,Room A,Bed 1,2026-09-07 12:15:00,2026-09-15 00:15:00,Hemodynamic Instability,Source_A,,,,,,,,,,32,102.0
+9.0,CCU,Room A,Bed 1,2026-01-07 15:15:00,2026-01-11 15:15:00,Post-Operative Recovery,Source_A,,,,,,,,,,33,110.0
+1.0,SICU,Room A,Bed 3,2026-03-05 20:45:00,2026-03-11 19:45:00,Hemodynamic Instability,Source_A,,,,,,,,,,34,112.0
+1.0,ICU,Room B,Bed 1,2026-03-30 16:30:00,2026-04-05 10:30:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,35,113.0
+15.0,SICU,Room A,Bed 1,2026-01-31 19:30:00,2026-02-06 19:30:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,36,118.0
+12.0,CCU,Room C,Bed 1,2026-02-21 00:45:00,2026-02-24 06:45:00,Respiratory Distress,Source_A,,,,,,,,,,37,123.0
+13.0,CCU,Room A,Bed 1,2026-06-03 00:00:00,2026-06-04 12:00:00,Continuous Monitoring,Source_A,,,,,,,,,,38,124.0
+6.0,MICU,Room A,Bed 2,2026-05-11 08:30:00,,Cardiac Arrhythmia,Source_A,,,,,,,,,,39,125.0
+1.0,MICU,Room C,Bed 3,2026-02-07 18:00:00,2026-02-11 06:00:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,40,133.0
+4.0,MICU,Room C,Bed 2,2026-05-05 09:30:00,2026-05-08 01:30:00,Respiratory Distress,Source_A,,,,,,,,,,41,136.0
+2.0,SICU,Room C,Bed 2,2026-01-08 20:15:00,2026-01-15 07:15:00,Hemodynamic Instability,Source_A,,,,,,,,,,42,138.0
+6.0,MICU,Room C,Bed 2,2026-05-26 06:15:00,2026-06-01 09:15:00,Post-Operative Recovery,Source_A,,,,,,,,,,43,145.0
+11.0,CCU,Room A,Bed 3,2026-05-27 09:00:00,2026-06-01 22:00:00,Respiratory Distress,Source_A,,,,,,,,,,44,149.0
+12.0,SICU,Room A,Bed 2,2026-08-01 19:15:00,2026-08-06 14:15:00,Post-Operative Recovery,Source_A,,,,,,,,,,45,153.0
+2.0,SICU,Room A,Bed 3,2026-08-30 08:30:00,2026-09-05 05:30:00,Post-Operative Recovery,Source_A,,,,,,,,,,46,157.0
+1.0,MICU,Room B,Bed 1,2026-03-02 16:00:00,2026-03-06 02:00:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,47,164.0
+13.0,CCU,Room A,Bed 1,2026-05-31 15:15:00,2026-06-07 13:15:00,Respiratory Distress,Source_A,,,,,,,,,,48,169.0
+12.0,SICU,Room A,Bed 1,2026-03-13 01:00:00,2026-03-17 07:00:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,49,173.0
+2.0,SICU,Room C,Bed 3,2026-06-03 09:15:00,2026-06-08 21:15:00,Hemodynamic Instability,Source_A,,,,,,,,,,50,174.0
+6.0,MICU,Room A,Bed 2,2026-01-15 23:15:00,2026-01-17 05:15:00,Respiratory Distress,Source_A,,,,,,,,,,51,175.0
+4.0,CCU,Room B,Bed 1,2026-04-21 20:30:00,2026-04-27 10:30:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,52,180.0
+8.0,SICU,Room B,Bed 4,2026-03-08 04:00:00,2026-03-13 06:00:00,Continuous Monitoring,Source_A,,,,,,,,,,53,182.0
+12.0,ICU,Room B,Bed 2,2026-05-03 07:45:00,2026-05-10 10:45:00,Post-Operative Recovery,Source_A,,,,,,,,,,54,183.0
+12.0,SICU,Room B,Bed 3,2026-08-01 09:45:00,2026-08-04 23:45:00,Post-Operative Recovery,Source_A,,,,,,,,,,55,184.0
+9.0,MICU,Room A,Bed 4,2026-01-29 14:15:00,2026-02-04 08:15:00,Respiratory Distress,Source_A,,,,,,,,,,56,185.0
+3.0,ICU,Room A,Bed 2,2026-07-06 18:00:00,2026-07-13 03:00:00,Hemodynamic Instability,Source_A,,,,,,,,,,57,194.0
+2.0,ICU,Room B,Bed 3,2026-01-09 05:00:00,2026-01-17 01:00:00,Continuous Monitoring,Source_A,,,,,,,,,,58,196.0
+6.0,ICU,Room A,Bed 2,2026-01-12 18:15:00,2026-01-15 11:15:00,Post-Operative Recovery,Source_A,,,,,,,,,,59,199.0
+15.0,CCU,Room A,Bed 1,2026-05-30 12:45:00,2026-06-01 09:45:00,Continuous Monitoring,Source_A,,,,,,,,,,60,203.0
+2.0,SICU,Room A,Bed 1,2026-03-08 01:45:00,2026-03-10 13:45:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,61,206.0
+11.0,SICU,Room B,Bed 3,2026-08-21 17:15:00,2026-08-28 18:15:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,62,208.0
+2.0,ICU,Room B,Bed 3,2026-01-06 23:30:00,2026-01-12 18:30:00,Hemodynamic Instability,Source_A,,,,,,,,,,63,213.0
+4.0,MICU,Room B,Bed 2,2026-02-28 16:45:00,2026-03-07 22:45:00,Continuous Monitoring,Source_A,,,,,,,,,,64,218.0
+9.0,CCU,Room B,Bed 4,2026-01-04 04:30:00,2026-01-09 04:30:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,65,220.0
+2.0,ICU,Room B,Bed 1,2026-09-01 06:15:00,2026-09-06 06:15:00,Post-Operative Recovery,Source_A,,,,,,,,,,66,223.0
+14.0,CCU,Room A,Bed 3,2026-06-24 23:30:00,2026-06-27 04:30:00,Continuous Monitoring,Source_A,,,,,,,,,,67,224.0
+11.0,SICU,Room C,Bed 2,2026-03-08 22:45:00,2026-03-16 18:45:00,Respiratory Distress,Source_A,,,,,,,,,,68,226.0
+10.0,CCU,Room C,Bed 3,2026-04-10 21:45:00,2026-04-14 14:45:00,Respiratory Distress,Source_A,,,,,,,,,,69,241.0
+10.0,MICU,Room A,Bed 4,2026-08-19 01:00:00,2026-08-22 12:00:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,70,244.0
+15.0,SICU,Room B,Bed 2,2026-07-20 23:30:00,2026-07-27 03:30:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,71,249.0
+3.0,MICU,Room A,Bed 2,2026-04-21 11:30:00,2026-04-29 01:30:00,Respiratory Distress,Source_A,,,,,,,,,,72,252.0
+6.0,MICU,Room A,Bed 2,2026-05-25 10:30:00,2026-05-31 11:30:00,Continuous Monitoring,Source_A,,,,,,,,,,73,257.0
+4.0,MICU,Room B,Bed 3,2026-03-10 12:45:00,2026-03-16 22:45:00,Hemodynamic Instability,Source_A,,,,,,,,,,74,259.0
+3.0,ICU,Room B,Bed 2,2026-01-22 01:30:00,2026-01-25 09:30:00,Continuous Monitoring,Source_A,,,,,,,,,,75,267.0
+7.0,ICU,Room A,Bed 2,2026-07-26 12:45:00,2026-07-31 15:45:00,Hemodynamic Instability,Source_A,,,,,,,,,,76,268.0
+6.0,SICU,Room C,Bed 4,2026-04-18 22:00:00,2026-04-23 11:00:00,Post-Operative Recovery,Source_A,,,,,,,,,,77,272.0
+11.0,SICU,Room B,Bed 4,2026-01-28 10:00:00,2026-02-04 09:00:00,Continuous Monitoring,Source_A,,,,,,,,,,78,274.0
+9.0,SICU,Room A,Bed 4,2026-05-12 09:45:00,2026-05-17 02:45:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,79,275.0
+3.0,MICU,Room C,Bed 4,2026-06-19 18:15:00,2026-06-27 05:15:00,Post-Operative Recovery,Source_A,,,,,,,,,,80,278.0
+6.0,CCU,Room C,Bed 2,2026-06-16 02:15:00,2026-06-23 10:15:00,Post-Operative Recovery,Source_A,,,,,,,,,,81,279.0
+8.0,ICU,Room B,Bed 1,2026-08-28 22:15:00,2026-09-02 15:15:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,82,281.0
+4.0,ICU,Room B,Bed 3,2026-01-22 13:45:00,2026-01-25 05:45:00,Continuous Monitoring,Source_A,,,,,,,,,,83,287.0
+4.0,MICU,Room A,Bed 3,2026-04-24 06:15:00,2026-05-02 01:15:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,84,289.0
+8.0,ICU,Room C,Bed 3,2026-07-26 14:45:00,2026-07-31 08:45:00,Respiratory Distress,Source_A,,,,,,,,,,85,296.0
+6.0,SICU,Room C,Bed 1,2026-01-17 02:15:00,2026-01-24 17:15:00,Post-Operative Recovery,Source_A,,,,,,,,,,86,297.0
+8.0,CCU,Room B,Bed 1,2026-05-28 06:15:00,2026-06-04 22:15:00,Respiratory Distress,Source_A,,,,,,,,,,87,
+11.0,SICU,Room B,Bed 4,2026-03-27 21:30:00,2026-04-04 16:30:00,Post-Operative Recovery,Source_A,,,,,,,,,,88,301.0
+14.0,CCU,Room A,Bed 4,2026-08-19 21:45:00,2026-08-27 02:45:00,Respiratory Distress,Source_A,,,,,,,,,,89,303.0
+15.0,SICU,Room C,Bed 1,2026-07-25 23:30:00,2026-07-28 17:30:00,Continuous Monitoring,Source_A,,,,,,,,,,90,304.0
+2.0,MICU,Room A,Bed 2,2026-01-28 05:45:00,2026-01-30 23:45:00,Continuous Monitoring,Source_A,,,,,,,,,,91,308.0
+14.0,CCU,Room A,Bed 2,2026-04-28 00:30:00,2026-04-30 00:30:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,92,309.0
+1.0,ICU,Room B,Bed 1,2026-01-13 02:45:00,2026-01-16 17:45:00,Respiratory Distress,Source_A,,,,,,,,,,93,313.0
+8.0,SICU,Room C,Bed 1,2026-02-16 19:15:00,2026-02-23 09:15:00,Post-Operative Recovery,Source_A,,,,,,,,,,94,316.0
+10.0,SICU,Room C,Bed 2,2026-04-25 19:00:00,2026-04-27 03:00:00,Respiratory Distress,Source_A,,,,,,,,,,95,317.0
+3.0,MICU,Room C,Bed 2,2026-08-18 21:15:00,2026-08-23 05:15:00,Respiratory Distress,Source_A,,,,,,,,,,96,
+1.0,SICU,Room C,Bed 2,2026-06-20 07:15:00,2026-06-21 09:15:00,Hemodynamic Instability,Source_A,,,,,,,,,,97,320.0
+3.0,ICU,Room B,Bed 4,2026-04-10 08:30:00,2026-04-16 22:30:00,Hemodynamic Instability,Source_A,,,,,,,,,,98,323.0
+9.0,MICU,Room A,Bed 4,2026-04-07 21:45:00,2026-04-11 12:45:00,Continuous Monitoring,Source_A,,,,,,,,,,99,324.0
+10.0,ICU,Room A,Bed 1,2026-07-06 20:00:00,2026-07-14 12:00:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,100,327.0
+3.0,MICU,Room C,Bed 1,2026-01-24 17:00:00,2026-01-30 09:00:00,Post-Operative Recovery,Source_A,,,,,,,,,,101,
+7.0,MICU,Room A,Bed 3,2026-08-27 10:30:00,2026-09-03 19:30:00,Respiratory Distress,Source_A,,,,,,,,,,102,333.0
+9.0,ICU,Room C,Bed 3,2026-05-18 22:30:00,2026-05-20 20:30:00,Continuous Monitoring,Source_A,,,,,,,,,,103,334.0
+10.0,CCU,Room A,Bed 4,2026-07-20 19:45:00,2026-07-25 13:45:00,Hemodynamic Instability,Source_A,,,,,,,,,,104,335.0
+13.0,SICU,Room C,Bed 1,2026-01-17 22:45:00,2026-01-19 15:45:00,Continuous Monitoring,Source_A,,,,,,,,,,105,343.0
+5.0,MICU,Room B,Bed 4,2026-07-23 20:15:00,2026-07-26 21:15:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,106,347.0
+9.0,MICU,Room B,Bed 3,2026-05-24 17:00:00,2026-05-26 00:00:00,Hemodynamic Instability,Source_A,,,,,,,,,,107,348.0
+13.0,SICU,Room A,Bed 1,2026-08-14 19:15:00,2026-08-20 06:15:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,108,349.0
+15.0,ICU,Room C,Bed 4,2026-07-10 17:00:00,2026-07-17 11:00:00,Post-Operative Recovery,Source_A,,,,,,,,,,109,353.0
+10.0,CCU,Room C,Bed 4,2026-07-03 15:15:00,2026-07-05 15:15:00,Post-Operative Recovery,Source_A,,,,,,,,,,110,
+9.0,CCU,Room A,Bed 3,2026-09-07 00:00:00,2026-09-11 12:00:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,111,359.0
+12.0,SICU,Room C,Bed 2,2026-06-21 13:15:00,2026-06-25 06:15:00,Respiratory Distress,Source_A,,,,,,,,,,112,360.0
+8.0,MICU,Room A,Bed 4,2026-07-26 22:15:00,2026-08-01 10:15:00,Post-Operative Recovery,Source_A,,,,,,,,,,113,361.0
+3.0,ICU,Room A,Bed 4,2026-05-13 01:30:00,2026-05-17 08:30:00,Post-Operative Recovery,Source_A,,,,,,,,,,114,362.0
+5.0,MICU,Room C,Bed 2,2026-07-22 13:45:00,2026-07-27 09:45:00,Hemodynamic Instability,Source_A,,,,,,,,,,115,369.0
+3.0,MICU,Room B,Bed 3,2026-05-06 10:45:00,,Post-Operative Recovery,Source_A,,,,,,,,,,116,371.0
+6.0,ICU,Room A,Bed 4,2026-02-15 13:00:00,2026-02-20 01:00:00,Hemodynamic Instability,Source_A,,,,,,,,,,117,373.0
+15.0,SICU,Room B,Bed 2,2026-06-29 17:45:00,2026-07-03 15:45:00,Respiratory Distress,Source_A,,,,,,,,,,118,376.0
+5.0,CCU,Room B,Bed 1,2026-03-22 08:30:00,2026-03-26 16:30:00,Respiratory Distress,Source_A,,,,,,,,,,119,379.0
+4.0,SICU,Room B,Bed 3,2026-08-01 08:00:00,2026-08-09 06:00:00,Hemodynamic Instability,Source_A,,,,,,,,,,120,381.0
+4.0,CCU,Room A,Bed 4,2026-01-21 22:45:00,2026-01-27 06:45:00,Hemodynamic Instability,Source_A,,,,,,,,,,121,382.0
+12.0,ICU,Room A,Bed 2,2026-07-21 11:30:00,2026-07-26 20:30:00,Continuous Monitoring,Source_A,,,,,,,,,,122,383.0
+8.0,MICU,Room B,Bed 1,2026-03-14 19:30:00,2026-03-20 23:30:00,Continuous Monitoring,Source_A,,,,,,,,,,123,384.0
+10.0,SICU,Room A,Bed 4,2026-05-06 23:30:00,2026-05-13 12:30:00,Post-Operative Recovery,Source_A,,,,,,,,,,124,394.0
+1.0,SICU,Room A,Bed 3,2026-05-24 23:00:00,2026-05-27 04:00:00,Continuous Monitoring,Source_A,,,,,,,,,,125,395.0
+6.0,MICU,Room C,Bed 4,2026-04-25 21:45:00,2026-04-30 03:45:00,Hemodynamic Instability,Source_A,,,,,,,,,,126,397.0
+10.0,SICU,Room C,Bed 4,2026-08-19 22:30:00,2026-08-22 18:30:00,Hemodynamic Instability,Source_A,,,,,,,,,,127,398.0
+13.0,SICU,Room B,Bed 1,2026-04-13 01:30:00,2026-04-16 06:30:00,Respiratory Distress,Source_A,,,,,,,,,,128,399.0
+13.0,SICU,Room A,Bed 1,2026-01-16 15:00:00,2026-01-22 17:00:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,129,401.0
+10.0,SICU,Room B,Bed 4,2026-08-08 02:00:00,2026-08-15 05:00:00,Continuous Monitoring,Source_A,,,,,,,,,,130,403.0
+8.0,SICU,Room B,Bed 2,2026-02-27 20:15:00,2026-03-03 02:15:00,Respiratory Distress,Source_A,,,,,,,,,,131,405.0
+12.0,SICU,Room A,Bed 2,2026-05-28 13:30:00,2026-06-02 05:30:00,Respiratory Distress,Source_A,,,,,,,,,,132,408.0
+2.0,MICU,Room B,Bed 2,2026-08-14 10:00:00,2026-08-18 01:00:00,Hemodynamic Instability,Source_A,,,,,,,,,,133,409.0
+2.0,ICU,Room C,Bed 2,2026-05-26 09:00:00,2026-05-30 21:00:00,Hemodynamic Instability,Source_A,,,,,,,,,,134,411.0
+4.0,SICU,Room C,Bed 3,2026-08-19 04:45:00,2026-08-22 07:45:00,Post-Operative Recovery,Source_A,,,,,,,,,,135,414.0
+8.0,SICU,Room A,Bed 1,2026-02-17 16:30:00,2026-02-22 08:30:00,Respiratory Distress,Source_A,,,,,,,,,,136,419.0
+2.0,ICU,Room A,Bed 4,2026-03-09 20:45:00,2026-03-14 20:45:00,Continuous Monitoring,Source_A,,,,,,,,,,137,420.0
+9.0,SICU,Room B,Bed 1,2026-01-05 16:30:00,2026-01-09 07:30:00,Post-Operative Recovery,Source_A,,,,,,,,,,138,421.0
+5.0,MICU,Room B,Bed 3,2026-08-21 01:15:00,2026-08-27 08:15:00,Hemodynamic Instability,Source_A,,,,,,,,,,139,425.0
+6.0,CCU,Room A,Bed 3,2026-03-21 13:00:00,2026-03-28 09:00:00,Post-Operative Recovery,Source_A,,,,,,,,,,140,439.0
+2.0,ICU,Room B,Bed 3,2026-03-18 13:45:00,2026-03-25 11:45:00,Hemodynamic Instability,Source_A,,,,,,,,,,141,442.0
+11.0,CCU,Room B,Bed 4,2026-07-06 16:45:00,2026-07-13 11:45:00,Continuous Monitoring,Source_A,,,,,,,,,,142,447.0
+14.0,SICU,Room A,Bed 3,2026-04-05 17:00:00,2026-04-10 18:00:00,Respiratory Distress,Source_A,,,,,,,,,,143,448.0
+11.0,SICU,Room A,Bed 2,2026-06-25 07:15:00,2026-06-28 07:15:00,Post-Operative Recovery,Source_A,,,,,,,,,,144,449.0
+13.0,SICU,Room A,Bed 1,2026-03-19 07:45:00,2026-03-24 01:45:00,Respiratory Distress,Source_A,,,,,,,,,,145,458.0
+10.0,ICU,Room A,Bed 2,2026-04-09 09:15:00,2026-04-16 12:15:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,146,465.0
+9.0,MICU,Room C,Bed 3,2026-05-14 21:30:00,2026-05-22 16:30:00,Respiratory Distress,Source_A,,,,,,,,,,147,468.0
+12.0,SICU,Room A,Bed 4,2026-08-02 11:15:00,2026-08-07 21:15:00,Post-Operative Recovery,Source_A,,,,,,,,,,148,473.0
+15.0,MICU,Room C,Bed 4,2026-02-26 01:00:00,2026-02-27 10:00:00,Continuous Monitoring,Source_A,,,,,,,,,,149,477.0
+13.0,CCU,Room C,Bed 3,2026-05-20 03:00:00,2026-05-21 21:00:00,Respiratory Distress,Source_A,,,,,,,,,,150,485.0
+4.0,SICU,Room A,Bed 2,2026-06-15 16:15:00,2026-06-20 22:15:00,Continuous Monitoring,Source_A,,,,,,,,,,151,489.0
+12.0,ICU,Room A,Bed 2,2026-09-07 10:45:00,2026-09-09 11:45:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,152,490.0
+7.0,ICU,Room A,Bed 2,2026-03-10 08:00:00,2026-03-13 19:00:00,Hemodynamic Instability,Source_A,,,,,,,,,,153,493.0
+12.0,SICU,Room C,Bed 1,2026-01-29 04:15:00,2026-02-06 00:15:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,154,494.0
+12.0,SICU,Room C,Bed 1,2026-03-19 22:15:00,2026-03-26 17:15:00,Hemodynamic Instability,Source_A,,,,,,,,,,155,499.0
+15.0,CCU,Room C,Bed 3,2026-04-03 00:15:00,2026-04-04 01:15:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,156,501.0
+15.0,MICU,Room B,Bed 4,2026-01-27 07:45:00,2026-01-29 09:45:00,Post-Operative Recovery,Source_A,,,,,,,,,,157,505.0
+7.0,SICU,Room B,Bed 2,2026-01-12 05:15:00,2026-01-18 00:15:00,Continuous Monitoring,Source_A,,,,,,,,,,158,511.0
+13.0,MICU,Room A,Bed 4,2026-03-17 06:15:00,2026-03-21 07:15:00,Hemodynamic Instability,Source_A,,,,,,,,,,159,515.0
+11.0,MICU,Room C,Bed 3,2026-03-14 02:00:00,,Respiratory Distress,Source_A,,,,,,,,,,160,
+7.0,CCU,Room B,Bed 4,2026-07-21 04:00:00,2026-07-28 14:00:00,Hemodynamic Instability,Source_A,,,,,,,,,,161,518.0
+14.0,MICU,Room B,Bed 1,2026-05-03 13:45:00,2026-05-11 08:45:00,Continuous Monitoring,Source_A,,,,,,,,,,162,523.0
+8.0,MICU,Room B,Bed 4,2026-02-06 01:45:00,2026-02-12 23:45:00,Respiratory Distress,Source_A,,,,,,,,,,163,524.0
+10.0,CCU,Room B,Bed 3,2026-01-05 22:45:00,2026-01-12 18:45:00,Hemodynamic Instability,Source_A,,,,,,,,,,164,535.0
+4.0,SICU,Room C,Bed 1,2026-03-25 12:45:00,2026-03-26 15:45:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,165,537.0
+7.0,MICU,Room A,Bed 1,2026-08-05 15:45:00,2026-08-09 03:45:00,Respiratory Distress,Source_A,,,,,,,,,,166,538.0
+3.0,CCU,Room C,Bed 2,2026-09-03 05:15:00,2026-09-10 18:15:00,Hemodynamic Instability,Source_A,,,,,,,,,,167,539.0
+3.0,ICU,Room B,Bed 3,2026-08-05 01:00:00,2026-08-07 14:00:00,Post-Operative Recovery,Source_A,,,,,,,,,,168,541.0
+5.0,CCU,Room C,Bed 1,2026-07-25 10:30:00,2026-07-28 23:30:00,Continuous Monitoring,Source_A,,,,,,,,,,169,546.0
+15.0,MICU,Room C,Bed 3,2026-06-21 21:15:00,2026-06-29 14:15:00,Respiratory Distress,Source_A,,,,,,,,,,170,549.0
+14.0,SICU,Room C,Bed 2,2026-06-15 17:00:00,2026-06-21 07:00:00,Respiratory Distress,Source_A,,,,,,,,,,171,555.0
+3.0,SICU,Room A,Bed 2,2026-04-13 17:15:00,2026-04-17 23:15:00,Hemodynamic Instability,Source_A,,,,,,,,,,172,557.0
+4.0,CCU,Room B,Bed 2,2026-06-05 08:30:00,,Post-Operative Recovery,Source_A,,,,,,,,,,173,558.0
+13.0,MICU,Room C,Bed 2,2026-07-11 05:00:00,2026-07-14 00:00:00,Continuous Monitoring,Source_A,,,,,,,,,,174,561.0
+9.0,ICU,Room A,Bed 2,2026-01-12 00:00:00,2026-01-16 00:00:00,Respiratory Distress,Source_A,,,,,,,,,,175,564.0
+3.0,ICU,Room B,Bed 1,2026-05-26 22:15:00,2026-05-30 04:15:00,Respiratory Distress,Source_A,,,,,,,,,,176,568.0
+15.0,ICU,Room C,Bed 2,2026-08-22 09:15:00,2026-08-24 09:15:00,Continuous Monitoring,Source_A,,,,,,,,,,177,578.0
+2.0,ICU,Room A,Bed 4,2026-08-16 13:00:00,2026-08-18 00:00:00,Post-Operative Recovery,Source_A,,,,,,,,,,178,580.0
+7.0,SICU,Room B,Bed 4,2026-01-17 22:15:00,2026-01-22 06:15:00,Continuous Monitoring,Source_A,,,,,,,,,,179,584.0
+6.0,ICU,Room C,Bed 3,2026-01-24 22:30:00,2026-01-29 16:30:00,Respiratory Distress,Source_A,,,,,,,,,,180,588.0
+11.0,SICU,Room C,Bed 3,2026-03-14 18:15:00,2026-03-21 20:15:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,181,590.0
+6.0,ICU,Room A,Bed 1,2026-03-03 06:00:00,2026-03-06 21:00:00,Respiratory Distress,Source_A,,,,,,,,,,182,597.0
+1.0,ICU,Room B,Bed 2,2026-05-27 13:00:00,2026-06-01 19:00:00,Post-Operative Recovery,Source_A,,,,,,,,,,183,600.0
+5.0,SICU,Room A,Bed 1,2026-07-16 23:15:00,2026-07-21 17:15:00,Respiratory Distress,Source_A,,,,,,,,,,184,601.0
+2.0,SICU,Room B,Bed 3,2026-03-25 00:45:00,2026-03-27 11:45:00,Post-Operative Recovery,Source_A,,,,,,,,,,185,612.0
+4.0,SICU,Room C,Bed 1,2026-06-26 12:15:00,2026-06-29 05:15:00,Continuous Monitoring,Source_A,,,,,,,,,,186,625.0
+6.0,SICU,Room A,Bed 2,2026-07-08 17:00:00,2026-07-14 10:00:00,Hemodynamic Instability,Source_A,,,,,,,,,,187,635.0
+6.0,ICU,Room A,Bed 4,2026-04-12 20:15:00,2026-04-18 01:15:00,Continuous Monitoring,Source_A,,,,,,,,,,188,637.0
+6.0,MICU,Room B,Bed 1,2026-02-06 19:30:00,2026-02-08 05:30:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,189,641.0
+12.0,ICU,Room C,Bed 3,2026-05-30 22:15:00,2026-06-02 10:15:00,Continuous Monitoring,Source_A,,,,,,,,,,190,643.0
+13.0,SICU,Room C,Bed 1,2026-07-15 05:30:00,2026-07-19 07:30:00,Hemodynamic Instability,Source_A,,,,,,,,,,191,644.0
+2.0,SICU,Room B,Bed 1,2026-02-23 18:15:00,2026-03-01 15:15:00,Post-Operative Recovery,Source_A,,,,,,,,,,192,645.0
+7.0,MICU,Room C,Bed 3,2026-08-21 20:30:00,2026-08-29 08:30:00,Post-Operative Recovery,Source_A,,,,,,,,,,193,649.0
+2.0,CCU,Room B,Bed 4,2026-06-20 06:15:00,2026-06-27 20:15:00,Hemodynamic Instability,Source_A,,,,,,,,,,194,650.0
+5.0,SICU,Room C,Bed 2,2026-08-15 21:45:00,2026-08-23 13:45:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,195,651.0
+10.0,MICU,Room A,Bed 2,2026-01-31 13:30:00,2026-02-04 00:30:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,196,655.0
+1.0,SICU,Room A,Bed 1,2026-07-27 07:00:00,2026-08-02 03:00:00,Respiratory Distress,Source_A,,,,,,,,,,197,658.0
+7.0,SICU,Room C,Bed 4,2026-06-19 18:45:00,2026-06-25 03:45:00,Post-Operative Recovery,Source_A,,,,,,,,,,198,659.0
+6.0,CCU,Room B,Bed 3,2026-07-29 04:45:00,2026-08-03 21:45:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,199,662.0
+12.0,MICU,Room A,Bed 3,2026-05-09 03:45:00,2026-05-16 06:45:00,Post-Operative Recovery,Source_A,,,,,,,,,,200,664.0
+4.0,SICU,Room C,Bed 1,2026-05-30 13:45:00,2026-06-05 19:45:00,Hemodynamic Instability,Source_A,,,,,,,,,,201,665.0
+3.0,ICU,Room B,Bed 2,2026-01-05 09:30:00,2026-01-10 21:30:00,Continuous Monitoring,Source_A,,,,,,,,,,202,
+7.0,CCU,Room A,Bed 2,2026-08-24 22:00:00,,Post-Operative Recovery,Source_A,,,,,,,,,,203,668.0
+6.0,SICU,Room B,Bed 4,2026-06-08 07:30:00,2026-06-14 23:30:00,Hemodynamic Instability,Source_A,,,,,,,,,,204,
+7.0,SICU,Room A,Bed 2,2026-05-23 17:30:00,2026-05-27 17:30:00,Hemodynamic Instability,Source_A,,,,,,,,,,205,685.0
+4.0,MICU,Room B,Bed 2,2026-07-31 21:15:00,2026-08-04 18:15:00,Respiratory Distress,Source_A,,,,,,,,,,206,686.0
+10.0,CCU,Room C,Bed 2,2026-07-09 18:15:00,2026-07-15 21:15:00,Continuous Monitoring,Source_A,,,,,,,,,,207,690.0
+2.0,SICU,Room C,Bed 2,2026-03-23 20:30:00,2026-03-26 06:30:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,208,692.0
+12.0,CCU,Room C,Bed 2,2026-09-03 15:30:00,2026-09-08 18:30:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,209,693.0
+9.0,CCU,Room B,Bed 1,2026-08-16 18:00:00,2026-08-24 12:00:00,Respiratory Distress,Source_A,,,,,,,,,,210,
+14.0,ICU,Room A,Bed 4,2026-07-21 23:00:00,2026-07-23 19:00:00,Continuous Monitoring,Source_A,,,,,,,,,,211,700.0
+6.0,MICU,Room B,Bed 2,2026-03-23 10:00:00,2026-03-25 01:00:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,212,
+9.0,CCU,Room C,Bed 1,2026-02-27 04:30:00,2026-03-06 23:30:00,Hemodynamic Instability,Source_A,,,,,,,,,,213,704.0
+6.0,ICU,Room C,Bed 4,2026-08-05 03:30:00,2026-08-11 03:30:00,Respiratory Distress,Source_A,,,,,,,,,,214,708.0
+4.0,MICU,Room C,Bed 1,2026-06-05 15:15:00,2026-06-08 05:15:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,215,709.0
+9.0,MICU,Room C,Bed 2,2026-05-20 21:00:00,2026-05-28 05:00:00,Continuous Monitoring,Source_A,,,,,,,,,,216,710.0
+4.0,CCU,Room C,Bed 1,2026-01-30 19:15:00,2026-02-07 08:15:00,Hemodynamic Instability,Source_A,,,,,,,,,,217,711.0
+1.0,MICU,Room C,Bed 3,2026-05-27 19:45:00,2026-06-03 19:45:00,Post-Operative Recovery,Source_A,,,,,,,,,,218,713.0
+4.0,CCU,Room B,Bed 1,2026-07-14 08:00:00,2026-07-19 04:00:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,219,
+4.0,SICU,Room B,Bed 1,2026-05-16 05:45:00,2026-05-22 19:45:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,220,718.0
+9.0,SICU,Room B,Bed 3,2026-08-15 15:45:00,2026-08-21 14:45:00,Respiratory Distress,Source_A,,,,,,,,,,221,725.0
+13.0,MICU,Room A,Bed 3,2026-08-27 10:15:00,2026-09-03 18:15:00,Post-Operative Recovery,Source_A,,,,,,,,,,222,730.0
+1.0,CCU,Room C,Bed 4,2026-01-26 05:00:00,2026-02-01 01:00:00,Respiratory Distress,Source_A,,,,,,,,,,223,731.0
+1.0,SICU,Room A,Bed 4,2026-06-09 16:45:00,2026-06-12 18:45:00,Respiratory Distress,Source_A,,,,,,,,,,224,736.0
+7.0,ICU,Room C,Bed 3,2026-05-31 11:15:00,2026-06-04 23:15:00,Respiratory Distress,Source_A,,,,,,,,,,225,743.0
+1.0,CCU,Room C,Bed 1,2026-03-25 17:30:00,2026-03-30 03:30:00,Hemodynamic Instability,Source_A,,,,,,,,,,226,748.0
+14.0,ICU,Room B,Bed 1,2026-07-30 02:00:00,2026-08-02 03:00:00,Hemodynamic Instability,Source_A,,,,,,,,,,227,750.0
+4.0,CCU,Room B,Bed 4,2026-07-13 20:45:00,2026-07-16 05:45:00,Respiratory Distress,Source_A,,,,,,,,,,228,754.0
+2.0,SICU,Room C,Bed 4,2026-08-22 01:45:00,2026-08-29 18:45:00,Respiratory Distress,Source_A,,,,,,,,,,229,755.0
+2.0,ICU,Room A,Bed 3,2026-04-03 10:30:00,2026-04-09 07:30:00,Hemodynamic Instability,Source_A,,,,,,,,,,230,757.0
+4.0,CCU,Room A,Bed 4,2026-05-13 19:00:00,2026-05-19 16:00:00,Continuous Monitoring,Source_A,,,,,,,,,,231,759.0
+3.0,CCU,Room B,Bed 2,2026-08-22 06:30:00,2026-08-27 20:30:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,232,761.0
+6.0,SICU,Room A,Bed 1,2026-02-14 13:45:00,2026-02-21 22:45:00,Post-Operative Recovery,Source_A,,,,,,,,,,233,764.0
+1.0,ICU,Room C,Bed 2,2026-02-07 22:30:00,2026-02-10 07:30:00,Continuous Monitoring,Source_A,,,,,,,,,,234,766.0
+13.0,ICU,Room C,Bed 1,2026-07-21 20:45:00,2026-07-24 15:45:00,Post-Operative Recovery,Source_A,,,,,,,,,,235,773.0
+12.0,ICU,Room B,Bed 3,2026-04-16 06:15:00,2026-04-22 15:15:00,Continuous Monitoring,Source_A,,,,,,,,,,236,776.0
+12.0,MICU,Room A,Bed 2,2026-09-06 18:30:00,2026-09-08 01:30:00,Post-Operative Recovery,Source_A,,,,,,,,,,237,778.0
+11.0,ICU,Room C,Bed 1,2026-06-04 23:15:00,2026-06-07 17:15:00,Respiratory Distress,Source_A,,,,,,,,,,238,782.0
+15.0,CCU,Room A,Bed 4,2026-07-06 17:30:00,2026-07-09 13:30:00,Respiratory Distress,Source_A,,,,,,,,,,239,785.0
+14.0,MICU,Room A,Bed 2,2026-07-22 02:45:00,,Respiratory Distress,Source_A,,,,,,,,,,240,788.0
+2.0,ICU,Room A,Bed 3,2026-04-17 02:45:00,2026-04-18 12:45:00,Respiratory Distress,Source_A,,,,,,,,,,241,
+8.0,SICU,Room B,Bed 2,2026-02-26 01:00:00,2026-03-02 21:00:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,242,794.0
+9.0,MICU,Room C,Bed 4,2026-01-05 21:00:00,2026-01-07 03:00:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,243,795.0
+13.0,CCU,Room A,Bed 1,2026-08-21 18:45:00,2026-08-26 17:45:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,244,
+4.0,MICU,Room A,Bed 3,2026-08-23 14:45:00,2026-08-25 19:45:00,Respiratory Distress,Source_A,,,,,,,,,,245,804.0
+5.0,CCU,Room C,Bed 4,2026-06-02 15:45:00,2026-06-04 10:45:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,246,813.0
+8.0,CCU,Room C,Bed 4,2026-01-02 12:15:00,2026-01-06 06:15:00,Respiratory Distress,Source_A,,,,,,,,,,247,814.0
+12.0,CCU,Room C,Bed 3,2026-04-26 02:30:00,2026-04-29 17:30:00,Respiratory Distress,Source_A,,,,,,,,,,248,822.0
+2.0,MICU,Room B,Bed 1,2026-06-09 23:15:00,2026-06-16 20:15:00,Respiratory Distress,Source_A,,,,,,,,,,249,824.0
+2.0,CCU,Room C,Bed 2,2026-07-14 12:45:00,2026-07-22 04:45:00,Post-Operative Recovery,Source_A,,,,,,,,,,250,
+6.0,SICU,Room A,Bed 3,2026-07-11 14:45:00,2026-07-19 06:45:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,251,831.0
+13.0,SICU,Room B,Bed 4,2026-08-25 21:00:00,2026-09-02 14:00:00,Respiratory Distress,Source_A,,,,,,,,,,252,832.0
+15.0,CCU,Room B,Bed 3,2026-02-20 23:00:00,2026-02-22 11:00:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,253,833.0
+5.0,CCU,Room C,Bed 3,2026-01-01 10:30:00,2026-01-06 23:30:00,Continuous Monitoring,Source_A,,,,,,,,,,254,
+11.0,SICU,Room C,Bed 3,2026-03-08 22:45:00,2026-03-16 20:45:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,255,850.0
+11.0,CCU,Room B,Bed 3,2026-06-10 10:15:00,2026-06-15 17:15:00,Hemodynamic Instability,Source_A,,,,,,,,,,256,851.0
+13.0,SICU,Room B,Bed 2,2026-01-24 02:30:00,2026-01-25 11:30:00,Hemodynamic Instability,Source_A,,,,,,,,,,257,855.0
+10.0,ICU,Room C,Bed 2,2026-02-16 00:30:00,2026-02-21 17:30:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,258,862.0
+6.0,SICU,Room A,Bed 3,2026-08-10 01:30:00,2026-08-15 12:30:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,259,865.0
+14.0,MICU,Room C,Bed 2,2026-03-18 01:00:00,2026-03-19 23:00:00,Respiratory Distress,Source_A,,,,,,,,,,260,870.0
+7.0,SICU,Room B,Bed 1,2026-01-10 23:00:00,2026-01-17 13:00:00,Continuous Monitoring,Source_A,,,,,,,,,,261,873.0
+7.0,CCU,Room A,Bed 2,2026-03-19 16:00:00,2026-03-24 06:00:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,262,874.0
+2.0,SICU,Room C,Bed 1,2026-09-05 05:45:00,2026-09-13 00:45:00,Hemodynamic Instability,Source_A,,,,,,,,,,263,875.0
+10.0,ICU,Room A,Bed 3,2026-04-11 20:30:00,2026-04-13 04:30:00,Post-Operative Recovery,Source_A,,,,,,,,,,264,878.0
+11.0,SICU,Room C,Bed 2,2026-07-29 18:00:00,,Continuous Monitoring,Source_A,,,,,,,,,,265,885.0
+10.0,ICU,Room C,Bed 4,2026-08-05 05:45:00,2026-08-11 14:45:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,266,893.0
+9.0,MICU,Room C,Bed 2,2026-03-18 21:45:00,2026-03-22 22:45:00,Post-Operative Recovery,Source_A,,,,,,,,,,267,894.0
+15.0,ICU,Room C,Bed 2,2026-08-30 20:30:00,2026-09-02 08:30:00,Respiratory Distress,Source_A,,,,,,,,,,268,897.0
+10.0,MICU,Room A,Bed 2,2026-04-18 09:15:00,2026-04-20 22:15:00,Respiratory Distress,Source_A,,,,,,,,,,269,901.0
+11.0,MICU,Room B,Bed 3,2026-01-05 18:30:00,2026-01-11 04:30:00,Post-Operative Recovery,Source_A,,,,,,,,,,270,902.0
+13.0,SICU,Room C,Bed 4,2026-03-25 23:45:00,2026-03-30 05:45:00,Post-Operative Recovery,Source_A,,,,,,,,,,271,903.0
+4.0,SICU,Room B,Bed 4,2026-06-11 09:45:00,2026-06-16 00:45:00,Hemodynamic Instability,Source_A,,,,,,,,,,272,906.0
+5.0,SICU,Room A,Bed 1,2026-05-04 18:00:00,2026-05-05 18:00:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,273,907.0
+8.0,CCU,Room B,Bed 1,2026-02-17 02:30:00,2026-02-22 09:30:00,Continuous Monitoring,Source_A,,,,,,,,,,274,914.0
+4.0,ICU,Room A,Bed 1,2026-01-10 17:30:00,2026-01-14 21:30:00,Respiratory Distress,Source_A,,,,,,,,,,275,915.0
+3.0,SICU,Room B,Bed 1,2026-03-23 18:30:00,2026-03-25 04:30:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,276,917.0
+12.0,MICU,Room A,Bed 4,2026-04-07 03:30:00,2026-04-12 00:30:00,Continuous Monitoring,Source_A,,,,,,,,,,277,918.0
+9.0,SICU,Room C,Bed 1,2026-04-03 11:45:00,2026-04-08 07:45:00,Continuous Monitoring,Source_A,,,,,,,,,,278,924.0
+13.0,MICU,Room B,Bed 1,2026-08-30 18:15:00,2026-09-05 07:15:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,279,928.0
+11.0,SICU,Room C,Bed 2,2026-08-22 10:15:00,2026-08-29 16:15:00,Hemodynamic Instability,Source_A,,,,,,,,,,280,935.0
+1.0,SICU,Room B,Bed 2,2026-07-20 08:45:00,2026-07-26 14:45:00,Hemodynamic Instability,Source_A,,,,,,,,,,281,942.0
+14.0,SICU,Room A,Bed 3,2026-05-10 15:15:00,2026-05-15 13:15:00,Respiratory Distress,Source_A,,,,,,,,,,282,945.0
+10.0,CCU,Room A,Bed 1,2026-08-25 10:45:00,,Cardiac Arrhythmia,Source_A,,,,,,,,,,283,946.0
+6.0,SICU,Room B,Bed 2,2026-03-02 13:45:00,2026-03-07 20:45:00,Respiratory Distress,Source_A,,,,,,,,,,284,947.0
+4.0,CCU,Room A,Bed 1,2026-08-19 04:45:00,2026-08-24 12:45:00,Post-Operative Recovery,Source_A,,,,,,,,,,285,948.0
+7.0,MICU,Room A,Bed 2,2026-08-27 16:30:00,,Cardiac Arrhythmia,Source_A,,,,,,,,,,286,949.0
+4.0,ICU,Room C,Bed 1,2026-04-09 01:00:00,2026-04-15 16:00:00,Continuous Monitoring,Source_A,,,,,,,,,,287,952.0
+11.0,MICU,Room A,Bed 4,2026-09-06 13:00:00,2026-09-12 15:00:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,288,955.0
+1.0,MICU,Room B,Bed 1,2026-06-25 08:45:00,2026-06-29 01:45:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,289,957.0
+5.0,ICU,Room B,Bed 2,2026-07-01 10:45:00,2026-07-08 15:45:00,Post-Operative Recovery,Source_A,,,,,,,,,,290,958.0
+9.0,SICU,Room C,Bed 1,2026-05-16 15:00:00,2026-05-20 15:00:00,Hemodynamic Instability,Source_A,,,,,,,,,,291,961.0
+15.0,CCU,Room A,Bed 3,2026-07-13 23:30:00,2026-07-17 08:30:00,Respiratory Distress,Source_A,,,,,,,,,,292,974.0
+10.0,MICU,Room A,Bed 4,2026-05-21 11:15:00,2026-05-29 08:15:00,Continuous Monitoring,Source_A,,,,,,,,,,293,975.0
+6.0,CCU,Room C,Bed 2,2026-06-16 14:00:00,2026-06-23 15:00:00,Post-Operative Recovery,Source_A,,,,,,,,,,294,981.0
+4.0,ICU,Room C,Bed 3,2026-06-24 17:30:00,2026-06-26 05:30:00,Post-Operative Recovery,Source_A,,,,,,,,,,295,
+13.0,MICU,Room B,Bed 4,2026-08-25 14:00:00,2026-08-31 20:00:00,Respiratory Distress,Source_A,,,,,,,,,,296,986.0
+3.0,ICU,Room B,Bed 4,2026-08-13 22:00:00,2026-08-15 05:00:00,Post-Operative Recovery,Source_A,,,,,,,,,,297,991.0
+6.0,ICU,Room B,Bed 2,2026-01-18 00:30:00,2026-01-20 11:30:00,Hemodynamic Instability,Source_A,,,,,,,,,,298,993.0
+9.0,CCU,Room C,Bed 2,2026-08-08 10:00:00,2026-08-12 00:00:00,Continuous Monitoring,Source_A,,,,,,,,,,299,994.0
+8.0,MICU,Room B,Bed 4,2026-05-04 14:45:00,2026-05-07 09:45:00,Respiratory Distress,Source_A,,,,,,,,,,300,996.0
+14.0,CCU,Room C,Bed 2,2026-07-19 16:00:00,2026-07-26 17:00:00,Post-Operative Recovery,Source_A,,,,,,,,,,301,998.0
+5.0,ICU,Room C,Bed 4,2026-02-09 00:45:00,2026-02-11 18:45:00,Respiratory Distress,Source_A,,,,,,,,,,302,1006.0
+7.0,ICU,Room C,Bed 2,2026-05-01 02:45:00,2026-05-06 09:45:00,Hemodynamic Instability,Source_A,,,,,,,,,,303,1010.0
+15.0,ICU,Room B,Bed 1,2026-05-04 03:15:00,2026-05-09 04:15:00,Post-Operative Recovery,Source_A,,,,,,,,,,304,1018.0
+4.0,MICU,Room C,Bed 1,2026-02-24 12:45:00,2026-03-04 05:45:00,Hemodynamic Instability,Source_A,,,,,,,,,,305,1021.0
+7.0,CCU,Room B,Bed 4,2026-05-02 01:00:00,2026-05-04 00:00:00,Respiratory Distress,Source_A,,,,,,,,,,306,1031.0
+1.0,MICU,Room A,Bed 1,2026-06-01 00:30:00,2026-06-02 05:30:00,Continuous Monitoring,Source_A,,,,,,,,,,307,1034.0
+3.0,SICU,Room B,Bed 4,2026-02-21 06:30:00,2026-02-27 09:30:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,308,1038.0
+9.0,SICU,Room B,Bed 3,2026-01-11 08:30:00,2026-01-15 07:30:00,Respiratory Distress,Source_A,,,,,,,,,,309,1041.0
+11.0,SICU,Room A,Bed 1,2026-06-03 15:45:00,2026-06-05 08:45:00,Hemodynamic Instability,Source_A,,,,,,,,,,310,1048.0
+14.0,ICU,Room A,Bed 1,2026-09-09 03:15:00,2026-09-13 11:15:00,Hemodynamic Instability,Source_A,,,,,,,,,,311,1049.0
+14.0,SICU,Room C,Bed 1,2026-03-07 08:15:00,2026-03-13 00:15:00,Hemodynamic Instability,Source_A,,,,,,,,,,312,1052.0
+9.0,CCU,Room C,Bed 4,2026-05-08 21:15:00,2026-05-14 15:15:00,Post-Operative Recovery,Source_A,,,,,,,,,,313,1054.0
+14.0,CCU,Room B,Bed 1,2026-05-10 07:30:00,2026-05-16 14:30:00,Continuous Monitoring,Source_A,,,,,,,,,,314,1056.0
+2.0,SICU,Room B,Bed 1,2026-06-07 04:00:00,2026-06-13 07:00:00,Respiratory Distress,Source_A,,,,,,,,,,315,1058.0
+2.0,ICU,Room B,Bed 1,2026-05-12 13:15:00,2026-05-16 05:15:00,Post-Operative Recovery,Source_A,,,,,,,,,,316,1059.0
+14.0,SICU,Room B,Bed 3,2026-04-11 08:00:00,2026-04-15 07:00:00,Continuous Monitoring,Source_A,,,,,,,,,,317,1061.0
+15.0,ICU,Room C,Bed 3,2026-06-09 05:00:00,2026-06-16 03:00:00,Hemodynamic Instability,Source_A,,,,,,,,,,318,
+9.0,MICU,Room A,Bed 1,2026-02-21 02:15:00,2026-02-25 21:15:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,319,1068.0
+9.0,ICU,Room A,Bed 2,2026-07-24 19:00:00,2026-07-26 01:00:00,Respiratory Distress,Source_A,,,,,,,,,,320,1071.0
+8.0,CCU,Room B,Bed 3,2026-01-10 16:30:00,2026-01-16 08:30:00,Post-Operative Recovery,Source_A,,,,,,,,,,321,1080.0
+3.0,SICU,Room B,Bed 1,2026-04-18 03:00:00,2026-04-22 06:00:00,Respiratory Distress,Source_A,,,,,,,,,,322,1084.0
+7.0,SICU,Room C,Bed 2,2026-06-09 02:30:00,2026-06-10 05:30:00,Hemodynamic Instability,Source_A,,,,,,,,,,323,1085.0
+5.0,MICU,Room A,Bed 3,2026-07-08 02:30:00,2026-07-10 21:30:00,Post-Operative Recovery,Source_A,,,,,,,,,,324,1088.0
+13.0,CCU,Room C,Bed 1,2026-07-15 22:00:00,2026-07-22 17:00:00,Post-Operative Recovery,Source_A,,,,,,,,,,325,1094.0
+13.0,SICU,Room C,Bed 1,2026-07-17 04:45:00,2026-07-22 05:45:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,326,1096.0
+11.0,ICU,Room A,Bed 2,2026-01-09 10:30:00,2026-01-15 22:30:00,Hemodynamic Instability,Source_A,,,,,,,,,,327,1098.0
+2.0,MICU,Room B,Bed 4,2026-06-28 03:00:00,2026-07-03 14:00:00,Post-Operative Recovery,Source_A,,,,,,,,,,328,1099.0
+9.0,ICU,Room C,Bed 2,2026-06-14 01:00:00,2026-06-20 04:00:00,Hemodynamic Instability,Source_A,,,,,,,,,,329,1100.0
+12.0,SICU,Room B,Bed 4,2026-03-02 14:30:00,2026-03-07 00:30:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,330,1108.0
+15.0,SICU,Room C,Bed 3,2026-04-17 03:45:00,2026-04-18 09:45:00,Continuous Monitoring,Source_A,,,,,,,,,,331,1112.0
+7.0,SICU,Room C,Bed 4,2026-03-10 03:15:00,2026-03-17 00:15:00,Continuous Monitoring,Source_A,,,,,,,,,,332,1115.0
+7.0,CCU,Room C,Bed 2,2026-07-18 16:00:00,2026-07-23 10:00:00,Hemodynamic Instability,Source_A,,,,,,,,,,333,1120.0
+6.0,MICU,Room B,Bed 2,2026-09-05 12:45:00,2026-09-13 02:45:00,Respiratory Distress,Source_A,,,,,,,,,,334,1124.0
+4.0,ICU,Room B,Bed 2,2026-02-24 09:00:00,2026-02-27 01:00:00,Continuous Monitoring,Source_A,,,,,,,,,,335,1130.0
+5.0,SICU,Room A,Bed 4,2026-05-28 22:15:00,2026-05-31 09:15:00,Post-Operative Recovery,Source_A,,,,,,,,,,336,1131.0
+2.0,ICU,Room A,Bed 2,2026-01-23 05:45:00,2026-01-28 20:45:00,Hemodynamic Instability,Source_A,,,,,,,,,,337,
+11.0,ICU,Room C,Bed 4,2026-07-10 16:15:00,2026-07-17 04:15:00,Continuous Monitoring,Source_A,,,,,,,,,,338,1133.0
+1.0,CCU,Room A,Bed 3,2026-09-08 22:00:00,2026-09-15 00:00:00,Hemodynamic Instability,Source_A,,,,,,,,,,339,1134.0
+7.0,ICU,Room B,Bed 4,2026-04-06 02:00:00,,Continuous Monitoring,Source_A,,,,,,,,,,340,1136.0
+13.0,ICU,Room B,Bed 4,2026-07-18 09:30:00,2026-07-20 08:30:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,341,1137.0
+4.0,CCU,Room C,Bed 3,2026-07-14 17:00:00,2026-07-17 21:00:00,Continuous Monitoring,Source_A,,,,,,,,,,342,1138.0
+3.0,SICU,Room B,Bed 3,2026-02-18 21:30:00,2026-02-26 04:30:00,Post-Operative Recovery,Source_A,,,,,,,,,,343,1142.0
+5.0,CCU,Room A,Bed 3,2026-05-31 19:00:00,2026-06-03 08:00:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,344,1144.0
+3.0,CCU,Room A,Bed 4,2026-03-13 13:45:00,2026-03-20 18:45:00,Post-Operative Recovery,Source_A,,,,,,,,,,345,1146.0
+5.0,CCU,Room C,Bed 3,2026-03-01 05:15:00,2026-03-08 00:15:00,Post-Operative Recovery,Source_A,,,,,,,,,,346,1147.0
+2.0,CCU,Room C,Bed 4,2026-03-16 13:15:00,2026-03-21 04:15:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,347,1150.0
+10.0,MICU,Room C,Bed 1,2026-05-23 22:30:00,2026-05-27 19:30:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,348,1151.0
+5.0,ICU,Room A,Bed 2,2026-04-25 23:15:00,2026-04-27 15:15:00,Hemodynamic Instability,Source_A,,,,,,,,,,349,1155.0
+3.0,ICU,Room C,Bed 3,2026-09-07 22:30:00,2026-09-12 05:30:00,Cardiac Arrhythmia,Source_A,,,,,,,,,,350,1156.0
+,,,,,,,Source_B,1.0,1.0,MRN-10014,WARD-SICU,N,2026-04-15 16:00:00,2026-04-18 16:00:00,Surveillance continue,,351,1157.0
+,,,,,,,Source_B,2.0,9999.0,MRN-10015,WARD-CCU,Y,2026-07-16 05:00:00,2026-07-21 05:00:00,Surveillance continue,,352,1157.0
+,,,,,,,Source_B,3.0,11.0,MRN-10012,WARD-CCU,Y,2026-07-14 13:00:00,2026-07-15 13:00:00,Détresse respiratoire,,353,1157.0
+,,,,,,,Source_B,4.0,12.0,MRN-10012,WARD-CCU,Y,2026-03-02 01:00:00,2026-03-07 01:00:00,Surveillance continue,,354,1157.0
+,,,,,,,Source_B,5.0,16.0,MRN-10014,WARD-CCU,Y,2026-05-23 02:00:00,2026-05-26 02:00:00,Post-opératoire,,355,1157.0
+,,,,,,,Source_B,6.0,17.0,MRN-10011,WARD-SICU,Y,2026-06-12 19:00:00,2026-06-15 19:00:00,Post-opératoire,,356,1157.0
+,,,,,,,Source_B,8.0,20.0,MRN-10008,WARD-ICU,N,2026-02-18 15:00:00,2026-02-19 15:00:00,Surveillance continue,,357,1157.0
+,,,,,,,Source_B,9.0,25.0,MRN-10015,WARD-SICU,N,2026-03-22 13:00:00,2026-03-26 13:00:00,Surveillance continue,,358,1157.0
+,,,,,,,Source_B,10.0,27.0,MRN-10007,WARD-ICU,Y,2026-05-10 22:00:00,2026-05-17 22:00:00,Post-opératoire,,359,1157.0
+,,,,,,,Source_B,12.0,31.0,MRN-10012,WARD-SICU,N,2026-05-15 03:00:00,2026-05-17 03:00:00,Détresse respiratoire,,360,1157.0
+,,,,,,,Source_B,13.0,34.0,MRN-10011,WARD-ICU,Y,2026-09-03 12:00:00,2026-09-04 12:00:00,Détresse respiratoire,,361,1157.0
+,,,,,,,Source_B,14.0,35.0,MRN-10006,WARD-CCU,N,2026-04-03 14:00:00,2026-04-09 14:00:00,Détresse respiratoire,,362,1157.0
+,,,,,,,Source_B,15.0,36.0,MRN-10002,WARD-ICU,N,2026-01-10 15:00:00,2026-01-12 15:00:00,Post-opératoire,,363,1157.0
+,,,,,,,Source_B,16.0,38.0,MRN-10014,WARD-ICU,N,2026-02-05 23:00:00,2026-02-08 23:00:00,Détresse respiratoire,,364,1157.0
+,,,,,,,Source_B,17.0,39.0,MRN-10014,WARD-SICU,Y,2026-07-07 22:00:00,2026-07-10 22:00:00,Détresse respiratoire,,365,1157.0
+,,,,,,,Source_B,18.0,42.0,MRN-10010,WARD-ICU,N,2026-02-05 08:00:00,2026-02-10 08:00:00,Post-opératoire,,366,1157.0
+,,,,,,,Source_B,19.0,43.0,MRN-10012,WARD-ICU,N,2026-01-07 08:00:00,2026-01-14 08:00:00,Détresse respiratoire,,367,1157.0
+,,,,,,,Source_B,20.0,45.0,MRN-10010,WARD-ICU,N,2026-06-17 18:00:00,2026-06-20 18:00:00,Détresse respiratoire,,368,1157.0
+,,,,,,,Source_B,21.0,46.0,MRN-10007,WARD-CCU,Y,2026-07-01 22:00:00,2026-07-08 22:00:00,Surveillance continue,,369,1157.0
+,,,,,,,Source_B,22.0,49.0,MRN-10002,WARD-SICU,N,2026-08-18 10:00:00,2026-08-21 10:00:00,Détresse respiratoire,,370,1157.0
+,,,,,,,Source_B,23.0,51.0,MRN-10014,WARD-ICU,N,2026-03-29 19:00:00,2026-04-04 19:00:00,Détresse respiratoire,,371,1157.0
+,,,,,,,Source_B,24.0,55.0,MRN-10013,WARD-SICU,Y,2026-07-18 11:00:00,2026-07-19 11:00:00,Détresse respiratoire,,372,1157.0
+,,,,,,,Source_B,25.0,63.0,MRN-10009,WARD-SICU,Y,2026-07-29 14:00:00,2026-07-31 14:00:00,Post-opératoire,,373,1157.0
+,,,,,,,Source_B,26.0,68.0,MRN-10002,WARD-ICU,Y,2026-04-16 01:00:00,2026-04-19 01:00:00,Post-opératoire,,374,1157.0
+,,,,,,,Source_B,27.0,69.0,MRN-10011,WARD-ICU,N,2026-06-11 17:00:00,2026-06-17 17:00:00,Surveillance continue,,375,1157.0
+,,,,,,,Source_B,28.0,72.0,MRN-10002,WARD-SICU,Y,2026-06-04 00:00:00,2026-06-07 00:00:00,Détresse respiratoire,,376,1157.0
+,,,,,,,Source_B,29.0,76.0,MRN-10004,WARD-SICU,Y,2026-02-18 08:00:00,2026-02-20 08:00:00,Surveillance continue,,377,1157.0
+,,,,,,,Source_B,30.0,81.0,MRN-10001,WARD-ICU,Y,2026-08-13 05:00:00,2026-08-15 05:00:00,Détresse respiratoire,,378,1157.0
+,,,,,,,Source_B,32.0,87.0,MRN-10008,WARD-SICU,Y,2026-01-29 03:00:00,2026-02-04 03:00:00,Détresse respiratoire,,379,1157.0
+,,,,,,,Source_B,33.0,89.0,MRN-10011,WARD-ICU,Y,2026-01-27 07:00:00,2026-02-01 07:00:00,POST-OPÉRATOIRE,,380,1157.0
+,,,,,,,Source_B,34.0,90.0,MRN-10005,WARD-SICU,Y,2026-07-21 11:00:00,2026-07-28 11:00:00,Surveillance continue,,381,1157.0
+,,,,,,,Source_B,35.0,92.0,MRN-10010,WARD-CCU,N,2026-08-31 00:00:00,2026-09-02 00:00:00,Détresse respiratoire,,382,1157.0
+,,,,,,,Source_B,36.0,9999.0,MRN-10011,WARD-SICU,Y,2026-04-04 19:00:00,2026-04-09 19:00:00,Surveillance continue,,383,1157.0
+,,,,,,,Source_B,37.0,95.0,MRN-10011,WARD-SICU,N,2026-07-17 00:00:00,2026-07-18 00:00:00,Post-opératoire,,384,1157.0
+,,,,,,,Source_B,38.0,96.0,MRN-10002,WARD-CCU,N,2026-01-24 08:00:00,2026-01-31 08:00:00,POST-OPÉRATOIRE,,385,1157.0
+,,,,,,,Source_B,39.0,98.0,MRN-10003,WARD-ICU,Y,2026-04-24 22:00:00,2026-04-25 22:00:00,Surveillance continue,,386,1157.0
+,,,,,,,Source_B,40.0,100.0,MRN-10009,WARD-ICU,N,2026-04-29 07:00:00,2026-05-05 07:00:00,Post-opératoire,,387,1157.0
+,,,,,,,Source_B,41.0,104.0,MRN-10015,WARD-CCU,Y,2026-08-22 15:00:00,2026-08-28 15:00:00,Post-opératoire,,388,1157.0
+,,,,,,,Source_B,42.0,107.0,MRN-10001,WARD-ICU,N,2026-07-27 07:00:00,2026-08-03 07:00:00,Post-opératoire,,389,1157.0
+,,,,,,,Source_B,43.0,108.0,MRN-10005,WARD-SICU,N,2026-03-15 19:00:00,2026-03-22 19:00:00,Détresse respiratoire,,390,1157.0
+,,,,,,,Source_B,44.0,114.0,MRN-10014,WARD-CCU,Y,2026-09-01 21:00:00,2026-09-02 21:00:00,Surveillance continue,,391,1157.0
+,,,,,,,Source_B,45.0,115.0,MRN-10010,WARD-ICU,Y,2026-03-24 23:00:00,2026-03-30 23:00:00,Post-opératoire,,392,1157.0
+,,,,,,,Source_B,46.0,123.0,MRN-10004,WARD-SICU,N,2026-01-29 05:00:00,,Surveillance continue,,393,1157.0
+,,,,,,,Source_B,48.0,128.0,MRN-10011,WARD-ICU,N,2026-07-08 22:00:00,2026-07-15 22:00:00,Post-opératoire,,394,1157.0
+,,,,,,,Source_B,49.0,137.0,MRN-10009,WARD-SICU,Y,2026-06-18 07:00:00,2026-06-20 07:00:00,DÉTRESSE RESPIRATOIRE,,395,1157.0
+,,,,,,,Source_B,50.0,139.0,MRN-10013,WARD-SICU,Y,2026-03-01 10:00:00,2026-03-08 10:00:00,Détresse respiratoire,,396,1157.0
+,,,,,,,Source_B,51.0,140.0,MRN-10004,WARD-SICU,N,2026-08-01 08:00:00,2026-08-06 08:00:00,DÉTRESSE RESPIRATOIRE,,397,1157.0
+,,,,,,,Source_B,52.0,141.0,MRN-10008,WARD-SICU,Y,2026-08-10 05:00:00,2026-08-14 05:00:00,Post-opératoire,,398,1157.0
+,,,,,,,Source_B,53.0,143.0,MRN-10010,WARD-ICU,N,2026-06-17 15:00:00,2026-06-21 15:00:00,Post-opératoire,,399,1157.0
+,,,,,,,Source_B,54.0,145.0,MRN-10003,WARD-SICU,N,2026-02-17 08:00:00,2026-02-21 08:00:00,Détresse respiratoire,,400,1157.0
+,,,,,,,Source_B,55.0,148.0,MRN-10004,WARD-ICU,N,2026-04-03 06:00:00,2026-04-07 06:00:00,Détresse respiratoire,,401,1157.0
+,,,,,,,Source_B,56.0,149.0,MRN-10001,WARD-SICU,N,2026-03-06 06:00:00,2026-03-13 06:00:00,Détresse respiratoire,,402,1157.0
+,,,,,,,Source_B,57.0,151.0,MRN-10005,WARD-ICU,N,2026-02-19 10:00:00,2026-02-25 10:00:00,Détresse respiratoire,,403,1157.0
+,,,,,,,Source_B,58.0,155.0,MRN-10015,WARD-SICU,N,2026-02-22 01:00:00,2026-02-26 01:00:00,Post-opératoire,,404,1157.0
+,,,,,,,Source_B,59.0,156.0,MRN-10003,WARD-SICU,Y,2026-06-08 00:00:00,2026-06-09 00:00:00,Détresse respiratoire,,405,1157.0
+,,,,,,,Source_B,60.0,157.0,MRN-10012,WARD-SICU,N,2026-05-28 19:00:00,2026-06-04 19:00:00,Post-opératoire,,406,1157.0
+,,,,,,,Source_B,61.0,158.0,MRN-10010,WARD-ICU,N,2026-05-23 03:00:00,2026-05-25 03:00:00,Post-opératoire,,407,1157.0
+,,,,,,,Source_B,62.0,159.0,MRN-10003,WARD-ICU,Y,2026-08-04 02:00:00,2026-08-09 02:00:00,DÉTRESSE RESPIRATOIRE,,408,1157.0
+,,,,,,,Source_B,63.0,162.0,MRN-10012,WARD-CCU,Y,2026-04-09 22:00:00,2026-04-16 22:00:00,Post-opératoire,,409,1157.0
+,,,,,,,Source_B,64.0,169.0,MRN-10004,WARD-ICU,Y,2026-08-22 22:00:00,2026-08-24 22:00:00,Détresse respiratoire,,410,1157.0
+,,,,,,,Source_B,65.0,170.0,MRN-10009,WARD-ICU,N,2026-03-03 00:00:00,2026-03-08 00:00:00,Détresse respiratoire,,411,1157.0
+,,,,,,,Source_B,66.0,174.0,MRN-10010,WARD-ICU,Y,2026-07-12 07:00:00,2026-07-17 07:00:00,Post-opératoire,,412,1157.0
+,,,,,,,Source_B,67.0,181.0,MRN-10012,WARD-SICU,N,2026-03-11 00:00:00,,Post-opératoire,,413,1157.0
+,,,,,,,Source_B,68.0,193.0,MRN-10012,WARD-SICU,N,2026-05-12 11:00:00,2026-05-15 11:00:00,Post-opératoire,,414,1157.0
+,,,,,,,Source_B,69.0,195.0,MRN-10013,WARD-SICU,N,2026-01-07 18:00:00,2026-01-11 18:00:00,Détresse respiratoire,,415,1157.0
+,,,,,,,Source_B,70.0,196.0,MRN-10015,WARD-SICU,Y,2026-02-22 16:00:00,2026-02-28 16:00:00,Surveillance continue,,416,1157.0
+,,,,,,,Source_B,71.0,197.0,MRN-10009,WARD-ICU,N,2026-07-18 05:00:00,2026-07-21 05:00:00,Détresse respiratoire,,417,1157.0
+,,,,,,,Source_B,72.0,199.0,MRN-10009,WARD-ICU,N,2026-03-12 05:00:00,2026-03-18 05:00:00,Surveillance continue,,418,1157.0
+,,,,,,,Source_B,73.0,202.0,MRN-10008,WARD-CCU,N,2026-08-24 07:00:00,2026-08-27 07:00:00,Post-opératoire,,419,1157.0
+,,,,,,,Source_B,75.0,210.0,MRN-10003,WARD-SICU,Y,2026-02-11 10:00:00,2026-02-14 10:00:00,Détresse respiratoire,,420,1157.0
+,,,,,,,Source_B,76.0,216.0,MRN-10012,WARD-SICU,Y,2026-04-17 23:00:00,2026-04-24 23:00:00,Surveillance continue,,421,1157.0
+,,,,,,,Source_B,77.0,217.0,MRN-10002,WARD-CCU,Y,2026-04-27 06:00:00,2026-04-28 06:00:00,Surveillance continue,,422,1157.0
+,,,,,,,Source_B,78.0,218.0,MRN-10004,WARD-SICU,N,2026-08-27 01:00:00,2026-08-30 01:00:00,Surveillance continue,,423,1157.0
+,,,,,,,Source_B,79.0,234.0,MRN-10012,WARD-ICU,N,2026-04-01 02:00:00,2026-04-07 02:00:00,Post-opératoire,,424,1157.0
+,,,,,,,Source_B,80.0,236.0,MRN-10002,WARD-SICU,N,2026-07-21 09:00:00,2026-07-23 09:00:00,Détresse respiratoire,,425,1157.0
+,,,,,,,Source_B,81.0,237.0,MRN-10004,WARD-ICU,Y,2026-04-03 06:00:00,2026-04-10 06:00:00,Surveillance continue,,426,1157.0
+,,,,,,,Source_B,82.0,238.0,MRN-10007,WARD-ICU,Y,2026-05-28 08:00:00,2026-05-31 08:00:00,Surveillance continue,,427,1157.0
+,,,,,,,Source_B,84.0,243.0,MRN-10014,WARD-ICU,Y,2026-01-10 06:00:00,2026-01-12 06:00:00,Surveillance continue,,428,1157.0
+,,,,,,,Source_B,85.0,250.0,MRN-10014,WARD-SICU,Y,2026-03-08 15:00:00,2026-03-12 15:00:00,Détresse respiratoire,,429,1157.0
+,,,,,,,Source_B,86.0,251.0,MRN-10002,WARD-CCU,Y,2026-01-27 16:00:00,2026-01-31 16:00:00,DÉTRESSE RESPIRATOIRE,,430,1157.0
+,,,,,,,Source_B,87.0,262.0,MRN-10012,WARD-ICU,N,2026-05-07 12:00:00,2026-05-12 12:00:00,Surveillance continue,,431,1157.0
+,,,,,,,Source_B,88.0,263.0,MRN-10003,WARD-CCU,N,2026-06-22 13:00:00,2026-06-27 13:00:00,Surveillance continue,,432,1157.0
+,,,,,,,Source_B,89.0,266.0,MRN-10009,WARD-SICU,N,2026-03-03 03:00:00,2026-03-06 03:00:00,Détresse respiratoire,,433,1157.0
+,,,,,,,Source_B,90.0,268.0,MRN-10011,WARD-ICU,N,2026-04-29 05:00:00,,Détresse respiratoire,,434,1157.0
+,,,,,,,Source_B,91.0,271.0,MRN-10005,WARD-ICU,Y,2026-01-11 17:00:00,2026-01-12 17:00:00,Post-opératoire,,435,1157.0
+,,,,,,,Source_B,92.0,274.0,MRN-10008,WARD-CCU,Y,2026-01-25 02:00:00,,Détresse respiratoire,,436,1157.0
+,,,,,,,Source_B,93.0,283.0,MRN-10011,WARD-SICU,N,2026-04-01 15:00:00,2026-04-07 15:00:00,Surveillance continue,,437,1157.0
+,,,,,,,Source_B,94.0,285.0,MRN-10014,WARD-CCU,N,2026-04-28 08:00:00,2026-05-03 08:00:00,Détresse respiratoire,,438,1157.0
+,,,,,,,Source_B,95.0,287.0,MRN-10011,WARD-CCU,N,2026-07-21 17:00:00,2026-07-25 17:00:00,Post-opératoire,,439,1157.0
+,,,,,,,Source_B,96.0,293.0,MRN-10013,WARD-CCU,Y,2026-05-29 10:00:00,2026-05-30 10:00:00,Post-opératoire,,440,1157.0
+,,,,,,,Source_B,97.0,308.0,MRN-10006,WARD-CCU,Y,2026-07-30 11:00:00,2026-08-04 11:00:00,Post-opératoire,,441,1157.0
+,,,,,,,Source_B,98.0,317.0,MRN-10011,WARD-SICU,Y,2026-06-06 01:00:00,2026-06-08 01:00:00,Surveillance continue,,442,1157.0
+,,,,,,,Source_B,99.0,319.0,MRN-10014,WARD-ICU,N,2026-05-27 02:00:00,2026-06-02 02:00:00,Surveillance continue,,443,1157.0
+,,,,,,,Source_B,100.0,326.0,MRN-10013,WARD-ICU,N,2026-01-23 02:00:00,2026-01-27 02:00:00,Surveillance continue,,444,1157.0
+,,,,,,,Source_B,101.0,332.0,MRN-10013,WARD-CCU,Y,2026-08-20 06:00:00,2026-08-26 06:00:00,Surveillance continue,,445,1157.0
+,,,,,,,Source_B,102.0,342.0,MRN-10012,WARD-CCU,Y,2026-02-05 05:00:00,2026-02-07 05:00:00,Post-opératoire,,446,1157.0
+,,,,,,,Source_B,103.0,356.0,MRN-10004,WARD-ICU,Y,2026-08-07 09:00:00,2026-08-08 09:00:00,Détresse respiratoire,,447,1157.0
+,,,,,,,Source_B,104.0,359.0,MRN-10011,WARD-SICU,N,2026-06-04 00:00:00,2026-06-07 00:00:00,Post-opératoire,,448,1157.0
+,,,,,,,Source_B,105.0,363.0,MRN-10001,WARD-ICU,N,2026-03-14 19:00:00,2026-03-16 19:00:00,SURVEILLANCE CONTINUE,,449,1157.0
+,,,,,,,Source_B,106.0,364.0,MRN-10013,WARD-SICU,N,2026-06-20 16:00:00,2026-06-21 16:00:00,Post-opératoire,,450,1157.0
+,,,,,,,Source_B,107.0,365.0,MRN-10003,WARD-SICU,N,2026-04-27 09:00:00,2026-04-30 09:00:00,Détresse respiratoire,,451,1157.0
+,,,,,,,Source_B,108.0,366.0,MRN-10010,WARD-ICU,N,2026-01-10 07:00:00,2026-01-12 07:00:00,Post-opératoire,,452,1157.0
+,,,,,,,Source_B,109.0,372.0,MRN-10011,WARD-ICU,Y,2026-08-10 23:00:00,2026-08-15 23:00:00,Post-opératoire,,453,1157.0
+,,,,,,,Source_B,110.0,374.0,MRN-10010,WARD-SICU,Y,2026-01-15 13:00:00,2026-01-16 13:00:00,Surveillance continue,,454,1157.0
+,,,,,,,Source_B,111.0,383.0,MRN-10013,WARD-CCU,N,2026-06-15 03:00:00,2026-06-16 03:00:00,Post-opératoire,,455,1157.0
+,,,,,,,Source_B,112.0,385.0,MRN-10001,WARD-SICU,Y,2026-08-15 12:00:00,2026-08-21 12:00:00,Détresse respiratoire,,456,1157.0
+,,,,,,,Source_B,113.0,386.0,MRN-10010,WARD-ICU,Y,2026-07-14 18:00:00,2026-07-19 18:00:00,Détresse respiratoire,,457,1157.0
+,,,,,,,Source_B,114.0,391.0,MRN-10014,WARD-ICU,Y,2026-05-04 13:00:00,2026-05-11 13:00:00,Post-opératoire,,458,1157.0
+,,,,,,,Source_B,115.0,400.0,MRN-10004,WARD-ICU,Y,2026-08-30 13:00:00,2026-09-05 13:00:00,Détresse respiratoire,,459,1157.0
+,,,,,,,Source_B,116.0,9999.0,MRN-10003,WARD-ICU,N,2026-05-11 04:00:00,2026-05-15 04:00:00,Post-opératoire,,460,1157.0
+,,,,,,,Source_B,117.0,405.0,MRN-10015,WARD-ICU,N,2026-08-22 10:00:00,2026-08-27 10:00:00,Post-opératoire,,461,1157.0
+,,,,,,,Source_B,118.0,414.0,MRN-10011,WARD-CCU,Y,2026-04-22 01:00:00,2026-04-28 01:00:00,Surveillance continue,,462,1157.0
+,,,,,,,Source_B,119.0,417.0,MRN-10013,WARD-SICU,N,2026-01-15 07:00:00,2026-01-17 07:00:00,Détresse respiratoire,,463,1157.0
+,,,,,,,Source_B,120.0,420.0,MRN-10006,WARD-SICU,Y,2026-09-08 08:00:00,2026-09-09 08:00:00,Surveillance continue,,464,1157.0
+,,,,,,,Source_B,121.0,422.0,MRN-10002,WARD-SICU,N,2026-04-12 07:00:00,2026-04-15 07:00:00,Surveillance continue,,465,1157.0
+,,,,,,,Source_B,122.0,423.0,MRN-10013,WARD-ICU,N,2026-09-01 13:00:00,2026-09-06 13:00:00,Post-opératoire,,466,1157.0
+,,,,,,,Source_B,123.0,424.0,MRN-10002,WARD-ICU,Y,2026-05-03 05:00:00,2026-05-04 05:00:00,Post-opératoire,,467,1157.0
+,,,,,,,Source_B,124.0,425.0,MRN-10013,WARD-CCU,Y,2026-06-12 08:00:00,,Détresse respiratoire,,468,1157.0
+,,,,,,,Source_B,125.0,431.0,MRN-10011,WARD-CCU,N,2026-08-06 00:00:00,2026-08-13 00:00:00,Post-opératoire,,469,1157.0
+,,,,,,,Source_B,126.0,434.0,MRN-10001,WARD-ICU,Y,2026-05-01 21:00:00,2026-05-06 21:00:00,Détresse respiratoire,,470,1157.0
+,,,,,,,Source_B,127.0,436.0,MRN-10010,WARD-ICU,Y,2026-01-10 01:00:00,2026-01-15 01:00:00,Surveillance continue,,471,1157.0
+,,,,,,,Source_B,128.0,443.0,MRN-10005,WARD-CCU,Y,2026-02-11 02:00:00,2026-02-18 02:00:00,Surveillance continue,,472,1157.0
+,,,,,,,Source_B,129.0,448.0,MRN-10008,WARD-ICU,N,2026-07-01 16:00:00,2026-07-04 16:00:00,DÉTRESSE RESPIRATOIRE,,473,1157.0
+,,,,,,,Source_B,130.0,449.0,MRN-10006,WARD-SICU,N,2026-02-10 03:00:00,2026-02-12 03:00:00,Détresse respiratoire,,474,1157.0
+,,,,,,,Source_B,131.0,451.0,MRN-10001,WARD-ICU,N,2026-04-01 19:00:00,2026-04-02 19:00:00,Post-opératoire,,475,1157.0
+,,,,,,,Source_B,132.0,452.0,MRN-10003,WARD-CCU,Y,2026-08-20 07:00:00,2026-08-26 07:00:00,Post-opératoire,,476,1157.0
+,,,,,,,Source_B,133.0,453.0,MRN-10008,WARD-SICU,N,2026-07-19 13:00:00,,Surveillance continue,,477,1157.0
+,,,,,,,Source_B,134.0,454.0,MRN-10007,WARD-CCU,Y,2026-08-20 17:00:00,2026-08-26 17:00:00,Post-opératoire,,478,1157.0
+,,,,,,,Source_B,135.0,456.0,MRN-10015,WARD-ICU,Y,2026-02-16 02:00:00,2026-02-20 02:00:00,Détresse respiratoire,,479,1157.0
+,,,,,,,Source_B,136.0,457.0,MRN-10011,WARD-ICU,Y,2026-08-07 20:00:00,2026-08-13 20:00:00,Surveillance continue,,480,1157.0
+,,,,,,,Source_B,137.0,461.0,MRN-10009,WARD-ICU,N,2026-08-24 21:00:00,2026-08-26 21:00:00,Post-opératoire,,481,1157.0
+,,,,,,,Source_B,138.0,465.0,MRN-10015,WARD-SICU,N,2026-01-21 02:00:00,2026-01-22 02:00:00,Surveillance continue,,482,1157.0
+,,,,,,,Source_B,139.0,470.0,MRN-10010,WARD-ICU,N,2026-01-10 21:00:00,2026-01-14 21:00:00,Surveillance continue,,483,1157.0
+,,,,,,,Source_B,140.0,474.0,MRN-10008,WARD-SICU,Y,2026-01-26 17:00:00,2026-01-27 17:00:00,Surveillance continue,,484,1157.0
+,,,,,,,Source_B,141.0,476.0,MRN-10002,WARD-SICU,Y,2026-06-30 01:00:00,2026-07-05 01:00:00,Post-opératoire,,485,1157.0
+,,,,,,,Source_B,142.0,478.0,MRN-10003,WARD-ICU,Y,2026-07-20 09:00:00,2026-07-25 09:00:00,Post-opératoire,,486,1157.0
+,,,,,,,Source_B,143.0,480.0,MRN-10014,WARD-SICU,Y,2026-06-02 12:00:00,2026-06-05 12:00:00,Surveillance continue,,487,1157.0
+,,,,,,,Source_B,145.0,490.0,MRN-10013,WARD-ICU,Y,2026-05-04 16:00:00,2026-05-08 16:00:00,Détresse respiratoire,,488,1157.0
+,,,,,,,Source_B,146.0,492.0,MRN-10014,WARD-SICU,Y,2026-03-13 02:00:00,2026-03-19 02:00:00,Détresse respiratoire,,489,1157.0
+,,,,,,,Source_B,148.0,514.0,MRN-10005,WARD-SICU,N,2026-06-18 01:00:00,2026-06-21 01:00:00,Post-opératoire,,490,1157.0
+,,,,,,,Source_B,149.0,518.0,MRN-10008,WARD-CCU,N,2026-05-03 10:00:00,2026-05-08 10:00:00,Détresse respiratoire,,491,1157.0
+,,,,,,,Source_B,150.0,523.0,MRN-10012,WARD-ICU,N,2026-06-19 20:00:00,2026-06-26 20:00:00,Détresse respiratoire,,492,1157.0
+,,,,,,,Source_B,151.0,525.0,MRN-10010,WARD-SICU,N,2026-01-02 13:00:00,2026-01-08 13:00:00,Post-opératoire,,493,1157.0
+,,,,,,,Source_B,152.0,526.0,MRN-10003,WARD-SICU,N,2026-05-21 14:00:00,2026-05-25 14:00:00,Détresse respiratoire,,494,1157.0
+,,,,,,,Source_B,153.0,527.0,MRN-10014,WARD-SICU,Y,2026-06-14 13:00:00,2026-06-18 13:00:00,DÉTRESSE RESPIRATOIRE,,495,1157.0
+,,,,,,,Source_B,154.0,528.0,MRN-10007,WARD-CCU,Y,2026-02-19 08:00:00,2026-02-23 08:00:00,Détresse respiratoire,,496,1157.0
+,,,,,,,Source_B,155.0,531.0,MRN-10008,WARD-SICU,Y,2026-08-30 01:00:00,2026-09-04 01:00:00,Surveillance continue,,497,1157.0
+,,,,,,,Source_B,156.0,534.0,MRN-10003,WARD-SICU,Y,2026-06-05 15:00:00,2026-06-06 15:00:00,Détresse respiratoire,,498,1157.0
+,,,,,,,Source_B,157.0,535.0,MRN-10008,WARD-CCU,N,2026-07-22 11:00:00,2026-07-23 11:00:00,Détresse respiratoire,,499,1157.0
+,,,,,,,Source_B,158.0,537.0,MRN-10012,WARD-CCU,Y,2026-03-14 08:00:00,2026-03-18 08:00:00,Détresse respiratoire,,500,1157.0
+,,,,,,,Source_B,159.0,546.0,MRN-10004,WARD-CCU,Y,2026-07-04 22:00:00,2026-07-08 22:00:00,Surveillance continue,,501,1157.0
+,,,,,,,Source_B,160.0,547.0,MRN-10005,WARD-CCU,N,2026-05-24 13:00:00,2026-05-30 13:00:00,Surveillance continue,,502,1157.0
+,,,,,,,Source_B,161.0,549.0,MRN-10008,WARD-CCU,Y,2026-03-17 03:00:00,2026-03-23 03:00:00,Post-opératoire,,503,1157.0
+,,,,,,,Source_B,162.0,550.0,MRN-10008,WARD-ICU,N,2026-03-20 03:00:00,2026-03-26 03:00:00,Détresse respiratoire,,504,1157.0
+,,,,,,,Source_B,163.0,563.0,MRN-10003,WARD-ICU,Y,2026-06-29 21:00:00,2026-07-05 21:00:00,Surveillance continue,,505,1157.0
+,,,,,,,Source_B,164.0,565.0,MRN-10001,WARD-ICU,N,2026-06-23 18:00:00,2026-06-29 18:00:00,Détresse respiratoire,,506,1157.0
+,,,,,,,Source_B,165.0,569.0,MRN-10004,WARD-SICU,N,2026-08-19 10:00:00,2026-08-21 10:00:00,Détresse respiratoire,,507,1157.0
+,,,,,,,Source_B,166.0,574.0,MRN-10009,WARD-ICU,Y,2026-05-09 18:00:00,2026-05-12 18:00:00,Post-opératoire,,508,1157.0
+,,,,,,,Source_B,167.0,581.0,MRN-10009,WARD-ICU,Y,2026-09-05 11:00:00,2026-09-09 11:00:00,Post-opératoire,,509,1157.0
+,,,,,,,Source_B,168.0,582.0,MRN-10001,WARD-CCU,Y,2026-01-03 00:00:00,,Post-opératoire,,510,1157.0
+,,,,,,,Source_B,170.0,593.0,MRN-10012,WARD-ICU,Y,2026-03-19 23:00:00,2026-03-20 23:00:00,POST-OPÉRATOIRE,,511,1157.0
+,,,,,,,Source_B,171.0,594.0,MRN-10007,WARD-CCU,Y,2026-04-27 14:00:00,,Post-opératoire,,512,1157.0
+,,,,,,,Source_B,172.0,595.0,MRN-10015,WARD-ICU,Y,2026-08-02 11:00:00,2026-08-04 11:00:00,Détresse respiratoire,,513,1157.0
+,,,,,,,Source_B,173.0,596.0,MRN-10009,WARD-CCU,Y,2026-02-12 18:00:00,2026-02-18 18:00:00,Surveillance continue,,514,1157.0
+,,,,,,,Source_B,174.0,601.0,MRN-10005,WARD-CCU,Y,2026-06-29 19:00:00,2026-07-03 19:00:00,Post-opératoire,,515,1157.0
+,,,,,,,Source_B,176.0,607.0,MRN-10008,WARD-ICU,N,2026-04-26 17:00:00,2026-04-30 17:00:00,Post-opératoire,,516,1157.0
+,,,,,,,Source_B,177.0,612.0,MRN-10012,WARD-CCU,Y,2026-05-24 18:00:00,2026-05-28 18:00:00,Surveillance continue,,517,1157.0
+,,,,,,,Source_B,178.0,617.0,MRN-10003,WARD-ICU,N,2026-05-24 09:00:00,2026-05-31 09:00:00,Détresse respiratoire,,518,1157.0
+,,,,,,,Source_B,179.0,620.0,MRN-10005,WARD-ICU,Y,2026-02-05 09:00:00,2026-02-12 09:00:00,Post-opératoire,,519,1157.0
+,,,,,,,Source_B,180.0,630.0,MRN-10009,WARD-SICU,Y,2026-04-18 12:00:00,2026-04-20 12:00:00,Surveillance continue,,520,1157.0
+,,,,,,,Source_B,181.0,633.0,MRN-10005,WARD-SICU,Y,2026-08-10 15:00:00,2026-08-15 15:00:00,Détresse respiratoire,,521,1157.0
+,,,,,,,Source_B,182.0,637.0,MRN-10010,WARD-CCU,N,2026-01-25 22:00:00,,Détresse respiratoire,,522,1157.0
+,,,,,,,Source_B,184.0,640.0,MRN-10004,WARD-SICU,Y,2026-01-21 11:00:00,2026-01-27 11:00:00,Surveillance continue,,523,1157.0
+,,,,,,,Source_B,185.0,643.0,MRN-10004,WARD-CCU,N,2026-03-26 22:00:00,2026-04-02 22:00:00,Post-opératoire,,524,1157.0
+,,,,,,,Source_B,186.0,9999.0,MRN-10011,WARD-SICU,N,2026-01-26 18:00:00,2026-01-27 18:00:00,Détresse respiratoire,,525,1157.0
+,,,,,,,Source_B,187.0,653.0,MRN-10013,WARD-ICU,N,2026-01-06 14:00:00,2026-01-10 14:00:00,DÉTRESSE RESPIRATOIRE,,526,1157.0
+,,,,,,,Source_B,188.0,654.0,MRN-10001,WARD-SICU,N,2026-08-29 19:00:00,2026-09-03 19:00:00,Post-opératoire,,527,1157.0
+,,,,,,,Source_B,189.0,657.0,MRN-10013,WARD-ICU,N,2026-07-19 14:00:00,2026-07-23 14:00:00,Post-opératoire,,528,1157.0
+,,,,,,,Source_B,190.0,660.0,MRN-10007,WARD-CCU,N,2026-02-12 09:00:00,2026-02-18 09:00:00,SURVEILLANCE CONTINUE,,529,1157.0
+,,,,,,,Source_B,191.0,662.0,MRN-10015,WARD-CCU,Y,2026-01-24 15:00:00,2026-01-27 15:00:00,Détresse respiratoire,,530,1157.0
+,,,,,,,Source_B,192.0,663.0,MRN-10010,WARD-CCU,Y,2026-01-04 02:00:00,2026-01-06 02:00:00,Surveillance continue,,531,1157.0
+,,,,,,,Source_B,193.0,666.0,MRN-10011,WARD-ICU,N,2026-02-15 01:00:00,2026-02-21 01:00:00,Post-opératoire,,532,1157.0
+,,,,,,,Source_B,194.0,668.0,MRN-10004,WARD-SICU,N,2026-04-11 18:00:00,2026-04-14 18:00:00,Post-opératoire,,533,1157.0
+,,,,,,,Source_B,195.0,669.0,MRN-10009,WARD-SICU,Y,2026-07-21 14:00:00,2026-07-25 14:00:00,Détresse respiratoire,,534,1157.0
+,,,,,,,Source_B,196.0,674.0,MRN-10003,WARD-ICU,N,2026-08-14 12:00:00,2026-08-17 12:00:00,Post-opératoire,,535,1157.0
+,,,,,,,Source_B,197.0,678.0,MRN-10012,WARD-CCU,Y,2026-01-29 19:00:00,2026-02-05 19:00:00,Détresse respiratoire,,536,1157.0
+,,,,,,,Source_B,198.0,679.0,MRN-10010,WARD-ICU,N,2026-04-06 19:00:00,2026-04-12 19:00:00,SURVEILLANCE CONTINUE,,537,1157.0
+,,,,,,,Source_B,199.0,681.0,MRN-10005,WARD-SICU,N,2026-04-09 20:00:00,2026-04-11 20:00:00,Surveillance continue,,538,1157.0
+,,,,,,,Source_B,200.0,682.0,MRN-10011,WARD-ICU,N,2026-09-07 02:00:00,2026-09-09 02:00:00,Surveillance continue,,539,1157.0
+,,,,,,,Source_B,201.0,684.0,MRN-10015,WARD-CCU,Y,2026-09-01 03:00:00,2026-09-05 03:00:00,Détresse respiratoire,,540,1157.0
+,,,,,,,Source_B,202.0,685.0,MRN-10011,WARD-CCU,Y,2026-02-06 19:00:00,2026-02-10 19:00:00,Surveillance continue,,541,1157.0
+,,,,,,,Source_B,203.0,688.0,MRN-10015,WARD-CCU,Y,2026-08-13 06:00:00,2026-08-17 06:00:00,Détresse respiratoire,,542,1157.0
+,,,,,,,Source_B,204.0,689.0,MRN-10004,WARD-ICU,N,2026-06-22 03:00:00,2026-06-23 03:00:00,Détresse respiratoire,,543,1157.0
+,,,,,,,Source_B,205.0,691.0,MRN-10005,WARD-ICU,Y,2026-01-02 13:00:00,2026-01-09 13:00:00,Détresse respiratoire,,544,1157.0
+,,,,,,,Source_B,206.0,694.0,MRN-10010,WARD-ICU,Y,2026-02-17 13:00:00,2026-02-21 13:00:00,Détresse respiratoire,,545,1157.0
+,,,,,,,Source_B,207.0,700.0,MRN-10002,WARD-SICU,Y,2026-04-07 22:00:00,2026-04-08 22:00:00,Détresse respiratoire,,546,1157.0
+,,,,,,,Source_B,208.0,703.0,MRN-10014,WARD-CCU,N,2026-02-14 20:00:00,2026-02-16 20:00:00,Post-opératoire,,547,1157.0
+,,,,,,,Source_B,209.0,704.0,MRN-10002,WARD-SICU,N,2026-07-27 04:00:00,2026-07-30 04:00:00,SURVEILLANCE CONTINUE,,548,1157.0
+,,,,,,,Source_B,210.0,705.0,MRN-10001,WARD-CCU,Y,2026-05-14 16:00:00,2026-05-20 16:00:00,Détresse respiratoire,,549,1157.0
+,,,,,,,Source_B,211.0,706.0,MRN-10011,WARD-SICU,Y,2026-04-14 04:00:00,2026-04-17 04:00:00,Post-opératoire,,550,1157.0
+,,,,,,,Source_B,212.0,708.0,MRN-10014,WARD-SICU,Y,2026-06-18 04:00:00,2026-06-25 04:00:00,Détresse respiratoire,,551,1157.0
+,,,,,,,Source_B,213.0,710.0,MRN-10003,WARD-ICU,N,2026-05-06 09:00:00,,Détresse respiratoire,,552,1157.0
+,,,,,,,Source_B,214.0,712.0,MRN-10003,WARD-ICU,Y,2026-01-05 18:00:00,2026-01-10 18:00:00,Post-opératoire,,553,1157.0
+,,,,,,,Source_B,215.0,714.0,MRN-10001,WARD-ICU,Y,2026-09-08 18:00:00,2026-09-09 18:00:00,Détresse respiratoire,,554,1157.0
+,,,,,,,Source_B,216.0,719.0,MRN-10003,WARD-CCU,N,2026-05-30 20:00:00,2026-06-03 20:00:00,Post-opératoire,,555,1157.0
+,,,,,,,Source_B,217.0,722.0,MRN-10009,WARD-SICU,Y,2026-02-23 10:00:00,2026-02-25 10:00:00,Détresse respiratoire,,556,1157.0
+,,,,,,,Source_B,218.0,726.0,MRN-10013,WARD-ICU,Y,2026-08-15 05:00:00,2026-08-22 05:00:00,Surveillance continue,,557,1157.0
+,,,,,,,Source_B,219.0,727.0,MRN-10011,WARD-ICU,N,2026-07-06 03:00:00,2026-07-12 03:00:00,Post-opératoire,,558,1157.0
+,,,,,,,Source_B,220.0,730.0,MRN-10007,WARD-ICU,N,2026-04-17 01:00:00,2026-04-23 01:00:00,Post-opératoire,,559,1157.0
+,,,,,,,Source_B,221.0,731.0,MRN-10003,WARD-ICU,Y,2026-05-27 19:00:00,,Détresse respiratoire,,560,1157.0
+,,,,,,,Source_B,222.0,734.0,MRN-10015,WARD-ICU,Y,2026-05-22 12:00:00,2026-05-24 12:00:00,Détresse respiratoire,,561,1157.0
+,,,,,,,Source_B,223.0,737.0,MRN-10005,WARD-CCU,Y,2026-09-08 17:00:00,2026-09-15 17:00:00,Post-opératoire,,562,1157.0
+,,,,,,,Source_B,225.0,744.0,MRN-10014,WARD-ICU,N,2026-07-10 02:00:00,2026-07-13 02:00:00,Post-opératoire,,563,1157.0
+,,,,,,,Source_B,226.0,745.0,MRN-10012,WARD-CCU,N,2026-06-02 08:00:00,2026-06-08 08:00:00,Détresse respiratoire,,564,1157.0
+,,,,,,,Source_B,227.0,752.0,MRN-10006,WARD-CCU,Y,2026-09-08 21:00:00,2026-09-13 21:00:00,Détresse respiratoire,,565,1157.0
+,,,,,,,Source_B,228.0,758.0,MRN-10006,WARD-SICU,N,2026-03-18 00:00:00,2026-03-25 00:00:00,Surveillance continue,,566,1157.0
+,,,,,,,Source_B,229.0,759.0,MRN-10001,WARD-ICU,N,2026-02-15 02:00:00,2026-02-16 02:00:00,Surveillance continue,,567,1157.0
+,,,,,,,Source_B,230.0,761.0,MRN-10013,WARD-ICU,Y,2026-03-03 23:00:00,,Post-opératoire,,568,1157.0
+,,,,,,,Source_B,231.0,762.0,MRN-10013,WARD-SICU,Y,2026-03-25 20:00:00,2026-03-27 20:00:00,Post-opératoire,,569,1157.0
+,,,,,,,Source_B,232.0,765.0,MRN-10011,WARD-ICU,N,2026-04-02 11:00:00,2026-04-03 11:00:00,Surveillance continue,,570,1157.0
+,,,,,,,Source_B,233.0,766.0,MRN-10007,WARD-SICU,N,2026-02-27 04:00:00,2026-03-01 04:00:00,Post-opératoire,,571,1157.0
+,,,,,,,Source_B,234.0,771.0,MRN-10002,WARD-CCU,Y,2026-06-27 08:00:00,2026-06-28 08:00:00,Post-opératoire,,572,1157.0
+,,,,,,,Source_B,235.0,776.0,MRN-10003,WARD-ICU,N,2026-05-25 09:00:00,2026-05-31 09:00:00,POST-OPÉRATOIRE,,573,1157.0
+,,,,,,,Source_B,236.0,779.0,MRN-10009,WARD-ICU,N,2026-01-12 23:00:00,2026-01-17 23:00:00,Surveillance continue,,574,1157.0
+,,,,,,,Source_B,237.0,783.0,MRN-10007,WARD-SICU,Y,2026-02-11 11:00:00,,Détresse respiratoire,,575,1157.0
+,,,,,,,Source_B,238.0,787.0,MRN-10013,WARD-SICU,Y,2026-07-28 16:00:00,2026-08-01 16:00:00,Détresse respiratoire,,576,1157.0
+,,,,,,,Source_B,239.0,788.0,MRN-10001,WARD-CCU,Y,2026-01-10 15:00:00,2026-01-16 15:00:00,Post-opératoire,,577,1157.0
+,,,,,,,Source_B,240.0,799.0,MRN-10008,WARD-SICU,Y,2026-03-18 16:00:00,2026-03-24 16:00:00,Détresse respiratoire,,578,1157.0
+,,,,,,,Source_B,241.0,800.0,MRN-10009,WARD-CCU,Y,2026-08-29 06:00:00,2026-09-05 06:00:00,Post-opératoire,,579,1157.0
+,,,,,,,Source_B,242.0,801.0,MRN-10013,WARD-ICU,N,2026-02-08 19:00:00,2026-02-09 19:00:00,Post-opératoire,,580,1157.0
+,,,,,,,Source_B,243.0,806.0,MRN-10006,WARD-CCU,N,2026-01-30 12:00:00,2026-02-05 12:00:00,Post-opératoire,,581,1157.0
+,,,,,,,Source_B,244.0,808.0,MRN-10001,WARD-SICU,Y,2026-05-01 18:00:00,2026-05-03 18:00:00,Détresse respiratoire,,582,1157.0
+,,,,,,,Source_B,245.0,809.0,MRN-10001,WARD-CCU,Y,2026-02-20 02:00:00,2026-02-26 02:00:00,Détresse respiratoire,,583,1157.0
+,,,,,,,Source_B,246.0,811.0,MRN-10012,WARD-ICU,N,2026-04-30 11:00:00,2026-05-04 11:00:00,Post-opératoire,,584,1157.0
+,,,,,,,Source_B,247.0,813.0,MRN-10003,WARD-CCU,N,2026-07-01 07:00:00,2026-07-04 07:00:00,Détresse respiratoire,,585,1157.0
+,,,,,,,Source_B,248.0,819.0,MRN-10009,WARD-CCU,Y,2026-07-14 02:00:00,2026-07-15 02:00:00,Surveillance continue,,586,1157.0
+,,,,,,,Source_B,249.0,824.0,MRN-10003,WARD-CCU,N,2026-04-20 06:00:00,2026-04-24 06:00:00,SURVEILLANCE CONTINUE,,587,1157.0
+,,,,,,,Source_B,250.0,825.0,MRN-10014,WARD-SICU,N,2026-03-27 14:00:00,2026-03-30 14:00:00,Post-opératoire,,588,1157.0
+,,,,,,,Source_B,251.0,831.0,MRN-10013,WARD-CCU,Y,2026-01-17 00:00:00,2026-01-19 00:00:00,Surveillance continue,,589,1157.0
+,,,,,,,Source_B,252.0,834.0,MRN-10001,WARD-CCU,Y,2026-06-04 08:00:00,2026-06-05 08:00:00,Post-opératoire,,590,1157.0
+,,,,,,,Source_B,253.0,836.0,MRN-10015,WARD-CCU,Y,2026-06-18 18:00:00,2026-06-22 18:00:00,Surveillance continue,,591,1157.0
+,,,,,,,Source_B,254.0,838.0,MRN-10005,WARD-ICU,Y,2026-05-12 21:00:00,2026-05-18 21:00:00,Surveillance continue,,592,1157.0
+,,,,,,,Source_B,255.0,840.0,MRN-10012,WARD-ICU,Y,2026-05-19 07:00:00,2026-05-26 07:00:00,Détresse respiratoire,,593,1157.0
+,,,,,,,Source_B,256.0,842.0,MRN-10006,WARD-CCU,Y,2026-08-29 12:00:00,,Détresse respiratoire,,594,1157.0
+,,,,,,,Source_B,257.0,845.0,MRN-10009,WARD-CCU,Y,2026-07-25 05:00:00,2026-07-26 05:00:00,Post-opératoire,,595,1157.0
+,,,,,,,Source_B,258.0,847.0,MRN-10011,WARD-CCU,N,2026-07-16 06:00:00,2026-07-17 06:00:00,Surveillance continue,,596,1157.0
+,,,,,,,Source_B,259.0,849.0,MRN-10002,WARD-SICU,Y,2026-02-14 11:00:00,2026-02-16 11:00:00,Surveillance continue,,597,1157.0
+,,,,,,,Source_B,260.0,850.0,MRN-10009,WARD-SICU,N,2026-05-02 14:00:00,2026-05-06 14:00:00,Post-opératoire,,598,1157.0
+,,,,,,,Source_B,261.0,858.0,MRN-10014,WARD-CCU,Y,2026-07-07 17:00:00,,Post-opératoire,,599,1157.0
+,,,,,,,Source_B,262.0,869.0,MRN-10007,WARD-ICU,N,2026-08-13 07:00:00,2026-08-19 07:00:00,Surveillance continue,,600,1157.0
+,,,,,,,Source_B,263.0,882.0,MRN-10006,WARD-CCU,Y,2026-07-11 21:00:00,2026-07-15 21:00:00,Détresse respiratoire,,601,1157.0
+,,,,,,,Source_B,264.0,887.0,MRN-10011,WARD-ICU,Y,2026-01-21 13:00:00,2026-01-24 13:00:00,Surveillance continue,,602,1157.0
+,,,,,,,Source_B,265.0,893.0,MRN-10003,WARD-SICU,Y,2026-04-27 00:00:00,2026-05-03 00:00:00,Post-opératoire,,603,1157.0
+,,,,,,,Source_B,266.0,906.0,MRN-10010,WARD-SICU,Y,2026-03-19 04:00:00,2026-03-26 04:00:00,Post-opératoire,,604,1157.0
+,,,,,,,Source_B,267.0,907.0,MRN-10005,WARD-ICU,N,2026-04-21 10:00:00,2026-04-24 10:00:00,Post-opératoire,,605,1157.0
+,,,,,,,Source_B,268.0,913.0,MRN-10003,WARD-CCU,Y,2026-06-27 02:00:00,2026-06-30 02:00:00,Post-opératoire,,606,1157.0
+,,,,,,,Source_B,269.0,914.0,MRN-10013,WARD-CCU,Y,2026-03-05 16:00:00,2026-03-08 16:00:00,Surveillance continue,,607,1157.0
+,,,,,,,Source_B,270.0,915.0,MRN-10001,WARD-SICU,Y,2026-06-13 15:00:00,2026-06-15 15:00:00,Surveillance continue,,608,1157.0
+,,,,,,,Source_B,271.0,918.0,MRN-10006,WARD-CCU,N,2026-04-26 19:00:00,2026-04-30 19:00:00,Détresse respiratoire,,609,1157.0
+,,,,,,,Source_B,272.0,920.0,MRN-10006,WARD-CCU,Y,2026-02-13 17:00:00,2026-02-16 17:00:00,Post-opératoire,,610,1157.0
+,,,,,,,Source_B,273.0,9999.0,MRN-10002,WARD-SICU,N,2026-03-28 18:00:00,2026-04-01 18:00:00,Surveillance continue,,611,1157.0
+,,,,,,,Source_B,274.0,926.0,MRN-10010,WARD-ICU,Y,2026-06-22 23:00:00,2026-06-24 23:00:00,Post-opératoire,,612,1157.0
+,,,,,,,Source_B,275.0,928.0,MRN-10015,WARD-SICU,N,2026-08-22 08:00:00,2026-08-28 08:00:00,Surveillance continue,,613,1157.0
+,,,,,,,Source_B,276.0,933.0,MRN-10012,WARD-ICU,Y,2026-08-20 22:00:00,2026-08-27 22:00:00,Surveillance continue,,614,1157.0
+,,,,,,,Source_B,277.0,934.0,MRN-10011,WARD-ICU,Y,2026-01-28 20:00:00,2026-02-01 20:00:00,Surveillance continue,,615,1157.0
+,,,,,,,Source_B,278.0,935.0,MRN-10006,WARD-CCU,N,2026-03-25 04:00:00,2026-03-26 04:00:00,Post-opératoire,,616,1157.0
+,,,,,,,Source_B,279.0,937.0,MRN-10005,WARD-CCU,Y,2026-09-04 22:00:00,2026-09-10 22:00:00,Surveillance continue,,617,1157.0
+,,,,,,,Source_B,280.0,938.0,MRN-10005,WARD-ICU,Y,2026-01-14 02:00:00,2026-01-17 02:00:00,DÉTRESSE RESPIRATOIRE,,618,1157.0
+,,,,,,,Source_B,281.0,942.0,MRN-10011,WARD-SICU,N,2026-02-27 09:00:00,,SURVEILLANCE CONTINUE,,619,1157.0
+,,,,,,,Source_B,282.0,949.0,MRN-10010,WARD-ICU,Y,2026-07-18 21:00:00,2026-07-24 21:00:00,Surveillance continue,,620,1157.0
+,,,,,,,Source_B,283.0,951.0,MRN-10002,WARD-CCU,Y,2026-05-11 11:00:00,2026-05-18 11:00:00,Post-opératoire,,621,1157.0
+,,,,,,,Source_B,284.0,952.0,MRN-10005,WARD-ICU,Y,2026-01-29 19:00:00,2026-01-31 19:00:00,Surveillance continue,,622,1157.0
+,,,,,,,Source_B,285.0,953.0,MRN-10008,WARD-ICU,N,2026-02-08 20:00:00,2026-02-10 20:00:00,POST-OPÉRATOIRE,,623,1157.0
+,,,,,,,Source_B,286.0,958.0,MRN-10001,WARD-ICU,Y,2026-06-24 08:00:00,2026-07-01 08:00:00,Détresse respiratoire,,624,1157.0
+,,,,,,,Source_B,287.0,959.0,MRN-10011,WARD-SICU,N,2026-06-28 01:00:00,2026-07-02 01:00:00,Post-opératoire,,625,1157.0
+,,,,,,,Source_B,288.0,961.0,MRN-10013,WARD-CCU,N,2026-01-13 01:00:00,2026-01-14 01:00:00,Surveillance continue,,626,1157.0
+,,,,,,,Source_B,289.0,967.0,MRN-10009,WARD-ICU,N,2026-03-08 14:00:00,2026-03-11 14:00:00,Surveillance continue,,627,1157.0
+,,,,,,,Source_B,290.0,969.0,MRN-10003,WARD-CCU,N,2026-08-04 06:00:00,2026-08-10 06:00:00,Post-opératoire,,628,1157.0
+,,,,,,,Source_B,291.0,972.0,MRN-10003,WARD-ICU,Y,2026-03-25 16:00:00,2026-03-26 16:00:00,Détresse respiratoire,,629,1157.0
+,,,,,,,Source_B,292.0,974.0,MRN-10011,WARD-SICU,Y,2026-07-17 18:00:00,2026-07-24 18:00:00,DÉTRESSE RESPIRATOIRE,,630,1157.0
+,,,,,,,Source_B,293.0,975.0,MRN-10008,WARD-SICU,N,2026-03-21 05:00:00,2026-03-27 05:00:00,Surveillance continue,,631,1157.0
+,,,,,,,Source_B,294.0,976.0,MRN-10002,WARD-CCU,N,2026-04-03 00:00:00,2026-04-04 00:00:00,Détresse respiratoire,,632,1157.0
+,,,,,,,Source_B,295.0,979.0,MRN-10011,WARD-CCU,Y,2026-09-06 18:00:00,2026-09-10 18:00:00,DÉTRESSE RESPIRATOIRE,,633,1157.0
+,,,,,,,Source_B,296.0,992.0,MRN-10003,WARD-SICU,Y,2026-04-23 02:00:00,2026-04-28 02:00:00,Post-opératoire,,634,1157.0
+,,,,,,,Source_B,297.0,998.0,MRN-10003,WARD-SICU,Y,2026-06-26 23:00:00,2026-06-29 23:00:00,Détresse respiratoire,,635,1157.0
+,,,,,,,Source_B,298.0,1001.0,MRN-10005,WARD-CCU,Y,2026-05-27 16:00:00,2026-05-31 16:00:00,Post-opératoire,,636,1157.0
+,,,,,,,Source_B,299.0,1002.0,MRN-10008,WARD-SICU,N,2026-05-06 00:00:00,2026-05-08 00:00:00,Surveillance continue,,637,1157.0
+,,,,,,,Source_B,300.0,1003.0,MRN-10005,WARD-SICU,Y,2026-01-11 07:00:00,2026-01-17 07:00:00,Détresse respiratoire,,638,1157.0
+,,,,,,,Source_B,301.0,1004.0,MRN-10010,WARD-ICU,Y,2026-08-25 10:00:00,2026-08-27 10:00:00,Surveillance continue,,639,1157.0
+,,,,,,,Source_B,302.0,9999.0,MRN-10008,WARD-SICU,Y,2026-06-24 02:00:00,2026-06-27 02:00:00,Post-opératoire,,640,1157.0
+,,,,,,,Source_B,303.0,1009.0,MRN-10005,WARD-ICU,Y,2026-06-15 20:00:00,2026-06-19 20:00:00,Post-opératoire,,641,1157.0
+,,,,,,,Source_B,304.0,1011.0,MRN-10005,WARD-SICU,Y,2026-05-11 21:00:00,2026-05-17 21:00:00,Détresse respiratoire,,642,1157.0
+,,,,,,,Source_B,305.0,1013.0,MRN-10009,WARD-CCU,Y,2026-08-06 22:00:00,2026-08-09 22:00:00,Surveillance continue,,643,1157.0
+,,,,,,,Source_B,306.0,1021.0,MRN-10009,WARD-ICU,Y,2026-06-01 00:00:00,2026-06-02 00:00:00,Post-opératoire,,644,1157.0
+,,,,,,,Source_B,307.0,1022.0,MRN-10006,WARD-SICU,Y,2026-04-30 02:00:00,2026-05-02 02:00:00,Surveillance continue,,645,1157.0
+,,,,,,,Source_B,308.0,1023.0,MRN-10004,WARD-ICU,Y,2026-08-04 06:00:00,2026-08-06 06:00:00,Surveillance continue,,646,1157.0
+,,,,,,,Source_B,309.0,1028.0,MRN-10006,WARD-CCU,Y,2026-08-24 17:00:00,2026-08-25 17:00:00,DÉTRESSE RESPIRATOIRE,,647,1157.0
+,,,,,,,Source_B,310.0,1029.0,MRN-10007,WARD-ICU,Y,2026-03-28 12:00:00,2026-04-02 12:00:00,Détresse respiratoire,,648,1157.0
+,,,,,,,Source_B,311.0,1030.0,MRN-10005,WARD-CCU,N,2026-06-14 18:00:00,2026-06-18 18:00:00,DÉTRESSE RESPIRATOIRE,,649,1157.0
+,,,,,,,Source_B,312.0,1034.0,MRN-10004,WARD-CCU,N,2026-01-29 17:00:00,2026-01-31 17:00:00,Surveillance continue,,650,1157.0
+,,,,,,,Source_B,313.0,1038.0,MRN-10012,WARD-SICU,Y,2026-07-24 10:00:00,,Surveillance continue,,651,1157.0
+,,,,,,,Source_B,314.0,1042.0,MRN-10012,WARD-CCU,N,2026-06-27 08:00:00,2026-06-28 08:00:00,Détresse respiratoire,,652,1157.0
+,,,,,,,Source_B,315.0,1052.0,MRN-10005,WARD-SICU,N,2026-08-04 13:00:00,2026-08-07 13:00:00,Détresse respiratoire,,653,1157.0
+,,,,,,,Source_B,316.0,1055.0,MRN-10013,WARD-CCU,Y,2026-01-23 13:00:00,,Détresse respiratoire,,654,1157.0
+,,,,,,,Source_B,317.0,1056.0,MRN-10004,WARD-CCU,Y,2026-01-29 19:00:00,2026-02-04 19:00:00,Surveillance continue,,655,1157.0
+,,,,,,,Source_B,318.0,1060.0,MRN-10007,WARD-SICU,Y,2026-08-21 01:00:00,2026-08-26 01:00:00,Surveillance continue,,656,1157.0
+,,,,,,,Source_B,319.0,1063.0,MRN-10001,WARD-ICU,N,2026-07-24 16:00:00,2026-07-27 16:00:00,Détresse respiratoire,,657,1157.0
+,,,,,,,Source_B,320.0,1065.0,MRN-10007,WARD-ICU,Y,2026-07-26 22:00:00,2026-07-29 22:00:00,Surveillance continue,,658,1157.0
+,,,,,,,Source_B,321.0,1068.0,MRN-10009,WARD-SICU,N,2026-07-03 18:00:00,2026-07-09 18:00:00,Post-opératoire,,659,1157.0
+,,,,,,,Source_B,322.0,1069.0,MRN-10013,WARD-CCU,Y,2026-02-26 00:00:00,2026-03-01 00:00:00,Détresse respiratoire,,660,1157.0
+,,,,,,,Source_B,323.0,1074.0,MRN-10008,WARD-ICU,Y,2026-04-18 16:00:00,2026-04-20 16:00:00,Surveillance continue,,661,1157.0
+,,,,,,,Source_B,324.0,1076.0,MRN-10005,WARD-CCU,Y,2026-06-24 18:00:00,2026-07-01 18:00:00,Surveillance continue,,662,1157.0
+,,,,,,,Source_B,325.0,1080.0,MRN-10008,WARD-CCU,Y,2026-02-15 18:00:00,2026-02-17 18:00:00,Surveillance continue,,663,1157.0
+,,,,,,,Source_B,326.0,1082.0,MRN-10015,WARD-SICU,Y,2026-07-15 04:00:00,2026-07-22 04:00:00,Surveillance continue,,664,1157.0
+,,,,,,,Source_B,328.0,1089.0,MRN-10009,WARD-ICU,Y,2026-06-14 17:00:00,2026-06-16 17:00:00,Détresse respiratoire,,665,1157.0
+,,,,,,,Source_B,329.0,1090.0,MRN-10001,WARD-ICU,N,2026-03-21 14:00:00,2026-03-26 14:00:00,SURVEILLANCE CONTINUE,,666,1157.0
+,,,,,,,Source_B,330.0,1095.0,MRN-10014,WARD-ICU,N,2026-04-02 06:00:00,2026-04-07 06:00:00,Détresse respiratoire,,667,1157.0
+,,,,,,,Source_B,331.0,1097.0,MRN-10002,WARD-CCU,Y,2026-04-02 15:00:00,2026-04-03 15:00:00,Post-opératoire,,668,1157.0
+,,,,,,,Source_B,332.0,1101.0,MRN-10014,WARD-SICU,Y,2026-04-03 06:00:00,2026-04-09 06:00:00,Détresse respiratoire,,669,1157.0
+,,,,,,,Source_B,333.0,1104.0,MRN-10001,WARD-SICU,N,2026-05-02 13:00:00,2026-05-09 13:00:00,Post-opératoire,,670,1157.0
+,,,,,,,Source_B,334.0,1117.0,MRN-10007,WARD-ICU,Y,2026-03-31 03:00:00,2026-04-02 03:00:00,Surveillance continue,,671,1157.0
+,,,,,,,Source_B,335.0,1119.0,MRN-10013,WARD-SICU,N,2026-02-25 04:00:00,2026-03-04 04:00:00,Détresse respiratoire,,672,1157.0
+,,,,,,,Source_B,336.0,1123.0,MRN-10005,WARD-ICU,N,2026-08-09 14:00:00,2026-08-10 14:00:00,Détresse respiratoire,,673,1157.0
+,,,,,,,Source_B,337.0,1124.0,MRN-10005,WARD-ICU,N,2026-08-14 12:00:00,2026-08-17 12:00:00,SURVEILLANCE CONTINUE,,674,1157.0
+,,,,,,,Source_B,338.0,1126.0,MRN-10001,WARD-CCU,Y,2026-04-22 11:00:00,2026-04-28 11:00:00,Surveillance continue,,675,1157.0
+,,,,,,,Source_B,339.0,1130.0,MRN-10006,WARD-CCU,N,2026-02-08 19:00:00,2026-02-10 19:00:00,Surveillance continue,,676,1157.0
+,,,,,,,Source_B,340.0,1131.0,MRN-10008,WARD-CCU,N,2026-01-24 21:00:00,2026-01-26 21:00:00,Surveillance continue,,677,1157.0
+,,,,,,,Source_B,341.0,1132.0,MRN-10007,WARD-CCU,Y,2026-08-09 23:00:00,2026-08-16 23:00:00,Surveillance continue,,678,1157.0
+,,,,,,,Source_B,342.0,1139.0,MRN-10008,WARD-CCU,N,2026-07-01 19:00:00,2026-07-08 19:00:00,Détresse respiratoire,,679,1157.0
+,,,,,,,Source_B,343.0,1142.0,MRN-10015,WARD-SICU,Y,2026-08-24 16:00:00,2026-08-27 16:00:00,Détresse respiratoire,,680,1157.0
+,,,,,,,Source_B,344.0,1144.0,MRN-10013,WARD-SICU,Y,2026-04-18 02:00:00,2026-04-21 02:00:00,Post-opératoire,,681,1157.0
+,,,,,,,Source_B,345.0,1152.0,MRN-10007,WARD-CCU,Y,2026-02-18 16:00:00,2026-02-21 16:00:00,Détresse respiratoire,,682,1157.0
+,,,,,,,Source_B,346.0,1154.0,MRN-10005,WARD-SICU,N,2026-07-26 19:00:00,2026-07-29 19:00:00,Détresse respiratoire,,683,1157.0
+,,,,,,,Source_B,347.0,1156.0,MRN-10004,WARD-SICU,Y,2026-03-22 18:00:00,2026-03-28 18:00:00,Détresse respiratoire,,684,1157.0
+,,,,,,,Source_B,348.0,1157.0,MRN-10002,WARD-ICU,Y,2026-07-23 12:00:00,2026-07-27 12:00:00,Détresse respiratoire,,685,1157.0
+,,,,,,,Source_B,349.0,1162.0,MRN-10006,WARD-ICU,Y,2026-03-05 02:00:00,2026-03-12 02:00:00,Post-opératoire,,686,1157.0
+,,,,,,,Source_B,350.0,1165.0,MRN-10011,WARD-SICU,Y,2026-05-19 12:00:00,2026-05-21 12:00:00,Surveillance continue,,687,1157.0
+,,,,,,,Source_B,351.0,1166.0,MRN-10002,WARD-CCU,N,2026-06-04 02:00:00,2026-06-11 02:00:00,Détresse respiratoire,,688,1157.0
+,,,,,,,Source_B,352.0,1167.0,MRN-10001,WARD-CCU,Y,2026-08-29 11:00:00,2026-08-31 11:00:00,Détresse respiratoire,,689,1157.0
+,,,,,,,Source_B,353.0,1168.0,MRN-10004,WARD-ICU,N,2026-03-03 00:00:00,2026-03-10 00:00:00,Surveillance continue,,690,1157.0
+,,,,,,,Source_B,354.0,1172.0,MRN-10012,WARD-SICU,Y,2026-09-05 02:00:00,2026-09-06 02:00:00,Post-opératoire,,691,1157.0
+,,,,,,,Source_B,355.0,1174.0,MRN-10012,WARD-CCU,Y,2026-08-15 14:00:00,2026-08-17 14:00:00,Post-opératoire,,692,1157.0
+,,,,,,,Source_B,356.0,1179.0,MRN-10002,WARD-ICU,Y,2026-06-26 19:00:00,2026-06-27 19:00:00,Surveillance continue,,693,1157.0
+,,,,,,,Source_B,358.0,1184.0,MRN-10002,WARD-SICU,N,2026-01-16 22:00:00,2026-01-17 22:00:00,Surveillance continue,,694,1157.0
+,,,,,,,Source_B,359.0,1189.0,MRN-10008,WARD-CCU,Y,2026-02-16 16:00:00,2026-02-18 16:00:00,Détresse respiratoire,,695,1157.0
+,,,,,,,Source_B,360.0,1195.0,MRN-10012,WARD-SICU,N,2026-04-25 08:00:00,2026-04-30 08:00:00,Surveillance continue,,696,1157.0
+,,,,2026-06-06 05:00:00,2026-06-13 05:00:00,,Source_D,,,,ICU,,,,,11.0,697,3508.0
+,,,,2026-06-06 18:00:00,,,Source_D,,,,CCU,,,,,6.0,698,3513.0
+,,,,2026-05-01 11:00:00,2026-05-03 11:00:00,,Source_D,,,,CCU,,,,,12.0,699,
+,,,,2026-01-13 01:00:00,2026-01-15 01:00:00,,Source_D,,,,CCU,,,,,8.0,700,3518.0
+,,,,2026-02-18 11:00:00,2026-02-23 11:00:00,,Source_D,,,,ICU,,,,,11.0,701,3529.0
+,,,,2026-03-10 03:00:00,2026-03-15 03:00:00,,Source_D,,,,CCU,,,,,2.0,702,3531.0
+,,,,2026-02-20 05:00:00,2026-02-24 05:00:00,,Source_D,,,,MICU,,,,,13.0,703,3537.0
+,,,,2026-06-29 15:00:00,2026-07-06 15:00:00,,Source_D,,,,ICU,,,,,1.0,704,3551.0
+,,,,2026-06-25 16:00:00,2026-07-01 16:00:00,,Source_D,,,,CCU,,,,,5.0,705,3558.0
+,,,,2026-03-09 02:00:00,2026-03-13 02:00:00,,Source_D,,,,SICU,,,,,7.0,706,3559.0
+,,,,2026-04-13 01:00:00,2026-04-16 01:00:00,,Source_D,,,,SICU,,,,,8.0,707,3560.0
+,,,,2026-04-10 15:00:00,2026-04-14 15:00:00,,Source_D,,,,ICU,,,,,8.0,708,3565.0
+,,,,2026-02-04 18:00:00,2026-02-10 18:00:00,,Source_D,,,,MICU,,,,,13.0,709,3569.0
+,,,,2026-08-20 19:00:00,2026-08-25 19:00:00,,Source_D,,,,MICU,,,,,7.0,710,3571.0
+,,,,2026-03-27 03:00:00,2026-04-01 03:00:00,,Source_D,,,,MICU,,,,,9.0,711,3575.0
+,,,,2026-08-03 13:00:00,2026-08-09 13:00:00,,Source_D,,,,MICU,,,,,15.0,712,
+,,,,2026-01-23 19:00:00,2026-01-27 19:00:00,,Source_D,,,,SICU,,,,,8.0,713,3579.0
+,,,,2026-04-22 14:00:00,2026-04-24 14:00:00,,Source_D,,,,SICU,,,,,9.0,714,3582.0
+,,,,2026-01-01 01:00:00,2026-01-03 01:00:00,,Source_D,,,,MICU,,,,,3.0,715,3584.0
+,,,,2026-03-16 23:00:00,2026-03-17 23:00:00,,Source_D,,,,SICU,,,,,15.0,716,3593.0
+,,,,2026-03-29 12:00:00,2026-04-04 12:00:00,,Source_D,,,,ICU,,,,,5.0,717,3597.0
+,,,,2026-03-29 20:00:00,2026-04-03 20:00:00,,Source_D,,,,MICU,,,,,12.0,718,3602.0
+,,,,2026-02-25 15:00:00,2026-03-03 15:00:00,,Source_D,,,,MICU,,,,,2.0,719,3616.0
+,,,,2026-01-19 06:00:00,2026-01-21 06:00:00,,Source_D,,,,CCU,,,,,12.0,720,3619.0
+,,,,2026-02-12 20:00:00,2026-02-13 20:00:00,,Source_D,,,,ICU,,,,,8.0,721,3622.0
+,,,,2026-07-30 03:00:00,2026-08-02 03:00:00,,Source_D,,,,CCU,,,,,8.0,722,3628.0
+,,,,2026-03-10 10:00:00,2026-03-11 10:00:00,,Source_D,,,,MICU,,,,,6.0,723,
+,,,,2026-04-29 20:00:00,2026-05-05 20:00:00,,Source_D,,,,CCU,,,,,14.0,724,3631.0
+,,,,2026-03-15 05:00:00,2026-03-22 05:00:00,,Source_D,,,,MICU,,,,,1.0,725,3633.0
+,,,,2026-03-15 06:00:00,2026-03-16 06:00:00,,Source_D,,,,MICU,,,,,9.0,726,3635.0
+,,,,2026-05-21 13:00:00,2026-05-27 13:00:00,,Source_D,,,,CCU,,,,,5.0,727,3638.0
+,,,,2026-05-16 14:00:00,2026-05-22 14:00:00,,Source_D,,,,ICU,,,,,1.0,728,3644.0
+,,,,2026-05-01 20:00:00,2026-05-02 20:00:00,,Source_D,,,,ICU,,,,,3.0,729,3646.0
+,,,,2026-05-31 22:00:00,2026-06-07 22:00:00,,Source_D,,,,CCU,,,,,13.0,730,3648.0
+,,,,2026-03-08 18:00:00,2026-03-10 18:00:00,,Source_D,,,,ICU,,,,,15.0,731,3649.0
+,,,,2026-09-03 18:00:00,2026-09-10 18:00:00,,Source_D,,,,CCU,,,,,13.0,732,3655.0
+,,,,2026-06-28 05:00:00,2026-07-01 05:00:00,,Source_D,,,,CCU,,,,,4.0,733,3658.0
+,,,,2026-02-08 10:00:00,2026-02-13 10:00:00,,Source_D,,,,ICU,,,,,2.0,734,3666.0
+,,,,2026-02-05 23:00:00,2026-02-10 23:00:00,,Source_D,,,,SICU,,,,,15.0,735,3667.0
+,,,,2026-03-26 20:00:00,,,Source_D,,,,MICU,,,,,1.0,736,3669.0
+,,,,2026-03-04 16:00:00,2026-03-11 16:00:00,,Source_D,,,,ICU,,,,,14.0,737,3674.0
+,,,,2026-08-22 10:00:00,2026-08-23 10:00:00,,Source_D,,,,SICU,,,,,14.0,738,3679.0
+,,,,2026-02-17 17:00:00,2026-02-20 17:00:00,,Source_D,,,,CCU,,,,,15.0,739,3680.0
+,,,,2026-05-06 13:00:00,2026-05-07 13:00:00,,Source_D,,,,ICU,,,,,4.0,740,3684.0
+,,,,2026-06-29 22:00:00,2026-07-06 22:00:00,,Source_D,,,,MICU,,,,,4.0,741,3685.0
+,,,,2026-07-11 00:00:00,2026-07-16 00:00:00,,Source_D,,,,ICU,,,,,8.0,742,
+,,,,2026-01-13 14:00:00,2026-01-17 14:00:00,,Source_D,,,,MICU,,,,,7.0,743,3691.0
+,,,,2026-06-27 04:00:00,2026-07-02 04:00:00,,Source_D,,,,ICU,,,,,10.0,744,3693.0
+,,,,2026-02-15 05:00:00,2026-02-20 05:00:00,,Source_D,,,,MICU,,,,,5.0,745,3696.0
+,,,,2026-05-22 23:00:00,2026-05-29 23:00:00,,Source_D,,,,SICU,,,,,4.0,746,3697.0
+,,,,2026-02-25 00:00:00,,,Source_D,,,,ICU,,,,,2.0,747,3699.0
+,,,,2026-05-31 19:00:00,2026-06-03 19:00:00,,Source_D,,,,MICU,,,,,13.0,748,3700.0
+,,,,2026-05-28 13:00:00,2026-05-31 13:00:00,,Source_D,,,,MICU,,,,,1.0,749,3702.0
+,,,,2026-06-04 18:00:00,,,Source_D,,,,ICU,,,,,9.0,750,3706.0
+,,,,2026-02-09 22:00:00,2026-02-10 22:00:00,,Source_D,,,,CCU,,,,,12.0,751,
+,,,,2026-09-08 00:00:00,2026-09-13 00:00:00,,Source_D,,,,ICU,,,,,7.0,752,3708.0
+,,,,2026-08-22 14:00:00,2026-08-29 14:00:00,,Source_D,,,,SICU,,,,,1.0,753,3718.0
+,,,,2026-03-08 01:00:00,2026-03-13 01:00:00,,Source_D,,,,CCU,,,,,1.0,754,3722.0
+,,,,2026-07-11 20:00:00,2026-07-18 20:00:00,,Source_D,,,,SICU,,,,,4.0,755,3723.0
+,,,,2026-05-21 21:00:00,2026-05-27 21:00:00,,Source_D,,,,ICU,,,,,8.0,756,3728.0
+,,,,2026-03-13 05:00:00,2026-03-19 05:00:00,,Source_D,,,,SICU,,,,,7.0,757,3730.0
+,,,,2026-04-17 23:00:00,2026-04-21 23:00:00,,Source_D,,,,CCU,,,,,12.0,758,3732.0
+,,,,2026-03-05 16:00:00,2026-03-06 16:00:00,,Source_D,,,,MICU,,,,,14.0,759,3738.0
+,,,,2026-08-27 14:00:00,2026-08-30 14:00:00,,Source_D,,,,CCU,,,,,9.0,760,3739.0
+,,,,2026-03-09 23:00:00,2026-03-11 23:00:00,,Source_D,,,,ICU,,,,,5.0,761,3740.0
+,,,,2026-03-06 13:00:00,2026-03-08 13:00:00,,Source_D,,,,CCU,,,,,3.0,762,3741.0
+,,,,2026-01-19 20:00:00,2026-01-26 20:00:00,,Source_D,,,,CCU,,,,,13.0,763,3742.0
+,,,,2026-07-02 04:00:00,2026-07-09 04:00:00,,Source_D,,,,CCU,,,,,13.0,764,3743.0
+,,,,2026-05-17 23:00:00,2026-05-24 23:00:00,,Source_D,,,,MICU,,,,,7.0,765,3749.0
+,,,,2026-03-25 12:00:00,,,Source_D,,,,CCU,,,,,7.0,766,3750.0
+,,,,2026-01-24 01:00:00,,,Source_D,,,,MICU,,,,,7.0,767,3751.0
+,,,,2026-03-05 23:00:00,2026-03-10 23:00:00,,Source_D,,,,ICU,,,,,9.0,768,3754.0
+,,,,2026-06-29 15:00:00,2026-07-01 15:00:00,,Source_D,,,,MICU,,,,,11.0,769,3761.0
+,,,,2026-06-22 17:00:00,,,Source_D,,,,SICU,,,,,9.0,770,3763.0
+,,,,2026-07-24 00:00:00,2026-07-31 00:00:00,,Source_D,,,,ICU,,,,,2.0,771,3764.0
+,,,,2026-01-12 12:00:00,2026-01-14 12:00:00,,Source_D,,,,SICU,,,,,3.0,772,3772.0
+,,,,2026-04-11 11:00:00,2026-04-13 11:00:00,,Source_D,,,,MICU,,,,,12.0,773,3774.0
+,,,,2026-05-01 14:00:00,2026-05-08 14:00:00,,Source_D,,,,SICU,,,,,7.0,774,3777.0
+,,,,2026-04-06 04:00:00,2026-04-11 04:00:00,,Source_D,,,,CCU,,,,,14.0,775,3779.0
+,,,,2026-05-05 11:00:00,2026-05-10 11:00:00,,Source_D,,,,CCU,,,,,1.0,776,3784.0
+,,,,2026-02-24 21:00:00,2026-03-01 21:00:00,,Source_D,,,,SICU,,,,,10.0,777,3791.0
+,,,,2026-03-01 23:00:00,2026-03-03 23:00:00,,Source_D,,,,ICU,,,,,1.0,778,3792.0
+,,,,2026-08-28 20:00:00,2026-08-29 20:00:00,,Source_D,,,,ICU,,,,,11.0,779,3793.0
+,,,,2026-05-07 23:00:00,2026-05-08 23:00:00,,Source_D,,,,CCU,,,,,10.0,780,3796.0
+,,,,2026-04-15 19:00:00,2026-04-16 19:00:00,,Source_D,,,,CCU,,,,,13.0,781,3800.0
+,,,,2026-06-20 18:00:00,2026-06-23 18:00:00,,Source_D,,,,CCU,,,,,9.0,782,3801.0
+,,,,2026-03-21 10:00:00,2026-03-24 10:00:00,,Source_D,,,,ICU,,,,,2.0,783,3803.0
+,,,,2026-01-05 17:00:00,2026-01-09 17:00:00,,Source_D,,,,SICU,,,,,4.0,784,3814.0
+,,,,2026-07-03 02:00:00,2026-07-10 02:00:00,,Source_D,,,,CCU,,,,,14.0,785,3815.0
+,,,,2026-02-27 02:00:00,2026-03-01 02:00:00,,Source_D,,,,CCU,,,,,10.0,786,3820.0
+,,,,2026-06-07 01:00:00,2026-06-09 01:00:00,,Source_D,,,,SICU,,,,,7.0,787,3824.0
+,,,,2026-06-04 22:00:00,2026-06-09 22:00:00,,Source_D,,,,CCU,,,,,10.0,788,3827.0
+,,,,2026-06-12 07:00:00,2026-06-19 07:00:00,,Source_D,,,,ICU,,,,,13.0,789,
+,,,,2026-08-25 13:00:00,2026-08-26 13:00:00,,Source_D,,,,CCU,,,,,6.0,790,3832.0
+,,,,2026-04-07 16:00:00,2026-04-08 16:00:00,,Source_D,,,,CCU,,,,,3.0,791,3834.0
+,,,,2026-06-14 12:00:00,2026-06-20 12:00:00,,Source_D,,,,ICU,,,,,10.0,792,3836.0
+,,,,2026-07-04 18:00:00,2026-07-09 18:00:00,,Source_D,,,,SICU,,,,,1.0,793,3839.0
+,,,,2026-01-26 00:00:00,2026-02-02 00:00:00,,Source_D,,,,MICU,,,,,6.0,794,3841.0
+,,,,2026-03-13 23:00:00,2026-03-16 23:00:00,,Source_D,,,,CCU,,,,,7.0,795,3843.0
+,,,,2026-04-14 22:00:00,2026-04-16 22:00:00,,Source_D,,,,SICU,,,,,6.0,796,3863.0
+,,,,2026-01-09 15:00:00,2026-01-10 15:00:00,,Source_D,,,,MICU,,,,,14.0,797,3868.0
+,,,,2026-08-28 14:00:00,2026-09-04 14:00:00,,Source_D,,,,SICU,,,,,4.0,798,3884.0
+,,,,2026-06-29 09:00:00,2026-07-05 09:00:00,,Source_D,,,,MICU,,,,,8.0,799,3889.0
+,,,,2026-06-01 17:00:00,2026-06-04 17:00:00,,Source_D,,,,ICU,,,,,9.0,800,3895.0
+,,,,2026-07-21 18:00:00,2026-07-24 18:00:00,,Source_D,,,,SICU,,,,,8.0,801,3897.0
+,,,,2026-07-02 23:00:00,2026-07-09 23:00:00,,Source_D,,,,MICU,,,,,15.0,802,3899.0
+,,,,2026-04-04 17:00:00,2026-04-10 17:00:00,,Source_D,,,,MICU,,,,,2.0,803,3901.0
+,,,,2026-04-23 01:00:00,2026-04-25 01:00:00,,Source_D,,,,SICU,,,,,6.0,804,3903.0
+,,,,2026-03-19 22:00:00,,,Source_D,,,,CCU,,,,,11.0,805,3904.0
+,,,,2026-06-29 04:00:00,2026-07-03 04:00:00,,Source_D,,,,ICU,,,,,3.0,806,
+,,,,2026-01-25 17:00:00,2026-01-29 17:00:00,,Source_D,,,,MICU,,,,,3.0,807,3913.0
+,,,,2026-05-18 19:00:00,2026-05-19 19:00:00,,Source_D,,,,ICU,,,,,12.0,808,3915.0
+,,,,2026-04-22 22:00:00,2026-04-27 22:00:00,,Source_D,,,,MICU,,,,,10.0,809,
+,,,,2026-04-17 23:00:00,2026-04-20 23:00:00,,Source_D,,,,MICU,,,,,11.0,810,3922.0
+,,,,2026-08-15 14:00:00,2026-08-21 14:00:00,,Source_D,,,,CCU,,,,,4.0,811,3925.0
+,,,,2026-04-11 03:00:00,2026-04-14 03:00:00,,Source_D,,,,ICU,,,,,1.0,812,3926.0
+,,,,2026-05-12 07:00:00,2026-05-14 07:00:00,,Source_D,,,,SICU,,,,,3.0,813,3929.0
+,,,,2026-04-12 02:00:00,2026-04-14 02:00:00,,Source_D,,,,MICU,,,,,13.0,814,
+,,,,2026-02-05 11:00:00,2026-02-09 11:00:00,,Source_D,,,,ICU,,,,,2.0,815,3936.0
+,,,,2026-03-08 08:00:00,2026-03-15 08:00:00,,Source_D,,,,ICU,,,,,3.0,816,3937.0
+,,,,2026-07-27 13:00:00,2026-07-29 13:00:00,,Source_D,,,,ICU,,,,,3.0,817,3941.0
+,,,,2026-06-18 22:00:00,2026-06-23 22:00:00,,Source_D,,,,SICU,,,,,15.0,818,3942.0
+,,,,2026-04-18 17:00:00,2026-04-25 17:00:00,,Source_D,,,,CCU,,,,,13.0,819,3947.0
+,,,,2026-01-19 04:00:00,2026-01-25 04:00:00,,Source_D,,,,MICU,,,,,5.0,820,3951.0
+,,,,2026-06-05 13:00:00,2026-06-11 13:00:00,,Source_D,,,,SICU,,,,,3.0,821,3955.0
+,,,,2026-01-16 03:00:00,2026-01-19 03:00:00,,Source_D,,,,SICU,,,,,1.0,822,3956.0
+,,,,2026-07-06 22:00:00,2026-07-13 22:00:00,,Source_D,,,,SICU,,,,,6.0,823,3959.0
+,,,,2026-01-24 19:00:00,2026-01-27 19:00:00,,Source_D,,,,CCU,,,,,3.0,824,3960.0
+,,,,2026-05-26 23:00:00,2026-05-29 23:00:00,,Source_D,,,,SICU,,,,,13.0,825,3962.0
+,,,,2026-02-07 12:00:00,2026-02-11 12:00:00,,Source_D,,,,SICU,,,,,15.0,826,3963.0
+,,,,2026-04-19 08:00:00,2026-04-25 08:00:00,,Source_D,,,,MICU,,,,,6.0,827,3964.0
+,,,,2026-06-11 20:00:00,2026-06-12 20:00:00,,Source_D,,,,CCU,,,,,10.0,828,3965.0
+,,,,2026-01-17 18:00:00,2026-01-20 18:00:00,,Source_D,,,,ICU,,,,,12.0,829,3967.0
+,,,,2026-07-29 01:00:00,2026-07-31 01:00:00,,Source_D,,,,MICU,,,,,11.0,830,
+,,,,2026-08-22 03:00:00,2026-08-26 03:00:00,,Source_D,,,,ICU,,,,,8.0,831,3971.0
+,,,,2026-06-02 21:00:00,2026-06-07 21:00:00,,Source_D,,,,SICU,,,,,3.0,832,3972.0
+,,,,2026-01-19 09:00:00,2026-01-20 09:00:00,,Source_D,,,,CCU,,,,,3.0,833,3978.0
+,,,,2026-08-16 04:00:00,2026-08-19 04:00:00,,Source_D,,,,SICU,,,,,12.0,834,3981.0
+,,,,2026-08-05 07:00:00,2026-08-07 07:00:00,,Source_D,,,,MICU,,,,,13.0,835,3982.0
+,,,,2026-02-25 11:00:00,2026-03-03 11:00:00,,Source_D,,,,CCU,,,,,4.0,836,3986.0
+,,,,2026-08-28 19:00:00,2026-09-04 19:00:00,,Source_D,,,,MICU,,,,,6.0,837,3988.0
+,,,,2026-07-09 13:00:00,2026-07-12 13:00:00,,Source_D,,,,SICU,,,,,15.0,838,3991.0
+,,,,2026-02-09 13:00:00,2026-02-14 13:00:00,,Source_D,,,,CCU,,,,,6.0,839,3992.0
+,,,,2026-08-11 22:00:00,2026-08-16 22:00:00,,Source_D,,,,MICU,,,,,4.0,840,3993.0
+,,,,2026-02-09 07:00:00,,,Source_D,,,,CCU,,,,,4.0,841,3995.0
+,,,,2026-04-13 16:00:00,2026-04-16 16:00:00,,Source_D,,,,MICU,,,,,6.0,842,3999.0
+,,,,2026-06-29 11:00:00,2026-07-06 11:00:00,,Source_D,,,,ICU,,,,,12.0,843,4001.0
+,,,,2026-07-09 18:00:00,2026-07-10 18:00:00,,Source_D,,,,MICU,,,,,3.0,844,4002.0
+,,,,2026-02-13 18:00:00,2026-02-17 18:00:00,,Source_D,,,,CCU,,,,,12.0,845,4005.0
+,,,,2026-09-02 14:00:00,2026-09-04 14:00:00,,Source_D,,,,ICU,,,,,5.0,846,4007.0
+,,,,2026-05-19 08:00:00,2026-05-21 08:00:00,,Source_D,,,,ICU,,,,,15.0,847,4009.0
+,,,,2026-08-17 15:00:00,2026-08-24 15:00:00,,Source_D,,,,CCU,,,,,4.0,848,4012.0
+,,,,2026-07-01 08:00:00,2026-07-02 08:00:00,,Source_D,,,,SICU,,,,,2.0,849,4022.0
+,,,,2026-04-15 23:00:00,2026-04-17 23:00:00,,Source_D,,,,MICU,,,,,11.0,850,4032.0
+,,,,2026-03-24 15:00:00,2026-03-25 15:00:00,,Source_D,,,,SICU,,,,,6.0,851,4035.0
+,,,,2026-08-28 22:00:00,2026-08-31 22:00:00,,Source_D,,,,MICU,,,,,13.0,852,4037.0
+,,,,2026-05-05 04:00:00,2026-05-10 04:00:00,,Source_D,,,,SICU,,,,,14.0,853,
+,,,,2026-02-14 12:00:00,2026-02-15 12:00:00,,Source_D,,,,CCU,,,,,4.0,854,4042.0
+,,,,2026-05-02 10:00:00,2026-05-03 10:00:00,,Source_D,,,,CCU,,,,,9.0,855,4050.0
+,,,,2026-07-11 02:00:00,2026-07-15 02:00:00,,Source_D,,,,MICU,,,,,1.0,856,4064.0
+,,,,2026-05-12 05:00:00,2026-05-15 05:00:00,,Source_D,,,,CCU,,,,,10.0,857,
+,,,,2026-09-07 09:00:00,2026-09-10 09:00:00,,Source_D,,,,MICU,,,,,6.0,858,4067.0
+,,,,2026-04-04 11:00:00,2026-04-09 11:00:00,,Source_D,,,,ICU,,,,,10.0,859,4077.0
+,,,,2026-01-25 20:00:00,2026-02-01 20:00:00,,Source_D,,,,ICU,,,,,12.0,860,4079.0
+,,,,2026-05-19 05:00:00,2026-05-22 05:00:00,,Source_D,,,,CCU,,,,,2.0,861,4084.0
+,,,,2026-02-20 08:00:00,2026-02-27 08:00:00,,Source_D,,,,ICU,,,,,15.0,862,4089.0
+,,,,2026-07-15 07:00:00,2026-07-19 07:00:00,,Source_D,,,,ICU,,,,,15.0,863,4092.0
+,,,,2026-03-14 03:00:00,2026-03-18 03:00:00,,Source_D,,,,MICU,,,,,10.0,864,4096.0
+,,,,2026-08-23 23:00:00,2026-08-24 23:00:00,,Source_D,,,,CCU,,,,,8.0,865,4097.0
+,,,,2026-07-24 18:00:00,,,Source_D,,,,ICU,,,,,14.0,866,4098.0
+,,,,2026-03-30 15:00:00,2026-04-04 15:00:00,,Source_D,,,,MICU,,,,,14.0,867,4100.0
+,,,,2026-08-14 11:00:00,2026-08-20 11:00:00,,Source_D,,,,MICU,,,,,5.0,868,4111.0
+,,,,2026-07-14 00:00:00,2026-07-19 00:00:00,,Source_D,,,,MICU,,,,,1.0,869,4112.0
+,,,,2026-02-17 05:00:00,2026-02-19 05:00:00,,Source_D,,,,ICU,,,,,7.0,870,4115.0
+,,,,2026-09-04 16:00:00,2026-09-11 16:00:00,,Source_D,,,,ICU,,,,,6.0,871,4120.0
+,,,,2026-03-29 18:00:00,2026-04-04 18:00:00,,Source_D,,,,CCU,,,,,6.0,872,4124.0
+,,,,2026-03-12 17:00:00,2026-03-14 17:00:00,,Source_D,,,,SICU,,,,,4.0,873,4126.0
+,,,,2026-01-09 07:00:00,2026-01-10 07:00:00,,Source_D,,,,ICU,,,,,6.0,874,4127.0
+,,,,2026-05-11 09:00:00,2026-05-15 09:00:00,,Source_D,,,,MICU,,,,,2.0,875,4128.0
+,,,,2026-07-27 11:00:00,2026-08-03 11:00:00,,Source_D,,,,ICU,,,,,3.0,876,4130.0
+,,,,2026-04-17 12:00:00,2026-04-23 12:00:00,,Source_D,,,,CCU,,,,,3.0,877,4133.0
+,,,,2026-04-01 18:00:00,2026-04-07 18:00:00,,Source_D,,,,ICU,,,,,12.0,878,
+,,,,2026-02-04 12:00:00,2026-02-08 12:00:00,,Source_D,,,,ICU,,,,,2.0,879,4134.0
+,,,,2026-01-15 14:00:00,2026-01-18 14:00:00,,Source_D,,,,ICU,,,,,5.0,880,4138.0
+,,,,2026-03-01 02:00:00,2026-03-05 02:00:00,,Source_D,,,,CCU,,,,,4.0,881,4139.0
+,,,,2026-02-05 14:00:00,2026-02-09 14:00:00,,Source_D,,,,ICU,,,,,6.0,882,4140.0
+,,,,2026-03-05 15:00:00,2026-03-06 15:00:00,,Source_D,,,,CCU,,,,,1.0,883,4141.0
+,,,,2026-08-06 06:00:00,2026-08-12 06:00:00,,Source_D,,,,CCU,,,,,13.0,884,4145.0
+,,,,2026-04-11 05:00:00,2026-04-13 05:00:00,,Source_D,,,,SICU,,,,,10.0,885,4147.0
+,,,,2026-07-14 14:00:00,2026-07-18 14:00:00,,Source_D,,,,MICU,,,,,11.0,886,4148.0
+,,,,2026-06-25 23:00:00,2026-06-28 23:00:00,,Source_D,,,,ICU,,,,,7.0,887,4153.0
+,,,,2026-07-03 16:00:00,2026-07-06 16:00:00,,Source_D,,,,ICU,,,,,14.0,888,4154.0
+,,,,2026-04-01 13:00:00,2026-04-07 13:00:00,,Source_D,,,,CCU,,,,,14.0,889,4159.0
+,,,,2026-02-06 14:00:00,2026-02-08 14:00:00,,Source_D,,,,ICU,,,,,2.0,890,4160.0
+,,,,2026-04-23 03:00:00,2026-04-28 03:00:00,,Source_D,,,,ICU,,,,,4.0,891,4162.0
+,,,,2026-04-16 08:00:00,2026-04-17 08:00:00,,Source_D,,,,ICU,,,,,9.0,892,4163.0
+,,,,2026-04-23 19:00:00,,,Source_D,,,,MICU,,,,,10.0,893,4166.0
+,,,,2026-08-14 22:00:00,2026-08-18 22:00:00,,Source_D,,,,SICU,,,,,12.0,894,4172.0
+,,,,2026-02-15 23:00:00,2026-02-21 23:00:00,,Source_D,,,,CCU,,,,,15.0,895,4178.0
+,,,,2026-05-26 13:00:00,2026-05-31 13:00:00,,Source_D,,,,MICU,,,,,4.0,896,4179.0
+,,,,2026-03-14 15:00:00,2026-03-15 15:00:00,,Source_D,,,,SICU,,,,,4.0,897,4182.0
+,,,,2026-05-11 05:00:00,2026-05-12 05:00:00,,Source_D,,,,MICU,,,,,11.0,898,4185.0
+,,,,2026-05-26 11:00:00,2026-05-28 11:00:00,,Source_D,,,,CCU,,,,,10.0,899,4187.0
+,,,,2026-09-07 10:00:00,2026-09-13 10:00:00,,Source_D,,,,ICU,,,,,9.0,900,4188.0
+,,,,2026-01-08 12:00:00,2026-01-10 12:00:00,,Source_D,,,,CCU,,,,,5.0,901,4189.0
+,,,,2026-02-17 12:00:00,2026-02-24 12:00:00,,Source_D,,,,CCU,,,,,2.0,902,4192.0
+,,,,2026-05-10 22:00:00,2026-05-13 22:00:00,,Source_D,,,,CCU,,,,,6.0,903,4196.0
+,,,,2026-06-01 09:00:00,2026-06-08 09:00:00,,Source_D,,,,CCU,,,,,14.0,904,4203.0
+,,,,2026-06-20 16:00:00,,,Source_D,,,,CCU,,,,,10.0,905,4204.0
+,,,,2026-08-17 03:00:00,2026-08-21 03:00:00,,Source_D,,,,CCU,,,,,9.0,906,4208.0
+,,,,2026-03-04 04:00:00,2026-03-06 04:00:00,,Source_D,,,,MICU,,,,,5.0,907,4210.0
+,,,,2026-01-08 00:00:00,2026-01-14 00:00:00,,Source_D,,,,MICU,,,,,12.0,908,4211.0
+,,,,2026-04-21 14:00:00,2026-04-24 14:00:00,,Source_D,,,,ICU,,,,,5.0,909,4218.0
+,,,,2026-04-06 06:00:00,2026-04-11 06:00:00,,Source_D,,,,CCU,,,,,3.0,910,4220.0
+,,,,2026-05-01 02:00:00,2026-05-03 02:00:00,,Source_D,,,,ICU,,,,,3.0,911,4223.0
+,,,,2026-08-01 12:00:00,2026-08-06 12:00:00,,Source_D,,,,SICU,,,,,11.0,912,4225.0
+,,,,2026-07-22 15:00:00,2026-07-29 15:00:00,,Source_D,,,,MICU,,,,,15.0,913,4227.0
+,,,,2026-04-11 00:00:00,2026-04-13 00:00:00,,Source_D,,,,CCU,,,,,13.0,914,
+,,,,2026-04-17 21:00:00,2026-04-24 21:00:00,,Source_D,,,,MICU,,,,,15.0,915,4235.0
+,,,,2026-04-23 11:00:00,2026-04-27 11:00:00,,Source_D,,,,SICU,,,,,10.0,916,4237.0
+,,,,2026-03-09 22:00:00,2026-03-16 22:00:00,,Source_D,,,,CCU,,,,,12.0,917,4238.0
+,,,,2026-09-03 15:00:00,2026-09-07 15:00:00,,Source_D,,,,MICU,,,,,11.0,918,4240.0
+,,,,2026-01-03 15:00:00,2026-01-10 15:00:00,,Source_D,,,,ICU,,,,,4.0,919,4243.0
+,,,,2026-05-23 18:00:00,2026-05-28 18:00:00,,Source_D,,,,SICU,,,,,15.0,920,4245.0
+,,,,2026-07-19 05:00:00,2026-07-20 05:00:00,,Source_D,,,,SICU,,,,,2.0,921,4246.0
+,,,,2026-08-04 06:00:00,2026-08-09 06:00:00,,Source_D,,,,SICU,,,,,5.0,922,4249.0
+,,,,2026-04-01 15:00:00,2026-04-05 15:00:00,,Source_D,,,,ICU,,,,,4.0,923,4250.0
+,,,,2026-08-21 23:00:00,2026-08-24 23:00:00,,Source_D,,,,MICU,,,,,9.0,924,4251.0
+,,,,2026-07-26 09:00:00,2026-07-28 09:00:00,,Source_D,,,,MICU,,,,,8.0,925,4255.0
+,,,,2026-04-09 00:00:00,2026-04-10 00:00:00,,Source_D,,,,MICU,,,,,10.0,926,
+,,,,2026-04-29 04:00:00,2026-05-03 04:00:00,,Source_D,,,,ICU,,,,,4.0,927,4260.0
+,,,,2026-08-10 06:00:00,2026-08-14 06:00:00,,Source_D,,,,CCU,,,,,15.0,928,
+,,,,2026-06-01 07:00:00,2026-06-05 07:00:00,,Source_D,,,,ICU,,,,,5.0,929,4270.0
+,,,,2026-05-04 07:00:00,2026-05-09 07:00:00,,Source_D,,,,SICU,,,,,7.0,930,4272.0
+,,,,2026-06-04 03:00:00,2026-06-06 03:00:00,,Source_D,,,,CCU,,,,,14.0,931,4277.0
+,,,,2026-01-29 23:00:00,2026-02-05 23:00:00,,Source_D,,,,MICU,,,,,1.0,932,4287.0
+,,,,2026-04-09 22:00:00,2026-04-13 22:00:00,,Source_D,,,,CCU,,,,,13.0,933,4289.0
+,,,,2026-03-21 04:00:00,2026-03-25 04:00:00,,Source_D,,,,ICU,,,,,15.0,934,4295.0
+,,,,2026-01-04 09:00:00,2026-01-06 09:00:00,,Source_D,,,,MICU,,,,,3.0,935,4297.0
+,,,,2026-02-16 18:00:00,2026-02-18 18:00:00,,Source_D,,,,SICU,,,,,12.0,936,4298.0
+,,,,2026-07-12 17:00:00,2026-07-13 17:00:00,,Source_D,,,,ICU,,,,,12.0,937,4299.0
+,,,,2026-01-29 04:00:00,2026-02-02 04:00:00,,Source_D,,,,CCU,,,,,5.0,938,4301.0
+,,,,2026-04-23 09:00:00,2026-04-27 09:00:00,,Source_D,,,,SICU,,,,,2.0,939,4304.0
+,,,,2026-08-05 08:00:00,2026-08-09 08:00:00,,Source_D,,,,SICU,,,,,12.0,940,4307.0
+,,,,2026-02-08 10:00:00,2026-02-13 10:00:00,,Source_D,,,,SICU,,,,,1.0,941,4311.0
+,,,,2026-01-08 01:00:00,2026-01-13 01:00:00,,Source_D,,,,SICU,,,,,6.0,942,4312.0
+,,,,2026-06-18 09:00:00,2026-06-22 09:00:00,,Source_D,,,,SICU,,,,,1.0,943,4313.0
+,,,,2026-08-22 10:00:00,2026-08-24 10:00:00,,Source_D,,,,MICU,,,,,1.0,944,4314.0
+,,,,2026-05-10 22:00:00,2026-05-17 22:00:00,,Source_D,,,,MICU,,,,,7.0,945,4315.0
+,,,,2026-04-29 07:00:00,2026-05-04 07:00:00,,Source_D,,,,MICU,,,,,7.0,946,4318.0
+,,,,2026-09-05 19:00:00,2026-09-10 19:00:00,,Source_D,,,,ICU,,,,,3.0,947,4320.0
+,,,,2026-02-17 02:00:00,2026-02-18 02:00:00,,Source_D,,,,ICU,,,,,13.0,948,4324.0
+,,,,2026-05-25 10:00:00,2026-05-29 10:00:00,,Source_D,,,,SICU,,,,,6.0,949,4328.0
+,,,,2026-01-19 16:00:00,2026-01-23 16:00:00,,Source_D,,,,SICU,,,,,2.0,950,4330.0
+,,,,2026-01-20 08:00:00,2026-01-24 08:00:00,,Source_D,,,,SICU,,,,,13.0,951,4333.0
+,,,,2026-03-05 13:00:00,2026-03-08 13:00:00,,Source_D,,,,SICU,,,,,3.0,952,4335.0
+,,,,2026-04-12 00:00:00,2026-04-13 00:00:00,,Source_D,,,,SICU,,,,,12.0,953,4339.0
+,,,,2026-09-05 14:00:00,2026-09-06 14:00:00,,Source_D,,,,ICU,,,,,9.0,954,4340.0
+,,,,2026-08-18 09:00:00,2026-08-23 09:00:00,,Source_D,,,,MICU,,,,,11.0,955,4341.0
+,,,,2026-04-22 23:00:00,,,Source_D,,,,SICU,,,,,11.0,956,4342.0
+,,,,2026-08-12 05:00:00,,,Source_D,,,,ICU,,,,,2.0,957,4344.0
+,,,,2026-02-03 12:00:00,2026-02-10 12:00:00,,Source_D,,,,MICU,,,,,12.0,958,
+,,,,2026-04-25 07:00:00,2026-04-27 07:00:00,,Source_D,,,,ICU,,,,,10.0,959,4355.0
+,,,,2026-04-10 12:00:00,2026-04-11 12:00:00,,Source_D,,,,MICU,,,,,6.0,960,4356.0
+,,,,2026-02-18 10:00:00,2026-02-19 10:00:00,,Source_D,,,,ICU,,,,,14.0,961,4357.0
+,,,,2026-02-02 05:00:00,2026-02-03 05:00:00,,Source_D,,,,ICU,,,,,1.0,962,4358.0
+,,,,2026-05-13 03:00:00,2026-05-14 03:00:00,,Source_D,,,,MICU,,,,,8.0,963,
+,,,,2026-05-04 21:00:00,2026-05-06 21:00:00,,Source_D,,,,MICU,,,,,1.0,964,4365.0
+,,,,2026-08-07 08:00:00,,,Source_D,,,,MICU,,,,,5.0,965,4367.0
+,,,,2026-06-10 06:00:00,2026-06-13 06:00:00,,Source_D,,,,ICU,,,,,14.0,966,4371.0
+,,,,2026-08-20 06:00:00,2026-08-26 06:00:00,,Source_D,,,,CCU,,,,,6.0,967,4377.0
+,,,,2026-07-27 15:00:00,2026-07-31 15:00:00,,Source_D,,,,ICU,,,,,11.0,968,
+,,,,2026-07-01 22:00:00,2026-07-02 22:00:00,,Source_D,,,,ICU,,,,,9.0,969,
+,,,,2026-01-10 13:00:00,2026-01-17 13:00:00,,Source_D,,,,MICU,,,,,8.0,970,4393.0
+,,,,2026-07-19 06:00:00,2026-07-22 06:00:00,,Source_D,,,,MICU,,,,,4.0,971,4394.0
+,,,,2026-09-09 00:00:00,2026-09-10 00:00:00,,Source_D,,,,SICU,,,,,6.0,972,4398.0
+,,,,2026-03-07 00:00:00,2026-03-13 00:00:00,,Source_D,,,,MICU,,,,,11.0,973,4402.0
+,,,,2026-06-23 03:00:00,2026-06-24 03:00:00,,Source_D,,,,CCU,,,,,11.0,974,4403.0
+,,,,2026-07-06 10:00:00,2026-07-10 10:00:00,,Source_D,,,,SICU,,,,,5.0,975,4404.0
+,,,,2026-03-11 19:00:00,2026-03-13 19:00:00,,Source_D,,,,MICU,,,,,15.0,976,4406.0
+,,,,2026-01-14 15:00:00,2026-01-17 15:00:00,,Source_D,,,,ICU,,,,,13.0,977,4414.0
+,,,,2026-08-28 15:00:00,2026-09-03 15:00:00,,Source_D,,,,MICU,,,,,12.0,978,4415.0
+,,,,2026-09-07 10:00:00,2026-09-11 10:00:00,,Source_D,,,,SICU,,,,,5.0,979,4416.0
+,,,,2026-07-18 11:00:00,2026-07-23 11:00:00,,Source_D,,,,CCU,,,,,11.0,980,4417.0
+,,,,2026-01-27 10:00:00,2026-01-30 10:00:00,,Source_D,,,,MICU,,,,,14.0,981,
+,,,,2026-05-10 08:00:00,2026-05-17 08:00:00,,Source_D,,,,SICU,,,,,3.0,982,4425.0
+,,,,2026-01-13 19:00:00,2026-01-17 19:00:00,,Source_D,,,,CCU,,,,,13.0,983,4428.0
+,,,,2026-07-13 15:00:00,2026-07-15 15:00:00,,Source_D,,,,CCU,,,,,1.0,984,4429.0
+,,,,2026-04-04 21:00:00,2026-04-05 21:00:00,,Source_D,,,,SICU,,,,,7.0,985,4430.0
+,,,,2026-02-10 03:00:00,2026-02-14 03:00:00,,Source_D,,,,MICU,,,,,3.0,986,4434.0
+,,,,2026-02-15 01:00:00,2026-02-21 01:00:00,,Source_D,,,,CCU,,,,,6.0,987,4445.0
+,,,,2026-02-15 07:00:00,2026-02-22 07:00:00,,Source_D,,,,CCU,,,,,5.0,988,4448.0
+,,,,2026-08-16 14:00:00,2026-08-17 14:00:00,,Source_D,,,,ICU,,,,,13.0,989,4451.0
+,,,,2026-01-01 03:00:00,2026-01-03 03:00:00,,Source_D,,,,SICU,,,,,1.0,990,
+,,,,2026-09-08 05:00:00,2026-09-10 05:00:00,,Source_D,,,,SICU,,,,,3.0,991,4458.0
+,,,,2026-03-01 06:00:00,2026-03-04 06:00:00,,Source_D,,,,SICU,,,,,14.0,992,4463.0
+,,,,2026-08-09 15:00:00,2026-08-14 15:00:00,,Source_D,,,,MICU,,,,,1.0,993,4465.0
+,,,,2026-02-01 14:00:00,2026-02-06 14:00:00,,Source_D,,,,CCU,,,,,4.0,994,4472.0
+,,,,2026-03-08 03:00:00,2026-03-12 03:00:00,,Source_D,,,,MICU,,,,,12.0,995,4474.0
+,,,,2026-03-18 14:00:00,2026-03-20 14:00:00,,Source_D,,,,CCU,,,,,10.0,996,4477.0
+,,,,2026-06-13 06:00:00,2026-06-17 06:00:00,,Source_D,,,,MICU,,,,,10.0,997,4480.0
+,,,,2026-08-06 09:00:00,2026-08-10 09:00:00,,Source_D,,,,MICU,,,,,15.0,998,4483.0
+,,,,2026-04-30 20:00:00,,,Source_D,,,,MICU,,,,,12.0,999,4495.0
+,,,,2026-07-12 12:00:00,2026-07-17 12:00:00,,Source_D,,,,MICU,,,,,13.0,1000,4497.0
+,,,,2026-07-13 18:00:00,2026-07-20 18:00:00,,Source_D,,,,MICU,,,,,4.0,1001,4498.0
+,,,,2026-06-07 16:00:00,2026-06-10 16:00:00,,Source_D,,,,CCU,,,,,12.0,1002,4500.0
+,,,,2026-03-01 03:00:00,2026-03-08 03:00:00,,Source_D,,,,SICU,,,,,5.0,1003,4501.0
+,,,,2026-08-25 23:00:00,2026-08-30 23:00:00,,Source_D,,,,MICU,,,,,15.0,1004,4502.0
+,,,,2026-04-17 16:00:00,2026-04-20 16:00:00,,Source_D,,,,SICU,,,,,10.0,1005,4505.0
+,,,,2026-06-09 14:00:00,2026-06-11 14:00:00,,Source_D,,,,SICU,,,,,1.0,1006,4509.0
+,,,,2026-06-17 05:00:00,2026-06-21 05:00:00,,Source_D,,,,MICU,,,,,12.0,1007,4520.0
+,,,,2026-05-20 04:00:00,2026-05-25 04:00:00,,Source_D,,,,SICU,,,,,6.0,1008,4524.0
+,,,,2026-05-28 19:00:00,2026-06-01 19:00:00,,Source_D,,,,CCU,,,,,8.0,1009,4527.0
+,,,,2026-08-17 20:00:00,2026-08-18 20:00:00,,Source_D,,,,ICU,,,,,8.0,1010,4528.0
+,,,,2026-03-22 19:00:00,2026-03-29 19:00:00,,Source_D,,,,MICU,,,,,13.0,1011,4529.0
+,,,,2026-08-02 19:00:00,2026-08-09 19:00:00,,Source_D,,,,CCU,,,,,10.0,1012,4530.0
+,,,,2026-03-14 08:00:00,2026-03-18 08:00:00,,Source_D,,,,CCU,,,,,7.0,1013,4536.0
+,,,,2026-02-14 09:00:00,2026-02-17 09:00:00,,Source_D,,,,MICU,,,,,7.0,1014,4544.0
+,,,,2026-04-08 09:00:00,2026-04-13 09:00:00,,Source_D,,,,MICU,,,,,5.0,1015,4545.0
+,,,,2026-05-02 21:00:00,2026-05-08 21:00:00,,Source_D,,,,CCU,,,,,11.0,1016,4552.0
+,,,,2026-05-03 22:00:00,2026-05-10 22:00:00,,Source_D,,,,SICU,,,,,12.0,1017,4553.0
+,,,,2026-01-09 06:00:00,2026-01-13 06:00:00,,Source_D,,,,SICU,,,,,11.0,1018,
+,,,,2026-08-23 05:00:00,2026-08-29 05:00:00,,Source_D,,,,MICU,,,,,14.0,1019,4558.0
+,,,,2026-01-14 13:00:00,2026-01-16 13:00:00,,Source_D,,,,ICU,,,,,4.0,1020,4566.0
+,,,,2026-06-02 09:00:00,2026-06-07 09:00:00,,Source_D,,,,SICU,,,,,4.0,1021,4567.0
+,,,,2026-08-07 03:00:00,2026-08-14 03:00:00,,Source_D,,,,SICU,,,,,1.0,1022,4572.0
+,,,,2026-07-06 17:00:00,2026-07-12 17:00:00,,Source_D,,,,SICU,,,,,1.0,1023,4579.0
+,,,,2026-05-27 00:00:00,2026-06-02 00:00:00,,Source_D,,,,ICU,,,,,8.0,1024,4584.0
+,,,,2026-02-07 05:00:00,2026-02-10 05:00:00,,Source_D,,,,SICU,,,,,14.0,1025,4595.0
+,,,,2026-06-28 13:00:00,2026-07-04 13:00:00,,Source_D,,,,ICU,,,,,4.0,1026,4597.0
+,,,,2026-08-15 05:00:00,2026-08-21 05:00:00,,Source_D,,,,MICU,,,,,9.0,1027,4615.0
+,,,,2026-03-15 23:00:00,2026-03-18 23:00:00,,Source_D,,,,ICU,,,,,10.0,1028,4617.0
+,,,,2026-03-17 12:00:00,2026-03-22 12:00:00,,Source_D,,,,SICU,,,,,2.0,1029,4622.0
+,,,,2026-08-20 07:00:00,2026-08-23 07:00:00,,Source_D,,,,MICU,,,,,3.0,1030,4624.0
+,,,,2026-06-15 08:00:00,2026-06-22 08:00:00,,Source_D,,,,SICU,,,,,2.0,1031,4625.0
+,,,,2026-08-11 01:00:00,2026-08-17 01:00:00,,Source_D,,,,CCU,,,,,10.0,1032,4629.0
+,,,,2026-04-23 13:00:00,2026-04-30 13:00:00,,Source_D,,,,MICU,,,,,6.0,1033,4634.0
+,,,,2026-04-06 16:00:00,2026-04-12 16:00:00,,Source_D,,,,MICU,,,,,3.0,1034,4637.0
+,,,,2026-07-14 14:00:00,2026-07-20 14:00:00,,Source_D,,,,CCU,,,,,6.0,1035,4640.0
+,,,,2026-03-29 07:00:00,,,Source_D,,,,SICU,,,,,7.0,1036,
+,,,,2026-01-17 17:00:00,2026-01-19 17:00:00,,Source_D,,,,SICU,,,,,10.0,1037,4645.0
+,,,,2026-04-04 05:00:00,2026-04-10 05:00:00,,Source_D,,,,CCU,,,,,3.0,1038,4646.0
+,,,,2026-03-31 23:00:00,2026-04-04 23:00:00,,Source_D,,,,MICU,,,,,14.0,1039,4648.0
+,,,,2026-08-14 04:00:00,2026-08-15 04:00:00,,Source_D,,,,CCU,,,,,5.0,1040,4653.0

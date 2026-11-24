@@ -47,12 +47,12 @@ allergy_note       0
 0
 
 ===== SAMPLE RECORDS =====
-     triage_id  visit_id  nurse_mrn  bp_systolic  bp_diastolic  hr_bpm  temp_fahrenheit  o2_sat esi_priority allergy_note
-391        392       400  MRN-10020          124            84      90            100.0      97        ESI-5        Latex
-570        571       582  MRN-10021          134            85      71             98.5      96        ESI-4          UNK
-981        982      1003  MRN-10016          108            70      82             98.8      95        ESI-2          UNK
-288        289       293  MRN-10019          113            65      91             99.6      97        ESI-3          UNK
-566        567       578  MRN-10024          114            60      76             97.2      97        ESI-1          UNK
+      triage_id  visit_id  nurse_mrn  bp_systolic  bp_diastolic  hr_bpm  temp_fahrenheit  o2_sat esi_priority allergy_note
+838         839       858  MRN-10016          140            79      77             97.9      99        ESI-4        Latex
+1005       1006      1028  MRN-10021          134            83      82            100.5      98        ESI-3          NaN
+522         523       533  MRN-10025          104            75      80            100.5      95        ESI-5          UNK
+120         121       123  MRN-10016          134            84      69            100.5      97        ESI-3        Sulfa
+0             1         1  MRN-10022          100            76      65             99.7      95        ESI-4          NaN
 
 ===== SUMMARY STATISTICS =====
          triage_id     visit_id  nurse_mrn  bp_systolic  bp_diastolic       hr_bpm  temp_fahrenheit       o2_sat esi_priority allergy_note

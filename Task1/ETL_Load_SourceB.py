@@ -8,19 +8,19 @@ os.makedirs("Profiles", exist_ok=True)
 # Names must exactly match the filename stems (SourceB_<name>.csv)
 
 SourceB_Config = [
-    "patients",
-    "admissions",
-    "triage_assessments",
+    "patient",
+    "admission",
+    "triage_assessment",
     "clinical_note",
-    "diagnoses",
-    "diagnostic_orders",
-    "discharge_records",
+    "diagnosis",
+    "diagnostic_order",
+    "discharge_record",
     "icu_stay",
     "radiology",
-    "surgical_procedures",
+    "surgical_procedure",
 ]
 
-print("--- Starting Task 1 (Profile)  ---\n")
+print("--- Starting Task 1 (Profile)  ---")
 
 for file_name in SourceB_Config:
     path = f"../Data_Sources/SourceB/SourceB_{file_name}.csv"

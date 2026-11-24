@@ -44,12 +44,12 @@ phone_number                0
 0
 
 ===== SAMPLE RECORDS =====
-     patient_id           name health_insurance_number life_status                       address  date_birth  gender emergency_contact_number  phone_number
-215         216   Robert Brown              RAMQ521818       Alive  775 Atwater Ave, Quebec City  1984-02-28    Male             514-555-4329  514-555-4329
-260         261  Michael Brown              RAMQ918207       Alive             172 Guy St, Laval  1955-02-14    Male             514-555-6004  514-555-6004
-740         741  Jessica Smith              RAMQ591246       Alive         4483 Guy St, Montreal  1999-05-02  Female             514-555-4268  514-555-4268
-169         170   David Miller              RAMQ623555       Alive  4610 Papineau Ave, Longueuil  1965-03-20  Female             514-555-6770  514-555-6770
-668         669    John Miller              RAMQ829762       Alive      4052 Papineau Ave, Laval  1991-07-02    Male             514-555-2670  514-555-2670
+     patient_id             name health_insurance_number life_status                                address  date_birth  gender emergency_contact_number  phone_number
+204         205   David Charette              RAMQ933197       Alive                862 Guy St, Quebec City  1946-09-23  Female             514-555-8996  514-555-8996
+465         466       Rachel Roy              RAMQ105324       Alive           3522 Sherbrooke St, Montreal  1963-10-26  Female             514-555-2605  514-555-2605
+151         152      David Smith              RAMQ247442       Alive            4011 PAPINEAU AVE, LAVAL     1974-08-23  Female             514-555-5947  514-555-5947
+285         286   David Tremblay              RAMQ100177       Alive           844 Atwater Ave, Quebec City  1963-06-13  Female             514-555-6953  514-555-6953
+388         389  Rachel Williams              RAMQ238173       Alive  1793 Sainte-Catherine St, Quebec City  1990-11-26  Female             514-555-9582  514-555-9582
 
 ===== SUMMARY STATISTICS =====
         patient_id           name health_insurance_number life_status                        address  date_birth gender emergency_contact_number  phone_number

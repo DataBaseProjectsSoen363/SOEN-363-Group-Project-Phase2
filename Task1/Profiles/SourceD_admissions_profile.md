@@ -47,12 +47,12 @@ diagnosis_timestamp    0
 0
 
 ===== SAMPLE RECORDS =====
-      visitId  patientId  admitTimestamp admissionType               reason  doctorId  dischargeTimestamp      diagnosis_codes  primary_diagnosis  diagnosis_timestamp
-420       421        392      1770206400        URGENT                Fever        15        1.770379e+09                  NaN                NaN                  NaN
-64         65        376      1780351200     EMERGENCY           Chest Pain        15        1.781129e+09                410.9              410.9         1.780358e+09
-55         56        244      1783065600     EMERGENCY                Fever         9        1.783757e+09  272.4, 410.9, 401.9              272.4         1.783098e+09
-1182     1183        473      1778929200        URGENT  Shortness of Breath         3                 NaN         272.4, 401.9              272.4         1.778965e+09
-1175     1176         22      1785812400      ELECTIVE  Shortness of Breath         9        1.786417e+09                401.9              401.9         1.785852e+09
+      visitId  patientId  admitTimestamp admissionType               reason  doctorId  dischargeTimestamp       diagnosis_codes  primary_diagnosis  diagnosis_timestamp
+715       716        676      1787680800     EMERGENCY  Shortness of Breath         4        1.787854e+09                250.00              250.0         1.787684e+09
+730       731        568      1778900400        URGENT  Shortness of Breath         6        1.779505e+09          410.9, 401.9              410.9         1.778915e+09
+1183     1184         68      1780552800     EMERGENCY  Shortness of Breath        14        1.781417e+09  250.00, 401.9, 272.4              250.0         1.780578e+09
+600       601        459      1776621600     EMERGENCY  Shortness of Breath         9        1.776967e+09  401.9, 410.9, 250.00              401.9         1.776654e+09
+423       424        520      1787608800      ELECTIVE  Shortness of Breath        12        1.788386e+09                 410.9              410.9         1.787630e+09
 
 ===== SUMMARY STATISTICS =====
             visitId    patientId  admitTimestamp admissionType               reason     doctorId  dischargeTimestamp diagnosis_codes  primary_diagnosis  diagnosis_timestamp

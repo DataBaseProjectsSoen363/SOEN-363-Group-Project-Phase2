@@ -32,12 +32,12 @@ contact         0
 0
 
 ===== SAMPLE RECORDS =====
-     patientId                                    name  dobTimestamp gender                                          contact
-681        682      {'first': 'Ren', 'last': 'Tanaka'}     901798866      M  {'phone': '+81-82-7172-9274', 'city': 'Nagoya'}
-55          56  {'first': 'Hina', 'last': 'Takahashi'}    1194003666      F   {'phone': '+81-81-1951-9270', 'city': 'Tokyo'}
-557        558  {'first': 'Hina', 'last': 'Takahashi'}     712064466      F  {'phone': '+81-88-3582-7139', 'city': 'Nagoya'}
-425        426     {'first': 'Sakura', 'last': 'Sato'}     184246866      M   {'phone': '+81-85-4772-4769', 'city': 'Kyoto'}
-395        396      {'first': 'Sakura', 'last': 'Ito'}     410010066      F   {'phone': '+81-84-1100-7520', 'city': 'Tokyo'}
+     patientId                                     name  dobTimestamp gender                                          contact
+455        456        {'first': 'Yuki', 'last': 'Sato'}    -797084333      M   {'phone': '+81-85-5235-9730', 'city': 'Tokyo'}
+539        540  {'first': 'Sakura', 'last': 'Watanabe'}    1066477266      F   {'phone': '+81-82-6924-5764', 'city': 'Tokyo'}
+657        658      {'first': 'Sakura', 'last': 'Sato'}     752240466      M   {'phone': '+81-89-8067-6726', 'city': 'Tokyo'}
+687        688        {'first': 'Yuki', 'last': 'Sato'}    1161776466      F   {'phone': '+81-89-6619-5229', 'city': 'Tokyo'}
+758        759   {'first': 'Hina', 'last': 'Takahashi'}      57498066      M  {'phone': '+81-86-3173-1796', 'city': 'Nagoya'}
 
 ===== SUMMARY STATISTICS =====
         patientId                                  name  dobTimestamp gender                           contact

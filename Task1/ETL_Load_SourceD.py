@@ -1,6 +1,7 @@
 import pandas as pd
 from profile import profile_dataframe
-
+import os
+os.makedirs("Profiles", exist_ok=True)
 
 SourceD_Files = [
     "patients",
@@ -12,6 +13,8 @@ SourceD_Files = [
     "diagnostic_orders",
     "discharge_records",
 ]
+
+print("--- Starting Task 1 (Profile) for Source D ---")
 
 # TASK 1. PROFILE THE DATA SOURCE D
 for file_name in SourceD_Files:
@@ -35,3 +38,4 @@ for file_name in SourceD_Files:
             f.write(f"Failed to profile Source D ({file_name}): {e}\n")
         print(f"[Task 1] FAILED to profile: {file_name} -> {e}")
 
+print("All Source D files profiled.")

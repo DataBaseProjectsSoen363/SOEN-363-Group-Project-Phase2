@@ -38,12 +38,12 @@ home_address     0
 0
 
 ===== SAMPLE RECORDS =====
-           mrn      full_name insurance_id         dob gender_cd   contact_phone                   home_address
-635  MRN-91645   Mia Lefebvre   INS-565368  17/11/1988         F  01-30-23-26-47  86 Rue Victor Hugo, Marseille
-371  MRN-34826    Ethan Simon   INS-159689  28/05/2008         M  01-96-61-41-55  38 Rue Victor Hugo, Marseille
-536  MRN-33500   Noah Laurent   INS-988758  03/10/1974         M  01-58-79-71-49      81 Rue Victor Hugo, Paris
-307  MRN-43708    Liam Dubois   INS-543711  21/11/2004         F  01-22-25-83-45        29 Rue de la Paix, Nice
-602  MRN-62840  Lucas Laurent   INS-690739  07/03/1974         F  01-37-67-85-27     6 Rue de la Paix, Toulouse
+           mrn     full_name insurance_id         dob gender_cd   contact_phone                 home_address
+594  MRN-17345   Mia Laurent   INS-858002  16/08/1977         M  01-67-60-23-24    98 Rue Victor Hugo, Paris
+478  MRN-39471   Zoe Laurent   INS-511351  10/01/1965         M  01-63-87-94-24     62 Rue Victor Hugo, Lyon
+300  MRN-20515   Liam Dubois   INS-813131  29/12/1974         F  01-29-50-70-47  36 Rue de la Paix, Toulouse
+640  MRN-57591   Liam Michel   INS-917956  28/08/1986         F  01-82-17-25-76      94 Rue de la Paix, Nice
+662  MRN-37744  Noah Laurent   INS-956194  17/07/1965         F  01-52-80-48-74       5 Rue de la Paix, Nice
 
 ===== SUMMARY STATISTICS =====
               mrn    full_name insurance_id         dob gender_cd   contact_phone              home_address

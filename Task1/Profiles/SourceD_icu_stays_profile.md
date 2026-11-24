@@ -36,11 +36,11 @@ exitTimestamp     0
 
 ===== SAMPLE RECORDS =====
      stayId  visitId wardType  doctorId  entryTimestamp  exitTimestamp
-323     324     1082     MICU         7      1771059600   1.771319e+09
-181     182      647      ICU         3      1785150000   1.785755e+09
-63       64      243      CCU         9      1787839200   1.788098e+09
-159     160      565      CCU         9      1777716000   1.777802e+09
-215     216      737      ICU         5      1776780000   1.777039e+09
+191     192      666     MICU        11      1784037600   1.784383e+09
+271     272     9999     MICU         8      1778641200   1.778728e+09
+160     161      580     MICU         1      1783735200   1.784081e+09
+161     162      582      CCU        10      1778562000   1.778821e+09
+150     151      522      ICU         5      1788357600   1.788530e+09
 
 ===== SUMMARY STATISTICS =====
             stayId      visitId wardType    doctorId  entryTimestamp  exitTimestamp

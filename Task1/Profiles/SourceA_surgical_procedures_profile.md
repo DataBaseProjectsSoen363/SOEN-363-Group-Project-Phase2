@@ -38,12 +38,12 @@ surgeon_id             0
 0
 
 ===== SAMPLE RECORDS =====
-     procedure_id  admission_id  patient_id                procedure_name  body_site  procedure_date_time  surgeon_id
-86             87           446         267  Coronary Artery Bypass Graft      Heart  2026-01-03 06:00:00           4
-89             90           456         545              Knee Replacement  Left Knee  2026-03-22 02:00:00           6
-135           136           643          49              Knee Replacement  Left Knee  2026-05-28 00:45:00          10
-174           175           848         620  Coronary Artery Bypass Graft      Heart  2026-01-02 21:15:00          14
-25             26           105         190              Knee Replacement  Left Knee  2026-05-05 00:30:00           2
+     procedure_id  admission_id  patient_id                procedure_name    body_site  procedure_date_time  surgeon_id
+122           123           590         231                  Appendectomy     Appendix  2026-05-29 16:15:00           3
+124           125           597          98               Cholecystectomy  Gallbladder  2026-05-07 14:00:00          12
+177           178           856         122              Knee Replacement    Left Knee  2026-04-27 06:30:00          12
+81             82           404         314  Coronary Artery Bypass Graft        Heart  2026-07-18 08:00:00           5
+17             18            74         772                  Appendectomy     Appendix  2026-07-13 17:30:00          13
 
 ===== SUMMARY STATISTICS =====
         procedure_id  admission_id  patient_id procedure_name body_site  procedure_date_time  surgeon_id

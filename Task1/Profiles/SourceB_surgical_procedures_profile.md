@@ -35,12 +35,12 @@ surgery_datetime    0
 0
 
 ===== SAMPLE RECORDS =====
-     surgery_id  visit_id surgeon_mrn  proc_code               proc_name  surgery_datetime
-94           95       504   MRN-10006   PROC-APP            Appendectomy               NaN
-214         215      1075   MRN-10007   PROC-APP            Appendectomy  17/02/2026 01:00
-43           44       229   MRN-10002  PROC-CABG  Coronary Artery Bypass  04/09/2026 21:00
-198         199      1018   MRN-10012   PROC-APP            Appendectomy  31/07/2026 10:00
-27           28       166   MRN-10013  PROC-CABG  Coronary Artery Bypass  30/04/2026 23:00
+     surgery_id  visit_id surgeon_mrn  proc_code         proc_name  surgery_datetime
+198         199      1018   MRN-10012   PROC-APP      Appendectomy  31/07/2026 10:00
+147         148       787   MRN-10006  PROC-KNEE  Knee Replacement  31/07/2026 16:00
+118         119       660   MRN-10010  PROC-CHOL   Cholecystectomy  12/02/2026 19:00
+50           51       264   MRN-10014   PROC-APP      Appendectomy  27/05/2026 19:00
+45           46       243   MRN-10015   PROC-APP      Appendectomy  11/01/2026 07:00
 
 ===== SUMMARY STATISTICS =====
         surgery_id     visit_id surgeon_mrn   proc_code        proc_name  surgery_datetime

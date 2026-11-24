@@ -32,12 +32,12 @@ condition             0
 0
 
 ===== SAMPLE RECORDS =====
-      dischargeId  visitId  dischargeTimestamp destination condition
-273           274      287          1768089600       REHAB    Stable
-866           867      909          1771113600        HOME    Stable
-97             98      102          1776038400         SNF    Stable
-590           591      623          1789257600        HOME    Stable
-1074         1075     1135          1772496000       REHAB  Critical
+     dischargeId  visitId  dischargeTimestamp destination condition
+957          958     1013          1774051200       REHAB  Critical
+981          982     1039          1769731200        HOME  Improved
+213          214      224          1783382400        HOME  Improved
+405          406      427          1774051200        HOME  Improved
+251          252      263          1785715200       REHAB  Critical
 
 ===== SUMMARY STATISTICS =====
         dischargeId      visitId  dischargeTimestamp destination condition

@@ -38,12 +38,12 @@ home_address     0
 0
 
 ===== SAMPLE RECORDS =====
-           mrn       full_name insurance_id         dob gender_cd   contact_phone                 home_address
-8    MRN-78732    Ava Lefebvre   INS-200270  18/11/1983         M  01-11-11-91-60         59 rue pasteur, nice
-76   MRN-88232      Mia Michel   INS-867598  12/12/2004         M  01-21-27-62-94      94 Rue de la Paix, Lyon
-727  MRN-59910  Lucas Lefebvre   INS-756897  14/10/1989         F  01-42-25-25-18     12 Rue Victor Hugo, Nice
-793  MRN-68271  Lucas Lefebvre   INS-505967  30/05/1963         F  01-50-35-70-78  86 Rue de la Paix, Toulouse
-409  MRN-95233       Mia Leroy   INS-647820  20/07/1978         F  01-48-93-41-57  9 Rue de la Paix, Marseille
+           mrn     full_name insurance_id         dob gender_cd   contact_phone               home_address
+230  MRN-64328  Lucas Moreau   INS-835479  03/08/1945         F  01-38-59-27-75  34 Rue Pasteur, Marseille
+488  MRN-67275   Noah Moreau   INS-822391  23/01/1990         F  01-39-34-50-70      10 Rue Pasteur, Paris
+188  MRN-29534  Chloe Dubois   INS-911546  13/12/1980         M  01-42-97-53-14     1 rue de la paix, lyon
+700  MRN-89209   Chloe Simon   INS-724535  21/08/2002         F  01-53-36-29-13       46 Rue Pasteur, Lyon
+669  MRN-78425   Noah Michel   INS-976314  28/03/1990         F  01-68-44-56-11  50 Rue Pasteur, Marseille
 
 ===== SUMMARY STATISTICS =====
               mrn    full_name insurance_id         dob gender_cd   contact_phone              home_address

@@ -1,0 +1,736 @@
+patient_id,procedure_name,body_site,procedure_date_time,surgeon_id,source_system,surgery_id,visit_id,surgeon_mrn,category,surgery_datetime,professional_id,global_procedure_id,global_admission_id
+424.0,Appendectomy,Appendix,2026-02-15 13:00:00,14.0,Source_A,,,,,,,1,16.0
+19.0,Bowel Resection,Small Intestine,2026-08-12 17:45:00,3.0,Source_A,,,,,,,2,22.0
+103.0,Coronary Artery Bypass Graft,Heart,2026-06-07 16:15:00,5.0,Source_A,,,,,,,3,25.0
+70.0,Bowel Resection,Small Intestine,2026-08-26 15:45:00,1.0,Source_A,,,,,,,4,33.0
+674.0,Coronary Artery Bypass Graft,Heart,2026-05-30 10:00:00,7.0,Source_A,,,,,,,5,34.0
+352.0,Appendectomy,Appendix,2026-02-23 00:15:00,15.0,Source_A,,,,,,,6,40.0
+337.0,Appendectomy,Appendix,2026-07-02 06:00:00,15.0,Source_A,,,,,,,7,50.0
+743.0,Coronary Artery Bypass Graft,Heart,2026-01-25 01:45:00,13.0,Source_A,,,,,,,8,51.0
+173.0,Appendectomy,Appendix,2026-08-27 11:45:00,10.0,Source_A,,,,,,,9,52.0
+798.0,Cholecystectomy,Gallbladder,2026-05-06 03:45:00,15.0,Source_A,,,,,,,10,53.0
+225.0,Coronary Artery Bypass Graft,Heart,2026-02-24 07:00:00,8.0,Source_A,,,,,,,11,55.0
+43.0,Appendectomy,Appendix,2026-08-13 15:45:00,13.0,Source_A,,,,,,,12,56.0
+115.0,Bowel Resection,Small Intestine,2026-04-12 13:15:00,13.0,Source_A,,,,,,,13,58.0
+279.0,Knee Replacement,Left Knee,2026-08-09 17:00:00,7.0,Source_A,,,,,,,14,63.0
+395.0,Cholecystectomy,Gallbladder,2026-01-16 15:15:00,11.0,Source_A,,,,,,,15,64.0
+46.0,Knee Replacement,Left Knee,2026-05-25 16:15:00,4.0,Source_A,,,,,,,16,65.0
+658.0,Knee Replacement,Left Knee,2026-02-17 06:15:00,5.0,Source_A,,,,,,,17,68.0
+772.0,Appendectomy,Appendix,2026-07-13 17:30:00,13.0,Source_A,,,,,,,18,69.0
+46.0,Coronary Artery Bypass Graft,Heart,2026-02-28 20:45:00,1.0,Source_A,,,,,,,19,74.0
+200.0,Cholecystectomy,Gallbladder,2026-04-07 10:15:00,11.0,Source_A,,,,,,,20,79.0
+728.0,Appendectomy,Appendix,2026-06-09 14:00:00,12.0,Source_A,,,,,,,21,85.0
+579.0,Cholecystectomy,Gallbladder,2026-08-02 01:15:00,5.0,Source_A,,,,,,,22,92.0
+267.0,Bowel Resection,Small Intestine,2026-03-16 05:30:00,13.0,Source_A,,,,,,,23,
+190.0,Cholecystectomy,Gallbladder,2026-07-15 06:30:00,11.0,Source_A,,,,,,,24,97.0
+545.0,Bowel Resection,Small Intestine,2026-05-30 17:00:00,14.0,Source_A,,,,,,,25,98.0
+190.0,Knee Replacement,Left Knee,2026-05-05 00:30:00,2.0,Source_A,,,,,,,26,99.0
+6.0,Appendectomy,Appendix,2026-03-17 13:15:00,9.0,Source_A,,,,,,,27,107.0
+326.0,Appendectomy,Appendix,2026-03-27 02:15:00,13.0,Source_A,,,,,,,28,108.0
+204.0,Cholecystectomy,Gallbladder,2026-03-18 16:45:00,1.0,Source_A,,,,,,,29,131.0
+90.0,Appendectomy,Appendix,2026-01-22 14:45:00,4.0,Source_A,,,,,,,30,132.0
+205.0,Knee Replacement,Left Knee,2026-02-08 23:00:00,12.0,Source_A,,,,,,,31,133.0
+335.0,Bowel Resection,Small Intestine,2026-05-07 21:30:00,11.0,Source_A,,,,,,,32,136.0
+500.0,Appendectomy,Appendix,2026-05-19 12:15:00,2.0,Source_A,,,,,,,33,137.0
+781.0,Coronary Artery Bypass Graft,Heart,2026-01-10 17:15:00,10.0,Source_A,,,,,,,34,138.0
+711.0,Cholecystectomy,Gallbladder,2026-06-25 14:00:00,14.0,Source_A,,,,,,,35,150.0
+734.0,Knee Replacement,Left Knee,2026-07-17 14:30:00,14.0,Source_A,,,,,,,36,152.0
+709.0,Cholecystectomy,Gallbladder,2026-01-19 12:45:00,10.0,Source_A,,,,,,,37,160.0
+348.0,Appendectomy,Appendix,2026-04-09 04:30:00,10.0,Source_A,,,,,,,38,161.0
+351.0,Bowel Resection,Small Intestine,2026-05-20 05:45:00,4.0,Source_A,,,,,,,39,172.0
+538.0,Bowel Resection,Small Intestine,2026-06-05 22:15:00,8.0,Source_A,,,,,,,40,174.0
+206.0,Bowel Resection,Small Intestine,2026-02-06 14:45:00,15.0,Source_A,,,,,,,41,187.0
+707.0,Appendectomy,Appendix,2026-05-26 08:15:00,3.0,Source_A,,,,,,,42,188.0
+765.0,Cholecystectomy,Gallbladder,2026-01-14 17:15:00,5.0,Source_A,,,,,,,43,199.0
+228.0,Knee Replacement,Left Knee,2026-01-16 14:45:00,8.0,Source_A,,,,,,,44,207.0
+320.0,Appendectomy,Appendix,2026-08-23 02:15:00,10.0,Source_A,,,,,,,45,208.0
+242.0,Bowel Resection,Small Intestine,2026-02-08 11:45:00,14.0,Source_A,,,,,,,46,212.0
+516.0,Bowel Resection,Small Intestine,2026-03-02 22:45:00,7.0,Source_A,,,,,,,47,218.0
+140.0,Cholecystectomy,Gallbladder,2026-08-20 00:45:00,9.0,Source_A,,,,,,,48,219.0
+692.0,Bowel Resection,Small Intestine,2026-01-06 22:30:00,2.0,Source_A,,,,,,,49,220.0
+618.0,Knee Replacement,Left Knee,2026-03-21 09:30:00,5.0,Source_A,,,,,,,50,227.0
+559.0,Cholecystectomy,Gallbladder,2026-01-30 11:30:00,4.0,Source_A,,,,,,,51,230.0
+359.0,Coronary Artery Bypass Graft,Heart,2026-01-20 13:30:00,5.0,Source_A,,,,,,,52,235.0
+288.0,Appendectomy,Appendix,2026-05-27 12:15:00,4.0,Source_A,,,,,,,53,238.0
+710.0,Bowel Resection,Small Intestine,2026-01-17 00:30:00,7.0,Source_A,,,,,,,54,240.0
+89.0,Appendectomy,Appendix,2026-04-12 00:45:00,13.0,Source_A,,,,,,,55,241.0
+297.0,Coronary Artery Bypass Graft,Heart,2026-06-20 07:00:00,12.0,Source_A,,,,,,,56,245.0
+185.0,Appendectomy,Appendix,2026-04-22 23:30:00,8.0,Source_A,,,,,,,57,252.0
+183.0,Coronary Artery Bypass Graft,Heart,2026-01-08 17:00:00,2.0,Source_A,,,,,,,58,256.0
+437.0,Appendectomy,Appendix,2026-03-17 10:30:00,14.0,Source_A,,,,,,,59,261.0
+410.0,Cholecystectomy,Gallbladder,2026-01-24 22:30:00,10.0,Source_A,,,,,,,60,267.0
+795.0,Knee Replacement,Left Knee,2026-07-17 22:00:00,14.0,Source_A,,,,,,,61,286.0
+538.0,Coronary Artery Bypass Graft,Heart,2026-08-09 10:45:00,11.0,Source_A,,,,,,,62,290.0
+397.0,Cholecystectomy,Gallbladder,2026-07-25 04:30:00,9.0,Source_A,,,,,,,63,298.0
+521.0,Cholecystectomy,Gallbladder,2026-05-28 13:15:00,12.0,Source_A,,,,,,,64,
+467.0,Bowel Resection,Small Intestine,2026-06-04 19:15:00,9.0,Source_A,,,,,,,65,312.0
+264.0,Coronary Artery Bypass Graft,Heart,2026-04-26 12:15:00,5.0,Source_A,,,,,,,66,331.0
+66.0,Bowel Resection,Small Intestine,2026-09-07 18:15:00,4.0,Source_A,,,,,,,67,341.0
+797.0,Coronary Artery Bypass Graft,Heart,2026-07-26 21:15:00,11.0,Source_A,,,,,,,68,347.0
+38.0,Coronary Artery Bypass Graft,Heart,2026-08-17 00:15:00,2.0,Source_A,,,,,,,69,349.0
+104.0,Bowel Resection,Small Intestine,2026-07-12 05:30:00,4.0,Source_A,,,,,,,70,352.0
+531.0,Bowel Resection,Small Intestine,2026-04-01 16:30:00,4.0,Source_A,,,,,,,71,354.0
+625.0,Cholecystectomy,Gallbladder,2026-05-04 07:45:00,8.0,Source_A,,,,,,,72,357.0
+275.0,Bowel Resection,Small Intestine,2026-09-01 21:00:00,8.0,Source_A,,,,,,,73,368.0
+525.0,Knee Replacement,Left Knee,2026-07-24 16:45:00,2.0,Source_A,,,,,,,74,369.0
+678.0,Appendectomy,Appendix,2026-05-09 09:45:00,9.0,Source_A,,,,,,,75,371.0
+537.0,Coronary Artery Bypass Graft,Heart,2026-04-10 05:00:00,5.0,Source_A,,,,,,,76,378.0
+46.0,Coronary Artery Bypass Graft,Heart,2026-08-03 00:00:00,13.0,Source_A,,,,,,,77,381.0
+133.0,Cholecystectomy,Gallbladder,2026-03-16 04:30:00,1.0,Source_A,,,,,,,78,384.0
+289.0,Coronary Artery Bypass Graft,Heart,2026-09-01 18:45:00,2.0,Source_A,,,,,,,79,385.0
+92.0,Coronary Artery Bypass Graft,Heart,2026-01-18 07:15:00,7.0,Source_A,,,,,,,80,
+678.0,Coronary Artery Bypass Graft,Heart,2026-05-16 22:00:00,7.0,Source_A,,,,,,,81,388.0
+314.0,Coronary Artery Bypass Graft,Heart,2026-07-18 08:00:00,5.0,Source_A,,,,,,,82,389.0
+448.0,Bowel Resection,Small Intestine,2026-05-30 22:15:00,7.0,Source_A,,,,,,,83,400.0
+570.0,Cholecystectomy,Gallbladder,2026-08-10 09:00:00,1.0,Source_A,,,,,,,84,403.0
+556.0,Cholecystectomy,Gallbladder,2026-04-01 17:45:00,10.0,Source_A,,,,,,,85,407.0
+537.0,Coronary Artery Bypass Graft,Heart,2026-07-10 01:15:00,11.0,Source_A,,,,,,,86,422.0
+267.0,Coronary Artery Bypass Graft,Heart,2026-01-03 06:00:00,4.0,Source_A,,,,,,,87,429.0
+661.0,Bowel Resection,Small Intestine,2026-04-21 00:15:00,15.0,Source_A,,,,,,,88,432.0
+61.0,Cholecystectomy,Gallbladder,2026-03-01 20:00:00,11.0,Source_A,,,,,,,89,433.0
+545.0,Knee Replacement,Left Knee,2026-03-22 02:00:00,6.0,Source_A,,,,,,,90,439.0
+685.0,Cholecystectomy,Gallbladder,2026-03-20 18:45:00,12.0,Source_A,,,,,,,91,442.0
+595.0,Coronary Artery Bypass Graft,Heart,2026-08-09 10:45:00,9.0,Source_A,,,,,,,92,445.0
+27.0,Cholecystectomy,Gallbladder,2026-07-09 13:45:00,4.0,Source_A,,,,,,,93,447.0
+44.0,Appendectomy,Appendix,2026-08-13 15:00:00,8.0,Source_A,,,,,,,94,452.0
+793.0,Appendectomy,Appendix,2026-06-06 05:00:00,12.0,Source_A,,,,,,,95,
+222.0,Knee Replacement,Left Knee,2026-03-20 07:45:00,1.0,Source_A,,,,,,,96,458.0
+201.0,Coronary Artery Bypass Graft,Heart,2026-05-04 06:45:00,11.0,Source_A,,,,,,,97,460.0
+206.0,Appendectomy,Appendix,2026-05-21 02:30:00,14.0,Source_A,,,,,,,98,462.0
+26.0,Appendectomy,Appendix,2026-03-29 17:15:00,12.0,Source_A,,,,,,,99,463.0
+574.0,Bowel Resection,Small Intestine,2026-04-10 10:15:00,10.0,Source_A,,,,,,,100,465.0
+13.0,Cholecystectomy,Gallbladder,2026-04-09 01:45:00,9.0,Source_A,,,,,,,101,469.0
+40.0,Bowel Resection,Small Intestine,2026-03-30 19:15:00,15.0,Source_A,,,,,,,102,476.0
+691.0,Knee Replacement,Left Knee,2026-03-11 15:45:00,14.0,Source_A,,,,,,,103,479.0
+188.0,Appendectomy,Appendix,2026-09-02 10:45:00,8.0,Source_A,,,,,,,104,482.0
+211.0,Coronary Artery Bypass Graft,Heart,2026-06-14 11:45:00,2.0,Source_A,,,,,,,105,483.0
+230.0,Bowel Resection,Small Intestine,2026-01-24 04:45:00,4.0,Source_A,,,,,,,106,486.0
+560.0,Knee Replacement,Left Knee,2026-08-06 20:15:00,8.0,Source_A,,,,,,,107,487.0
+763.0,Appendectomy,Appendix,2026-06-02 15:30:00,7.0,Source_A,,,,,,,108,488.0
+211.0,Bowel Resection,Small Intestine,2026-09-08 12:45:00,8.0,Source_A,,,,,,,109,490.0
+110.0,Knee Replacement,Left Knee,2026-05-25 00:00:00,13.0,Source_A,,,,,,,110,491.0
+411.0,Bowel Resection,Small Intestine,2026-08-27 21:15:00,2.0,Source_A,,,,,,,111,502.0
+263.0,Appendectomy,Appendix,2026-07-20 08:30:00,5.0,Source_A,,,,,,,112,503.0
+478.0,Cholecystectomy,Gallbladder,2026-07-17 02:15:00,4.0,Source_A,,,,,,,113,510.0
+742.0,Knee Replacement,Left Knee,2026-01-12 17:15:00,2.0,Source_A,,,,,,,114,511.0
+630.0,Cholecystectomy,Gallbladder,2026-04-17 04:15:00,5.0,Source_A,,,,,,,115,521.0
+53.0,Appendectomy,Appendix,2026-06-28 03:30:00,3.0,Source_A,,,,,,,116,528.0
+314.0,Cholecystectomy,Gallbladder,2026-03-03 22:15:00,14.0,Source_A,,,,,,,117,531.0
+554.0,Bowel Resection,Small Intestine,2026-01-09 10:45:00,13.0,Source_A,,,,,,,118,532.0
+779.0,Knee Replacement,Left Knee,2026-08-06 02:45:00,12.0,Source_A,,,,,,,119,538.0
+620.0,Coronary Artery Bypass Graft,Heart,2026-08-05 18:00:00,3.0,Source_A,,,,,,,120,541.0
+84.0,Bowel Resection,Small Intestine,2026-06-15 15:45:00,13.0,Source_A,,,,,,,121,543.0
+486.0,Coronary Artery Bypass Graft,Heart,2026-04-17 00:45:00,1.0,Source_A,,,,,,,122,556.0
+231.0,Appendectomy,Appendix,2026-05-29 16:15:00,3.0,Source_A,,,,,,,123,568.0
+29.0,Appendectomy,Appendix,2026-01-29 11:00:00,9.0,Source_A,,,,,,,124,570.0
+98.0,Cholecystectomy,Gallbladder,2026-05-07 14:00:00,12.0,Source_A,,,,,,,125,575.0
+389.0,Bowel Resection,Small Intestine,2026-07-06 10:00:00,10.0,Source_A,,,,,,,126,
+42.0,Cholecystectomy,Gallbladder,2026-08-19 17:00:00,3.0,Source_A,,,,,,,127,580.0
+57.0,Coronary Artery Bypass Graft,Heart,2026-06-08 11:30:00,4.0,Source_A,,,,,,,128,585.0
+573.0,Appendectomy,Appendix,2026-04-28 06:00:00,12.0,Source_A,,,,,,,129,589.0
+596.0,Knee Replacement,Left Knee,2026-07-18 08:15:00,11.0,Source_A,,,,,,,130,593.0
+329.0,Coronary Artery Bypass Graft,Heart,2026-01-31 23:45:00,13.0,Source_A,,,,,,,131,598.0
+59.0,Coronary Artery Bypass Graft,Heart,2026-05-28 18:00:00,5.0,Source_A,,,,,,,132,600.0
+757.0,Knee Replacement,Left Knee,2026-06-15 16:45:00,10.0,Source_A,,,,,,,133,606.0
+471.0,Coronary Artery Bypass Graft,Heart,2026-03-27 16:45:00,6.0,Source_A,,,,,,,134,612.0
+448.0,Knee Replacement,Left Knee,2026-07-16 21:00:00,11.0,Source_A,,,,,,,135,615.0
+49.0,Knee Replacement,Left Knee,2026-05-28 00:45:00,10.0,Source_A,,,,,,,136,621.0
+792.0,Coronary Artery Bypass Graft,Heart,2026-08-09 11:30:00,14.0,Source_A,,,,,,,137,630.0
+698.0,Coronary Artery Bypass Graft,Heart,2026-05-31 16:15:00,4.0,Source_A,,,,,,,138,643.0
+590.0,Coronary Artery Bypass Graft,Heart,2026-04-13 13:30:00,6.0,Source_A,,,,,,,139,646.0
+567.0,Coronary Artery Bypass Graft,Heart,2026-08-22 14:30:00,9.0,Source_A,,,,,,,140,649.0
+235.0,Coronary Artery Bypass Graft,Heart,2026-02-14 13:15:00,1.0,Source_A,,,,,,,141,652.0
+122.0,Cholecystectomy,Gallbladder,2026-01-18 14:15:00,15.0,Source_A,,,,,,,142,
+203.0,Appendectomy,Appendix,2026-07-17 05:45:00,14.0,Source_A,,,,,,,143,
+792.0,Cholecystectomy,Gallbladder,2026-02-21 11:15:00,7.0,Source_A,,,,,,,144,670.0
+248.0,Knee Replacement,Left Knee,2026-02-26 09:45:00,2.0,Source_A,,,,,,,145,
+308.0,Appendectomy,Appendix,2026-04-19 08:45:00,4.0,Source_A,,,,,,,146,683.0
+169.0,Bowel Resection,Small Intestine,2026-05-25 14:30:00,3.0,Source_A,,,,,,,147,685.0
+40.0,Coronary Artery Bypass Graft,Heart,2026-08-02 17:15:00,10.0,Source_A,,,,,,,148,686.0
+640.0,Cholecystectomy,Gallbladder,2026-02-22 21:45:00,14.0,Source_A,,,,,,,149,695.0
+769.0,Coronary Artery Bypass Graft,Heart,2026-03-02 02:30:00,15.0,Source_A,,,,,,,150,704.0
+14.0,Knee Replacement,Left Knee,2026-03-18 21:45:00,3.0,Source_A,,,,,,,151,706.0
+465.0,Coronary Artery Bypass Graft,Heart,2026-06-08 12:30:00,11.0,Source_A,,,,,,,152,712.0
+608.0,Bowel Resection,Small Intestine,2026-05-30 13:45:00,15.0,Source_A,,,,,,,153,713.0
+720.0,Appendectomy,Appendix,2026-01-30 11:15:00,4.0,Source_A,,,,,,,154,717.0
+457.0,Coronary Artery Bypass Graft,Heart,2026-01-24 17:30:00,11.0,Source_A,,,,,,,155,737.0
+410.0,Knee Replacement,Left Knee,2026-03-31 19:15:00,2.0,Source_A,,,,,,,156,745.0
+9.0,Coronary Artery Bypass Graft,Heart,2026-01-30 15:30:00,13.0,Source_A,,,,,,,157,749.0
+267.0,Coronary Artery Bypass Graft,Heart,2026-08-06 03:30:00,1.0,Source_A,,,,,,,158,751.0
+496.0,Appendectomy,Appendix,2026-07-30 01:30:00,15.0,Source_A,,,,,,,159,752.0
+711.0,Appendectomy,Appendix,2026-08-16 16:30:00,11.0,Source_A,,,,,,,160,753.0
+625.0,Bowel Resection,Small Intestine,2026-07-24 09:30:00,2.0,Source_A,,,,,,,161,
+478.0,Cholecystectomy,Gallbladder,2026-02-09 11:30:00,9.0,Source_A,,,,,,,162,766.0
+57.0,Bowel Resection,Small Intestine,2026-02-17 00:15:00,3.0,Source_A,,,,,,,163,769.0
+440.0,Cholecystectomy,Gallbladder,2026-07-15 10:45:00,13.0,Source_A,,,,,,,164,770.0
+634.0,Coronary Artery Bypass Graft,Heart,2026-07-13 19:15:00,7.0,Source_A,,,,,,,165,772.0
+669.0,Cholecystectomy,Gallbladder,2026-07-25 01:45:00,5.0,Source_A,,,,,,,166,773.0
+456.0,Bowel Resection,Small Intestine,2026-07-16 14:15:00,7.0,Source_A,,,,,,,167,781.0
+624.0,Knee Replacement,Left Knee,2026-08-03 02:15:00,14.0,Source_A,,,,,,,168,786.0
+709.0,Appendectomy,Appendix,2026-01-11 13:00:00,14.0,Source_A,,,,,,,169,795.0
+441.0,Appendectomy,Appendix,2026-05-03 14:45:00,2.0,Source_A,,,,,,,170,797.0
+471.0,Coronary Artery Bypass Graft,Heart,2026-08-21 21:45:00,6.0,Source_A,,,,,,,171,798.0
+178.0,Coronary Artery Bypass Graft,Heart,2026-08-10 04:30:00,4.0,Source_A,,,,,,,172,803.0
+166.0,Coronary Artery Bypass Graft,Heart,2026-08-24 06:30:00,3.0,Source_A,,,,,,,173,806.0
+748.0,Appendectomy,Appendix,2026-05-22 08:15:00,1.0,Source_A,,,,,,,174,811.0
+620.0,Coronary Artery Bypass Graft,Heart,2026-01-02 21:15:00,14.0,Source_A,,,,,,,175,814.0
+267.0,Knee Replacement,Left Knee,2026-05-12 17:15:00,2.0,Source_A,,,,,,,176,816.0
+62.0,Bowel Resection,Small Intestine,2026-05-08 12:45:00,5.0,Source_A,,,,,,,177,818.0
+122.0,Knee Replacement,Left Knee,2026-04-27 06:30:00,12.0,Source_A,,,,,,,178,822.0
+204.0,Coronary Artery Bypass Graft,Heart,2026-08-27 00:00:00,13.0,Source_A,,,,,,,179,832.0
+584.0,Knee Replacement,Left Knee,2026-07-12 07:15:00,11.0,Source_A,,,,,,,180,837.0
+523.0,Cholecystectomy,Gallbladder,2026-03-31 15:15:00,4.0,Source_A,,,,,,,181,848.0
+717.0,Knee Replacement,Left Knee,2026-03-08 00:15:00,14.0,Source_A,,,,,,,182,849.0
+376.0,Appendectomy,Appendix,2026-01-13 06:30:00,14.0,Source_A,,,,,,,183,854.0
+603.0,Cholecystectomy,Gallbladder,2026-01-25 08:30:00,15.0,Source_A,,,,,,,184,855.0
+736.0,Bowel Resection,Small Intestine,2026-08-12 15:30:00,8.0,Source_A,,,,,,,185,865.0
+441.0,Appendectomy,Appendix,2026-05-31 07:00:00,3.0,Source_A,,,,,,,186,882.0
+461.0,Appendectomy,Appendix,2026-07-31 09:00:00,6.0,Source_A,,,,,,,187,885.0
+698.0,Coronary Artery Bypass Graft,Heart,2026-03-01 23:00:00,14.0,Source_A,,,,,,,188,891.0
+439.0,Appendectomy,Appendix,2026-09-02 00:30:00,3.0,Source_A,,,,,,,189,897.0
+703.0,Knee Replacement,Left Knee,2026-01-08 02:30:00,13.0,Source_A,,,,,,,190,902.0
+159.0,Knee Replacement,Left Knee,2026-03-28 16:45:00,5.0,Source_A,,,,,,,191,903.0
+447.0,Cholecystectomy,Gallbladder,2026-05-07 16:30:00,5.0,Source_A,,,,,,,192,913.0
+264.0,Cholecystectomy,Gallbladder,2026-01-13 22:30:00,11.0,Source_A,,,,,,,193,915.0
+314.0,Knee Replacement,Left Knee,2026-04-19 19:45:00,13.0,Source_A,,,,,,,194,916.0
+588.0,Coronary Artery Bypass Graft,Heart,2026-07-27 23:45:00,5.0,Source_A,,,,,,,195,920.0
+21.0,Appendectomy,Appendix,2026-02-18 18:15:00,9.0,Source_A,,,,,,,196,921.0
+371.0,Bowel Resection,Small Intestine,2026-04-04 03:45:00,2.0,Source_A,,,,,,,197,924.0
+451.0,Bowel Resection,Small Intestine,2026-02-06 09:30:00,13.0,Source_A,,,,,,,198,929.0
+138.0,Appendectomy,Appendix,2026-05-31 10:45:00,5.0,Source_A,,,,,,,199,933.0
+555.0,Coronary Artery Bypass Graft,Heart,2026-02-06 16:00:00,6.0,Source_A,,,,,,,200,938.0
+349.0,Knee Replacement,Left Knee,2026-08-21 16:45:00,4.0,Source_A,,,,,,,201,948.0
+135.0,Coronary Artery Bypass Graft,Heart,2026-04-19 06:15:00,3.0,Source_A,,,,,,,202,956.0
+755.0,Bowel Resection,Small Intestine,2026-07-12 04:45:00,10.0,Source_A,,,,,,,203,960.0
+590.0,Appendectomy,Appendix,2026-06-04 04:30:00,9.0,Source_A,,,,,,,204,973.0
+277.0,Bowel Resection,Small Intestine,2026-05-22 17:15:00,1.0,Source_A,,,,,,,205,975.0
+423.0,Appendectomy,Appendix,2026-07-27 18:15:00,1.0,Source_A,,,,,,,206,977.0
+681.0,Cholecystectomy,Gallbladder,2026-08-26 20:00:00,11.0,Source_A,,,,,,,207,986.0
+624.0,Knee Replacement,Left Knee,2026-03-29 17:30:00,5.0,Source_A,,,,,,,208,988.0
+672.0,Coronary Artery Bypass Graft,Heart,2026-07-23 19:45:00,12.0,Source_A,,,,,,,209,989.0
+756.0,Appendectomy,Appendix,2026-04-12 06:45:00,10.0,Source_A,,,,,,,210,990.0
+761.0,Appendectomy,Appendix,2026-08-12 22:30:00,1.0,Source_A,,,,,,,211,1003.0
+300.0,Knee Replacement,Left Knee,2026-06-11 04:00:00,2.0,Source_A,,,,,,,212,1012.0
+427.0,Appendectomy,Appendix,2026-06-10 07:00:00,1.0,Source_A,,,,,,,213,
+690.0,Coronary Artery Bypass Graft,Heart,2026-07-04 13:15:00,3.0,Source_A,,,,,,,214,1020.0
+64.0,Appendectomy,Appendix,2026-02-26 17:45:00,11.0,Source_A,,,,,,,215,1021.0
+27.0,Bowel Resection,Small Intestine,2026-06-29 12:45:00,11.0,Source_A,,,,,,,216,1023.0
+698.0,Appendectomy,Appendix,2026-08-08 14:30:00,2.0,Source_A,,,,,,,217,1035.0
+720.0,Knee Replacement,Left Knee,2026-06-14 12:30:00,6.0,Source_A,,,,,,,218,1040.0
+77.0,Coronary Artery Bypass Graft,Heart,2026-08-22 20:00:00,14.0,Source_A,,,,,,,219,1044.0
+530.0,Coronary Artery Bypass Graft,Heart,2026-03-02 07:30:00,9.0,Source_A,,,,,,,220,1045.0
+688.0,Bowel Resection,Small Intestine,2026-04-22 17:45:00,11.0,Source_A,,,,,,,221,1050.0
+767.0,Coronary Artery Bypass Graft,Heart,2026-03-09 15:15:00,10.0,Source_A,,,,,,,222,1052.0
+155.0,Knee Replacement,Left Knee,2026-02-18 04:15:00,5.0,Source_A,,,,,,,223,1053.0
+339.0,Knee Replacement,Left Knee,2026-04-18 22:45:00,6.0,Source_A,,,,,,,224,1057.0
+123.0,Appendectomy,Appendix,2026-05-14 05:15:00,13.0,Source_A,,,,,,,225,1059.0
+602.0,Coronary Artery Bypass Graft,Heart,2026-04-14 16:00:00,6.0,Source_A,,,,,,,226,1061.0
+597.0,Coronary Artery Bypass Graft,Heart,2026-01-23 19:30:00,3.0,Source_A,,,,,,,227,1062.0
+491.0,Appendectomy,Appendix,2026-07-09 10:45:00,4.0,Source_A,,,,,,,228,1063.0
+274.0,Coronary Artery Bypass Graft,Heart,2026-03-18 21:00:00,8.0,Source_A,,,,,,,229,1064.0
+496.0,Knee Replacement,Left Knee,2026-01-12 17:45:00,11.0,Source_A,,,,,,,230,1066.0
+52.0,Cholecystectomy,Gallbladder,2026-01-09 21:30:00,13.0,Source_A,,,,,,,231,1067.0
+692.0,Cholecystectomy,Gallbladder,2026-04-26 17:15:00,9.0,Source_A,,,,,,,232,1075.0
+582.0,Bowel Resection,Small Intestine,2026-09-12 04:15:00,9.0,Source_A,,,,,,,233,1082.0
+670.0,Appendectomy,Appendix,2026-01-17 14:45:00,2.0,Source_A,,,,,,,234,1092.0
+37.0,Appendectomy,Appendix,2026-01-11 21:30:00,11.0,Source_A,,,,,,,235,1098.0
+359.0,Cholecystectomy,Gallbladder,2026-08-23 11:30:00,2.0,Source_A,,,,,,,236,1101.0
+345.0,Appendectomy,Appendix,2026-03-03 01:30:00,11.0,Source_A,,,,,,,237,1108.0
+41.0,Knee Replacement,Left Knee,2026-08-10 16:30:00,7.0,Source_A,,,,,,,238,1121.0
+390.0,Cholecystectomy,Gallbladder,2026-07-29 09:15:00,6.0,Source_A,,,,,,,239,1123.0
+673.0,Bowel Resection,Small Intestine,2026-02-25 16:00:00,14.0,Source_A,,,,,,,240,1130.0
+473.0,Cholecystectomy,Gallbladder,2026-09-09 23:00:00,12.0,Source_A,,,,,,,241,1134.0
+250.0,Bowel Resection,Small Intestine,2026-04-08 21:00:00,12.0,Source_A,,,,,,,242,1136.0
+652.0,Appendectomy,Appendix,2026-07-20 21:30:00,15.0,Source_A,,,,,,,243,1137.0
+632.0,Knee Replacement,Left Knee,2026-07-15 08:00:00,7.0,Source_A,,,,,,,244,1138.0
+271.0,Coronary Artery Bypass Graft,Heart,2026-05-09 01:30:00,4.0,Source_A,,,,,,,245,1143.0
+72.0,Cholecystectomy,Gallbladder,2026-01-13 11:15:00,12.0,Source_A,,,,,,,246,1152.0
+134.0,Bowel Resection,Small Intestine,2026-05-26 05:00:00,6.0,Source_A,,,,,,,247,1154.0
+,Coronary Artery Bypass,,,,Source_B,1.0,2.0,MRN-10011,PROC-CABG,2026-06-15 00:00:00,,248,1157.0
+,Cholecystectomy,,,,Source_B,2.0,9999.0,MRN-10015,PROC-CHOL,2026-05-17 11:00:00,,249,1157.0
+,Appendectomy,,,,Source_B,3.0,5.0,MRN-10007,PROC-APP,2026-02-21 17:00:00,,250,1157.0
+,Coronary Artery Bypass,,,,Source_B,4.0,9.0,MRN-10007,PROC-CABG,2026-04-28 00:00:00,,251,1157.0
+,Coronary Artery Bypass,,,,Source_B,5.0,10.0,MRN-10015,PROC-CABG,2026-04-12 00:00:00,,252,1157.0
+,Appendectomy,,,,Source_B,6.0,13.0,MRN-10006,PROC-APP,2026-05-13 01:00:00,,253,1157.0
+,Appendectomy,,,,Source_B,7.0,23.0,MRN-10014,PROC-APP,2026-03-13 19:00:00,,254,1157.0
+,Bowel Resection,,,,Source_B,8.0,26.0,MRN-10007,PROC-BOWEL,2026-02-22 12:00:00,,255,1157.0
+,Bowel Resection,,,,Source_B,9.0,29.0,MRN-10005,PROC-BOWEL,2026-09-06 21:00:00,,256,1157.0
+,Cholecystectomy,,,,Source_B,10.0,32.0,MRN-10010,PROC-CHOL,2026-03-18 21:00:00,,257,1157.0
+,Bowel Resection,,,,Source_B,11.0,34.0,MRN-10006,PROC-BOWEL,2026-09-05 09:00:00,,258,1157.0
+,Bowel Resection,,,,Source_B,12.0,39.0,MRN-10001,PROC-BOWEL,2026-07-10 22:00:00,,259,1157.0
+,Cholecystectomy,,,,Source_B,13.0,41.0,MRN-10011,PROC-CHOL,2026-07-19 07:00:00,,260,1157.0
+,Bowel Resection,,,,Source_B,14.0,43.0,MRN-10012,PROC-BOWEL,2026-01-09 23:00:00,,261,1157.0
+,Cholecystectomy,,,,Source_B,15.0,58.0,MRN-10014,PROC-CHOL,2026-08-03 12:00:00,,262,1157.0
+,Appendectomy,,,,Source_B,16.0,78.0,MRN-10008,PROC-APP,2026-07-26 11:00:00,,263,1157.0
+,Bowel Resection,,,,Source_B,17.0,79.0,MRN-10006,PROC-BOWEL,2026-01-31 16:00:00,,264,1157.0
+,Bowel Resection,,,,Source_B,18.0,80.0,MRN-10002,PROC-BOWEL,2026-01-16 10:00:00,,265,1157.0
+,Coronary Artery Bypass,,,,Source_B,19.0,83.0,MRN-10014,PROC-CABG,2026-06-12 14:00:00,,266,1157.0
+,Bowel Resection,,,,Source_B,20.0,103.0,MRN-10009,PROC-BOWEL,2026-05-13 18:00:00,,267,1157.0
+,Knee Replacement,,,,Source_B,21.0,122.0,MRN-10009,PROC-KNEE,2026-08-20 04:00:00,,268,1157.0
+,Coronary Artery Bypass,,,,Source_B,22.0,136.0,MRN-10005,PROC-CABG,2026-03-26 10:00:00,,269,1157.0
+,Coronary Artery Bypass,,,,Source_B,23.0,140.0,MRN-10012,PROC-CABG,2026-08-03 11:00:00,,270,1157.0
+,Cholecystectomy,,,,Source_B,24.0,142.0,MRN-10003,PROC-CHOL,2026-07-18 02:00:00,,271,1157.0
+,Appendectomy,,,,Source_B,25.0,146.0,MRN-10009,PROC-APP,2026-07-28 11:00:00,,272,1157.0
+,Coronary Artery Bypass,,,,Source_B,26.0,158.0,MRN-10013,PROC-CABG,2026-05-26 04:00:00,,273,1157.0
+,Coronary Artery Bypass,,,,Source_B,27.0,162.0,MRN-10004,PROC-CABG,2026-04-10 05:00:00,,274,1157.0
+,Coronary Artery Bypass,,,,Source_B,28.0,166.0,MRN-10013,PROC-CABG,2026-04-30 23:00:00,,275,1157.0
+,Bowel Resection,,,,Source_B,29.0,171.0,MRN-10002,PROC-BOWEL,2026-06-04 00:00:00,,276,1157.0
+,Knee Replacement,,,,Source_B,30.0,174.0,MRN-10001,PROC-KNEE,,,277,1157.0
+,Coronary Artery Bypass,,,,Source_B,31.0,185.0,MRN-10001,PROC-CABG,2026-06-22 13:00:00,,278,1157.0
+,Bowel Resection,,,,Source_B,32.0,186.0,MRN-10003,PROC-BOWEL,2026-05-13 15:00:00,,279,1157.0
+,Cholecystectomy,,,,Source_B,33.0,188.0,MRN-10012,PROC-CHOL,2026-06-13 07:00:00,,280,1157.0
+,Coronary Artery Bypass,,,,Source_B,34.0,189.0,MRN-10014,PROC-CABG,2026-05-19 21:00:00,,281,1157.0
+,Bowel Resection,,,,Source_B,35.0,193.0,MRN-10009,PROC-BOWEL,2026-05-15 09:00:00,,282,1157.0
+,Knee Replacement,,,,Source_B,36.0,194.0,MRN-10012,PROC-KNEE,2026-06-20 01:00:00,,283,1157.0
+,Bowel Resection,,,,Source_B,37.0,197.0,MRN-10009,PROC-BOWEL,2026-07-19 03:00:00,,284,1157.0
+,Appendectomy,,,,Source_B,38.0,217.0,MRN-10013,PROC-APP,2026-04-28 16:00:00,,285,1157.0
+,Knee Replacement,,,,Source_B,39.0,221.0,MRN-10011,PROC-KNEE,2026-07-04 20:00:00,,286,1157.0
+,Bowel Resection,,,,Source_B,40.0,222.0,MRN-10004,PROC-BOWEL,2026-07-15 02:00:00,,287,1157.0
+,Bowel Resection,,,,Source_B,41.0,225.0,MRN-10009,PROC-BOWEL,2026-04-25 05:00:00,,288,1157.0
+,Bowel Resection,,,,Source_B,42.0,226.0,MRN-10014,PROC-BOWEL,2026-06-24 21:00:00,,289,1157.0
+,Bowel Resection,,,,Source_B,43.0,227.0,MRN-10010,PROC-BOWEL,2026-06-04 17:00:00,,290,1157.0
+,Coronary Artery Bypass,,,,Source_B,44.0,229.0,MRN-10002,PROC-CABG,2026-09-04 21:00:00,,291,1157.0
+,Knee Replacement,,,,Source_B,45.0,241.0,MRN-10009,PROC-KNEE,2026-06-12 05:00:00,,292,1157.0
+,Appendectomy,,,,Source_B,46.0,243.0,MRN-10015,PROC-APP,2026-01-11 07:00:00,,293,1157.0
+,Appendectomy,,,,Source_B,47.0,245.0,MRN-10004,PROC-APP,2026-02-10 02:00:00,,294,1157.0
+,Knee Replacement,,,,Source_B,48.0,261.0,MRN-10013,PROC-KNEE,2026-08-22 13:00:00,,295,1157.0
+,Appendectomy,,,,Source_B,49.0,262.0,MRN-10006,PROC-APP,2026-05-09 06:00:00,,296,1157.0
+,Bowel Resection,,,,Source_B,50.0,263.0,MRN-10002,PROC-BOWEL,2026-06-25 03:00:00,,297,1157.0
+,Appendectomy,,,,Source_B,51.0,264.0,MRN-10014,PROC-APP,2026-05-27 19:00:00,,298,1157.0
+,Coronary Artery Bypass,,,,Source_B,52.0,272.0,MRN-10001,PROC-CABG,2026-06-25 03:00:00,,299,1157.0
+,Knee Replacement,,,,Source_B,53.0,9999.0,MRN-10006,PROC-KNEE,2026-07-22 20:00:00,,300,1157.0
+,Bowel Resection,,,,Source_B,54.0,292.0,MRN-10004,PROC-BOWEL,2026-01-04 17:00:00,,301,1157.0
+,Cholecystectomy,,,,Source_B,55.0,293.0,MRN-10002,PROC-CHOL,2026-05-30 20:00:00,,302,1157.0
+,Knee Replacement,,,,Source_B,56.0,297.0,MRN-10010,PROC-KNEE,2026-06-15 02:00:00,,303,1157.0
+,Knee Replacement,,,,Source_B,57.0,304.0,MRN-10012,PROC-KNEE,2026-04-02 20:00:00,,304,1157.0
+,Appendectomy,,,,Source_B,58.0,307.0,MRN-10014,PROC-APP,2026-01-22 15:00:00,,305,1157.0
+,Bowel Resection,,,,Source_B,59.0,310.0,MRN-10003,PROC-BOWEL,2026-01-27 16:00:00,,306,1157.0
+,Appendectomy,,,,Source_B,60.0,9999.0,MRN-10001,PROC-APP,2026-06-07 16:00:00,,307,1157.0
+,Coronary Artery Bypass,,,,Source_B,61.0,315.0,MRN-10004,PROC-CABG,2026-02-08 14:00:00,,308,1157.0
+,Appendectomy,,,,Source_B,62.0,323.0,MRN-10015,PROC-APP,2026-01-06 13:00:00,,309,1157.0
+,Knee Replacement,,,,Source_B,63.0,326.0,MRN-10002,PROC-KNEE,2026-01-23 04:00:00,,310,1157.0
+,Bowel Resection,,,,Source_B,64.0,337.0,MRN-10014,PROC-BOWEL,2026-01-16 21:00:00,,311,1157.0
+,Coronary Artery Bypass,,,,Source_B,65.0,340.0,MRN-10010,PROC-CABG,2026-05-29 07:00:00,,312,1157.0
+,Knee Replacement,,,,Source_B,66.0,347.0,MRN-10015,PROC-KNEE,2026-07-10 11:00:00,,313,1157.0
+,Cholecystectomy,,,,Source_B,67.0,358.0,MRN-10012,PROC-CHOL,2026-02-22 10:00:00,,314,1157.0
+,Appendectomy,,,,Source_B,68.0,359.0,MRN-10014,PROC-APP,2026-06-06 06:00:00,,315,1157.0
+,Coronary Artery Bypass,,,,Source_B,69.0,369.0,MRN-10009,PROC-CABG,2026-05-04 03:00:00,,316,1157.0
+,Knee Replacement,,,,Source_B,70.0,393.0,MRN-10015,PROC-KNEE,2026-01-08 13:00:00,,317,1157.0
+,Appendectomy,,,,Source_B,71.0,397.0,MRN-10003,PROC-APP,2026-07-23 16:00:00,,318,1157.0
+,Appendectomy,,,,Source_B,72.0,402.0,MRN-10015,PROC-APP,2026-05-13 01:00:00,,319,1157.0
+,Bowel Resection,,,,Source_B,73.0,409.0,MRN-10006,PROC-BOWEL,2026-03-21 15:00:00,,320,1157.0
+,Knee Replacement,,,,Source_B,74.0,423.0,MRN-10011,PROC-KNEE,2026-09-03 16:00:00,,321,1157.0
+,Coronary Artery Bypass,,,,Source_B,75.0,426.0,MRN-10010,PROC-CABG,2026-05-08 00:00:00,,322,1157.0
+,Knee Replacement,,,,Source_B,76.0,427.0,MRN-10013,PROC-KNEE,,,323,1157.0
+,Knee Replacement,,,,Source_B,77.0,436.0,MRN-10013,PROC-KNEE,2026-01-10 13:00:00,,324,1157.0
+,Appendectomy,,,,Source_B,78.0,437.0,MRN-10012,PROC-APP,2026-06-30 14:00:00,,325,1157.0
+,Bowel Resection,,,,Source_B,79.0,438.0,MRN-10013,PROC-BOWEL,2026-07-15 15:00:00,,326,1157.0
+,Knee Replacement,,,,Source_B,80.0,443.0,MRN-10007,PROC-KNEE,2026-02-13 15:00:00,,327,1157.0
+,Knee Replacement,,,,Source_B,81.0,452.0,MRN-10012,PROC-KNEE,2026-08-21 21:00:00,,328,1157.0
+,Appendectomy,,,,Source_B,82.0,457.0,MRN-10004,PROC-APP,2026-08-09 01:00:00,,329,1157.0
+,Cholecystectomy,,,,Source_B,83.0,460.0,MRN-10010,PROC-CHOL,2026-05-27 22:00:00,,330,1157.0
+,Knee Replacement,,,,Source_B,84.0,462.0,MRN-10015,PROC-KNEE,2026-04-16 05:00:00,,331,1157.0
+,Bowel Resection,,,,Source_B,85.0,472.0,MRN-10009,PROC-BOWEL,2026-01-17 16:00:00,,332,1157.0
+,Appendectomy,,,,Source_B,86.0,473.0,MRN-10015,PROC-APP,2026-05-06 23:00:00,,333,1157.0
+,Knee Replacement,,,,Source_B,87.0,474.0,MRN-10005,PROC-KNEE,2026-01-27 00:00:00,,334,1157.0
+,Coronary Artery Bypass,,,,Source_B,88.0,478.0,MRN-10005,PROC-CABG,2026-07-20 20:00:00,,335,1157.0
+,Knee Replacement,,,,Source_B,89.0,488.0,MRN-10011,PROC-KNEE,2026-03-15 12:00:00,,336,1157.0
+,Cholecystectomy,,,,Source_B,90.0,490.0,MRN-10002,PROC-CHOL,2026-05-05 01:00:00,,337,1157.0
+,Bowel Resection,,,,Source_B,91.0,495.0,MRN-10015,PROC-BOWEL,2026-05-03 02:00:00,,338,1157.0
+,Cholecystectomy,,,,Source_B,92.0,496.0,MRN-10010,PROC-CHOL,2026-05-17 13:00:00,,339,1157.0
+,Cholecystectomy,,,,Source_B,93.0,498.0,MRN-10008,PROC-CHOL,2026-03-08 08:00:00,,340,1157.0
+,Cholecystectomy,,,,Source_B,94.0,503.0,MRN-10010,PROC-CHOL,2026-03-22 12:00:00,,341,1157.0
+,Appendectomy,,,,Source_B,95.0,504.0,MRN-10006,PROC-APP,,,342,1157.0
+,Appendectomy,,,,Source_B,96.0,506.0,MRN-10012,PROC-APP,2026-01-05 09:00:00,,343,1157.0
+,Bowel Resection,,,,Source_B,97.0,507.0,MRN-10005,PROC-BOWEL,2026-02-21 04:00:00,,344,1157.0
+,Bowel Resection,,,,Source_B,98.0,508.0,MRN-10003,PROC-BOWEL,2026-08-07 02:00:00,,345,1157.0
+,Appendectomy,,,,Source_B,99.0,511.0,MRN-10010,PROC-APP,2026-06-06 08:00:00,,346,1157.0
+,Bowel Resection,,,,Source_B,100.0,512.0,MRN-10008,PROC-BOWEL,2026-05-01 12:00:00,,347,1157.0
+,Coronary Artery Bypass,,,,Source_B,101.0,514.0,MRN-10006,PROC-CABG,2026-06-19 02:00:00,,348,1157.0
+,Knee Replacement,,,,Source_B,102.0,515.0,MRN-10008,PROC-KNEE,2026-09-07 05:00:00,,349,1157.0
+,Bowel Resection,,,,Source_B,103.0,518.0,MRN-10014,PROC-BOWEL,2026-05-04 09:00:00,,350,1157.0
+,Bowel Resection,,,,Source_B,104.0,528.0,MRN-10006,PROC-BOWEL,2026-02-21 07:00:00,,351,1157.0
+,Coronary Artery Bypass,,,,Source_B,105.0,529.0,MRN-10004,PROC-CABG,2026-05-01 06:00:00,,352,1157.0
+,Bowel Resection,,,,Source_B,106.0,541.0,MRN-10009,PROC-BOWEL,2026-03-26 17:00:00,,353,1157.0
+,Appendectomy,,,,Source_B,107.0,561.0,MRN-10008,PROC-APP,2026-06-29 15:00:00,,354,1157.0
+,Cholecystectomy,,,,Source_B,108.0,562.0,MRN-10015,PROC-CHOL,2026-06-27 06:00:00,,355,1157.0
+,Cholecystectomy,,,,Source_B,109.0,584.0,MRN-10004,PROC-CHOL,2026-02-14 19:00:00,,356,1157.0
+,Knee Replacement,,,,Source_B,110.0,594.0,MRN-10013,PROC-KNEE,2026-04-28 12:00:00,,357,1157.0
+,Knee Replacement,,,,Source_B,111.0,595.0,MRN-10011,PROC-KNEE,2026-08-04 10:00:00,,358,1157.0
+,Knee Replacement,,,,Source_B,112.0,599.0,MRN-10005,PROC-KNEE,2026-05-18 12:00:00,,359,1157.0
+,Coronary Artery Bypass,,,,Source_B,113.0,617.0,MRN-10006,PROC-CABG,2026-05-26 05:00:00,,360,1157.0
+,Bowel Resection,,,,Source_B,114.0,628.0,MRN-10013,PROC-BOWEL,2026-03-03 03:00:00,,361,1157.0
+,Bowel Resection,,,,Source_B,115.0,636.0,MRN-10009,PROC-BOWEL,2026-03-31 17:00:00,,362,1157.0
+,Coronary Artery Bypass,,,,Source_B,116.0,646.0,MRN-10003,PROC-CABG,2026-03-17 17:00:00,,363,1157.0
+,Coronary Artery Bypass,,,,Source_B,117.0,652.0,MRN-10003,PROC-CABG,2026-09-05 03:00:00,,364,1157.0
+,Bowel Resection,,,,Source_B,118.0,657.0,MRN-10001,PROC-BOWEL,2026-07-22 12:00:00,,365,1157.0
+,Cholecystectomy,,,,Source_B,119.0,660.0,MRN-10010,PROC-CHOL,2026-02-12 19:00:00,,366,1157.0
+,Knee Replacement,,,,Source_B,120.0,662.0,MRN-10011,PROC-KNEE,2026-01-24 20:00:00,,367,1157.0
+,Appendectomy,,,,Source_B,121.0,665.0,MRN-10003,PROC-APP,2026-03-08 10:00:00,,368,1157.0
+,Cholecystectomy,,,,Source_B,122.0,670.0,MRN-10014,PROC-CHOL,2026-07-14 02:00:00,,369,1157.0
+,Bowel Resection,,,,Source_B,123.0,671.0,MRN-10013,PROC-BOWEL,2026-02-22 11:00:00,,370,1157.0
+,Knee Replacement,,,,Source_B,124.0,677.0,MRN-10005,PROC-KNEE,2026-06-07 21:00:00,,371,1157.0
+,Cholecystectomy,,,,Source_B,125.0,678.0,MRN-10002,PROC-CHOL,2026-02-01 06:00:00,,372,1157.0
+,Bowel Resection,,,,Source_B,126.0,680.0,MRN-10014,PROC-BOWEL,2026-03-28 18:00:00,,373,1157.0
+,Bowel Resection,,,,Source_B,127.0,681.0,MRN-10011,PROC-BOWEL,2026-04-12 18:00:00,,374,1157.0
+,Appendectomy,,,,Source_B,128.0,688.0,MRN-10013,PROC-APP,2026-08-15 07:00:00,,375,1157.0
+,Appendectomy,,,,Source_B,129.0,690.0,MRN-10012,PROC-APP,2026-07-05 04:00:00,,376,1157.0
+,Coronary Artery Bypass,,,,Source_B,130.0,693.0,MRN-10001,PROC-CABG,2026-03-11 02:00:00,,377,1157.0
+,Knee Replacement,,,,Source_B,131.0,695.0,MRN-10008,PROC-KNEE,2026-04-26 01:00:00,,378,1157.0
+,Bowel Resection,,,,Source_B,132.0,701.0,MRN-10012,PROC-BOWEL,2026-04-07 00:00:00,,379,1157.0
+,Appendectomy,,,,Source_B,133.0,706.0,MRN-10009,PROC-APP,2026-04-16 03:00:00,,380,1157.0
+,Bowel Resection,,,,Source_B,134.0,708.0,MRN-10013,PROC-BOWEL,2026-06-20 05:00:00,,381,1157.0
+,Coronary Artery Bypass,,,,Source_B,135.0,711.0,MRN-10010,PROC-CABG,2026-07-24 20:00:00,,382,1157.0
+,Appendectomy,,,,Source_B,136.0,713.0,MRN-10006,PROC-APP,2026-02-07 21:00:00,,383,1157.0
+,Knee Replacement,,,,Source_B,137.0,717.0,MRN-10011,PROC-KNEE,2026-07-17 10:00:00,,384,1157.0
+,Knee Replacement,,,,Source_B,138.0,730.0,MRN-10009,PROC-KNEE,2026-04-18 10:00:00,,385,1157.0
+,Bowel Resection,,,,Source_B,139.0,731.0,MRN-10003,PROC-BOWEL,2026-05-30 10:00:00,,386,1157.0
+,Appendectomy,,,,Source_B,140.0,732.0,MRN-10003,PROC-APP,2026-02-26 11:00:00,,387,1157.0
+,Bowel Resection,,,,Source_B,141.0,741.0,MRN-10013,PROC-BOWEL,2026-07-01 19:00:00,,388,1157.0
+,Appendectomy,,,,Source_B,142.0,756.0,MRN-10013,PROC-APP,2026-04-30 09:00:00,,389,1157.0
+,Bowel Resection,,,,Source_B,143.0,758.0,MRN-10014,PROC-BOWEL,2026-03-18 08:00:00,,390,1157.0
+,Cholecystectomy,,,,Source_B,144.0,759.0,MRN-10012,PROC-CHOL,2026-02-16 10:00:00,,391,1157.0
+,Knee Replacement,,,,Source_B,145.0,775.0,MRN-10012,PROC-KNEE,2026-01-08 15:00:00,,392,1157.0
+,Knee Replacement,,,,Source_B,146.0,778.0,MRN-10008,PROC-KNEE,2026-07-26 04:00:00,,393,1157.0
+,Appendectomy,,,,Source_B,147.0,786.0,MRN-10008,PROC-APP,2026-01-07 19:00:00,,394,1157.0
+,Knee Replacement,,,,Source_B,148.0,787.0,MRN-10006,PROC-KNEE,2026-07-31 16:00:00,,395,1157.0
+,Bowel Resection,,,,Source_B,149.0,791.0,MRN-10009,PROC-BOWEL,2026-07-25 14:00:00,,396,1157.0
+,Coronary Artery Bypass,,,,Source_B,150.0,800.0,MRN-10008,PROC-CABG,2026-08-30 11:00:00,,397,1157.0
+,Knee Replacement,,,,Source_B,151.0,808.0,MRN-10015,PROC-KNEE,2026-05-04 10:00:00,,398,1157.0
+,Coronary Artery Bypass,,,,Source_B,152.0,819.0,MRN-10001,PROC-CABG,2026-07-15 10:00:00,,399,1157.0
+,Bowel Resection,,,,Source_B,153.0,822.0,MRN-10003,PROC-BOWEL,2026-08-12 10:00:00,,400,1157.0
+,Knee Replacement,,,,Source_B,154.0,824.0,MRN-10006,PROC-KNEE,2026-04-20 21:00:00,,401,1157.0
+,Appendectomy,,,,Source_B,155.0,828.0,MRN-10004,PROC-APP,2026-05-23 05:00:00,,402,1157.0
+,Appendectomy,,,,Source_B,156.0,830.0,MRN-10011,PROC-APP,2026-08-30 09:00:00,,403,1157.0
+,Bowel Resection,,,,Source_B,157.0,831.0,MRN-10006,PROC-BOWEL,2026-01-18 11:00:00,,404,1157.0
+,Appendectomy,,,,Source_B,158.0,838.0,MRN-10001,PROC-APP,2026-05-13 03:00:00,,405,1157.0
+,Appendectomy,,,,Source_B,159.0,840.0,MRN-10015,PROC-APP,2026-05-21 05:00:00,,406,1157.0
+,Cholecystectomy,,,,Source_B,160.0,851.0,MRN-10006,PROC-CHOL,2026-01-06 23:00:00,,407,1157.0
+,Cholecystectomy,,,,Source_B,161.0,857.0,MRN-10003,PROC-CHOL,2026-08-30 07:00:00,,408,1157.0
+,Bowel Resection,,,,Source_B,162.0,863.0,MRN-10012,PROC-BOWEL,2026-02-28 16:00:00,,409,1157.0
+,Coronary Artery Bypass,,,,Source_B,163.0,867.0,MRN-10003,PROC-CABG,2026-01-22 19:00:00,,410,1157.0
+,Cholecystectomy,,,,Source_B,164.0,873.0,MRN-10008,PROC-CHOL,2026-05-11 05:00:00,,411,1157.0
+,Knee Replacement,,,,Source_B,165.0,880.0,MRN-10004,PROC-KNEE,2026-03-30 21:00:00,,412,1157.0
+,Appendectomy,,,,Source_B,166.0,888.0,MRN-10013,PROC-APP,2026-02-03 05:00:00,,413,1157.0
+,Appendectomy,,,,Source_B,167.0,890.0,MRN-10013,PROC-APP,2026-08-12 12:00:00,,414,1157.0
+,Appendectomy,,,,Source_B,168.0,891.0,MRN-10013,PROC-APP,2026-09-01 05:00:00,,415,1157.0
+,Cholecystectomy,,,,Source_B,169.0,892.0,MRN-10004,PROC-CHOL,2026-01-20 21:00:00,,416,1157.0
+,Cholecystectomy,,,,Source_B,170.0,894.0,MRN-10012,PROC-CHOL,2026-06-18 00:00:00,,417,1157.0
+,Appendectomy,,,,Source_B,171.0,898.0,MRN-10007,PROC-APP,2026-05-27 21:00:00,,418,1157.0
+,Cholecystectomy,,,,Source_B,172.0,899.0,MRN-10014,PROC-CHOL,2026-05-03 14:00:00,,419,1157.0
+,Knee Replacement,,,,Source_B,173.0,900.0,MRN-10010,PROC-KNEE,2026-06-29 06:00:00,,420,1157.0
+,Cholecystectomy,,,,Source_B,174.0,905.0,MRN-10011,PROC-CHOL,2026-06-12 08:00:00,,421,1157.0
+,Appendectomy,,,,Source_B,175.0,906.0,MRN-10001,PROC-APP,2026-03-20 08:00:00,,422,1157.0
+,Bowel Resection,,,,Source_B,176.0,924.0,MRN-10012,PROC-BOWEL,2026-02-19 07:00:00,,423,1157.0
+,Appendectomy,,,,Source_B,177.0,926.0,MRN-10002,PROC-APP,2026-06-25 22:00:00,,424,1157.0
+,Appendectomy,,,,Source_B,178.0,929.0,MRN-10012,PROC-APP,2026-04-12 18:00:00,,425,1157.0
+,Bowel Resection,,,,Source_B,179.0,930.0,MRN-10014,PROC-BOWEL,2026-02-19 23:00:00,,426,1157.0
+,Bowel Resection,,,,Source_B,180.0,936.0,MRN-10012,PROC-BOWEL,2026-04-06 05:00:00,,427,1157.0
+,Appendectomy,,,,Source_B,181.0,937.0,MRN-10001,PROC-APP,2026-09-06 01:00:00,,428,1157.0
+,Knee Replacement,,,,Source_B,182.0,962.0,MRN-10005,PROC-KNEE,2026-05-31 23:00:00,,429,1157.0
+,Cholecystectomy,,,,Source_B,183.0,971.0,MRN-10004,PROC-CHOL,2026-05-15 05:00:00,,430,1157.0
+,Coronary Artery Bypass,,,,Source_B,184.0,974.0,MRN-10001,PROC-CABG,2026-07-19 18:00:00,,431,1157.0
+,Knee Replacement,,,,Source_B,185.0,975.0,MRN-10011,PROC-KNEE,2026-03-23 20:00:00,,432,1157.0
+,Bowel Resection,,,,Source_B,186.0,978.0,MRN-10011,PROC-BOWEL,2026-03-17 23:00:00,,433,1157.0
+,Bowel Resection,,,,Source_B,187.0,980.0,MRN-10005,PROC-BOWEL,2026-05-15 12:00:00,,434,1157.0
+,Appendectomy,,,,Source_B,188.0,981.0,MRN-10004,PROC-APP,2026-07-08 04:00:00,,435,1157.0
+,Knee Replacement,,,,Source_B,189.0,982.0,MRN-10009,PROC-KNEE,2026-09-02 08:00:00,,436,1157.0
+,Appendectomy,,,,Source_B,190.0,991.0,MRN-10001,PROC-APP,2026-02-19 00:00:00,,437,1157.0
+,Coronary Artery Bypass,,,,Source_B,191.0,992.0,MRN-10008,PROC-CABG,2026-04-26 07:00:00,,438,1157.0
+,Bowel Resection,,,,Source_B,192.0,997.0,MRN-10015,PROC-BOWEL,2026-07-06 00:00:00,,439,1157.0
+,Knee Replacement,,,,Source_B,193.0,1006.0,MRN-10007,PROC-KNEE,2026-07-04 03:00:00,,440,1157.0
+,Bowel Resection,,,,Source_B,194.0,1011.0,MRN-10011,PROC-BOWEL,2026-05-14 13:00:00,,441,1157.0
+,Appendectomy,,,,Source_B,195.0,1013.0,MRN-10005,PROC-APP,,,442,1157.0
+,Bowel Resection,,,,Source_B,196.0,1014.0,MRN-10001,PROC-BOWEL,2026-03-07 10:00:00,,443,1157.0
+,Coronary Artery Bypass,,,,Source_B,197.0,1015.0,MRN-10002,PROC-CABG,2026-09-02 17:00:00,,444,1157.0
+,Appendectomy,,,,Source_B,198.0,1016.0,MRN-10006,PROC-APP,2026-05-28 08:00:00,,445,1157.0
+,Appendectomy,,,,Source_B,199.0,1018.0,MRN-10012,PROC-APP,2026-07-31 10:00:00,,446,1157.0
+,Appendectomy,,,,Source_B,200.0,1023.0,MRN-10010,PROC-APP,2026-08-05 03:00:00,,447,1157.0
+,Bowel Resection,,,,Source_B,201.0,9999.0,MRN-10001,PROC-BOWEL,2026-02-24 20:00:00,,448,1157.0
+,Knee Replacement,,,,Source_B,202.0,1032.0,MRN-10008,PROC-KNEE,2026-02-08 21:00:00,,449,1157.0
+,Coronary Artery Bypass,,,,Source_B,203.0,1035.0,MRN-10015,PROC-CABG,2026-04-05 18:00:00,,450,1157.0
+,Cholecystectomy,,,,Source_B,204.0,1036.0,MRN-10014,PROC-CHOL,2026-02-19 08:00:00,,451,1157.0
+,Bowel Resection,,,,Source_B,205.0,1040.0,MRN-10012,PROC-BOWEL,2026-05-10 23:00:00,,452,1157.0
+,Cholecystectomy,,,,Source_B,206.0,1044.0,MRN-10007,PROC-CHOL,2026-06-20 07:00:00,,453,1157.0
+,Bowel Resection,,,,Source_B,207.0,1045.0,MRN-10003,PROC-BOWEL,2026-03-28 20:00:00,,454,1157.0
+,Appendectomy,,,,Source_B,208.0,1046.0,MRN-10003,PROC-APP,2026-03-31 09:00:00,,455,1157.0
+,Cholecystectomy,,,,Source_B,209.0,1050.0,MRN-10004,PROC-CHOL,2026-02-13 20:00:00,,456,1157.0
+,Bowel Resection,,,,Source_B,210.0,1064.0,MRN-10003,PROC-BOWEL,2026-01-28 20:00:00,,457,1157.0
+,Bowel Resection,,,,Source_B,211.0,1065.0,MRN-10013,PROC-BOWEL,2026-07-29 06:00:00,,458,1157.0
+,Bowel Resection,,,,Source_B,212.0,1068.0,MRN-10007,PROC-BOWEL,2026-07-05 21:00:00,,459,1157.0
+,Coronary Artery Bypass,,,,Source_B,213.0,1069.0,MRN-10010,PROC-CABG,2026-02-26 06:00:00,,460,1157.0
+,Coronary Artery Bypass,,,,Source_B,214.0,1071.0,MRN-10010,PROC-CABG,2026-06-04 12:00:00,,461,1157.0
+,Appendectomy,,,,Source_B,215.0,1075.0,MRN-10007,PROC-APP,2026-02-17 01:00:00,,462,1157.0
+,Cholecystectomy,,,,Source_B,216.0,1084.0,MRN-10011,PROC-CHOL,2026-07-15 09:00:00,,463,1157.0
+,Coronary Artery Bypass,,,,Source_B,217.0,1087.0,MRN-10012,PROC-CABG,2026-04-21 00:00:00,,464,1157.0
+,Cholecystectomy,,,,Source_B,218.0,1089.0,MRN-10008,PROC-CHOL,2026-06-17 11:00:00,,465,1157.0
+,Appendectomy,,,,Source_B,219.0,1092.0,MRN-10006,PROC-APP,2026-05-21 00:00:00,,466,1157.0
+,Appendectomy,,,,Source_B,220.0,1096.0,MRN-10011,PROC-APP,2026-01-27 04:00:00,,467,1157.0
+,Coronary Artery Bypass,,,,Source_B,221.0,1114.0,MRN-10012,PROC-CABG,2026-03-18 16:00:00,,468,1157.0
+,Bowel Resection,,,,Source_B,222.0,1118.0,MRN-10011,PROC-BOWEL,2026-05-08 16:00:00,,469,1157.0
+,Appendectomy,,,,Source_B,223.0,1119.0,MRN-10001,PROC-APP,2026-02-26 03:00:00,,470,1157.0
+,Knee Replacement,,,,Source_B,224.0,1121.0,MRN-10007,PROC-KNEE,2026-01-22 17:00:00,,471,1157.0
+,Coronary Artery Bypass,,,,Source_B,225.0,1127.0,MRN-10002,PROC-CABG,2026-01-13 06:00:00,,472,1157.0
+,Bowel Resection,,,,Source_B,226.0,1129.0,MRN-10001,PROC-BOWEL,,,473,1157.0
+,Bowel Resection,,,,Source_B,227.0,1132.0,MRN-10002,PROC-BOWEL,2026-08-12 14:00:00,,474,1157.0
+,Bowel Resection,,,,Source_B,228.0,1136.0,MRN-10011,PROC-BOWEL,2026-06-11 05:00:00,,475,1157.0
+,Cholecystectomy,,,,Source_B,229.0,1155.0,MRN-10010,PROC-CHOL,2026-06-16 16:00:00,,476,1157.0
+,Knee Replacement,,,,Source_B,230.0,1160.0,MRN-10009,PROC-KNEE,2026-07-04 15:00:00,,477,1157.0
+,Cholecystectomy,,,,Source_B,231.0,1177.0,MRN-10010,PROC-CHOL,2026-09-07 16:00:00,,478,1157.0
+,Knee Replacement,,,,Source_B,232.0,1183.0,MRN-10003,PROC-KNEE,2026-07-25 16:00:00,,479,1157.0
+,Cholecystectomy,,,,Source_B,233.0,1191.0,MRN-10002,PROC-CHOL,2026-06-23 17:00:00,,480,1157.0
+,Cholecystectomy,,,,Source_B,234.0,1193.0,MRN-10013,PROC-CHOL,2026-07-07 03:00:00,,481,1157.0
+,Knee Replacement,,,,Source_B,235.0,1196.0,MRN-10011,PROC-KNEE,2026-01-08 18:00:00,,482,1157.0
+,Coronary Artery Bypass,,,,Source_B,236.0,1197.0,MRN-10008,PROC-CABG,2026-03-23 05:00:00,,483,1157.0
+,Appendectomy,,,,Source_B,237.0,1200.0,MRN-10001,PROC-APP,2026-07-03 02:00:00,,484,1157.0
+,Proc-Cabg,,2026-03-06,,Source_D,,,,,,15.0,485,3505.0
+,Proc-Cabg,,2026-01-24,,Source_D,,,,,,10.0,486,3506.0
+,Proc-Chol,,2026-03-04,,Source_D,,,,,,9.0,487,3507.0
+,Proc-Chol,,2026-05-28,,Source_D,,,,,,1.0,488,3509.0
+,Proc-App,,2026-02-11,,Source_D,,,,,,9.0,489,3510.0
+,Proc-Chol,,2026-04-27,,Source_D,,,,,,13.0,490,3513.0
+,Proc-Chol,,2026-08-30,,Source_D,,,,,,13.0,491,3517.0
+,Proc-Cabg,,2026-08-06,,Source_D,,,,,,15.0,492,3525.0
+,Proc-Cabg,,2026-01-07,,Source_D,,,,,,12.0,493,3529.0
+,Proc-App,,2026-02-12,,Source_D,,,,,,4.0,494,3547.0
+,Proc-Chol,,2026-08-05,,Source_D,,,,,,11.0,495,3554.0
+,Proc-Chol,,2026-03-29,,Source_D,,,,,,15.0,496,3568.0
+,Proc-App,,2026-03-26,,Source_D,,,,,,14.0,497,3574.0
+,Proc-App,,2026-07-04,,Source_D,,,,,,6.0,498,3575.0
+,Proc-Cabg,,2026-01-17,,Source_D,,,,,,15.0,499,3578.0
+,Proc-Chol,,2026-09-07,,Source_D,,,,,,4.0,500,3580.0
+,Proc-App,,2026-06-29,,Source_D,,,,,,13.0,501,3583.0
+,Proc-Cabg,,2026-01-19,,Source_D,,,,,,9.0,502,3587.0
+,Proc-Chol,,2026-03-25,,Source_D,,,,,,7.0,503,3589.0
+,Proc-App,,2026-05-19,,Source_D,,,,,,7.0,504,3591.0
+,Proc-Cabg,,2026-02-04,,Source_D,,,,,,5.0,505,3603.0
+,Proc-App,,2026-04-05,,Source_D,,,,,,14.0,506,3608.0
+,Proc-Cabg,,2026-05-07,,Source_D,,,,,,9.0,507,3614.0
+,Proc-Cabg,,2026-04-03,,Source_D,,,,,,13.0,508,3619.0
+,Proc-App,,2026-06-28,,Source_D,,,,,,5.0,509,3624.0
+,Proc-App,,2026-05-06,,Source_D,,,,,,1.0,510,3633.0
+,Proc-App,,2026-03-01,,Source_D,,,,,,3.0,511,3642.0
+,Proc-Chol,,2026-05-18,,Source_D,,,,,,13.0,512,3644.0
+,Proc-Chol,,2026-08-09,,Source_D,,,,,,15.0,513,3650.0
+,Proc-App,,2026-06-23,,Source_D,,,,,,4.0,514,
+,Proc-Cabg,,2026-07-06,,Source_D,,,,,,5.0,515,3656.0
+,Proc-Cabg,,2026-06-13,,Source_D,,,,,,15.0,516,3661.0
+,Proc-Chol,,2026-02-08,,Source_D,,,,,,14.0,517,
+,Proc-App,,2026-08-01,,Source_D,,,,,,4.0,518,3666.0
+,Proc-Chol,,2026-07-13,,Source_D,,,,,,9.0,519,3668.0
+,Proc-Chol,,2026-02-04,,Source_D,,,,,,3.0,520,3671.0
+,Proc-Chol,,2026-05-22,,Source_D,,,,,,12.0,521,3674.0
+,Proc-Chol,,2026-03-02,,Source_D,,,,,,12.0,522,3675.0
+,Proc-App,,2026-09-05,,Source_D,,,,,,7.0,523,3678.0
+,Proc-Chol,,2026-08-17,,Source_D,,,,,,12.0,524,3679.0
+,Proc-App,,2026-03-11,,Source_D,,,,,,12.0,525,3681.0
+,Proc-App,,2026-06-28,,Source_D,,,,,,3.0,526,3689.0
+,Proc-Cabg,,2026-05-02,,Source_D,,,,,,2.0,527,3690.0
+,Proc-Cabg,,2026-07-13,,Source_D,,,,,,1.0,528,3691.0
+,Proc-App,,2026-06-25,,Source_D,,,,,,8.0,529,3692.0
+,Proc-Cabg,,2026-07-20,,Source_D,,,,,,2.0,530,3701.0
+,Proc-App,,2026-01-16,,Source_D,,,,,,3.0,531,3705.0
+,Proc-App,,2026-08-17,,Source_D,,,,,,4.0,532,
+,Proc-App,,2026-03-18,,Source_D,,,,,,12.0,533,3713.0
+,Proc-App,,2026-02-02,,Source_D,,,,,,4.0,534,3715.0
+,Proc-Cabg,,2026-05-11,,Source_D,,,,,,6.0,535,3719.0
+,Proc-Chol,,2026-07-07,,Source_D,,,,,,5.0,536,3721.0
+,Proc-Chol,,2026-03-01,,Source_D,,,,,,14.0,537,3728.0
+,Proc-Cabg,,2026-05-11,,Source_D,,,,,,8.0,538,3732.0
+,Proc-App,,2026-03-26,,Source_D,,,,,,7.0,539,3750.0
+,Proc-Chol,,2026-02-03,,Source_D,,,,,,7.0,540,3760.0
+,Proc-Cabg,,2026-05-06,,Source_D,,,,,,8.0,541,3765.0
+,Proc-Cabg,,2026-07-22,,Source_D,,,,,,9.0,542,3767.0
+,Proc-Cabg,,2026-06-13,,Source_D,,,,,,1.0,543,3774.0
+,Proc-Chol,,2026-05-08,,Source_D,,,,,,3.0,544,3775.0
+,Proc-Cabg,,2026-01-25,,Source_D,,,,,,3.0,545,3782.0
+,Proc-App,,2026-02-19,,Source_D,,,,,,4.0,546,3786.0
+,Proc-App,,2026-06-15,,Source_D,,,,,,12.0,547,3798.0
+,Proc-App,,2026-07-25,,Source_D,,,,,,8.0,548,3806.0
+,Proc-Chol,,2026-02-09,,Source_D,,,,,,6.0,549,3810.0
+,Proc-Cabg,,2026-03-15,,Source_D,,,,,,10.0,550,3815.0
+,Proc-Cabg,,2026-02-25,,Source_D,,,,,,15.0,551,3820.0
+,Proc-Cabg,,2026-08-16,,Source_D,,,,,,13.0,552,3825.0
+,Proc-Chol,,2026-05-14,,Source_D,,,,,,1.0,553,
+,Proc-Chol,,2026-04-28,,Source_D,,,,,,1.0,554,3839.0
+,Proc-Cabg,,2026-06-13,,Source_D,,,,,,1.0,555,3841.0
+,Proc-Cabg,,2026-02-14,,Source_D,,,,,,8.0,556,3842.0
+,Proc-Cabg,,2026-03-01,,Source_D,,,,,,2.0,557,3846.0
+,Proc-Cabg,,2026-02-16,,Source_D,,,,,,11.0,558,3848.0
+,Proc-App,,2026-02-02,,Source_D,,,,,,7.0,559,3849.0
+,Proc-Cabg,,2026-08-08,,Source_D,,,,,,15.0,560,3850.0
+,Proc-Cabg,,2026-07-30,,Source_D,,,,,,8.0,561,3851.0
+,Proc-Chol,,2026-06-25,,Source_D,,,,,,14.0,562,3857.0
+,Proc-Chol,,2026-08-20,,Source_D,,,,,,5.0,563,3866.0
+,Proc-Cabg,,2026-03-22,,Source_D,,,,,,15.0,564,3876.0
+,Proc-App,,2026-08-20,,Source_D,,,,,,4.0,565,3891.0
+,Proc-App,,2026-04-20,,Source_D,,,,,,10.0,566,3892.0
+,Proc-Chol,,2026-03-26,,Source_D,,,,,,1.0,567,3893.0
+,Proc-Chol,,2026-03-17,,Source_D,,,,,,4.0,568,3898.0
+,Proc-App,,2026-08-10,,Source_D,,,,,,10.0,569,3899.0
+,Proc-App,,2026-02-18,,Source_D,,,,,,12.0,570,3903.0
+,Proc-App,,2026-03-08,,Source_D,,,,,,6.0,571,3912.0
+,Proc-Cabg,,2026-03-03,,Source_D,,,,,,9.0,572,3914.0
+,Proc-Cabg,,2026-06-13,,Source_D,,,,,,4.0,573,3915.0
+,Proc-Cabg,,2026-08-20,,Source_D,,,,,,12.0,574,
+,Proc-Cabg,,2026-02-03,,Source_D,,,,,,13.0,575,3932.0
+,Proc-App,,2026-08-20,,Source_D,,,,,,12.0,576,3936.0
+,Proc-Chol,,2026-05-07,,Source_D,,,,,,6.0,577,3938.0
+,Proc-Cabg,,2026-06-19,,Source_D,,,,,,13.0,578,3943.0
+,Proc-Chol,,2026-04-30,,Source_D,,,,,,2.0,579,3945.0
+,Proc-Chol,,2026-04-09,,Source_D,,,,,,14.0,580,3951.0
+,Proc-App,,2026-06-22,,Source_D,,,,,,15.0,581,3964.0
+,Proc-Chol,,2026-02-10,,Source_D,,,,,,11.0,582,3970.0
+,Proc-Chol,,2026-02-21,,Source_D,,,,,,5.0,583,3972.0
+,Proc-Cabg,,2026-05-29,,Source_D,,,,,,1.0,584,3974.0
+,Proc-Chol,,2026-01-05,,Source_D,,,,,,13.0,585,3983.0
+,Proc-App,,2026-07-03,,Source_D,,,,,,10.0,586,3984.0
+,Proc-Cabg,,2026-02-02,,Source_D,,,,,,15.0,587,3986.0
+,Proc-App,,2026-07-04,,Source_D,,,,,,8.0,588,3987.0
+,Proc-Chol,,2026-07-20,,Source_D,,,,,,6.0,589,3990.0
+,Proc-Chol,,2026-06-03,,Source_D,,,,,,3.0,590,3995.0
+,Proc-Chol,,2026-06-12,,Source_D,,,,,,5.0,591,3997.0
+,Proc-Cabg,,2026-05-20,,Source_D,,,,,,7.0,592,4005.0
+,Proc-Chol,,2026-05-07,,Source_D,,,,,,8.0,593,4008.0
+,Proc-Cabg,,2026-01-20,,Source_D,,,,,,1.0,594,4011.0
+,Proc-Chol,,2026-05-01,,Source_D,,,,,,4.0,595,4014.0
+,Proc-App,,2026-07-28,,Source_D,,,,,,5.0,596,4019.0
+,Proc-App,,2026-03-28,,Source_D,,,,,,9.0,597,4020.0
+,Proc-Chol,,2026-04-24,,Source_D,,,,,,12.0,598,4023.0
+,Proc-App,,2026-09-07,,Source_D,,,,,,1.0,599,4039.0
+,Proc-Chol,,2026-07-21,,Source_D,,,,,,5.0,600,4049.0
+,Proc-Chol,,2026-06-19,,Source_D,,,,,,8.0,601,4051.0
+,Proc-Cabg,,2026-08-23,,Source_D,,,,,,4.0,602,
+,Proc-Cabg,,2026-06-15,,Source_D,,,,,,10.0,603,4060.0
+,Proc-App,,2026-06-08,,Source_D,,,,,,15.0,604,4069.0
+,Proc-App,,2026-01-23,,Source_D,,,,,,9.0,605,4071.0
+,Proc-Chol,,2026-05-25,,Source_D,,,,,,13.0,606,4078.0
+,Proc-Chol,,2026-01-14,,Source_D,,,,,,13.0,607,4079.0
+,Proc-App,,2026-05-20,,Source_D,,,,,,7.0,608,4083.0
+,Proc-Chol,,2026-06-20,,Source_D,,,,,,6.0,609,4086.0
+,Proc-App,,2026-08-01,,Source_D,,,,,,1.0,610,4089.0
+,Proc-Chol,,2026-04-15,,Source_D,,,,,,3.0,611,4100.0
+,Proc-Cabg,,2026-08-07,,Source_D,,,,,,2.0,612,4111.0
+,Proc-Cabg,,2026-04-11,,Source_D,,,,,,1.0,613,4130.0
+,Proc-Cabg,,2026-04-03,,Source_D,,,,,,8.0,614,4131.0
+,Proc-App,,2026-06-27,,Source_D,,,,,,9.0,615,4136.0
+,Proc-App,,2026-06-05,,Source_D,,,,,,3.0,616,4144.0
+,Proc-App,,2026-07-26,,Source_D,,,,,,8.0,617,4149.0
+,Proc-Chol,,2026-04-03,,Source_D,,,,,,10.0,618,4156.0
+,Proc-App,,2026-08-23,,Source_D,,,,,,11.0,619,4157.0
+,Proc-App,,2026-07-01,,Source_D,,,,,,7.0,620,4165.0
+,Proc-Cabg,,2026-03-24,,Source_D,,,,,,1.0,621,4171.0
+,Proc-Chol,,2026-06-08,,Source_D,,,,,,9.0,622,4182.0
+,Proc-Chol,,2026-06-12,,Source_D,,,,,,10.0,623,4193.0
+,Proc-Chol,,2026-02-04,,Source_D,,,,,,3.0,624,4200.0
+,Proc-App,,2026-01-24,,Source_D,,,,,,15.0,625,4206.0
+,Proc-App,,2026-05-27,,Source_D,,,,,,9.0,626,4208.0
+,Proc-Cabg,,2026-09-06,,Source_D,,,,,,10.0,627,4209.0
+,Proc-Chol,,2026-09-08,,Source_D,,,,,,2.0,628,4224.0
+,Proc-Cabg,,2026-02-15,,Source_D,,,,,,10.0,629,4227.0
+,Proc-App,,2026-08-24,,Source_D,,,,,,10.0,630,4228.0
+,Proc-App,,2026-07-25,,Source_D,,,,,,11.0,631,4230.0
+,Proc-Chol,,2026-01-27,,Source_D,,,,,,1.0,632,4233.0
+,Proc-Chol,,2026-08-29,,Source_D,,,,,,7.0,633,4234.0
+,Proc-Cabg,,2026-05-14,,Source_D,,,,,,11.0,634,4237.0
+,Proc-Chol,,2026-01-10,,Source_D,,,,,,2.0,635,4239.0
+,Proc-App,,2026-06-19,,Source_D,,,,,,7.0,636,4255.0
+,Proc-Chol,,2026-01-08,,Source_D,,,,,,3.0,637,4258.0
+,Proc-Cabg,,2026-03-26,,Source_D,,,,,,5.0,638,4261.0
+,Proc-App,,2026-02-23,,Source_D,,,,,,15.0,639,4264.0
+,Proc-Cabg,,2026-09-04,,Source_D,,,,,,2.0,640,4270.0
+,Proc-Chol,,2026-03-06,,Source_D,,,,,,15.0,641,4277.0
+,Proc-Chol,,2026-02-17,,Source_D,,,,,,8.0,642,4281.0
+,Proc-Cabg,,2026-01-21,,Source_D,,,,,,1.0,643,4282.0
+,Proc-Cabg,,2026-02-13,,Source_D,,,,,,12.0,644,4284.0
+,Proc-Chol,,2026-04-30,,Source_D,,,,,,10.0,645,4286.0
+,Proc-Chol,,2026-08-14,,Source_D,,,,,,4.0,646,4297.0
+,Proc-App,,2026-02-08,,Source_D,,,,,,15.0,647,4299.0
+,Proc-App,,2026-07-20,,Source_D,,,,,,5.0,648,4303.0
+,Proc-Chol,,2026-08-28,,Source_D,,,,,,8.0,649,4305.0
+,Proc-Cabg,,2026-09-01,,Source_D,,,,,,4.0,650,4310.0
+,Proc-App,,2026-05-27,,Source_D,,,,,,7.0,651,4313.0
+,Proc-Cabg,,2026-08-28,,Source_D,,,,,,14.0,652,4316.0
+,Proc-Chol,,2026-09-06,,Source_D,,,,,,15.0,653,4318.0
+,Proc-Chol,,2026-08-19,,Source_D,,,,,,1.0,654,4319.0
+,Proc-App,,2026-01-08,,Source_D,,,,,,10.0,655,4327.0
+,Proc-Cabg,,2026-05-14,,Source_D,,,,,,10.0,656,4332.0
+,Proc-App,,2026-04-02,,Source_D,,,,,,2.0,657,4335.0
+,Proc-Chol,,2026-04-16,,Source_D,,,,,,4.0,658,4337.0
+,Proc-Chol,,2026-05-14,,Source_D,,,,,,8.0,659,4341.0
+,Proc-Cabg,,2026-04-30,,Source_D,,,,,,1.0,660,4343.0
+,Proc-App,,2026-04-09,,Source_D,,,,,,4.0,661,4354.0
+,Proc-App,,2026-06-30,,Source_D,,,,,,2.0,662,4355.0
+,Proc-App,,2026-04-02,,Source_D,,,,,,15.0,663,4358.0
+,Proc-Cabg,,2026-06-09,,Source_D,,,,,,9.0,664,4362.0
+,Proc-Chol,,2026-02-25,,Source_D,,,,,,15.0,665,4363.0
+,Proc-Chol,,2026-04-11,,Source_D,,,,,,3.0,666,4364.0
+,Proc-App,,2026-08-28,,Source_D,,,,,,8.0,667,4371.0
+,Proc-App,,2026-02-15,,Source_D,,,,,,11.0,668,4375.0
+,Proc-Chol,,2026-05-04,,Source_D,,,,,,9.0,669,4381.0
+,Proc-App,,2026-07-18,,Source_D,,,,,,10.0,670,4382.0
+,Proc-App,,2026-02-17,,Source_D,,,,,,3.0,671,4385.0
+,Proc-Cabg,,2026-08-02,,Source_D,,,,,,11.0,672,4386.0
+,Proc-Cabg,,2026-03-23,,Source_D,,,,,,2.0,673,4387.0
+,Proc-Cabg,,2026-03-30,,Source_D,,,,,,1.0,674,4395.0
+,Proc-App,,2026-02-19,,Source_D,,,,,,11.0,675,4396.0
+,Proc-Chol,,2026-01-26,,Source_D,,,,,,13.0,676,4397.0
+,Proc-App,,2026-06-07,,Source_D,,,,,,2.0,677,4398.0
+,Proc-Cabg,,2026-05-24,,Source_D,,,,,,5.0,678,4399.0
+,Proc-Chol,,2026-01-14,,Source_D,,,,,,9.0,679,4406.0
+,Proc-Cabg,,2026-02-03,,Source_D,,,,,,8.0,680,4409.0
+,Proc-Cabg,,2026-06-30,,Source_D,,,,,,8.0,681,
+,Proc-Cabg,,2026-06-09,,Source_D,,,,,,5.0,682,4417.0
+,Proc-App,,2026-06-12,,Source_D,,,,,,5.0,683,4418.0
+,Proc-Chol,,2026-06-11,,Source_D,,,,,,3.0,684,4419.0
+,Proc-Cabg,,2026-07-19,,Source_D,,,,,,11.0,685,4422.0
+,Proc-App,,2026-07-21,,Source_D,,,,,,1.0,686,4423.0
+,Proc-Cabg,,2026-01-23,,Source_D,,,,,,1.0,687,
+,Proc-App,,2026-06-11,,Source_D,,,,,,8.0,688,4429.0
+,Proc-Cabg,,2026-03-04,,Source_D,,,,,,5.0,689,4430.0
+,Proc-Cabg,,2026-01-11,,Source_D,,,,,,7.0,690,4433.0
+,Proc-Cabg,,2026-03-23,,Source_D,,,,,,1.0,691,4438.0
+,Proc-Cabg,,2026-01-20,,Source_D,,,,,,11.0,692,4441.0
+,Proc-App,,2026-03-18,,Source_D,,,,,,2.0,693,4463.0
+,Proc-Cabg,,2026-07-20,,Source_D,,,,,,11.0,694,4465.0
+,Proc-Chol,,2026-04-29,,Source_D,,,,,,6.0,695,4466.0
+,Proc-App,,2026-04-11,,Source_D,,,,,,8.0,696,4467.0
+,Proc-App,,2026-03-27,,Source_D,,,,,,11.0,697,4470.0
+,Proc-Chol,,2026-07-31,,Source_D,,,,,,7.0,698,4472.0
+,Proc-App,,2026-05-11,,Source_D,,,,,,4.0,699,4477.0
+,Proc-App,,2026-08-17,,Source_D,,,,,,13.0,700,4478.0
+,Proc-App,,2026-07-04,,Source_D,,,,,,11.0,701,4479.0
+,Proc-App,,2026-01-10,,Source_D,,,,,,10.0,702,4480.0
+,Proc-Chol,,2026-05-18,,Source_D,,,,,,7.0,703,
+,Proc-App,,2026-06-09,,Source_D,,,,,,11.0,704,4502.0
+,Proc-Chol,,2026-01-07,,Source_D,,,,,,3.0,705,4506.0
+,Proc-Chol,,2026-08-13,,Source_D,,,,,,9.0,706,4510.0
+,Proc-Chol,,2026-03-16,,Source_D,,,,,,15.0,707,4514.0
+,Proc-Cabg,,2026-02-22,,Source_D,,,,,,10.0,708,4522.0
+,Proc-Chol,,2026-04-29,,Source_D,,,,,,9.0,709,4528.0
+,Proc-Chol,,2026-06-13,,Source_D,,,,,,3.0,710,4533.0
+,Proc-App,,2026-08-02,,Source_D,,,,,,13.0,711,4544.0
+,Proc-App,,2026-05-17,,Source_D,,,,,,14.0,712,
+,Proc-Cabg,,2026-07-11,,Source_D,,,,,,15.0,713,4550.0
+,Proc-Cabg,,2026-02-19,,Source_D,,,,,,13.0,714,4552.0
+,Proc-Cabg,,2026-06-20,,Source_D,,,,,,5.0,715,4553.0
+,Proc-Cabg,,2026-07-07,,Source_D,,,,,,4.0,716,4564.0
+,Proc-App,,2026-02-18,,Source_D,,,,,,12.0,717,4581.0
+,Proc-Chol,,2026-04-03,,Source_D,,,,,,7.0,718,4582.0
+,Proc-App,,2026-05-16,,Source_D,,,,,,2.0,719,4583.0
+,Proc-App,,2026-01-19,,Source_D,,,,,,1.0,720,4587.0
+,Proc-Cabg,,2026-02-09,,Source_D,,,,,,9.0,721,4595.0
+,Proc-App,,2026-08-11,,Source_D,,,,,,13.0,722,4602.0
+,Proc-Cabg,,2026-08-21,,Source_D,,,,,,10.0,723,4603.0
+,Proc-Cabg,,2026-06-23,,Source_D,,,,,,4.0,724,4607.0
+,Proc-Cabg,,2026-07-02,,Source_D,,,,,,4.0,725,4614.0
+,Proc-Chol,,2026-08-16,,Source_D,,,,,,1.0,726,4615.0
+,Proc-Chol,,2026-04-25,,Source_D,,,,,,3.0,727,4618.0
+,Proc-App,,2026-03-08,,Source_D,,,,,,15.0,728,4622.0
+,Proc-Chol,,2026-07-29,,Source_D,,,,,,11.0,729,4631.0
+,Proc-Chol,,2026-01-14,,Source_D,,,,,,1.0,730,4634.0
+,Proc-Chol,,2026-07-09,,Source_D,,,,,,7.0,731,4640.0
+,Proc-Chol,,2026-01-14,,Source_D,,,,,,7.0,732,4648.0
+,Proc-Cabg,,2026-08-27,,Source_D,,,,,,5.0,733,4651.0
+,Proc-Cabg,,2026-03-06,,Source_D,,,,,,1.0,734,4652.0
+,Proc-App,,2026-08-19,,Source_D,,,,,,15.0,735,4654.0

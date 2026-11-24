@@ -31,16 +31,28 @@ insurance_information        303
 current_condition              0
 admitting_professional_id      0
 
+===== HIDDEN MISSING VALUES (String 'N/A') =====
+admission_id                 0
+patient_id                   0
+admission_date_time          0
+discharge_date_time          0
+admission_type               0
+admission_source             0
+reason_admission             0
+insurance_information        0
+current_condition            0
+admitting_professional_id    0
+
 ===== DUPLICATE ROWS =====
 0
 
 ===== SAMPLE RECORDS =====
-      admission_id  patient_id  admission_date_time  discharge_date_time admission_type    admission_source reason_admission insurance_information current_condition  admitting_professional_id
-1182          1183         228  2026-08-13 18:00:00  2026-08-20 18:00:00    Observation      Emergency Room           Trauma                   NaN         Improving                          7
-965            966         451  2026-02-05 05:30:00  2026-02-14 05:30:00      Emergency      Emergency Room           Trauma                   NaN          Critical                         13
-127            128          96  2026-01-08 17:00:00  2026-01-14 17:00:00      Emergency             Walk-in       Chest Pain         Public (RAMQ)          Critical                          7
-414            415         159  2026-04-12 02:30:00  2026-04-14 02:30:00    Observation            Transfer   Abdominal Pain                   NaN            Stable                         11
-380            381         201  2026-04-18 19:00:00  2026-04-25 19:00:00    Observation  Physician Referral       Chest Pain              Self-pay       Observation                          2
+      admission_id  patient_id  admission_date_time  discharge_date_time admission_type    admission_source     reason_admission insurance_information current_condition  admitting_professional_id
+456            457         665  2026-04-23 11:45:00  2026-05-02 11:45:00    Observation  Physician Referral  Shortness of Breath     Private Insurance            Stable                          9
+1079          1080         720  2026-06-12 04:30:00  2026-06-13 04:30:00      Emergency  Physician Referral                Fever              Self-pay         Improving                         14
+213            214         228  2026-01-14 02:45:00  2026-01-16 02:45:00      Emergency            Transfer              Syncope     Private Insurance         Improving                          4
+905            906         674  2026-03-17 13:00:00  2026-03-25 13:00:00       Elective      Emergency Room  Shortness of Breath                   NaN          Critical                          4
+843            844         694  2026-07-04 22:30:00  2026-07-07 22:30:00    Observation             Walk-in       Abdominal Pain     Private Insurance            Stable                         13
 
 ===== SUMMARY STATISTICS =====
         admission_id   patient_id  admission_date_time  discharge_date_time admission_type admission_source reason_admission insurance_information current_condition  admitting_professional_id

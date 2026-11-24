@@ -42,11 +42,11 @@ diagnosing_physician_id    0
 
 ===== SAMPLE RECORDS =====
       diagnosis_id  patient_id  admission_id  icd9_code  diagnosis_date_time  primary_diagnosis  secondary_diagnosis  diagnosing_physician_id
-1399          1400         233           799      410.9  2026-04-10 15:30:00              False                 True                       12
-1859          1860         714          1054      272.4  2026-07-02 01:30:00              False                 True                        5
-2094          2095         271          1186      272.4  2026-05-07 03:30:00               True                False                        8
-1449          1450         441           831      272.4  2026-04-30 15:45:00               True                 True                        7
-1933          1934         767          1092      410.9  2026-03-07 05:15:00              False                 True                       13
+1179          1180         203           679      410.9  2026-07-14 09:45:00              False                 True                        3
+1648          1649         557          9999      250.0  2026-06-28 23:45:00              False                 True                       11
+1283          1284         610          9999      410.9  2026-06-19 06:30:00               True                False                       12
+1695          1696          52           960      401.9  2026-02-16 17:45:00               True                False                       10
+1203          1204         748           691      410.9  2026-07-28 22:30:00               True                False                        5
 
 ===== SUMMARY STATISTICS =====
         diagnosis_id   patient_id  admission_id    icd9_code  diagnosis_date_time primary_diagnosis secondary_diagnosis  diagnosing_physician_id

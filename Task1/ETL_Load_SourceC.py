@@ -1,6 +1,8 @@
 import pandas as pd
 from profile import profile_dataframe
+import os
 
+os.makedirs("Profiles", exist_ok=True)
 
 # The XPath queries
 SourceC_Tags = {
@@ -10,7 +12,7 @@ SourceC_Tags = {
     "Diagnosis": ".//Diagnosis",
 }
 
-print("--- Starting Task 1 (Profile) for Source C ---\n")
+print("--- Starting Task 1 (Profile) for Source C ---")
 
 path = "../Data_Sources/SourceC/SourceC_Hospital.xml"
 

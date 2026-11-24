@@ -36,11 +36,11 @@ attending_doctor    0
 
 ===== SAMPLE RECORDS =====
       diag_id  visit_id  icd9_code     diag_datetime is_primary attending_doctor
-1692     1693       950      401.9  04/04/2026 19:00         No        MRN-10015
-1105     1106       629      272.4  04/05/2026 12:00         No        MRN-10012
-1643     1644       928      272.4  21/08/2026 19:00         No        MRN-10013
-179       180        97      272.4  23/02/2026 22:00        Yes        MRN-10008
-529       530       304      250.0  31/03/2026 05:00        Yes        MRN-10006
+2102     2103      1181      401.9  09/04/2026 05:00         No        MRN-10002
+672       673       385      272.4  15/08/2026 06:00        Yes        MRN-10015
+1239     1240       702      272.4  26/06/2026 08:00        Yes        MRN-10001
+1608     1609       909      272.4  28/01/2026 19:00         No        MRN-10008
+1338     1339       759      410.9  14/02/2026 14:00        Yes        MRN-10013
 
 ===== SUMMARY STATISTICS =====
             diag_id     visit_id    icd9_code     diag_datetime is_primary attending_doctor

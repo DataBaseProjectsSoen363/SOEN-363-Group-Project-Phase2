@@ -9,14 +9,14 @@ os.makedirs("Profiles", exist_ok=True)
 
 # The Master List
 SourceA_Config = [
-    "patients", "admissions", "triage_assessments",
-    "clinical_notes", "diagnoses", "diagnostic_orders",
-    "discharge_records", "icu_stays", "professionals",
-    "radiology_examinations", "radiology_reports",
-    "surgical_procedures", "icd9_dict",
+    "patient", "admission", "triage_assessment",
+    "clinical_note", "diagnosis", "diagnostic_order",
+    "discharge_record", "icu_stay", "professional",
+    "radiology_examination", "radiology_report",
+    "surgical_procedure", "icd9_dict",
 ]
 
-print("--- Starting Task 1 (Profile) ---\n")
+print("--- Starting Task 1 (Profile) ---")
 
 for file_name in SourceA_Config:
     path = f"../Data_Sources/SourceA/SourceA_{file_name}.txt"

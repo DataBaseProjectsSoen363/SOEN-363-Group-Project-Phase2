@@ -29,16 +29,27 @@ gender                       1
 emergency_contact_number    19
 phone_number                19
 
+===== HIDDEN MISSING VALUES (String 'N/A') =====
+patient_id                  0
+name                        0
+health_insurance_number     0
+life_status                 0
+address                     0
+date_birth                  0
+gender                      0
+emergency_contact_number    0
+phone_number                0
+
 ===== DUPLICATE ROWS =====
 0
 
 ===== SAMPLE RECORDS =====
-     patient_id           name health_insurance_number life_status                                    address  date_birth  gender emergency_contact_number  phone_number
-16           17     John Brown              RAMQ585100       Alive             2146 Sherbrooke St, Sherbrooke  1959-09-06    Male             514-555-4872  514-555-4872
-693         694   Amelie Brown              RAMQ238320       Alive     1006 SAINTE-CATHERINE ST, LONGUEUIL     1973-08-28  Female             514-555-3626  514-555-3626
-599         600   Emily Miller              RAMQ633618       Alive              2199 Papineau Ave, Sherbrooke  1953-05-09    Male             514-555-1722  514-555-1722
-410         411  Amelie Taylor              RAMQ318379       Alive               4830 Papineau Ave, Longueuil  1995-08-29    Male             514-555-7147  514-555-7147
-387         388   Amelie Brown              RAMQ192059       Alive              3231 Atwater Ave, Quebec City  1947-06-19    Male             514-555-7987  514-555-7987
+     patient_id            name health_insurance_number life_status                               address  date_birth gender emergency_contact_number  phone_number
+441         442   Rachel Gagnon              RAMQ810638       Alive     1573 PAPINEAU AVE, QUEBEC CITY     2008-04-17   Male             514-555-9605  514-555-9605
+112         113      Amelie Roy              RAMQ400814       Alive  3970 Sainte-Catherine St, Sherbrooke  2008-07-31   Male             514-555-3449  514-555-3449
+598         599   Jessica Brown              RAMQ749310       Alive            929 Papineau Ave, Montreal  1979-08-11   Male             514-555-2106  514-555-2106
+486         487   Jessica Smith              RAMQ401663       Alive  3517 Sainte-Catherine St, Sherbrooke  1951-03-17   Male             514-555-9078  514-555-9078
+479         480  Michael Miller              RAMQ938416       Alive                4730 Guy St, Longueuil  1966-01-30   Male             514-555-2914  514-555-2914
 
 ===== SUMMARY STATISTICS =====
         patient_id           name health_insurance_number life_status                        address  date_birth gender emergency_contact_number  phone_number

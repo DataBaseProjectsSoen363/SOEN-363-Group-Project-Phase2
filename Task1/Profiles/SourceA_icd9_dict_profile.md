@@ -29,12 +29,12 @@ disease_category            0
 0
 
 ===== SAMPLE RECORDS =====
-   icd9_code              official_diagnosis_title                             description      disease_category
-18     995.3                  Allergy, unspecified  Allergic reaction of unspecified type.         Immune System
-10     584.9     Acute kidney failure, unspecified         Sudden loss of kidney function.  Genitourinary System
-3      272.4  Other and unspecified hyperlipidemia        Elevated cholesterol and lipids.   Endocrine/Metabolic
-6        486       Pneumonia, organism unspecified                 Infection of the lungs.    Respiratory System
-13    780.39                     Other convulsions                Seizures or convulsions.        Nervous System
+   icd9_code              official_diagnosis_title                                  description      disease_category
+18     995.3                  Allergy, unspecified       Allergic reaction of unspecified type.         Immune System
+14     784.0                              Headache                            Pain in the head.        Nervous System
+3      272.4  Other and unspecified hyperlipidemia             Elevated cholesterol and lipids.   Endocrine/Metabolic
+10     584.9     Acute kidney failure, unspecified              Sudden loss of kidney function.  Genitourinary System
+0      401.9    Unspecified essential hypertension  High blood pressure with no specific cause.    Circulatory System
 
 ===== SUMMARY STATISTICS =====
        icd9_code            official_diagnosis_title                                  description    disease_category

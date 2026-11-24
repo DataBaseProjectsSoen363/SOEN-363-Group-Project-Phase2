@@ -27,16 +27,26 @@ primary_diagnosis          0
 secondary_diagnosis        0
 diagnosing_physician_id    0
 
+===== HIDDEN MISSING VALUES (String 'N/A') =====
+diagnosis_id               0
+patient_id                 0
+admission_id               0
+icd9_code                  0
+diagnosis_date_time        0
+primary_diagnosis          0
+secondary_diagnosis        0
+diagnosing_physician_id    0
+
 ===== DUPLICATE ROWS =====
 0
 
 ===== SAMPLE RECORDS =====
-     diagnosis_id  patient_id  admission_id  icd9_code  diagnosis_date_time  primary_diagnosis  secondary_diagnosis  diagnosing_physician_id
-852           853         491           487      250.0  2026-08-11 23:30:00               True                False                        4
-245           246         500           144      250.0  2026-05-17 14:15:00               True                False                       13
-693           694         213           391      250.0  2026-06-29 09:45:00               True                False                        9
-262           263         441           152      401.9  2026-05-25 22:15:00               True                False                        8
-778           779         542           445      250.0  2026-07-09 12:30:00               True                False                        1
+      diagnosis_id  patient_id  admission_id  icd9_code  diagnosis_date_time  primary_diagnosis  secondary_diagnosis  diagnosing_physician_id
+1923          1924         612          1088      250.0  2026-06-03 12:45:00              False                False                       12
+2099          2100         760          1189      250.0  2026-03-13 02:45:00               True                False                        2
+998            999         382           569      401.9  2026-03-09 19:30:00              False                 True                        7
+1692          1693          21           958      410.9  2026-02-16 13:15:00              False                 True                       11
+1249          1250         466           714      401.9  2026-08-23 17:45:00               True                False                       11
 
 ===== SUMMARY STATISTICS =====
         diagnosis_id   patient_id  admission_id    icd9_code  diagnosis_date_time primary_diagnosis secondary_diagnosis  diagnosing_physician_id

@@ -1,0 +1,258 @@
+radiology_report_id,radiologist_findings,interpretation,clinical_conclusion
+1,No acute bony abnormalities identified.,No major effusion detected.,Normal structural limits.
+2,Lungs appear clear. No focal consolidation.,No major effusion detected.,Stable compared to prior imaging.
+3,Mild cardiomegaly noted. No pleural effusion.,Unremarkable study.,No acute findings.
+4,Lungs appear clear. No focal consolidation.,,Stable compared to prior imaging.
+5,Lungs appear clear. No focal consolidation.,No evidence of acute fracture or dislocation.,No acute findings.
+6,Soft tissues are unremarkable.,Findings are consistent with early congestive heart failure.,No acute findings.
+7,Mild cardiomegaly noted. No pleural effusion.,No evidence of acute fracture or dislocation.,Further evaluation suggested if symptoms persist.
+8,No acute bony abnormalities identified.,,No acute findings.
+9,Mild degenerative changes in the lumbar spine.,No evidence of acute fracture or dislocation.,Stable compared to prior imaging.
+10,No acute bony abnormalities identified.,Likely benign etiology. Routine follow-up recommended.,Further evaluation suggested if symptoms persist.
+11,Lungs appear clear. No focal consolidation.,Findings are consistent with early congestive heart failure.,Normal structural limits.
+12,Mild cardiomegaly noted. No pleural effusion.,Findings are consistent with early congestive heart failure.,Stable compared to prior imaging.
+13,Lungs appear clear. No focal consolidation.,No major effusion detected.,No acute findings.
+14,Mild degenerative changes in the lumbar spine.,Likely benign etiology. Routine follow-up recommended.,No acute findings.
+15,Mild degenerative changes in the lumbar spine.,Findings are consistent with early congestive heart failure.,Stable compared to prior imaging.
+16,Soft tissues are unremarkable.,Likely benign etiology. Routine follow-up recommended.,No acute findings.
+17,Soft tissues are unremarkable.,Findings are consistent with early congestive heart failure.,Further evaluation suggested if symptoms persist.
+18,Soft tissues are unremarkable.,Unremarkable study.,Normal structural limits.
+19,Soft tissues are unremarkable.,No major effusion detected.,Further evaluation suggested if symptoms persist.
+20,Lungs appear clear. No focal consolidation.,No major effusion detected.,Further evaluation suggested if symptoms persist.
+22,Mild cardiomegaly noted. No pleural effusion.,Findings are consistent with early congestive heart failure.,No acute findings.
+23,Mild cardiomegaly noted. No pleural effusion.,Likely benign etiology. Routine follow-up recommended.,No acute findings.
+24,Lungs appear clear. No focal consolidation.,Unremarkable study.,Further evaluation suggested if symptoms persist.
+25,No acute bony abnormalities identified.,,Recommend clinical correlation.
+26,Mild cardiomegaly noted. No pleural effusion.,No major effusion detected.,No acute findings.
+27,Soft tissues are unremarkable.,Findings are consistent with early congestive heart failure.,Stable compared to prior imaging.
+28,Mild cardiomegaly noted. No pleural effusion.,No evidence of acute fracture or dislocation.,Stable compared to prior imaging.
+29,Mild cardiomegaly noted. No pleural effusion.,No evidence of acute fracture or dislocation.,Stable compared to prior imaging.
+30,Soft tissues are unremarkable.,Likely benign etiology. Routine follow-up recommended.,Further evaluation suggested if symptoms persist.
+31,No acute bony abnormalities identified.,No evidence of acute fracture or dislocation.,Stable compared to prior imaging.
+32,No acute bony abnormalities identified.,Findings are consistent with early congestive heart failure.,further evaluation suggested if symptoms persist.
+33,No acute bony abnormalities identified.,Likely benign etiology. Routine follow-up recommended.,Stable compared to prior imaging.
+34,No acute bony abnormalities identified.,Unremarkable study.,Further evaluation suggested if symptoms persist.
+35,Mild cardiomegaly noted. No pleural effusion.,Findings are consistent with early congestive heart failure.,Normal structural limits.
+36,No acute bony abnormalities identified.,No major effusion detected.,Recommend clinical correlation.
+37,No acute bony abnormalities identified.,No evidence of acute fracture or dislocation.,Further evaluation suggested if symptoms persist.
+38,Mild cardiomegaly noted. No pleural effusion.,,Normal structural limits.
+39,Mild degenerative changes in the lumbar spine.,,Stable compared to prior imaging.
+40,Mild cardiomegaly noted. No pleural effusion.,No evidence of acute fracture or dislocation.,No acute findings.
+41,Lungs appear clear. No focal consolidation.,No evidence of acute fracture or dislocation.,No acute findings.
+42,Mild cardiomegaly noted. No pleural effusion.,No major effusion detected.,Recommend clinical correlation.
+43,Mild degenerative changes in the lumbar spine.,No major effusion detected.,Stable compared to prior imaging.
+44,No acute bony abnormalities identified.,Findings are consistent with early congestive heart failure.,Stable compared to prior imaging.
+45,No acute bony abnormalities identified.,Unremarkable study.,No acute findings.
+46,Mild degenerative changes in the lumbar spine.,No evidence of acute fracture or dislocation.,Normal structural limits.
+47,Soft tissues are unremarkable.,Unremarkable study.,Stable compared to prior imaging.
+48,Soft tissues are unremarkable.,No major effusion detected.,Normal structural limits.
+49,Soft tissues are unremarkable.,No major effusion detected.,No acute findings.
+50,Lungs appear clear. No focal consolidation.,Likely benign etiology. Routine follow-up recommended.,Stable compared to prior imaging.
+51,Mild cardiomegaly noted. No pleural effusion.,Unremarkable study.,Stable compared to prior imaging.
+52,No acute bony abnormalities identified.,Findings are consistent with early congestive heart failure.,Recommend clinical correlation.
+53,Mild cardiomegaly noted. No pleural effusion.,No major effusion detected.,Recommend clinical correlation.
+54,Mild cardiomegaly noted. No pleural effusion.,Unremarkable study.,No acute findings.
+55,Mild cardiomegaly noted. No pleural effusion.,Findings are consistent with early congestive heart failure.,Normal structural limits.
+56,Mild degenerative changes in the lumbar spine.,No major effusion detected.,Recommend clinical correlation.
+57,Mild degenerative changes in the lumbar spine.,Findings are consistent with early congestive heart failure.,Recommend clinical correlation.
+59,Soft tissues are unremarkable.,No evidence of acute fracture or dislocation.,Stable compared to prior imaging.
+60,Mild cardiomegaly noted. No pleural effusion.,No evidence of acute fracture or dislocation.,Normal structural limits.
+61,Lungs appear clear. No focal consolidation.,Findings are consistent with early congestive heart failure.,Recommend clinical correlation.
+62,Lungs appear clear. No focal consolidation.,Unremarkable study.,Normal structural limits.
+63,Soft tissues are unremarkable.,No evidence of acute fracture or dislocation.,Further evaluation suggested if symptoms persist.
+64,Lungs appear clear. No focal consolidation.,Unremarkable study.,No acute findings.
+65,Mild cardiomegaly noted. No pleural effusion.,No evidence of acute fracture or dislocation.,Recommend clinical correlation.
+66,No acute bony abnormalities identified.,Likely benign etiology. Routine follow-up recommended.,Normal structural limits.
+67,No acute bony abnormalities identified.,Findings are consistent with early congestive heart failure.,No acute findings.
+68,No acute bony abnormalities identified.,No major effusion detected.,No acute findings.
+69,No acute bony abnormalities identified.,Unremarkable study.,Recommend clinical correlation.
+70,Mild degenerative changes in the lumbar spine.,Likely benign etiology. Routine follow-up recommended.,Further evaluation suggested if symptoms persist.
+71,Mild degenerative changes in the lumbar spine.,Likely benign etiology. Routine follow-up recommended.,Recommend clinical correlation.
+72,Lungs appear clear. No focal consolidation.,Findings are consistent with early congestive heart failure.,Normal structural limits.
+73,Soft tissues are unremarkable.,No evidence of acute fracture or dislocation.,Normal structural limits.
+74,Soft tissues are unremarkable.,No evidence of acute fracture or dislocation.,Stable compared to prior imaging.
+75,Mild cardiomegaly noted. No pleural effusion.,Likely benign etiology. Routine follow-up recommended.,Normal structural limits.
+76,Soft tissues are unremarkable.,Findings are consistent with early congestive heart failure.,Further evaluation suggested if symptoms persist.
+77,Soft tissues are unremarkable.,Likely benign etiology. Routine follow-up recommended.,Recommend clinical correlation.
+78,Mild degenerative changes in the lumbar spine.,Likely benign etiology. Routine follow-up recommended.,Normal structural limits.
+79,Lungs appear clear. No focal consolidation.,,STABLE COMPARED TO PRIOR IMAGING.
+80,Mild degenerative changes in the lumbar spine.,Findings are consistent with early congestive heart failure.,Recommend clinical correlation.
+81,Mild cardiomegaly noted. No pleural effusion.,Unremarkable study.,No acute findings.
+82,Soft tissues are unremarkable.,No evidence of acute fracture or dislocation.,No acute findings.
+83,Soft tissues are unremarkable.,Unremarkable study.,no acute findings.
+85,Mild cardiomegaly noted. No pleural effusion.,Unremarkable study.,Normal structural limits.
+86,Mild cardiomegaly noted. No pleural effusion.,No major effusion detected.,Stable compared to prior imaging.
+87,Mild cardiomegaly noted. No pleural effusion.,No evidence of acute fracture or dislocation.,Further evaluation suggested if symptoms persist.
+88,Lungs appear clear. No focal consolidation.,No evidence of acute fracture or dislocation.,Stable compared to prior imaging.
+89,No acute bony abnormalities identified.,Likely benign etiology. Routine follow-up recommended.,stable compared to prior imaging.
+90,Mild degenerative changes in the lumbar spine.,Findings are consistent with early congestive heart failure.,Further evaluation suggested if symptoms persist.
+91,Mild cardiomegaly noted. No pleural effusion.,Findings are consistent with early congestive heart failure.,Normal structural limits.
+92,Lungs appear clear. No focal consolidation.,Findings are consistent with early congestive heart failure.,Recommend clinical correlation.
+93,Mild cardiomegaly noted. No pleural effusion.,Unremarkable study.,Normal structural limits.
+94,Mild degenerative changes in the lumbar spine.,Likely benign etiology. Routine follow-up recommended.,Normal structural limits.
+95,Soft tissues are unremarkable.,No evidence of acute fracture or dislocation.,Stable compared to prior imaging.
+96,Mild cardiomegaly noted. No pleural effusion.,No evidence of acute fracture or dislocation.,Recommend clinical correlation.
+97,Lungs appear clear. No focal consolidation.,Findings are consistent with early congestive heart failure.,Stable compared to prior imaging.
+98,Lungs appear clear. No focal consolidation.,No major effusion detected.,Recommend clinical correlation.
+99,Soft tissues are unremarkable.,Unremarkable study.,Stable compared to prior imaging.
+100,Lungs appear clear. No focal consolidation.,No major effusion detected.,Further evaluation suggested if symptoms persist.
+101,Mild cardiomegaly noted. No pleural effusion.,Unremarkable study.,FURTHER EVALUATION SUGGESTED IF SYMPTOMS PERSIST.
+102,Mild cardiomegaly noted. No pleural effusion.,Unremarkable study.,Stable compared to prior imaging.
+103,Lungs appear clear. No focal consolidation.,Findings are consistent with early congestive heart failure.,Normal structural limits.
+104,No acute bony abnormalities identified.,Unremarkable study.,No acute findings.
+105,Mild cardiomegaly noted. No pleural effusion.,No evidence of acute fracture or dislocation.,Stable compared to prior imaging.
+106,No acute bony abnormalities identified.,No evidence of acute fracture or dislocation.,No acute findings.
+107,No acute bony abnormalities identified.,Unremarkable study.,Recommend clinical correlation.
+108,Soft tissues are unremarkable.,Likely benign etiology. Routine follow-up recommended.,No acute findings.
+109,Lungs appear clear. No focal consolidation.,Unremarkable study.,Recommend clinical correlation.
+110,Soft tissues are unremarkable.,Likely benign etiology. Routine follow-up recommended.,Normal structural limits.
+111,Soft tissues are unremarkable.,Findings are consistent with early congestive heart failure.,Stable compared to prior imaging.
+112,Lungs appear clear. No focal consolidation.,Likely benign etiology. Routine follow-up recommended.,Further evaluation suggested if symptoms persist.
+113,Mild degenerative changes in the lumbar spine.,Likely benign etiology. Routine follow-up recommended.,Recommend clinical correlation.
+114,Mild degenerative changes in the lumbar spine.,No evidence of acute fracture or dislocation.,No acute findings.
+115,No acute bony abnormalities identified.,No major effusion detected.,Recommend clinical correlation.
+116,Mild cardiomegaly noted. No pleural effusion.,Unremarkable study.,stable compared to prior imaging.
+117,Mild degenerative changes in the lumbar spine.,No evidence of acute fracture or dislocation.,Recommend clinical correlation.
+118,Mild degenerative changes in the lumbar spine.,No evidence of acute fracture or dislocation.,No acute findings.
+119,No acute bony abnormalities identified.,Likely benign etiology. Routine follow-up recommended.,Normal structural limits.
+120,Soft tissues are unremarkable.,Unremarkable study.,Normal structural limits.
+122,No acute bony abnormalities identified.,Likely benign etiology. Routine follow-up recommended.,Recommend clinical correlation.
+123,Mild degenerative changes in the lumbar spine.,Unremarkable study.,Recommend clinical correlation.
+124,Soft tissues are unremarkable.,No evidence of acute fracture or dislocation.,Normal structural limits.
+125,Lungs appear clear. No focal consolidation.,No major effusion detected.,Stable compared to prior imaging.
+126,No acute bony abnormalities identified.,Likely benign etiology. Routine follow-up recommended.,Normal structural limits.
+127,Soft tissues are unremarkable.,Findings are consistent with early congestive heart failure.,No acute findings.
+128,Soft tissues are unremarkable.,No evidence of acute fracture or dislocation.,Further evaluation suggested if symptoms persist.
+129,Mild degenerative changes in the lumbar spine.,No major effusion detected.,Recommend clinical correlation.
+130,No acute bony abnormalities identified.,Findings are consistent with early congestive heart failure.,Recommend clinical correlation.
+131,Soft tissues are unremarkable.,Findings are consistent with early congestive heart failure.,No acute findings.
+132,Lungs appear clear. No focal consolidation.,Findings are consistent with early congestive heart failure.,Normal structural limits.
+134,Mild degenerative changes in the lumbar spine.,Findings are consistent with early congestive heart failure.,Normal structural limits.
+135,Lungs appear clear. No focal consolidation.,No major effusion detected.,Further evaluation suggested if symptoms persist.
+136,Soft tissues are unremarkable.,No major effusion detected.,Normal structural limits.
+9999,Soft tissues are unremarkable.,No evidence of acute fracture or dislocation.,Stable compared to prior imaging.
+138,No acute bony abnormalities identified.,No evidence of acute fracture or dislocation.,Normal structural limits.
+139,Mild cardiomegaly noted. No pleural effusion.,Unremarkable study.,Recommend clinical correlation.
+140,Mild degenerative changes in the lumbar spine.,No major effusion detected.,Normal structural limits.
+141,Soft tissues are unremarkable.,Unremarkable study.,Further evaluation suggested if symptoms persist.
+142,Mild cardiomegaly noted. No pleural effusion.,Findings are consistent with early congestive heart failure.,Stable compared to prior imaging.
+143,Mild degenerative changes in the lumbar spine.,No evidence of acute fracture or dislocation.,Stable compared to prior imaging.
+144,Mild degenerative changes in the lumbar spine.,Likely benign etiology. Routine follow-up recommended.,Normal structural limits.
+145,Soft tissues are unremarkable.,No major effusion detected.,Further evaluation suggested if symptoms persist.
+146,No acute bony abnormalities identified.,Unremarkable study.,No acute findings.
+147,Mild degenerative changes in the lumbar spine.,No major effusion detected.,No acute findings.
+148,No acute bony abnormalities identified.,No evidence of acute fracture or dislocation.,No acute findings.
+149,Mild cardiomegaly noted. No pleural effusion.,Likely benign etiology. Routine follow-up recommended.,Stable compared to prior imaging.
+150,Soft tissues are unremarkable.,No evidence of acute fracture or dislocation.,No acute findings.
+151,Mild cardiomegaly noted. No pleural effusion.,No evidence of acute fracture or dislocation.,No acute findings.
+152,Mild degenerative changes in the lumbar spine.,Likely benign etiology. Routine follow-up recommended.,Further evaluation suggested if symptoms persist.
+154,Mild cardiomegaly noted. No pleural effusion.,Findings are consistent with early congestive heart failure.,Normal structural limits.
+155,Lungs appear clear. No focal consolidation.,No evidence of acute fracture or dislocation.,No acute findings.
+156,Mild cardiomegaly noted. No pleural effusion.,Unremarkable study.,no acute findings.
+158,Soft tissues are unremarkable.,Findings are consistent with early congestive heart failure.,Recommend clinical correlation.
+159,Mild cardiomegaly noted. No pleural effusion.,Unremarkable study.,Normal structural limits.
+160,Soft tissues are unremarkable.,Findings are consistent with early congestive heart failure.,Further evaluation suggested if symptoms persist.
+161,Soft tissues are unremarkable.,No major effusion detected.,No acute findings.
+162,Lungs appear clear. No focal consolidation.,Unremarkable study.,Recommend clinical correlation.
+163,Mild degenerative changes in the lumbar spine.,Findings are consistent with early congestive heart failure.,No acute findings.
+164,Mild cardiomegaly noted. No pleural effusion.,No evidence of acute fracture or dislocation.,Further evaluation suggested if symptoms persist.
+165,Mild degenerative changes in the lumbar spine.,Unremarkable study.,Further evaluation suggested if symptoms persist.
+166,No acute bony abnormalities identified.,,Stable compared to prior imaging.
+167,Lungs appear clear. No focal consolidation.,No major effusion detected.,No acute findings.
+169,Soft tissues are unremarkable.,Findings are consistent with early congestive heart failure.,Stable compared to prior imaging.
+170,Lungs appear clear. No focal consolidation.,Findings are consistent with early congestive heart failure.,Normal structural limits.
+171,Lungs appear clear. No focal consolidation.,Likely benign etiology. Routine follow-up recommended.,Recommend clinical correlation.
+172,Mild cardiomegaly noted. No pleural effusion.,No major effusion detected.,Further evaluation suggested if symptoms persist.
+173,Soft tissues are unremarkable.,Likely benign etiology. Routine follow-up recommended.,Recommend clinical correlation.
+174,No acute bony abnormalities identified.,No evidence of acute fracture or dislocation.,Stable compared to prior imaging.
+175,Soft tissues are unremarkable.,,Stable compared to prior imaging.
+176,Lungs appear clear. No focal consolidation.,No major effusion detected.,Stable compared to prior imaging.
+177,Mild cardiomegaly noted. No pleural effusion.,No evidence of acute fracture or dislocation.,No acute findings.
+178,Soft tissues are unremarkable.,No evidence of acute fracture or dislocation.,Further evaluation suggested if symptoms persist.
+179,Mild cardiomegaly noted. No pleural effusion.,Unremarkable study.,Stable compared to prior imaging.
+180,Mild cardiomegaly noted. No pleural effusion.,Unremarkable study.,Normal structural limits.
+181,Mild cardiomegaly noted. No pleural effusion.,Findings are consistent with early congestive heart failure.,No acute findings.
+182,Mild cardiomegaly noted. No pleural effusion.,No evidence of acute fracture or dislocation.,Recommend clinical correlation.
+183,Mild cardiomegaly noted. No pleural effusion.,No evidence of acute fracture or dislocation.,Further evaluation suggested if symptoms persist.
+184,Mild degenerative changes in the lumbar spine.,No major effusion detected.,No acute findings.
+185,Soft tissues are unremarkable.,Findings are consistent with early congestive heart failure.,Stable compared to prior imaging.
+186,Mild cardiomegaly noted. No pleural effusion.,Likely benign etiology. Routine follow-up recommended.,Further evaluation suggested if symptoms persist.
+189,Soft tissues are unremarkable.,Findings are consistent with early congestive heart failure.,Stable compared to prior imaging.
+190,Mild degenerative changes in the lumbar spine.,No evidence of acute fracture or dislocation.,Normal structural limits.
+191,No acute bony abnormalities identified.,Unremarkable study.,Further evaluation suggested if symptoms persist.
+192,Soft tissues are unremarkable.,No evidence of acute fracture or dislocation.,Recommend clinical correlation.
+193,Mild degenerative changes in the lumbar spine.,Unremarkable study.,Further evaluation suggested if symptoms persist.
+194,Lungs appear clear. No focal consolidation.,Unremarkable study.,Stable compared to prior imaging.
+195,Soft tissues are unremarkable.,Likely benign etiology. Routine follow-up recommended.,Recommend clinical correlation.
+196,Soft tissues are unremarkable.,Unremarkable study.,Normal structural limits.
+197,No acute bony abnormalities identified.,Unremarkable study.,No acute findings.
+198,Mild degenerative changes in the lumbar spine.,Unremarkable study.,No acute findings.
+199,Mild degenerative changes in the lumbar spine.,Findings are consistent with early congestive heart failure.,Recommend clinical correlation.
+200,Mild cardiomegaly noted. No pleural effusion.,Likely benign etiology. Routine follow-up recommended.,Further evaluation suggested if symptoms persist.
+201,No acute bony abnormalities identified.,Likely benign etiology. Routine follow-up recommended.,Stable compared to prior imaging.
+202,Mild degenerative changes in the lumbar spine.,No major effusion detected.,Recommend clinical correlation.
+203,Lungs appear clear. No focal consolidation.,Unremarkable study.,Further evaluation suggested if symptoms persist.
+204,Lungs appear clear. No focal consolidation.,Unremarkable study.,Recommend clinical correlation.
+205,Mild degenerative changes in the lumbar spine.,Findings are consistent with early congestive heart failure.,Further evaluation suggested if symptoms persist.
+207,Mild cardiomegaly noted. No pleural effusion.,No major effusion detected.,Further evaluation suggested if symptoms persist.
+208,No acute bony abnormalities identified.,Findings are consistent with early congestive heart failure.,Recommend clinical correlation.
+209,No acute bony abnormalities identified.,,Recommend clinical correlation.
+210,Mild cardiomegaly noted. No pleural effusion.,No evidence of acute fracture or dislocation.,Stable compared to prior imaging.
+211,No acute bony abnormalities identified.,Likely benign etiology. Routine follow-up recommended.,Normal structural limits.
+212,Mild cardiomegaly noted. No pleural effusion.,Likely benign etiology. Routine follow-up recommended.,No acute findings.
+213,Mild cardiomegaly noted. No pleural effusion.,Findings are consistent with early congestive heart failure.,No acute findings.
+214,Lungs appear clear. No focal consolidation.,Findings are consistent with early congestive heart failure.,Further evaluation suggested if symptoms persist.
+215,No acute bony abnormalities identified.,Unremarkable study.,No acute findings.
+217,Mild degenerative changes in the lumbar spine.,Findings are consistent with early congestive heart failure.,Recommend clinical correlation.
+218,Lungs appear clear. No focal consolidation.,No evidence of acute fracture or dislocation.,No acute findings.
+219,No acute bony abnormalities identified.,No major effusion detected.,Normal structural limits.
+220,Soft tissues are unremarkable.,No major effusion detected.,Normal structural limits.
+221,Mild cardiomegaly noted. No pleural effusion.,Likely benign etiology. Routine follow-up recommended.,Recommend clinical correlation.
+222,Lungs appear clear. No focal consolidation.,Unremarkable study.,No acute findings.
+223,Lungs appear clear. No focal consolidation.,Likely benign etiology. Routine follow-up recommended.,Further evaluation suggested if symptoms persist.
+224,Soft tissues are unremarkable.,Findings are consistent with early congestive heart failure.,Recommend clinical correlation.
+225,Soft tissues are unremarkable.,Findings are consistent with early congestive heart failure.,No acute findings.
+226,No acute bony abnormalities identified.,Findings are consistent with early congestive heart failure.,No acute findings.
+227,Soft tissues are unremarkable.,Unremarkable study.,Further evaluation suggested if symptoms persist.
+228,Lungs appear clear. No focal consolidation.,Findings are consistent with early congestive heart failure.,Normal structural limits.
+229,Mild degenerative changes in the lumbar spine.,Unremarkable study.,NO ACUTE FINDINGS.
+230,Mild cardiomegaly noted. No pleural effusion.,Findings are consistent with early congestive heart failure.,Stable compared to prior imaging.
+231,Mild cardiomegaly noted. No pleural effusion.,Likely benign etiology. Routine follow-up recommended.,Stable compared to prior imaging.
+232,No acute bony abnormalities identified.,No evidence of acute fracture or dislocation.,Recommend clinical correlation.
+234,Mild degenerative changes in the lumbar spine.,Unremarkable study.,Recommend clinical correlation.
+235,Mild degenerative changes in the lumbar spine.,No major effusion detected.,Recommend clinical correlation.
+236,Mild degenerative changes in the lumbar spine.,No evidence of acute fracture or dislocation.,Normal structural limits.
+237,Soft tissues are unremarkable.,No major effusion detected.,Recommend clinical correlation.
+238,Mild cardiomegaly noted. No pleural effusion.,Unremarkable study.,No acute findings.
+239,No acute bony abnormalities identified.,Unremarkable study.,Stable compared to prior imaging.
+240,Mild cardiomegaly noted. No pleural effusion.,No major effusion detected.,Stable compared to prior imaging.
+242,Mild cardiomegaly noted. No pleural effusion.,Findings are consistent with early congestive heart failure.,Stable compared to prior imaging.
+243,Mild cardiomegaly noted. No pleural effusion.,Unremarkable study.,Normal structural limits.
+244,Mild degenerative changes in the lumbar spine.,Likely benign etiology. Routine follow-up recommended.,Further evaluation suggested if symptoms persist.
+245,Mild degenerative changes in the lumbar spine.,Likely benign etiology. Routine follow-up recommended.,Stable compared to prior imaging.
+248,Mild cardiomegaly noted. No pleural effusion.,Likely benign etiology. Routine follow-up recommended.,Further evaluation suggested if symptoms persist.
+249,Lungs appear clear. No focal consolidation.,No evidence of acute fracture or dislocation.,Stable compared to prior imaging.
+250,Mild cardiomegaly noted. No pleural effusion.,Unremarkable study.,Recommend clinical correlation.
+251,No acute bony abnormalities identified.,Findings are consistent with early congestive heart failure.,Recommend clinical correlation.
+252,Mild degenerative changes in the lumbar spine.,Likely benign etiology. Routine follow-up recommended.,Stable compared to prior imaging.
+253,Mild cardiomegaly noted. No pleural effusion.,No major effusion detected.,Further evaluation suggested if symptoms persist.
+254,Mild degenerative changes in the lumbar spine.,No major effusion detected.,Normal structural limits.
+255,Soft tissues are unremarkable.,No evidence of acute fracture or dislocation.,Stable compared to prior imaging.
+257,Mild degenerative changes in the lumbar spine.,Unremarkable study.,Further evaluation suggested if symptoms persist.
+258,Mild cardiomegaly noted. No pleural effusion.,No major effusion detected.,Normal structural limits.
+259,No acute bony abnormalities identified.,No major effusion detected.,No acute findings.
+260,Soft tissues are unremarkable.,No major effusion detected.,No acute findings.
+261,Mild cardiomegaly noted. No pleural effusion.,Findings are consistent with early congestive heart failure.,Normal structural limits.
+262,Soft tissues are unremarkable.,No evidence of acute fracture or dislocation.,Normal structural limits.
+263,Mild cardiomegaly noted. No pleural effusion.,Unremarkable study.,Stable compared to prior imaging.
+264,Soft tissues are unremarkable.,No evidence of acute fracture or dislocation.,Recommend clinical correlation.
+265,No acute bony abnormalities identified.,No evidence of acute fracture or dislocation.,Stable compared to prior imaging.
+266,Soft tissues are unremarkable.,No major effusion detected.,No acute findings.
+267,Soft tissues are unremarkable.,Likely benign etiology. Routine follow-up recommended.,No acute findings.
+269,Lungs appear clear. No focal consolidation.,No major effusion detected.,Stable compared to prior imaging.
+270,Mild cardiomegaly noted. No pleural effusion.,No major effusion detected.,Further evaluation suggested if symptoms persist.
+271,Soft tissues are unremarkable.,Findings are consistent with early congestive heart failure.,No acute findings.
+272,Lungs appear clear. No focal consolidation.,Findings are consistent with early congestive heart failure.,No acute findings.
+273,Mild cardiomegaly noted. No pleural effusion.,No evidence of acute fracture or dislocation.,Normal structural limits.
+274,Mild cardiomegaly noted. No pleural effusion.,Likely benign etiology. Routine follow-up recommended.,Further evaluation suggested if symptoms persist.
+275,No acute bony abnormalities identified.,No major effusion detected.,Normal structural limits.

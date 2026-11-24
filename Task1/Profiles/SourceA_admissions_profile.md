@@ -48,11 +48,11 @@ admitting_professional_id    0
 
 ===== SAMPLE RECORDS =====
       admission_id  patient_id  admission_date_time  discharge_date_time admission_type admission_source reason_admission insurance_information current_condition  admitting_professional_id
-1065          1066         669  2026-07-02 22:30:00  2026-07-08 22:30:00       Elective         Transfer   Abdominal Pain                   NaN            Stable                         13
-725            726         275  2026-08-16 07:00:00  2026-08-22 07:00:00         Urgent         Transfer          Syncope     Private Insurance         Improving                          4
-361            362         797  2026-07-23 12:15:00  2026-08-01 12:15:00       Elective         Transfer          Syncope     Private Insurance         Improving                          8
-7                8         345  2026-07-27 12:45:00  2026-08-03 12:45:00       Elective          Walk-in   Abdominal Pain                   NaN          Critical                         14
-1105          1106         416  2026-06-28 00:15:00  2026-07-01 00:15:00    Observation   Emergency Room       Chest Pain              Self-pay         Improving                         10
+982            983         685  2026-05-10 14:15:00  2026-05-11 14:15:00    Observation         Transfer            Fever         Public (RAMQ)       Observation                          1
+999           1000         551  2026-08-20 14:00:00  2026-08-23 14:00:00         Urgent          Walk-in   Abdominal Pain         Public (RAMQ)         Improving                          6
+1001          1002         756  2026-08-13 15:00:00  2026-08-16 15:00:00         Urgent          Walk-in            Fever                   NaN       Observation                          6
+831            832         471  2026-08-20 19:45:00  2026-08-25 19:45:00         Urgent         Transfer            Fever         Public (RAMQ)            Stable                          6
+894            895          85  2026-04-22 22:45:00  2026-04-28 22:45:00    Observation   Emergency Room          Syncope         Public (RAMQ)       Observation                          2
 
 ===== SUMMARY STATISTICS =====
         admission_id   patient_id  admission_date_time  discharge_date_time admission_type admission_source reason_admission insurance_information current_condition  admitting_professional_id

@@ -36,11 +36,11 @@ discharging_doctor_mrn    0
 
 ===== SAMPLE RECORDS =====
       discharge_id  visit_id discharge_datetime disposition_code followup_date discharging_doctor_mrn
-648            649       674   23/08/2026 17:00              EXP           NaN              MRN-10005
-960            961      1001   02/06/2026 15:00              EXP           NaN              MRN-10002
-1122          1123      1173   14/04/2026 00:00             HOME    28/04/2026              MRN-10002
-308            309       317   07/06/2026 05:00            REHAB    21/06/2026              MRN-10003
-141            142       147   16/08/2026 06:00             HOME    30/08/2026              MRN-10004
+825            826       860   06/08/2026 19:00              EXP           NaN              MRN-10013
+1064          1065      1111   21/04/2026 21:00              SNF    05/05/2026              MRN-10002
+1048          1049      1094   29/06/2026 11:00              EXP           NaN              MRN-10008
+231            232       239   10/08/2026 08:00             HOME           NaN              MRN-10008
+747            748       777   31/07/2026 02:00              EXP           NaN              MRN-10014
 
 ===== SUMMARY STATISTICS =====
         discharge_id     visit_id discharge_datetime disposition_code followup_date discharging_doctor_mrn

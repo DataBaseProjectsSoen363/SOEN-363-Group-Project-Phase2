@@ -32,12 +32,12 @@ license_number     0
 0
 
 ===== SAMPLE RECORDS =====
-    professional_id          full_name       role          specialty license_number
-20               21   Michael Tremblay      Nurse                NaN       RN-80069
-2                 3   Dr. Robert Brown  Physician    General Surgery       MD-39260
-13               14  Dr. Jessica Jones  Physician                NaN       MD-70515
-5                 6     Dr. John Smith  Physician  Internal Medicine       MD-81793
-4                 5  Dr. Michael Brown  Physician         Cardiology       MD-83434
+    professional_id            full_name       role        specialty license_number
+21               22      Rachel Williams      Nurse              NaN       RN-77566
+1                 2    Dr. Daniel Taylor  Physician       Cardiology       MD-19156
+11               12  Dr. Amelie Williams  physician  General Surgery       MD-69795
+17               18         Robert Jones      Nurse              NaN       RN-57024
+23               24          David Brown      Nurse              NaN       RN-23570
 
 ===== SUMMARY STATISTICS =====
         professional_id            full_name       role   specialty license_number

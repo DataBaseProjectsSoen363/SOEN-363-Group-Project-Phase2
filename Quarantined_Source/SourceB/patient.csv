@@ -1,0 +1,11 @@
+patient_id,name,health_insurance_number,date_birth,gender,phone_number,address,_source,_table,_source_row,_reason,_missing_required_fields
+MRN-95233,Zoe Laurent,INS-222238,24/11/1996,F,01-69-40-22-26,"84 Rue de la Paix, Toulouse",B,patient,123,conflicting_entity_key:patient_id,
+MRN-62566,Ethan Leroy,INS-766201,06/09/1955,F,01-13-84-43-57,"86 Rue Victor Hugo, Paris",B,patient,274,conflicting_entity_key:patient_id,
+MRN-62566,Ethan Michel,INS-689002,14/10/1970,F,01-18-45-19-40,"12 Rue de la Paix, Lyon",B,patient,306,conflicting_entity_key:patient_id,
+MRN-12746,Lucas Simon,INS-327116,30/06/1971,F,01-88-63-80-43,"42 Rue de la Paix, Paris",B,patient,389,conflicting_entity_key:patient_id,
+MRN-29014,Noah Leroy,INS-273112,11/09/1966,F,01-79-90-44-97,"84 Rue Pasteur, Toulouse",B,patient,403,conflicting_entity_key:patient_id,
+MRN-95233,Mia Leroy,INS-647820,20/07/1978,F,01-48-93-41-57,"9 Rue de la Paix, Marseille",B,patient,410,conflicting_entity_key:patient_id,
+MRN-29014,Ava Leroy,INS-610434,14/04/1956,F,01-57-88-87-79,"66 Rue Victor Hugo, Lyon",B,patient,417,conflicting_entity_key:patient_id,
+MRN-18460,Ethan Laurent,INS-478955,11/03/1995,F,01-51-71-87-49,"34 Rue Victor Hugo, Nice",B,patient,712,conflicting_entity_key:patient_id,
+MRN-12746,Ava Simon,INS-497058,25/05/1966,F,01-67-16-42-53,"90 Rue de la Paix, Nice",B,patient,732,conflicting_entity_key:patient_id,
+MRN-18460,Ava Dubois,INS-913587,31/01/1947,M,N/A,"10 Rue Victor Hugo, Marseille",B,patient,795,conflicting_entity_key:patient_id,

@@ -1,0 +1,1099 @@
+triage_id,admission_id,nurse_id,symptoms,triage_priority_level,heart_rate,oxygen_saturation,blood_pressure,_source,_table,_source_row,triage_scheme,_time_basis,bp_systolic,bp_diastolic
+1,1,16,"[""Nausea"", ""Shortness of Breath""]",ESI-5,75,96,107/66,D,triage_assessment,1,ESI,UTC,107,66
+2,2,18,"[""Nausea"", ""Fatigue"", ""Chest Pain""]",ESI-3,99,98,126/86,D,triage_assessment,2,ESI,UTC,126,86
+3,3,20,"[""Shortness of Breath"", ""Chest Pain"", ""Dizziness""]",ESI-4,78,95,101/68,D,triage_assessment,3,ESI,UTC,101,68
+4,4,16,"[""Fatigue""]",ESI-2,84,100,133/77,D,triage_assessment,4,ESI,UTC,133,77
+5,5,18,"[""Shortness of Breath"", ""Chest Pain""]",ESI-5,99,97,137/79,D,triage_assessment,5,ESI,UTC,137,79
+6,6,25,"[""Fatigue"", ""Chest Pain"", ""Shortness of Breath""]",ESI-3,69,95,107/82,D,triage_assessment,6,ESI,UTC,107,82
+7,7,21,"[""Shortness of Breath"", ""Dizziness"", ""Fatigue""]",ESI-5,77,100,126/66,D,triage_assessment,7,ESI,UTC,126,66
+8,8,23,"[""Shortness of Breath"", ""Chest Pain""]",ESI-5,91,100,116/60,D,triage_assessment,8,ESI,UTC,116,60
+9,9,24,"[""Chest Pain""]",ESI-3,67,96,131/88,D,triage_assessment,9,ESI,UTC,131,88
+11,11,24,"[""Dizziness"", ""Shortness of Breath"", ""Chest Pain""]",ESI-5,66,99,139/65,D,triage_assessment,11,ESI,UTC,139,65
+12,12,17,"[""Fatigue""]",ESI-2,92,96,130/65,D,triage_assessment,12,ESI,UTC,130,65
+14,14,22,"[""Nausea"", ""Chest Pain""]",ESI-1,64,96,138/84,D,triage_assessment,14,ESI,UTC,138,84
+15,15,24,"[""Dizziness""]",ESI-1,80,97,111/63,D,triage_assessment,15,ESI,UTC,111,63
+16,16,16,"[""Fatigue""]",ESI-2,85,98,112/65,D,triage_assessment,16,ESI,UTC,112,65
+17,17,23,"[""Fatigue"", ""Nausea"", ""Chest Pain""]",ESI-2,75,99,133/69,D,triage_assessment,17,ESI,UTC,133,69
+19,19,25,"[""Dizziness""]",ESI-1,97,99,128/73,D,triage_assessment,19,ESI,UTC,128,73
+20,20,19,"[""Shortness of Breath"", ""Fatigue"", ""Chest Pain""]",ESI-3,93,98,126/89,D,triage_assessment,20,ESI,UTC,126,89
+21,21,23,"[""Dizziness"", ""Shortness of Breath""]",ESI-4,100,96,139/65,D,triage_assessment,21,ESI,UTC,139,65
+22,22,,"[""Dizziness""]",ESI-4,79,99,118/78,D,triage_assessment,22,ESI,UTC,118,78
+23,23,25,"[""Chest Pain"", ""Nausea""]",ESI-5,78,95,138/89,D,triage_assessment,23,ESI,UTC,138,89
+24,24,20,"[""Chest Pain"", ""Dizziness""]",ESI-5,76,96,128/62,D,triage_assessment,24,ESI,UTC,128,62
+25,25,24,"[""Chest Pain"", ""Nausea"", ""Shortness of Breath""]",ESI-2,70,98,108/69,D,triage_assessment,25,ESI,UTC,108,69
+26,26,24,"[""Dizziness"", ""Shortness of Breath"", ""Fatigue""]",ESI-5,87,99,133/84,D,triage_assessment,26,ESI,UTC,133,84
+27,27,17,"[""Chest Pain"", ""Nausea"", ""Fatigue""]",ESI-1,64,99,125/84,D,triage_assessment,27,ESI,UTC,125,84
+28,28,16,"[""Nausea"", ""Fatigue"", ""Dizziness""]",ESI-1,80,100,122/65,D,triage_assessment,28,ESI,UTC,122,65
+29,29,25,"[""Nausea"", ""Shortness of Breath""]",ESI-3,72,98,120/63,D,triage_assessment,29,ESI,UTC,120,63
+30,30,19,"[""Dizziness"", ""Chest Pain"", ""Nausea""]",ESI-4,95,95,121/68,D,triage_assessment,30,ESI,UTC,121,68
+31,31,19,"[""Shortness of Breath"", ""Nausea""]",ESI-5,79,97,132/64,D,triage_assessment,31,ESI,UTC,132,64
+32,32,20,"[""Shortness of Breath"", ""Fatigue"", ""Chest Pain""]",ESI-4,77,97,117/65,D,triage_assessment,32,ESI,UTC,117,65
+33,33,16,"[""Fatigue"", ""Dizziness""]",ESI-1,64,100,114/72,D,triage_assessment,33,ESI,UTC,114,72
+34,34,17,"[""Shortness of Breath"", ""Dizziness""]",ESI-5,75,97,129/77,D,triage_assessment,34,ESI,UTC,129,77
+35,35,25,"[""Nausea"", ""Dizziness"", ""Chest Pain""]",ESI-4,62,97,117/64,D,triage_assessment,35,ESI,UTC,117,64
+36,36,,"[""Chest Pain""]",ESI-1,70,98,127/62,D,triage_assessment,36,ESI,UTC,127,62
+37,37,21,"[""Shortness of Breath"", ""Nausea"", ""Dizziness""]",ESI-1,86,100,128/85,D,triage_assessment,37,ESI,UTC,128,85
+38,38,17,"[""Shortness of Breath"", ""Fatigue""]",ESI-5,88,96,120/78,D,triage_assessment,38,ESI,UTC,120,78
+39,39,25,"[""Dizziness"", ""Nausea""]",ESI-5,68,98,127/82,D,triage_assessment,39,ESI,UTC,127,82
+40,40,25,"[""Dizziness"", ""Fatigue"", ""Shortness of Breath""]",ESI-3,71,98,132/73,D,triage_assessment,40,ESI,UTC,132,73
+41,41,20,"[""Nausea"", ""Dizziness""]",ESI-2,94,99,129/80,D,triage_assessment,41,ESI,UTC,129,80
+42,42,16,"[""Dizziness"", ""Nausea""]",ESI-1,93,97,116/75,D,triage_assessment,42,ESI,UTC,116,75
+43,43,25,"[""Fatigue"", ""Shortness of Breath"", ""Chest Pain""]",ESI-4,92,95,125/90,D,triage_assessment,43,ESI,UTC,125,90
+45,45,24,"[""Shortness of Breath"", ""Dizziness"", ""Chest Pain""]",ESI-5,97,100,131/77,D,triage_assessment,45,ESI,UTC,131,77
+46,46,18,"[""Dizziness"", ""Shortness of Breath"", ""Fatigue""]",ESI-4,94,95,135/87,D,triage_assessment,46,ESI,UTC,135,87
+47,47,21,"[""Dizziness""]",ESI-2,99,100,122/89,D,triage_assessment,47,ESI,UTC,122,89
+48,48,21,"[""Shortness of Breath"", ""Dizziness""]",ESI-2,82,100,109/62,D,triage_assessment,48,ESI,UTC,109,62
+49,49,19,"[""Fatigue"", ""Chest Pain""]",ESI-2,66,100,130/70,D,triage_assessment,49,ESI,UTC,130,70
+50,50,25,"[""Chest Pain"", ""Dizziness"", ""Nausea""]",ESI-1,83,96,123/76,D,triage_assessment,50,ESI,UTC,123,76
+51,51,25,"[""Dizziness""]",ESI-4,90,98,131/87,D,triage_assessment,51,ESI,UTC,131,87
+52,52,19,"[""Dizziness"", ""Fatigue"", ""Shortness of Breath""]",ESI-5,67,95,121/86,D,triage_assessment,52,ESI,UTC,121,86
+53,53,22,"[""Dizziness"", ""Fatigue"", ""Nausea""]",ESI-2,92,99,103/73,D,triage_assessment,53,ESI,UTC,103,73
+54,54,17,"[""Nausea"", ""Shortness of Breath"", ""Chest Pain""]",ESI-5,62,100,108/88,D,triage_assessment,54,ESI,UTC,108,88
+55,55,16,"[""Chest Pain""]",ESI-4,77,98,136/71,D,triage_assessment,55,ESI,UTC,136,71
+56,56,22,"[""Shortness of Breath"", ""Chest Pain"", ""Fatigue""]",ESI-2,65,98,127/82,D,triage_assessment,56,ESI,UTC,127,82
+57,57,16,"[""Dizziness"", ""Nausea"", ""Chest Pain""]",ESI-3,95,98,102/60,D,triage_assessment,57,ESI,UTC,102,60
+58,58,20,"[""Dizziness"", ""Chest Pain""]",ESI-4,76,95,120/74,D,triage_assessment,58,ESI,UTC,120,74
+59,59,21,"[""Nausea""]",ESI-3,79,99,112/82,D,triage_assessment,59,ESI,UTC,112,82
+60,60,16,"[""Fatigue"", ""Shortness of Breath"", ""Dizziness""]",ESI-5,64,99,109/63,D,triage_assessment,60,ESI,UTC,109,63
+61,61,22,"[""Dizziness""]",ESI-1,82,99,120/62,D,triage_assessment,61,ESI,UTC,120,62
+62,62,18,"[""Fatigue"", ""Chest Pain""]",ESI-1,66,95,103/73,D,triage_assessment,62,ESI,UTC,103,73
+63,63,22,"[""Shortness of Breath"", ""Fatigue""]",ESI-1,88,98,104/65,D,triage_assessment,63,ESI,UTC,104,65
+64,64,19,"[""Shortness of Breath"", ""Chest Pain"", ""Nausea""]",ESI-1,75,97,114/76,D,triage_assessment,64,ESI,UTC,114,76
+65,65,21,"[""Shortness of Breath""]",ESI-1,87,100,114/84,D,triage_assessment,65,ESI,UTC,114,84
+66,66,21,"[""Chest Pain"", ""Fatigue""]",ESI-5,66,97,129/66,D,triage_assessment,66,ESI,UTC,129,66
+67,67,20,"[""Dizziness"", ""Fatigue"", ""Chest Pain""]",ESI-4,63,97,114/84,D,triage_assessment,67,ESI,UTC,114,84
+68,68,21,"[""Chest Pain""]",ESI-4,95,99,102/63,D,triage_assessment,68,ESI,UTC,102,63
+69,69,21,"[""Chest Pain"", ""Nausea""]",ESI-1,94,95,122/77,D,triage_assessment,69,ESI,UTC,122,77
+70,70,16,"[""Fatigue""]",ESI-4,90,97,102/63,D,triage_assessment,70,ESI,UTC,102,63
+71,71,23,"[""Shortness of Breath"", ""Fatigue""]",ESI-1,67,97,101/77,D,triage_assessment,71,ESI,UTC,101,77
+72,72,17,"[""Chest Pain"", ""Nausea"", ""Shortness of Breath""]",ESI-5,71,98,109/73,D,triage_assessment,72,ESI,UTC,109,73
+73,73,23,"[""Nausea"", ""Chest Pain"", ""Dizziness""]",ESI-5,65,96,105/60,D,triage_assessment,73,ESI,UTC,105,60
+74,74,24,"[""Chest Pain"", ""Dizziness"", ""Nausea""]",ESI-4,93,95,102/77,D,triage_assessment,74,ESI,UTC,102,77
+75,75,25,"[""Chest Pain"", ""Shortness of Breath""]",ESI-2,80,99,111/80,D,triage_assessment,75,ESI,UTC,111,80
+77,77,17,"[""Nausea""]",ESI-3,63,96,118/65,D,triage_assessment,77,ESI,UTC,118,65
+78,78,18,"[""Nausea""]",ESI-1,88,98,127/88,D,triage_assessment,78,ESI,UTC,127,88
+79,79,24,"[""Fatigue"", ""Dizziness""]",ESI-5,84,96,112/83,D,triage_assessment,79,ESI,UTC,112,83
+80,80,17,"[""Dizziness"", ""Nausea"", ""Fatigue""]",ESI-1,81,99,124/86,D,triage_assessment,80,ESI,UTC,124,86
+81,81,22,"[""Shortness of Breath""]",ESI-4,75,99,134/63,D,triage_assessment,81,ESI,UTC,134,63
+82,82,18,"[""Shortness of Breath""]",ESI-2,95,95,132/61,D,triage_assessment,82,ESI,UTC,132,61
+84,84,21,"[""Dizziness"", ""Nausea"", ""Chest Pain""]",ESI-4,68,96,109/86,D,triage_assessment,84,ESI,UTC,109,86
+85,85,20,"[""Dizziness"", ""Fatigue"", ""Shortness of Breath""]",ESI-1,85,96,137/74,D,triage_assessment,85,ESI,UTC,137,74
+86,86,25,"[""Dizziness""]",ESI-1,97,97,117/72,D,triage_assessment,86,ESI,UTC,117,72
+87,87,24,"[""Fatigue""]",ESI-1,79,97,130/68,D,triage_assessment,87,ESI,UTC,130,68
+88,88,23,"[""Dizziness""]",ESI-3,81,98,111/68,D,triage_assessment,88,ESI,UTC,111,68
+89,89,,"[""Dizziness"", ""Nausea"", ""Shortness of Breath""]",ESI-1,80,97,115/60,D,triage_assessment,89,ESI,UTC,115,60
+90,90,17,"[""Nausea"", ""Fatigue"", ""Chest Pain""]",ESI-4,62,97,127/78,D,triage_assessment,90,ESI,UTC,127,78
+91,91,21,"[""Dizziness"", ""Fatigue"", ""Chest Pain""]",ESI-2,71,97,126/84,D,triage_assessment,91,ESI,UTC,126,84
+92,92,17,"[""Fatigue"", ""Nausea""]",ESI-1,100,98,115/66,D,triage_assessment,92,ESI,UTC,115,66
+93,93,21,"[""Dizziness"", ""Nausea""]",ESI-2,63,97,106/67,D,triage_assessment,93,ESI,UTC,106,67
+94,94,25,"[""Nausea"", ""Fatigue"", ""Chest Pain""]",ESI-4,76,100,102/88,D,triage_assessment,94,ESI,UTC,102,88
+95,95,17,"[""Dizziness"", ""Nausea"", ""Shortness of Breath""]",ESI-4,94,96,128/83,D,triage_assessment,95,ESI,UTC,128,83
+96,96,19,"[""Nausea""]",ESI-1,72,95,138/65,D,triage_assessment,96,ESI,UTC,138,65
+97,97,21,"[""Fatigue"", ""Shortness of Breath"", ""Nausea""]",ESI-3,84,97,122/88,D,triage_assessment,97,ESI,UTC,122,88
+98,98,23,"[""Fatigue"", ""Chest Pain""]",ESI-1,75,100,137/61,D,triage_assessment,98,ESI,UTC,137,61
+99,99,16,"[""Fatigue"", ""Chest Pain""]",ESI-3,85,100,132/71,D,triage_assessment,99,ESI,UTC,132,71
+100,100,24,"[""Fatigue"", ""Shortness of Breath"", ""Nausea""]",ESI-5,61,100,134/75,D,triage_assessment,100,ESI,UTC,134,75
+101,101,16,"[""Shortness of Breath""]",ESI-1,79,99,109/77,D,triage_assessment,101,ESI,UTC,109,77
+102,102,18,"[""Nausea"", ""Shortness of Breath"", ""Chest Pain""]",ESI-5,78,98,131/73,D,triage_assessment,102,ESI,UTC,131,73
+103,103,23,"[""Fatigue"", ""Dizziness""]",ESI-5,87,95,106/79,D,triage_assessment,103,ESI,UTC,106,79
+104,104,24,"[""Dizziness""]",ESI-5,62,97,107/86,D,triage_assessment,104,ESI,UTC,107,86
+105,105,22,"[""Dizziness"", ""Nausea""]",ESI-2,83,99,106/89,D,triage_assessment,105,ESI,UTC,106,89
+106,106,21,"[""Nausea"", ""Fatigue""]",ESI-5,69,99,131/89,D,triage_assessment,106,ESI,UTC,131,89
+107,107,22,"[""Chest Pain"", ""Nausea"", ""Fatigue""]",ESI-2,81,100,123/63,D,triage_assessment,107,ESI,UTC,123,63
+108,108,24,"[""Nausea""]",ESI-4,68,97,114/68,D,triage_assessment,108,ESI,UTC,114,68
+110,110,16,"[""Nausea"", ""Dizziness""]",ESI-3,78,95,112/72,D,triage_assessment,110,ESI,UTC,112,72
+111,111,16,"[""Shortness of Breath"", ""Fatigue""]",ESI-2,74,96,115/62,D,triage_assessment,111,ESI,UTC,115,62
+112,112,18,"[""Dizziness"", ""Chest Pain""]",ESI-3,94,99,140/68,D,triage_assessment,112,ESI,UTC,140,68
+113,113,19,"[""Chest Pain""]",ESI-3,69,96,120/72,D,triage_assessment,113,ESI,UTC,120,72
+114,114,20,"[""Dizziness""]",ESI-3,85,95,121/77,D,triage_assessment,114,ESI,UTC,121,77
+116,116,25,"[""Fatigue""]",ESI-3,60,96,129/61,D,triage_assessment,116,ESI,UTC,129,61
+117,117,20,"[""Fatigue"", ""Chest Pain"", ""Dizziness""]",ESI-4,95,96,116/74,D,triage_assessment,117,ESI,UTC,116,74
+118,118,19,"[""Fatigue"", ""Shortness of Breath"", ""Dizziness""]",ESI-4,64,97,125/67,D,triage_assessment,118,ESI,UTC,125,67
+119,119,24,"[""Nausea"", ""Dizziness""]",ESI-4,94,97,105/88,D,triage_assessment,119,ESI,UTC,105,88
+120,120,19,"[""Fatigue"", ""Shortness of Breath""]",ESI-2,62,98,118/81,D,triage_assessment,120,ESI,UTC,118,81
+121,121,23,"[""Nausea"", ""Shortness of Breath""]",ESI-3,64,95,126/76,D,triage_assessment,121,ESI,UTC,126,76
+122,122,25,"[""Fatigue"", ""Shortness of Breath""]",ESI-3,86,100,122/62,D,triage_assessment,122,ESI,UTC,122,62
+123,123,20,"[""Nausea""]",ESI-5,83,95,117/87,D,triage_assessment,123,ESI,UTC,117,87
+124,124,25,"[""Nausea"", ""Dizziness"", ""Fatigue""]",ESI-3,78,99,138/72,D,triage_assessment,124,ESI,UTC,138,72
+125,125,17,"[""Fatigue""]",ESI-5,77,96,109/69,D,triage_assessment,125,ESI,UTC,109,69
+126,126,23,"[""Chest Pain"", ""Fatigue""]",ESI-4,91,96,110/64,D,triage_assessment,126,ESI,UTC,110,64
+127,127,18,"[""Nausea"", ""Dizziness"", ""Chest Pain""]",ESI-5,60,96,123/78,D,triage_assessment,127,ESI,UTC,123,78
+128,128,18,"[""Dizziness""]",ESI-3,76,99,127/64,D,triage_assessment,128,ESI,UTC,127,64
+129,129,25,"[""Chest Pain"", ""Shortness of Breath"", ""Fatigue""]",ESI-1,67,97,118/81,D,triage_assessment,129,ESI,UTC,118,81
+130,130,21,"[""Chest Pain"", ""Shortness of Breath"", ""Fatigue""]",ESI-4,77,98,128/69,D,triage_assessment,130,ESI,UTC,128,69
+131,131,20,"[""Shortness of Breath"", ""Dizziness"", ""Nausea""]",ESI-3,87,97,123/62,D,triage_assessment,131,ESI,UTC,123,62
+132,132,25,"[""Dizziness""]",ESI-1,73,100,129/86,D,triage_assessment,132,ESI,UTC,129,86
+133,133,25,"[""Nausea"", ""Chest Pain"", ""Shortness of Breath""]",ESI-5,99,99,121/63,D,triage_assessment,133,ESI,UTC,121,63
+135,135,24,"[""Nausea"", ""Dizziness""]",ESI-1,96,96,122/69,D,triage_assessment,135,ESI,UTC,122,69
+136,136,18,"[""Nausea"", ""Fatigue""]",ESI-3,87,96,105/86,D,triage_assessment,136,ESI,UTC,105,86
+137,137,25,"[""Chest Pain"", ""Dizziness"", ""Nausea""]",ESI-1,62,96,120/76,D,triage_assessment,137,ESI,UTC,120,76
+139,139,20,"[""Shortness of Breath"", ""Chest Pain""]",ESI-1,99,100,123/75,D,triage_assessment,139,ESI,UTC,123,75
+140,140,24,"[""Chest Pain"", ""Fatigue"", ""Shortness of Breath""]",ESI-1,69,96,139/60,D,triage_assessment,140,ESI,UTC,139,60
+141,141,19,"[""Fatigue"", ""Shortness of Breath""]",ESI-2,61,98,131/66,D,triage_assessment,141,ESI,UTC,131,66
+142,142,16,"[""Dizziness"", ""Chest Pain"", ""Fatigue""]",ESI-3,96,96,100/64,D,triage_assessment,142,ESI,UTC,100,64
+144,144,21,"[""Shortness of Breath""]",ESI-4,86,95,107/63,D,triage_assessment,144,ESI,UTC,107,63
+145,145,17,"[""Chest Pain""]",ESI-2,85,100,131/83,D,triage_assessment,145,ESI,UTC,131,83
+147,147,16,"[""Chest Pain""]",ESI-3,67,96,125/82,D,triage_assessment,147,ESI,UTC,125,82
+148,148,17,"[""Nausea"", ""Chest Pain""]",ESI-2,93,96,134/62,D,triage_assessment,148,ESI,UTC,134,62
+149,149,16,"[""Shortness of Breath"", ""Chest Pain"", ""Fatigue""]",ESI-4,86,96,131/62,D,triage_assessment,149,ESI,UTC,131,62
+150,150,20,"[""Shortness of Breath""]",ESI-1,85,97,130/65,D,triage_assessment,150,ESI,UTC,130,65
+151,151,20,"[""Dizziness""]",ESI-2,98,100,123/69,D,triage_assessment,151,ESI,UTC,123,69
+153,153,25,"[""Nausea""]",ESI-2,93,99,135/78,D,triage_assessment,153,ESI,UTC,135,78
+154,154,22,"[""Fatigue"", ""Chest Pain""]",ESI-2,73,97,132/82,D,triage_assessment,154,ESI,UTC,132,82
+155,155,19,"[""Nausea"", ""Fatigue"", ""Shortness of Breath""]",ESI-4,98,95,121/84,D,triage_assessment,155,ESI,UTC,121,84
+156,156,22,"[""Nausea"", ""Chest Pain"", ""Fatigue""]",ESI-1,82,99,103/71,D,triage_assessment,156,ESI,UTC,103,71
+157,157,24,"[""Fatigue"", ""Chest Pain""]",ESI-5,82,97,135/79,D,triage_assessment,157,ESI,UTC,135,79
+158,158,24,"[""Dizziness"", ""Fatigue"", ""Shortness of Breath""]",ESI-1,60,96,127/84,D,triage_assessment,158,ESI,UTC,127,84
+159,159,,"[""Nausea"", ""Fatigue""]",ESI-2,82,98,106/74,D,triage_assessment,159,ESI,UTC,106,74
+160,160,24,"[""Fatigue"", ""Shortness of Breath"", ""Chest Pain""]",ESI-5,77,95,113/60,D,triage_assessment,160,ESI,UTC,113,60
+161,161,19,"[""Dizziness"", ""Chest Pain""]",ESI-4,92,96,123/74,D,triage_assessment,161,ESI,UTC,123,74
+162,162,18,"[""Shortness of Breath"", ""Nausea""]",ESI-1,78,95,134/74,D,triage_assessment,162,ESI,UTC,134,74
+163,163,18,"[""Fatigue""]",ESI-4,81,97,112/78,D,triage_assessment,163,ESI,UTC,112,78
+164,164,25,"[""Dizziness""]",ESI-4,69,99,138/72,D,triage_assessment,164,ESI,UTC,138,72
+165,165,16,"[""Shortness of Breath""]",ESI-3,94,96,135/78,D,triage_assessment,165,ESI,UTC,135,78
+167,167,18,"[""Dizziness""]",ESI-2,71,97,110/84,D,triage_assessment,167,ESI,UTC,110,84
+168,168,,"[""Dizziness"", ""Chest Pain"", ""Fatigue""]",ESI-4,81,98,120/64,D,triage_assessment,168,ESI,UTC,120,64
+170,170,20,"[""Chest Pain"", ""Nausea""]",ESI-1,82,97,105/66,D,triage_assessment,170,ESI,UTC,105,66
+171,171,17,"[""Chest Pain"", ""Dizziness"", ""Fatigue""]",ESI-2,69,99,117/79,D,triage_assessment,171,ESI,UTC,117,79
+172,172,25,"[""Nausea""]",ESI-5,83,95,103/88,D,triage_assessment,172,ESI,UTC,103,88
+173,173,18,"[""Fatigue"", ""Dizziness""]",ESI-4,63,95,131/83,D,triage_assessment,173,ESI,UTC,131,83
+174,174,17,"[""Dizziness""]",ESI-2,94,98,110/78,D,triage_assessment,174,ESI,UTC,110,78
+175,175,18,"[""Fatigue"", ""Chest Pain"", ""Dizziness""]",ESI-1,80,95,137/66,D,triage_assessment,175,ESI,UTC,137,66
+176,176,17,"[""Dizziness""]",ESI-1,86,96,113/68,D,triage_assessment,176,ESI,UTC,113,68
+178,178,23,"[""Shortness of Breath"", ""Chest Pain""]",ESI-5,98,98,107/62,D,triage_assessment,178,ESI,UTC,107,62
+179,179,23,"[""Dizziness""]",ESI-2,88,100,134/79,D,triage_assessment,179,ESI,UTC,134,79
+180,180,23,"[""Dizziness"", ""Chest Pain""]",ESI-2,82,97,129/88,D,triage_assessment,180,ESI,UTC,129,88
+181,181,19,"[""Nausea"", ""Dizziness"", ""Shortness of Breath""]",ESI-4,71,100,130/83,D,triage_assessment,181,ESI,UTC,130,83
+182,182,25,"[""Dizziness"", ""Nausea""]",ESI-5,66,99,107/62,D,triage_assessment,182,ESI,UTC,107,62
+183,183,17,"[""Chest Pain"", ""Fatigue"", ""Shortness of Breath""]",ESI-4,67,95,131/77,D,triage_assessment,183,ESI,UTC,131,77
+184,184,21,"[""Shortness of Breath"", ""Nausea"", ""Fatigue""]",ESI-2,91,97,132/72,D,triage_assessment,184,ESI,UTC,132,72
+185,185,21,"[""Shortness of Breath""]",ESI-4,66,97,127/75,D,triage_assessment,185,ESI,UTC,127,75
+186,186,17,"[""Chest Pain""]",ESI-2,63,100,112/80,D,triage_assessment,186,ESI,UTC,112,80
+187,187,24,"[""Chest Pain"", ""Nausea"", ""Dizziness""]",ESI-2,76,95,118/62,D,triage_assessment,187,ESI,UTC,118,62
+189,189,19,"[""Nausea"", ""Fatigue""]",ESI-1,62,96,115/84,D,triage_assessment,189,ESI,UTC,115,84
+190,190,21,"[""Dizziness""]",ESI-1,78,99,108/70,D,triage_assessment,190,ESI,UTC,108,70
+192,192,,"[""Dizziness""]",ESI-1,66,95,110/68,D,triage_assessment,192,ESI,UTC,110,68
+193,193,,"[""Nausea""]",ESI-4,96,99,113/70,D,triage_assessment,193,ESI,UTC,113,70
+194,194,20,"[""Fatigue"", ""Chest Pain"", ""Shortness of Breath""]",ESI-3,83,99,122/65,D,triage_assessment,194,ESI,UTC,122,65
+195,195,17,"[""Shortness of Breath"", ""Nausea""]",ESI-3,71,98,134/63,D,triage_assessment,195,ESI,UTC,134,63
+196,196,25,"[""Dizziness""]",ESI-1,65,95,119/86,D,triage_assessment,196,ESI,UTC,119,86
+197,197,25,"[""Fatigue""]",ESI-5,67,100,135/90,D,triage_assessment,197,ESI,UTC,135,90
+198,198,22,"[""Nausea""]",ESI-5,81,95,123/87,D,triage_assessment,198,ESI,UTC,123,87
+199,199,19,"[""Shortness of Breath"", ""Dizziness"", ""Nausea""]",ESI-2,61,95,124/90,D,triage_assessment,199,ESI,UTC,124,90
+200,200,20,"[""Chest Pain"", ""Fatigue"", ""Dizziness""]",ESI-3,65,99,114/63,D,triage_assessment,200,ESI,UTC,114,63
+201,201,21,"[""Dizziness"", ""Fatigue""]",ESI-4,79,98,116/65,D,triage_assessment,201,ESI,UTC,116,65
+202,202,19,"[""Shortness of Breath"", ""Nausea""]",ESI-4,68,99,138/90,D,triage_assessment,202,ESI,UTC,138,90
+203,203,24,"[""Dizziness"", ""Fatigue""]",ESI-3,88,96,131/73,D,triage_assessment,203,ESI,UTC,131,73
+204,204,17,"[""Nausea"", ""Fatigue"", ""Chest Pain""]",ESI-2,63,98,115/68,D,triage_assessment,204,ESI,UTC,115,68
+205,205,17,"[""Fatigue"", ""Chest Pain"", ""Shortness of Breath""]",ESI-4,90,96,102/66,D,triage_assessment,205,ESI,UTC,102,66
+206,206,23,"[""Nausea"", ""Chest Pain""]",ESI-4,89,96,103/64,D,triage_assessment,206,ESI,UTC,103,64
+207,207,17,"[""Dizziness""]",ESI-4,72,100,115/89,D,triage_assessment,207,ESI,UTC,115,89
+209,209,25,"[""Fatigue"", ""Chest Pain""]",ESI-2,75,99,108/62,D,triage_assessment,209,ESI,UTC,108,62
+211,211,23,"[""Shortness of Breath""]",ESI-4,87,98,113/78,D,triage_assessment,211,ESI,UTC,113,78
+212,212,19,"[""Chest Pain""]",ESI-1,89,99,108/67,D,triage_assessment,212,ESI,UTC,108,67
+213,213,17,"[""Shortness of Breath""]",ESI-2,76,98,111/73,D,triage_assessment,213,ESI,UTC,111,73
+214,214,25,"[""Dizziness"", ""Nausea""]",ESI-2,100,99,119/73,D,triage_assessment,214,ESI,UTC,119,73
+216,216,23,"[""Chest Pain"", ""Dizziness""]",ESI-1,97,97,122/76,D,triage_assessment,216,ESI,UTC,122,76
+217,217,18,"[""Fatigue""]",ESI-4,70,100,132/71,D,triage_assessment,217,ESI,UTC,132,71
+218,218,25,"[""Fatigue"", ""Dizziness"", ""Shortness of Breath""]",ESI-2,85,98,114/74,D,triage_assessment,218,ESI,UTC,114,74
+219,219,20,"[""Chest Pain"", ""Shortness of Breath""]",ESI-5,65,97,136/67,D,triage_assessment,219,ESI,UTC,136,67
+221,221,23,"[""Nausea"", ""Shortness of Breath"", ""Chest Pain""]",ESI-4,70,96,135/74,D,triage_assessment,221,ESI,UTC,135,74
+222,222,21,"[""Fatigue""]",ESI-4,86,99,134/60,D,triage_assessment,222,ESI,UTC,134,60
+223,223,19,"[""Dizziness"", ""Nausea"", ""Shortness of Breath""]",ESI-2,86,100,101/61,D,triage_assessment,223,ESI,UTC,101,61
+224,224,16,"[""Chest Pain"", ""Nausea""]",ESI-3,75,96,122/62,D,triage_assessment,224,ESI,UTC,122,62
+225,225,23,"[""Shortness of Breath"", ""Nausea""]",ESI-3,80,98,103/73,D,triage_assessment,225,ESI,UTC,103,73
+227,227,16,"[""Dizziness""]",ESI-3,68,96,118/74,D,triage_assessment,227,ESI,UTC,118,74
+228,228,18,"[""Fatigue"", ""Dizziness""]",ESI-4,96,98,128/63,D,triage_assessment,228,ESI,UTC,128,63
+229,229,16,"[""Chest Pain"", ""Shortness of Breath"", ""Fatigue""]",ESI-3,61,100,111/84,D,triage_assessment,229,ESI,UTC,111,84
+230,230,17,"[""Dizziness"", ""Fatigue"", ""Shortness of Breath""]",ESI-4,75,98,122/86,D,triage_assessment,230,ESI,UTC,122,86
+231,231,23,"[""Shortness of Breath"", ""Chest Pain""]",ESI-4,62,95,104/76,D,triage_assessment,231,ESI,UTC,104,76
+232,232,20,"[""Fatigue""]",ESI-4,89,97,103/78,D,triage_assessment,232,ESI,UTC,103,78
+233,233,,"[""Fatigue""]",ESI-1,69,97,131/86,D,triage_assessment,233,ESI,UTC,131,86
+234,234,16,"[""Fatigue"", ""Chest Pain""]",ESI-5,63,97,136/79,D,triage_assessment,234,ESI,UTC,136,79
+235,235,24,"[""Dizziness""]",ESI-1,72,95,135/84,D,triage_assessment,235,ESI,UTC,135,84
+236,236,22,"[""Fatigue"", ""Dizziness"", ""Shortness of Breath""]",ESI-3,84,97,130/85,D,triage_assessment,236,ESI,UTC,130,85
+237,237,21,"[""Dizziness""]",ESI-2,82,95,128/64,D,triage_assessment,237,ESI,UTC,128,64
+238,238,19,"[""Shortness of Breath"", ""Nausea""]",ESI-1,69,97,125/77,D,triage_assessment,238,ESI,UTC,125,77
+239,239,18,"[""Fatigue"", ""Dizziness"", ""Shortness of Breath""]",ESI-5,92,100,128/74,D,triage_assessment,239,ESI,UTC,128,74
+240,240,25,"[""Shortness of Breath"", ""Dizziness"", ""Nausea""]",ESI-1,91,98,135/62,D,triage_assessment,240,ESI,UTC,135,62
+241,241,16,"[""Dizziness"", ""Nausea"", ""Fatigue""]",ESI-2,69,97,123/69,D,triage_assessment,241,ESI,UTC,123,69
+242,242,23,"[""Shortness of Breath"", ""Fatigue"", ""Chest Pain""]",ESI-5,89,97,113/84,D,triage_assessment,242,ESI,UTC,113,84
+243,243,22,"[""Chest Pain"", ""Shortness of Breath""]",ESI-4,82,99,108/76,D,triage_assessment,243,ESI,UTC,108,76
+244,244,23,"[""Dizziness"", ""Fatigue"", ""Shortness of Breath""]",ESI-4,66,95,100/71,D,triage_assessment,244,ESI,UTC,100,71
+245,245,17,"[""Fatigue"", ""Dizziness""]",ESI-3,97,98,100/89,D,triage_assessment,245,ESI,UTC,100,89
+246,246,16,"[""Chest Pain""]",ESI-1,87,97,100/66,D,triage_assessment,246,ESI,UTC,100,66
+247,247,21,"[""Dizziness""]",ESI-2,88,98,137/79,D,triage_assessment,247,ESI,UTC,137,79
+248,248,16,"[""Nausea"", ""Dizziness""]",ESI-1,74,98,123/80,D,triage_assessment,248,ESI,UTC,123,80
+249,249,25,"[""Dizziness"", ""Shortness of Breath"", ""Chest Pain""]",ESI-1,91,96,111/68,D,triage_assessment,249,ESI,UTC,111,68
+250,250,24,"[""Chest Pain"", ""Dizziness"", ""Fatigue""]",ESI-5,74,97,121/70,D,triage_assessment,250,ESI,UTC,121,70
+251,251,23,"[""Shortness of Breath"", ""Nausea"", ""Dizziness""]",ESI-1,64,97,114/88,D,triage_assessment,251,ESI,UTC,114,88
+252,252,25,"[""Fatigue"", ""Nausea""]",ESI-1,98,97,125/70,D,triage_assessment,252,ESI,UTC,125,70
+253,253,17,"[""Fatigue"", ""Chest Pain"", ""Dizziness""]",ESI-2,83,95,138/81,D,triage_assessment,253,ESI,UTC,138,81
+254,254,18,"[""Chest Pain""]",ESI-3,86,95,102/72,D,triage_assessment,254,ESI,UTC,102,72
+255,255,20,"[""Nausea""]",ESI-3,99,96,124/72,D,triage_assessment,255,ESI,UTC,124,72
+256,256,16,"[""Nausea"", ""Fatigue""]",ESI-2,72,98,108/74,D,triage_assessment,256,ESI,UTC,108,74
+257,257,23,"[""Dizziness"", ""Fatigue"", ""Chest Pain""]",ESI-3,75,98,134/78,D,triage_assessment,257,ESI,UTC,134,78
+258,258,23,"[""Dizziness""]",ESI-5,91,98,117/77,D,triage_assessment,258,ESI,UTC,117,77
+259,259,21,"[""Dizziness"", ""Nausea""]",ESI-5,92,100,123/90,D,triage_assessment,259,ESI,UTC,123,90
+260,260,17,"[""Shortness of Breath""]",ESI-1,91,95,140/64,D,triage_assessment,260,ESI,UTC,140,64
+261,261,19,"[""Fatigue"", ""Nausea"", ""Shortness of Breath""]",ESI-2,90,100,138/62,D,triage_assessment,261,ESI,UTC,138,62
+263,263,19,"[""Fatigue"", ""Dizziness""]",ESI-1,85,95,111/78,D,triage_assessment,263,ESI,UTC,111,78
+264,264,22,"[""Dizziness"", ""Shortness of Breath""]",ESI-4,73,97,115/80,D,triage_assessment,264,ESI,UTC,115,80
+265,265,24,"[""Fatigue""]",ESI-2,96,96,126/78,D,triage_assessment,265,ESI,UTC,126,78
+266,266,,"[""Shortness of Breath"", ""Nausea"", ""Chest Pain""]",ESI-1,99,98,129/85,D,triage_assessment,266,ESI,UTC,129,85
+267,267,22,"[""Chest Pain""]",ESI-4,88,96,112/88,D,triage_assessment,267,ESI,UTC,112,88
+268,268,17,"[""Nausea"", ""Chest Pain""]",ESI-4,66,96,137/89,D,triage_assessment,268,ESI,UTC,137,89
+269,269,22,"[""Nausea"", ""Fatigue"", ""Shortness of Breath""]",ESI-2,88,98,130/66,D,triage_assessment,269,ESI,UTC,130,66
+270,270,16,"[""Shortness of Breath"", ""Fatigue"", ""Chest Pain""]",ESI-4,69,97,119/78,D,triage_assessment,270,ESI,UTC,119,78
+271,271,16,"[""Shortness of Breath"", ""Fatigue"", ""Nausea""]",ESI-3,81,95,134/74,D,triage_assessment,271,ESI,UTC,134,74
+272,272,19,"[""Nausea""]",ESI-2,79,99,106/66,D,triage_assessment,272,ESI,UTC,106,66
+273,273,20,"[""Nausea"", ""Chest Pain"", ""Fatigue""]",ESI-1,85,100,118/76,D,triage_assessment,273,ESI,UTC,118,76
+274,274,20,"[""Dizziness"", ""Shortness of Breath""]",ESI-4,94,98,134/77,D,triage_assessment,274,ESI,UTC,134,77
+275,275,18,"[""Shortness of Breath"", ""Dizziness""]",ESI-4,84,95,106/66,D,triage_assessment,275,ESI,UTC,106,66
+276,276,22,"[""Chest Pain""]",ESI-4,91,98,136/72,D,triage_assessment,276,ESI,UTC,136,72
+277,277,22,"[""Nausea"", ""Shortness of Breath""]",ESI-2,96,96,134/61,D,triage_assessment,277,ESI,UTC,134,61
+278,278,23,"[""Dizziness""]",ESI-1,90,98,114/62,D,triage_assessment,278,ESI,UTC,114,62
+279,279,21,"[""Dizziness"", ""Fatigue"", ""Shortness of Breath""]",ESI-1,90,95,108/64,D,triage_assessment,279,ESI,UTC,108,64
+280,280,17,"[""Nausea""]",ESI-1,86,97,123/77,D,triage_assessment,280,ESI,UTC,123,77
+282,282,16,"[""Chest Pain"", ""Nausea""]",ESI-4,78,97,118/69,D,triage_assessment,282,ESI,UTC,118,69
+283,283,23,"[""Fatigue""]",ESI-5,97,95,127/85,D,triage_assessment,283,ESI,UTC,127,85
+284,284,20,"[""Nausea""]",ESI-4,66,95,120/90,D,triage_assessment,284,ESI,UTC,120,90
+285,285,16,"[""Fatigue""]",ESI-2,100,98,139/76,D,triage_assessment,285,ESI,UTC,139,76
+286,286,19,"[""Dizziness""]",ESI-1,80,98,112/80,D,triage_assessment,286,ESI,UTC,112,80
+287,287,18,"[""Chest Pain""]",ESI-5,63,95,125/65,D,triage_assessment,287,ESI,UTC,125,65
+288,288,17,"[""Dizziness""]",ESI-3,69,100,104/69,D,triage_assessment,288,ESI,UTC,104,69
+289,289,25,"[""Shortness of Breath"", ""Dizziness""]",ESI-5,62,97,123/76,D,triage_assessment,289,ESI,UTC,123,76
+290,290,16,"[""Fatigue"", ""Nausea""]",ESI-3,79,97,139/74,D,triage_assessment,290,ESI,UTC,139,74
+291,291,16,"[""Fatigue"", ""Dizziness"", ""Chest Pain""]",ESI-1,64,100,138/76,D,triage_assessment,291,ESI,UTC,138,76
+292,292,25,"[""Dizziness"", ""Fatigue""]",ESI-2,82,97,121/75,D,triage_assessment,292,ESI,UTC,121,75
+293,293,23,"[""Shortness of Breath"", ""Chest Pain"", ""Fatigue""]",ESI-2,74,97,102/70,D,triage_assessment,293,ESI,UTC,102,70
+294,294,18,"[""Shortness of Breath"", ""Chest Pain"", ""Nausea""]",ESI-5,87,96,140/60,D,triage_assessment,294,ESI,UTC,140,60
+295,295,17,"[""Chest Pain""]",ESI-1,71,96,126/90,D,triage_assessment,295,ESI,UTC,126,90
+296,296,19,"[""Chest Pain""]",ESI-2,74,100,122/78,D,triage_assessment,296,ESI,UTC,122,78
+297,297,25,"[""Nausea""]",ESI-3,98,98,122/83,D,triage_assessment,297,ESI,UTC,122,83
+298,298,25,"[""Chest Pain"", ""Nausea""]",ESI-1,70,96,117/67,D,triage_assessment,298,ESI,UTC,117,67
+299,299,17,"[""Fatigue"", ""Shortness of Breath"", ""Chest Pain""]",ESI-2,64,95,117/83,D,triage_assessment,299,ESI,UTC,117,83
+300,300,19,"[""Chest Pain"", ""Dizziness"", ""Fatigue""]",ESI-3,60,99,110/75,D,triage_assessment,300,ESI,UTC,110,75
+301,301,23,"[""Fatigue""]",ESI-4,83,99,116/78,D,triage_assessment,301,ESI,UTC,116,78
+302,302,19,"[""Chest Pain"", ""Fatigue""]",ESI-3,89,98,122/72,D,triage_assessment,302,ESI,UTC,122,72
+303,303,22,"[""Nausea"", ""Shortness of Breath"", ""Dizziness""]",ESI-1,68,95,126/68,D,triage_assessment,303,ESI,UTC,126,68
+304,304,23,"[""Chest Pain"", ""Nausea"", ""Shortness of Breath""]",ESI-1,61,99,130/71,D,triage_assessment,304,ESI,UTC,130,71
+305,305,20,"[""Chest Pain""]",ESI-3,95,97,108/87,D,triage_assessment,305,ESI,UTC,108,87
+306,306,19,"[""Nausea"", ""Chest Pain"", ""Fatigue""]",ESI-1,82,96,106/86,D,triage_assessment,306,ESI,UTC,106,86
+307,307,19,"[""Shortness of Breath"", ""Chest Pain""]",ESI-3,61,97,102/80,D,triage_assessment,307,ESI,UTC,102,80
+308,308,24,"[""Chest Pain""]",ESI-4,90,96,109/63,D,triage_assessment,308,ESI,UTC,109,63
+309,309,19,"[""Shortness of Breath""]",ESI-3,83,96,102/65,D,triage_assessment,309,ESI,UTC,102,65
+310,310,16,"[""Fatigue"", ""Shortness of Breath""]",ESI-3,69,95,129/89,D,triage_assessment,310,ESI,UTC,129,89
+311,311,24,"[""Fatigue""]",ESI-1,68,97,128/87,D,triage_assessment,311,ESI,UTC,128,87
+312,312,20,"[""Shortness of Breath"", ""Chest Pain"", ""Dizziness""]",ESI-1,98,97,124/84,D,triage_assessment,312,ESI,UTC,124,84
+313,313,22,"[""Nausea""]",ESI-3,69,100,101/83,D,triage_assessment,313,ESI,UTC,101,83
+314,314,19,"[""Chest Pain"", ""Shortness of Breath"", ""Nausea""]",ESI-2,75,96,126/74,D,triage_assessment,314,ESI,UTC,126,74
+315,315,19,"[""Nausea"", ""Fatigue"", ""Shortness of Breath""]",ESI-4,71,100,115/85,D,triage_assessment,315,ESI,UTC,115,85
+316,316,19,"[""Shortness of Breath"", ""Fatigue"", ""Dizziness""]",ESI-5,85,97,135/83,D,triage_assessment,316,ESI,UTC,135,83
+317,317,24,"[""Nausea"", ""Fatigue"", ""Dizziness""]",ESI-2,97,97,109/71,D,triage_assessment,317,ESI,UTC,109,71
+318,318,16,"[""Dizziness"", ""Chest Pain""]",ESI-1,61,98,128/89,D,triage_assessment,318,ESI,UTC,128,89
+319,319,24,"[""Fatigue"", ""Shortness of Breath"", ""Dizziness""]",ESI-5,88,98,125/63,D,triage_assessment,319,ESI,UTC,125,63
+320,320,24,"[""Chest Pain"", ""Shortness of Breath""]",ESI-2,93,98,138/74,D,triage_assessment,320,ESI,UTC,138,74
+321,321,18,"[""Dizziness""]",ESI-5,80,96,101/80,D,triage_assessment,321,ESI,UTC,101,80
+322,322,16,"[""Dizziness"", ""Fatigue""]",ESI-5,65,100,121/75,D,triage_assessment,322,ESI,UTC,121,75
+323,323,22,"[""Nausea"", ""Shortness of Breath"", ""Fatigue""]",ESI-2,82,100,100/88,D,triage_assessment,323,ESI,UTC,100,88
+324,324,20,"[""Dizziness""]",ESI-2,91,98,106/61,D,triage_assessment,324,ESI,UTC,106,61
+325,325,24,"[""Nausea"", ""Fatigue"", ""Chest Pain""]",ESI-2,62,97,120/83,D,triage_assessment,325,ESI,UTC,120,83
+326,326,17,"[""Chest Pain"", ""Nausea""]",ESI-1,88,97,119/88,D,triage_assessment,326,ESI,UTC,119,88
+329,329,20,"[""Chest Pain""]",ESI-4,70,98,100/84,D,triage_assessment,329,ESI,UTC,100,84
+330,330,16,"[""Fatigue""]",ESI-2,75,99,117/64,D,triage_assessment,330,ESI,UTC,117,64
+331,331,22,"[""Dizziness"", ""Nausea""]",ESI-1,100,97,137/76,D,triage_assessment,331,ESI,UTC,137,76
+332,332,17,"[""Chest Pain"", ""Nausea"", ""Fatigue""]",ESI-3,82,100,104/68,D,triage_assessment,332,ESI,UTC,104,68
+333,333,25,"[""Dizziness""]",ESI-3,98,97,125/77,D,triage_assessment,333,ESI,UTC,125,77
+334,334,16,"[""Shortness of Breath"", ""Dizziness""]",ESI-2,61,100,102/60,D,triage_assessment,334,ESI,UTC,102,60
+336,336,16,"[""Chest Pain"", ""Fatigue""]",ESI-4,92,98,128/85,D,triage_assessment,336,ESI,UTC,128,85
+337,337,17,"[""Nausea"", ""Fatigue"", ""Dizziness""]",ESI-1,65,97,117/64,D,triage_assessment,337,ESI,UTC,117,64
+338,338,16,"[""Shortness of Breath""]",ESI-5,78,98,105/67,D,triage_assessment,338,ESI,UTC,105,67
+339,339,23,"[""Shortness of Breath""]",ESI-4,77,98,121/84,D,triage_assessment,339,ESI,UTC,121,84
+340,340,21,"[""Nausea""]",ESI-5,72,97,121/80,D,triage_assessment,340,ESI,UTC,121,80
+341,341,18,"[""Fatigue""]",ESI-5,94,100,102/88,D,triage_assessment,341,ESI,UTC,102,88
+342,342,21,"[""Shortness of Breath"", ""Chest Pain"", ""Dizziness""]",ESI-1,93,97,109/60,D,triage_assessment,342,ESI,UTC,109,60
+343,343,23,"[""Nausea"", ""Dizziness"", ""Fatigue""]",ESI-3,79,96,109/73,D,triage_assessment,343,ESI,UTC,109,73
+345,345,25,"[""Shortness of Breath"", ""Nausea"", ""Fatigue""]",ESI-4,88,97,126/61,D,triage_assessment,345,ESI,UTC,126,61
+346,346,20,"[""Dizziness"", ""Shortness of Breath"", ""Fatigue""]",ESI-4,100,96,133/84,D,triage_assessment,346,ESI,UTC,133,84
+347,347,20,"[""Dizziness"", ""Fatigue""]",ESI-4,63,97,116/72,D,triage_assessment,347,ESI,UTC,116,72
+348,348,19,"[""Nausea""]",ESI-4,84,98,108/64,D,triage_assessment,348,ESI,UTC,108,64
+349,349,22,"[""Shortness of Breath"", ""Dizziness""]",ESI-2,92,99,132/71,D,triage_assessment,349,ESI,UTC,132,71
+350,350,19,"[""Shortness of Breath""]",ESI-3,80,98,137/65,D,triage_assessment,350,ESI,UTC,137,65
+351,351,21,"[""Fatigue"", ""Dizziness""]",ESI-1,67,95,127/66,D,triage_assessment,351,ESI,UTC,127,66
+352,352,20,"[""Fatigue"", ""Chest Pain""]",ESI-3,77,95,117/85,D,triage_assessment,352,ESI,UTC,117,85
+353,353,17,"[""Chest Pain""]",ESI-2,91,97,121/68,D,triage_assessment,353,ESI,UTC,121,68
+355,355,18,"[""Chest Pain"", ""Fatigue""]",ESI-1,71,95,110/64,D,triage_assessment,355,ESI,UTC,110,64
+356,356,16,"[""Chest Pain"", ""Shortness of Breath"", ""Fatigue""]",ESI-4,93,96,110/84,D,triage_assessment,356,ESI,UTC,110,84
+357,357,,"[""Nausea"", ""Dizziness""]",ESI-3,78,99,130/90,D,triage_assessment,357,ESI,UTC,130,90
+358,358,22,"[""Nausea"", ""Dizziness"", ""Shortness of Breath""]",ESI-2,79,99,121/69,D,triage_assessment,358,ESI,UTC,121,69
+359,359,21,"[""Shortness of Breath"", ""Fatigue"", ""Chest Pain""]",ESI-1,72,99,103/79,D,triage_assessment,359,ESI,UTC,103,79
+360,360,22,"[""Chest Pain"", ""Dizziness"", ""Shortness of Breath""]",ESI-1,77,99,130/90,D,triage_assessment,360,ESI,UTC,130,90
+361,361,24,"[""Shortness of Breath""]",ESI-1,66,99,108/73,D,triage_assessment,361,ESI,UTC,108,73
+362,362,23,"[""Nausea""]",ESI-2,64,100,121/81,D,triage_assessment,362,ESI,UTC,121,81
+363,363,19,"[""Fatigue"", ""Nausea""]",ESI-5,60,97,127/63,D,triage_assessment,363,ESI,UTC,127,63
+364,364,23,"[""Fatigue""]",ESI-5,66,96,121/80,D,triage_assessment,364,ESI,UTC,121,80
+365,365,20,"[""Dizziness"", ""Fatigue"", ""Chest Pain""]",ESI-5,66,97,120/77,D,triage_assessment,365,ESI,UTC,120,77
+366,366,25,"[""Nausea"", ""Dizziness"", ""Shortness of Breath""]",ESI-4,76,97,137/83,D,triage_assessment,366,ESI,UTC,137,83
+367,367,22,"[""Dizziness""]",ESI-1,89,95,132/73,D,triage_assessment,367,ESI,UTC,132,73
+369,369,23,"[""Dizziness"", ""Shortness of Breath""]",ESI-1,96,97,117/75,D,triage_assessment,369,ESI,UTC,117,75
+370,370,19,"[""Fatigue"", ""Dizziness"", ""Chest Pain""]",ESI-5,77,95,102/64,D,triage_assessment,370,ESI,UTC,102,64
+371,371,21,"[""Nausea"", ""Shortness of Breath"", ""Dizziness""]",ESI-5,100,99,137/63,D,triage_assessment,371,ESI,UTC,137,63
+372,372,18,"[""Dizziness"", ""Shortness of Breath""]",ESI-5,89,98,123/84,D,triage_assessment,372,ESI,UTC,123,84
+373,373,18,"[""Nausea"", ""Fatigue""]",ESI-4,75,96,121/79,D,triage_assessment,373,ESI,UTC,121,79
+374,374,18,"[""Fatigue"", ""Nausea"", ""Shortness of Breath""]",ESI-4,99,97,113/84,D,triage_assessment,374,ESI,UTC,113,84
+375,375,20,"[""Chest Pain"", ""Fatigue""]",ESI-1,75,98,101/67,D,triage_assessment,375,ESI,UTC,101,67
+376,376,23,"[""Chest Pain"", ""Dizziness""]",ESI-4,90,96,116/88,D,triage_assessment,376,ESI,UTC,116,88
+377,377,24,"[""Dizziness"", ""Fatigue"", ""Nausea""]",ESI-3,70,96,100/66,D,triage_assessment,377,ESI,UTC,100,66
+378,378,20,"[""Dizziness"", ""Shortness of Breath"", ""Chest Pain""]",ESI-1,72,96,115/63,D,triage_assessment,378,ESI,UTC,115,63
+379,379,16,"[""Chest Pain"", ""Dizziness""]",ESI-2,71,100,109/88,D,triage_assessment,379,ESI,UTC,109,88
+380,380,21,"[""Dizziness""]",ESI-2,62,97,137/61,D,triage_assessment,380,ESI,UTC,137,61
+381,381,24,"[""Fatigue""]",ESI-3,74,95,119/61,D,triage_assessment,381,ESI,UTC,119,61
+382,382,23,"[""Shortness of Breath"", ""Chest Pain""]",ESI-3,86,95,113/82,D,triage_assessment,382,ESI,UTC,113,82
+383,383,17,"[""Nausea""]",ESI-2,88,99,125/69,D,triage_assessment,383,ESI,UTC,125,69
+384,384,21,"[""Fatigue"", ""Nausea""]",ESI-5,61,97,127/64,D,triage_assessment,384,ESI,UTC,127,64
+385,385,16,"[""Nausea"", ""Shortness of Breath"", ""Fatigue""]",ESI-3,61,97,134/69,D,triage_assessment,385,ESI,UTC,134,69
+386,386,16,"[""Nausea""]",ESI-2,89,98,123/78,D,triage_assessment,386,ESI,UTC,123,78
+387,387,16,"[""Dizziness"", ""Chest Pain""]",ESI-5,71,97,139/60,D,triage_assessment,387,ESI,UTC,139,60
+388,388,16,"[""Chest Pain"", ""Dizziness""]",ESI-4,64,100,117/68,D,triage_assessment,388,ESI,UTC,117,68
+389,389,20,"[""Nausea"", ""Chest Pain""]",ESI-1,87,97,132/85,D,triage_assessment,389,ESI,UTC,132,85
+390,390,25,"[""Nausea"", ""Shortness of Breath""]",ESI-4,91,99,113/67,D,triage_assessment,390,ESI,UTC,113,67
+391,391,24,"[""Fatigue"", ""Dizziness"", ""Chest Pain""]",ESI-4,65,95,101/62,D,triage_assessment,391,ESI,UTC,101,62
+392,392,22,"[""Dizziness"", ""Fatigue""]",ESI-5,67,100,125/69,D,triage_assessment,392,ESI,UTC,125,69
+393,393,16,"[""Shortness of Breath"", ""Nausea"", ""Dizziness""]",ESI-2,81,100,115/77,D,triage_assessment,393,ESI,UTC,115,77
+394,394,23,"[""Chest Pain""]",ESI-4,78,100,122/86,D,triage_assessment,394,ESI,UTC,122,86
+395,395,20,"[""Shortness of Breath"", ""Fatigue""]",ESI-3,67,98,121/76,D,triage_assessment,395,ESI,UTC,121,76
+396,396,22,"[""Dizziness"", ""Shortness of Breath""]",ESI-2,98,99,116/74,D,triage_assessment,396,ESI,UTC,116,74
+397,397,17,"[""Fatigue"", ""Chest Pain"", ""Shortness of Breath""]",ESI-2,68,99,125/90,D,triage_assessment,397,ESI,UTC,125,90
+398,398,16,"[""Nausea"", ""Chest Pain""]",ESI-1,88,99,124/65,D,triage_assessment,398,ESI,UTC,124,65
+399,399,20,"[""Dizziness"", ""Fatigue""]",ESI-2,73,100,123/69,D,triage_assessment,399,ESI,UTC,123,69
+400,400,18,"[""Dizziness"", ""Chest Pain""]",ESI-2,93,95,104/81,D,triage_assessment,400,ESI,UTC,104,81
+401,401,23,"[""Chest Pain"", ""Nausea"", ""Fatigue""]",ESI-5,91,96,122/69,D,triage_assessment,401,ESI,UTC,122,69
+403,403,18,"[""Shortness of Breath"", ""Dizziness"", ""Fatigue""]",ESI-2,87,95,128/66,D,triage_assessment,403,ESI,UTC,128,66
+404,404,20,"[""Shortness of Breath"", ""Chest Pain""]",ESI-5,63,99,128/78,D,triage_assessment,404,ESI,UTC,128,78
+405,405,16,"[""Fatigue""]",ESI-1,86,98,111/86,D,triage_assessment,405,ESI,UTC,111,86
+407,407,25,"[""Nausea"", ""Fatigue"", ""Shortness of Breath""]",ESI-1,69,100,138/73,D,triage_assessment,407,ESI,UTC,138,73
+408,408,18,"[""Nausea"", ""Shortness of Breath""]",ESI-1,99,98,117/65,D,triage_assessment,408,ESI,UTC,117,65
+409,409,25,"[""Chest Pain"", ""Dizziness""]",ESI-3,99,99,131/86,D,triage_assessment,409,ESI,UTC,131,86
+410,410,19,"[""Nausea"", ""Dizziness"", ""Chest Pain""]",ESI-4,99,95,136/81,D,triage_assessment,410,ESI,UTC,136,81
+411,411,20,"[""Fatigue""]",ESI-3,61,100,106/75,D,triage_assessment,411,ESI,UTC,106,75
+412,412,16,"[""Dizziness"", ""Nausea"", ""Chest Pain""]",ESI-1,62,96,134/67,D,triage_assessment,412,ESI,UTC,134,67
+413,413,25,"[""Chest Pain"", ""Nausea""]",ESI-3,60,96,123/80,D,triage_assessment,413,ESI,UTC,123,80
+414,414,17,"[""Dizziness""]",ESI-1,74,97,102/84,D,triage_assessment,414,ESI,UTC,102,84
+416,416,21,"[""Shortness of Breath""]",ESI-1,87,95,125/87,D,triage_assessment,416,ESI,UTC,125,87
+417,417,18,"[""Chest Pain"", ""Dizziness"", ""Fatigue""]",ESI-2,65,98,110/76,D,triage_assessment,417,ESI,UTC,110,76
+418,418,20,"[""Shortness of Breath"", ""Fatigue""]",ESI-3,84,98,130/70,D,triage_assessment,418,ESI,UTC,130,70
+419,419,16,"[""Dizziness"", ""Fatigue""]",ESI-3,92,99,111/81,D,triage_assessment,419,ESI,UTC,111,81
+420,420,24,"[""Dizziness"", ""Chest Pain""]",ESI-1,74,100,111/80,D,triage_assessment,420,ESI,UTC,111,80
+421,421,21,"[""Nausea"", ""Shortness of Breath"", ""Fatigue""]",ESI-4,80,95,131/89,D,triage_assessment,421,ESI,UTC,131,89
+422,422,22,"[""Chest Pain""]",ESI-4,72,99,119/82,D,triage_assessment,422,ESI,UTC,119,82
+423,423,18,"[""Nausea"", ""Shortness of Breath"", ""Chest Pain""]",ESI-4,83,95,139/88,D,triage_assessment,423,ESI,UTC,139,88
+424,424,18,"[""Dizziness""]",ESI-1,62,97,114/87,D,triage_assessment,424,ESI,UTC,114,87
+425,425,25,"[""Chest Pain"", ""Dizziness""]",ESI-4,61,98,111/67,D,triage_assessment,425,ESI,UTC,111,67
+426,426,18,"[""Nausea"", ""Chest Pain""]",ESI-1,99,100,138/66,D,triage_assessment,426,ESI,UTC,138,66
+427,427,17,"[""Shortness of Breath"", ""Nausea"", ""Chest Pain""]",ESI-4,84,97,129/81,D,triage_assessment,427,ESI,UTC,129,81
+428,428,23,"[""Fatigue"", ""Dizziness"", ""Nausea""]",ESI-1,88,97,103/81,D,triage_assessment,428,ESI,UTC,103,81
+429,429,25,"[""Dizziness"", ""Shortness of Breath""]",ESI-2,87,97,115/65,D,triage_assessment,429,ESI,UTC,115,65
+431,431,25,"[""Shortness of Breath"", ""Fatigue""]",ESI-1,60,96,110/60,D,triage_assessment,431,ESI,UTC,110,60
+432,432,25,"[""Dizziness""]",ESI-5,66,98,114/90,D,triage_assessment,432,ESI,UTC,114,90
+433,433,16,"[""Shortness of Breath""]",ESI-5,66,95,114/69,D,triage_assessment,433,ESI,UTC,114,69
+434,434,19,"[""Nausea"", ""Shortness of Breath"", ""Fatigue""]",ESI-2,97,96,131/79,D,triage_assessment,434,ESI,UTC,131,79
+435,435,23,"[""Fatigue"", ""Dizziness""]",ESI-5,74,99,106/77,D,triage_assessment,435,ESI,UTC,106,77
+436,436,18,"[""Chest Pain"", ""Nausea"", ""Dizziness""]",ESI-4,64,96,121/85,D,triage_assessment,436,ESI,UTC,121,85
+437,437,18,"[""Fatigue"", ""Dizziness""]",ESI-3,68,97,108/61,D,triage_assessment,437,ESI,UTC,108,61
+438,438,24,"[""Shortness of Breath""]",ESI-1,96,100,101/66,D,triage_assessment,438,ESI,UTC,101,66
+439,439,18,"[""Nausea"", ""Fatigue""]",ESI-5,92,97,127/72,D,triage_assessment,439,ESI,UTC,127,72
+440,440,22,"[""Shortness of Breath""]",ESI-2,73,97,122/70,D,triage_assessment,440,ESI,UTC,122,70
+441,441,20,"[""Chest Pain""]",ESI-2,75,97,125/68,D,triage_assessment,441,ESI,UTC,125,68
+442,442,22,"[""Fatigue""]",ESI-3,97,98,131/72,D,triage_assessment,442,ESI,UTC,131,72
+443,443,25,"[""Shortness of Breath""]",ESI-3,72,95,132/72,D,triage_assessment,443,ESI,UTC,132,72
+444,444,19,"[""Chest Pain"", ""Fatigue"", ""Shortness of Breath""]",ESI-2,87,100,121/63,D,triage_assessment,444,ESI,UTC,121,63
+445,445,19,"[""Shortness of Breath"", ""Dizziness"", ""Nausea""]",ESI-1,73,100,126/69,D,triage_assessment,445,ESI,UTC,126,69
+447,447,24,"[""Shortness of Breath""]",ESI-2,75,98,112/76,D,triage_assessment,447,ESI,UTC,112,76
+448,448,19,"[""Nausea""]",ESI-1,95,98,110/82,D,triage_assessment,448,ESI,UTC,110,82
+449,449,21,"[""Fatigue"", ""Chest Pain"", ""Dizziness""]",ESI-1,68,98,122/78,D,triage_assessment,449,ESI,UTC,122,78
+450,450,21,"[""Nausea"", ""Fatigue"", ""Dizziness""]",ESI-4,77,97,109/82,D,triage_assessment,450,ESI,UTC,109,82
+451,451,16,"[""Fatigue"", ""Shortness of Breath"", ""Dizziness""]",ESI-2,88,97,131/76,D,triage_assessment,451,ESI,UTC,131,76
+452,452,20,"[""Shortness of Breath"", ""Dizziness""]",ESI-4,99,100,127/65,D,triage_assessment,452,ESI,UTC,127,65
+453,453,23,"[""Fatigue"", ""Nausea""]",ESI-2,86,99,133/88,D,triage_assessment,453,ESI,UTC,133,88
+454,454,17,"[""Fatigue""]",ESI-3,68,97,131/72,D,triage_assessment,454,ESI,UTC,131,72
+455,455,17,"[""Dizziness"", ""Chest Pain"", ""Fatigue""]",ESI-4,64,96,138/86,D,triage_assessment,455,ESI,UTC,138,86
+456,456,20,"[""Shortness of Breath""]",ESI-1,94,99,109/72,D,triage_assessment,456,ESI,UTC,109,72
+457,457,21,"[""Chest Pain"", ""Dizziness"", ""Shortness of Breath""]",ESI-2,100,100,119/78,D,triage_assessment,457,ESI,UTC,119,78
+458,458,21,"[""Chest Pain""]",ESI-4,86,100,133/73,D,triage_assessment,458,ESI,UTC,133,73
+459,459,18,"[""Fatigue"", ""Chest Pain"", ""Dizziness""]",ESI-4,84,97,135/79,D,triage_assessment,459,ESI,UTC,135,79
+460,460,17,"[""Fatigue""]",ESI-3,68,96,111/79,D,triage_assessment,460,ESI,UTC,111,79
+461,461,17,"[""Fatigue"", ""Chest Pain""]",ESI-1,62,100,125/76,D,triage_assessment,461,ESI,UTC,125,76
+462,462,19,"[""Fatigue""]",ESI-4,84,95,107/83,D,triage_assessment,462,ESI,UTC,107,83
+463,463,20,"[""Nausea"", ""Fatigue""]",ESI-1,65,99,131/65,D,triage_assessment,463,ESI,UTC,131,65
+464,464,25,"[""Chest Pain"", ""Dizziness"", ""Nausea""]",ESI-3,77,99,135/75,D,triage_assessment,464,ESI,UTC,135,75
+467,467,25,"[""Chest Pain"", ""Shortness of Breath"", ""Fatigue""]",ESI-4,94,95,107/89,D,triage_assessment,467,ESI,UTC,107,89
+468,468,16,"[""Shortness of Breath""]",ESI-4,73,99,132/88,D,triage_assessment,468,ESI,UTC,132,88
+469,469,25,"[""Shortness of Breath"", ""Chest Pain"", ""Fatigue""]",ESI-2,72,95,122/70,D,triage_assessment,469,ESI,UTC,122,70
+470,470,21,"[""Nausea"", ""Dizziness""]",ESI-5,95,99,104/86,D,triage_assessment,470,ESI,UTC,104,86
+471,471,18,"[""Fatigue""]",ESI-1,89,96,126/67,D,triage_assessment,471,ESI,UTC,126,67
+472,472,20,"[""Dizziness"", ""Nausea""]",ESI-5,73,99,102/82,D,triage_assessment,472,ESI,UTC,102,82
+473,473,18,"[""Dizziness""]",ESI-3,86,98,107/90,D,triage_assessment,473,ESI,UTC,107,90
+475,475,18,"[""Dizziness""]",ESI-4,71,100,101/78,D,triage_assessment,475,ESI,UTC,101,78
+476,476,,"[""Fatigue""]",ESI-3,72,96,132/61,D,triage_assessment,476,ESI,UTC,132,61
+478,478,19,"[""Shortness of Breath"", ""Nausea""]",ESI-1,96,95,119/60,D,triage_assessment,478,ESI,UTC,119,60
+480,480,16,"[""Shortness of Breath"", ""Nausea""]",ESI-3,63,95,112/60,D,triage_assessment,480,ESI,UTC,112,60
+481,481,24,"[""Fatigue""]",ESI-4,71,95,101/72,D,triage_assessment,481,ESI,UTC,101,72
+483,483,16,"[""Shortness of Breath""]",ESI-4,66,96,119/70,D,triage_assessment,483,ESI,UTC,119,70
+484,484,21,"[""Chest Pain"", ""Fatigue"", ""Dizziness""]",ESI-5,78,97,124/71,D,triage_assessment,484,ESI,UTC,124,71
+485,485,21,"[""Chest Pain"", ""Dizziness""]",ESI-5,68,97,140/71,D,triage_assessment,485,ESI,UTC,140,71
+487,487,24,"[""Fatigue""]",ESI-3,89,95,124/65,D,triage_assessment,487,ESI,UTC,124,65
+488,488,21,"[""Nausea"", ""Shortness of Breath"", ""Dizziness""]",ESI-4,87,95,107/85,D,triage_assessment,488,ESI,UTC,107,85
+489,489,25,"[""Dizziness"", ""Fatigue"", ""Nausea""]",ESI-4,60,98,117/89,D,triage_assessment,489,ESI,UTC,117,89
+490,490,18,"[""Chest Pain"", ""Nausea""]",ESI-5,67,97,118/64,D,triage_assessment,490,ESI,UTC,118,64
+491,491,22,"[""Nausea"", ""Fatigue""]",ESI-1,99,96,129/60,D,triage_assessment,491,ESI,UTC,129,60
+492,492,17,"[""Chest Pain"", ""Dizziness"", ""Nausea""]",ESI-1,95,97,110/69,D,triage_assessment,492,ESI,UTC,110,69
+493,493,17,"[""Fatigue""]",ESI-4,64,98,139/62,D,triage_assessment,493,ESI,UTC,139,62
+494,494,21,"[""Dizziness"", ""Chest Pain""]",ESI-1,84,98,134/78,D,triage_assessment,494,ESI,UTC,134,78
+495,495,18,"[""Nausea""]",ESI-1,89,96,114/88,D,triage_assessment,495,ESI,UTC,114,88
+496,496,22,"[""Chest Pain"", ""Shortness of Breath"", ""Fatigue""]",ESI-1,83,96,123/85,D,triage_assessment,496,ESI,UTC,123,85
+497,497,22,"[""Fatigue""]",ESI-2,64,100,104/72,D,triage_assessment,497,ESI,UTC,104,72
+498,498,18,"[""Shortness of Breath"", ""Nausea""]",ESI-3,92,95,134/71,D,triage_assessment,498,ESI,UTC,134,71
+499,499,19,"[""Chest Pain"", ""Dizziness""]",ESI-2,86,99,122/72,D,triage_assessment,499,ESI,UTC,122,72
+500,500,24,"[""Nausea""]",ESI-1,95,98,105/83,D,triage_assessment,500,ESI,UTC,105,83
+501,501,25,"[""Dizziness"", ""Fatigue"", ""Chest Pain""]",ESI-1,60,99,129/60,D,triage_assessment,501,ESI,UTC,129,60
+502,502,18,"[""Chest Pain""]",ESI-4,82,99,115/83,D,triage_assessment,502,ESI,UTC,115,83
+503,503,25,"[""Fatigue"", ""Dizziness"", ""Shortness of Breath""]",ESI-1,90,100,114/61,D,triage_assessment,503,ESI,UTC,114,61
+504,504,23,"[""Fatigue"", ""Shortness of Breath"", ""Chest Pain""]",ESI-3,98,100,138/84,D,triage_assessment,504,ESI,UTC,138,84
+505,505,19,"[""Shortness of Breath"", ""Dizziness"", ""Chest Pain""]",ESI-4,64,96,121/74,D,triage_assessment,505,ESI,UTC,121,74
+506,506,17,"[""Dizziness"", ""Nausea""]",ESI-4,76,100,132/86,D,triage_assessment,506,ESI,UTC,132,86
+507,507,18,"[""Shortness of Breath"", ""Chest Pain"", ""Nausea""]",ESI-4,95,98,100/74,D,triage_assessment,507,ESI,UTC,100,74
+508,508,19,"[""Nausea""]",ESI-3,81,95,117/73,D,triage_assessment,508,ESI,UTC,117,73
+509,509,20,"[""Chest Pain""]",ESI-3,60,95,107/64,D,triage_assessment,509,ESI,UTC,107,64
+510,510,21,"[""Nausea"", ""Chest Pain"", ""Shortness of Breath""]",ESI-1,77,96,139/70,D,triage_assessment,510,ESI,UTC,139,70
+511,511,25,"[""Fatigue""]",ESI-5,81,100,109/71,D,triage_assessment,511,ESI,UTC,109,71
+512,512,25,"[""Dizziness"", ""Chest Pain"", ""Fatigue""]",ESI-2,62,97,136/77,D,triage_assessment,512,ESI,UTC,136,77
+513,513,18,"[""Fatigue""]",ESI-3,88,96,104/82,D,triage_assessment,513,ESI,UTC,104,82
+514,514,24,"[""Fatigue"", ""Shortness of Breath"", ""Chest Pain""]",ESI-2,88,96,106/73,D,triage_assessment,514,ESI,UTC,106,73
+515,515,20,"[""Nausea"", ""Fatigue"", ""Chest Pain""]",ESI-3,90,96,126/87,D,triage_assessment,515,ESI,UTC,126,87
+516,516,21,"[""Dizziness"", ""Shortness of Breath""]",ESI-4,76,95,115/68,D,triage_assessment,516,ESI,UTC,115,68
+517,517,17,"[""Chest Pain"", ""Nausea""]",ESI-3,78,100,102/83,D,triage_assessment,517,ESI,UTC,102,83
+518,518,22,"[""Chest Pain"", ""Dizziness"", ""Nausea""]",ESI-1,68,95,127/87,D,triage_assessment,518,ESI,UTC,127,87
+519,519,22,"[""Shortness of Breath"", ""Chest Pain"", ""Fatigue""]",ESI-4,98,97,132/79,D,triage_assessment,519,ESI,UTC,132,79
+520,520,22,"[""Dizziness""]",ESI-5,82,100,133/65,D,triage_assessment,520,ESI,UTC,133,65
+521,521,20,"[""Shortness of Breath"", ""Fatigue"", ""Dizziness""]",ESI-1,72,99,126/81,D,triage_assessment,521,ESI,UTC,126,81
+522,522,19,"[""Fatigue"", ""Shortness of Breath""]",ESI-5,86,99,128/81,D,triage_assessment,522,ESI,UTC,128,81
+523,523,25,"[""Fatigue"", ""Nausea"", ""Shortness of Breath""]",ESI-1,94,96,103/61,D,triage_assessment,523,ESI,UTC,103,61
+524,524,21,"[""Chest Pain""]",ESI-1,67,95,110/84,D,triage_assessment,524,ESI,UTC,110,84
+525,525,24,"[""Chest Pain"", ""Shortness of Breath""]",ESI-2,64,97,122/64,D,triage_assessment,525,ESI,UTC,122,64
+526,526,19,"[""Fatigue"", ""Dizziness"", ""Chest Pain""]",ESI-1,74,99,108/63,D,triage_assessment,526,ESI,UTC,108,63
+527,527,17,"[""Shortness of Breath"", ""Dizziness"", ""Fatigue""]",ESI-3,72,99,103/89,D,triage_assessment,527,ESI,UTC,103,89
+528,528,19,"[""Fatigue""]",ESI-2,69,95,132/78,D,triage_assessment,528,ESI,UTC,132,78
+529,529,19,"[""Nausea"", ""Chest Pain""]",ESI-2,99,100,109/66,D,triage_assessment,529,ESI,UTC,109,66
+530,530,16,"[""Fatigue"", ""Nausea""]",ESI-5,67,99,101/64,D,triage_assessment,530,ESI,UTC,101,64
+531,531,25,"[""Fatigue"", ""Shortness of Breath"", ""Dizziness""]",ESI-3,100,99,102/73,D,triage_assessment,531,ESI,UTC,102,73
+532,532,24,"[""Shortness of Breath""]",ESI-1,88,98,118/81,D,triage_assessment,532,ESI,UTC,118,81
+533,533,18,"[""Fatigue"", ""Shortness of Breath""]",ESI-4,69,96,122/67,D,triage_assessment,533,ESI,UTC,122,67
+534,534,25,"[""Shortness of Breath"", ""Dizziness"", ""Fatigue""]",ESI-5,93,96,129/80,D,triage_assessment,534,ESI,UTC,129,80
+535,535,21,"[""Chest Pain"", ""Nausea"", ""Shortness of Breath""]",ESI-1,70,100,133/80,D,triage_assessment,535,ESI,UTC,133,80
+536,536,24,"[""Fatigue"", ""Shortness of Breath"", ""Nausea""]",ESI-4,69,99,133/71,D,triage_assessment,536,ESI,UTC,133,71
+537,537,18,"[""Shortness of Breath"", ""Dizziness""]",ESI-2,87,95,114/62,D,triage_assessment,537,ESI,UTC,114,62
+538,538,24,"[""Chest Pain""]",ESI-5,99,98,120/74,D,triage_assessment,538,ESI,UTC,120,74
+539,539,21,"[""Dizziness"", ""Nausea"", ""Chest Pain""]",ESI-2,89,98,117/76,D,triage_assessment,539,ESI,UTC,117,76
+540,540,24,"[""Nausea"", ""Chest Pain"", ""Dizziness""]",ESI-1,83,100,126/83,D,triage_assessment,540,ESI,UTC,126,83
+541,541,18,"[""Dizziness"", ""Fatigue"", ""Shortness of Breath""]",ESI-4,73,97,135/68,D,triage_assessment,541,ESI,UTC,135,68
+542,542,16,"[""Chest Pain"", ""Fatigue""]",ESI-1,87,99,119/71,D,triage_assessment,542,ESI,UTC,119,71
+543,543,18,"[""Shortness of Breath""]",ESI-4,86,96,100/70,D,triage_assessment,543,ESI,UTC,100,70
+544,544,21,"[""Dizziness"", ""Shortness of Breath"", ""Nausea""]",ESI-5,70,98,127/89,D,triage_assessment,544,ESI,UTC,127,89
+545,545,20,"[""Dizziness"", ""Nausea"", ""Chest Pain""]",ESI-4,63,100,128/66,D,triage_assessment,545,ESI,UTC,128,66
+546,546,17,"[""Chest Pain"", ""Dizziness"", ""Nausea""]",ESI-1,65,100,140/77,D,triage_assessment,546,ESI,UTC,140,77
+547,547,16,"[""Shortness of Breath""]",ESI-4,61,99,123/72,D,triage_assessment,547,ESI,UTC,123,72
+548,548,18,"[""Fatigue""]",ESI-3,81,97,100/82,D,triage_assessment,548,ESI,UTC,100,82
+549,549,24,"[""Nausea""]",ESI-3,71,99,108/81,D,triage_assessment,549,ESI,UTC,108,81
+550,550,20,"[""Nausea""]",ESI-3,96,98,106/62,D,triage_assessment,550,ESI,UTC,106,62
+551,551,17,"[""Fatigue"", ""Shortness of Breath"", ""Dizziness""]",ESI-1,80,100,126/62,D,triage_assessment,551,ESI,UTC,126,62
+553,553,19,"[""Fatigue"", ""Nausea""]",ESI-3,84,100,125/75,D,triage_assessment,553,ESI,UTC,125,75
+554,554,18,"[""Chest Pain""]",ESI-1,69,96,102/72,D,triage_assessment,554,ESI,UTC,102,72
+555,555,22,"[""Dizziness""]",ESI-3,100,97,114/87,D,triage_assessment,555,ESI,UTC,114,87
+556,556,23,"[""Chest Pain""]",ESI-2,78,97,111/67,D,triage_assessment,556,ESI,UTC,111,67
+557,557,23,"[""Shortness of Breath"", ""Nausea"", ""Dizziness""]",ESI-2,66,95,124/73,D,triage_assessment,557,ESI,UTC,124,73
+558,558,17,"[""Dizziness""]",ESI-2,99,97,108/72,D,triage_assessment,558,ESI,UTC,108,72
+559,559,23,"[""Dizziness"", ""Nausea""]",ESI-1,78,100,136/70,D,triage_assessment,559,ESI,UTC,136,70
+560,560,19,"[""Shortness of Breath"", ""Dizziness"", ""Fatigue""]",ESI-5,74,99,114/84,D,triage_assessment,560,ESI,UTC,114,84
+561,561,17,"[""Chest Pain"", ""Shortness of Breath""]",ESI-4,94,99,112/84,D,triage_assessment,561,ESI,UTC,112,84
+562,562,24,"[""Shortness of Breath"", ""Dizziness"", ""Nausea""]",ESI-3,93,99,112/89,D,triage_assessment,562,ESI,UTC,112,89
+563,563,20,"[""Dizziness"", ""Shortness of Breath"", ""Nausea""]",ESI-4,78,98,107/89,D,triage_assessment,563,ESI,UTC,107,89
+564,564,20,"[""Fatigue"", ""Chest Pain""]",ESI-3,76,98,121/61,D,triage_assessment,564,ESI,UTC,121,61
+565,565,19,"[""Nausea"", ""Shortness of Breath"", ""Chest Pain""]",ESI-4,66,95,110/63,D,triage_assessment,565,ESI,UTC,110,63
+566,566,16,"[""Shortness of Breath""]",ESI-1,83,95,121/79,D,triage_assessment,566,ESI,UTC,121,79
+567,567,25,"[""Dizziness""]",ESI-2,64,100,105/77,D,triage_assessment,567,ESI,UTC,105,77
+568,568,18,"[""Shortness of Breath"", ""Dizziness"", ""Chest Pain""]",ESI-3,69,97,125/70,D,triage_assessment,568,ESI,UTC,125,70
+569,569,24,"[""Chest Pain""]",ESI-5,82,99,112/88,D,triage_assessment,569,ESI,UTC,112,88
+570,570,16,"[""Shortness of Breath"", ""Nausea"", ""Chest Pain""]",ESI-2,80,99,127/83,D,triage_assessment,570,ESI,UTC,127,83
+571,571,18,"[""Fatigue""]",ESI-2,63,98,106/86,D,triage_assessment,571,ESI,UTC,106,86
+572,572,23,"[""Chest Pain"", ""Fatigue"", ""Nausea""]",ESI-1,92,98,134/76,D,triage_assessment,572,ESI,UTC,134,76
+574,574,21,"[""Shortness of Breath"", ""Fatigue"", ""Dizziness""]",ESI-5,72,95,113/68,D,triage_assessment,574,ESI,UTC,113,68
+575,575,25,"[""Fatigue"", ""Chest Pain""]",ESI-5,92,97,130/85,D,triage_assessment,575,ESI,UTC,130,85
+576,576,22,"[""Fatigue"", ""Shortness of Breath"", ""Nausea""]",ESI-2,73,100,111/68,D,triage_assessment,576,ESI,UTC,111,68
+577,577,19,"[""Shortness of Breath"", ""Dizziness"", ""Chest Pain""]",ESI-1,85,96,103/90,D,triage_assessment,577,ESI,UTC,103,90
+579,579,20,"[""Nausea""]",ESI-1,67,95,113/77,D,triage_assessment,579,ESI,UTC,113,77
+580,580,17,"[""Dizziness"", ""Fatigue"", ""Chest Pain""]",ESI-4,71,100,109/82,D,triage_assessment,580,ESI,UTC,109,82
+581,581,22,"[""Shortness of Breath"", ""Dizziness"", ""Fatigue""]",ESI-2,76,100,138/69,D,triage_assessment,581,ESI,UTC,138,69
+583,583,21,"[""Chest Pain"", ""Dizziness""]",ESI-1,80,99,133/71,D,triage_assessment,583,ESI,UTC,133,71
+584,584,16,"[""Nausea"", ""Dizziness""]",ESI-3,88,99,108/82,D,triage_assessment,584,ESI,UTC,108,82
+585,585,16,"[""Chest Pain"", ""Shortness of Breath""]",ESI-1,78,97,137/68,D,triage_assessment,585,ESI,UTC,137,68
+586,586,16,"[""Nausea"", ""Fatigue"", ""Chest Pain""]",ESI-3,78,98,125/66,D,triage_assessment,586,ESI,UTC,125,66
+587,587,18,"[""Shortness of Breath"", ""Nausea""]",ESI-1,79,97,128/90,D,triage_assessment,587,ESI,UTC,128,90
+588,588,,"[""Fatigue"", ""Chest Pain""]",ESI-4,90,98,109/71,D,triage_assessment,588,ESI,UTC,109,71
+589,589,24,"[""Chest Pain""]",ESI-3,68,100,133/65,D,triage_assessment,589,ESI,UTC,133,65
+590,590,16,"[""Shortness of Breath"", ""Chest Pain"", ""Fatigue""]",ESI-2,79,100,117/82,D,triage_assessment,590,ESI,UTC,117,82
+591,591,18,"[""Nausea""]",ESI-1,100,96,132/69,D,triage_assessment,591,ESI,UTC,132,69
+592,592,16,"[""Shortness of Breath"", ""Chest Pain""]",ESI-3,99,97,132/78,D,triage_assessment,592,ESI,UTC,132,78
+593,593,24,"[""Dizziness""]",ESI-4,81,97,103/79,D,triage_assessment,593,ESI,UTC,103,79
+594,594,23,"[""Chest Pain"", ""Fatigue""]",ESI-3,77,95,119/64,D,triage_assessment,594,ESI,UTC,119,64
+595,595,18,"[""Fatigue"", ""Shortness of Breath""]",ESI-2,77,96,108/86,D,triage_assessment,595,ESI,UTC,108,86
+596,596,19,"[""Fatigue"", ""Shortness of Breath"", ""Chest Pain""]",ESI-1,90,100,110/67,D,triage_assessment,596,ESI,UTC,110,67
+597,597,23,"[""Dizziness""]",ESI-2,81,96,110/70,D,triage_assessment,597,ESI,UTC,110,70
+598,598,16,"[""Shortness of Breath""]",ESI-5,73,100,125/76,D,triage_assessment,598,ESI,UTC,125,76
+599,599,16,"[""Nausea""]",ESI-5,72,98,114/88,D,triage_assessment,599,ESI,UTC,114,88
+600,600,20,"[""Nausea""]",ESI-2,78,96,130/62,D,triage_assessment,600,ESI,UTC,130,62
+601,601,,"[""Dizziness"", ""Chest Pain"", ""Fatigue""]",ESI-2,80,100,140/76,D,triage_assessment,601,ESI,UTC,140,76
+602,602,24,"[""Dizziness"", ""Nausea""]",ESI-3,89,97,101/90,D,triage_assessment,602,ESI,UTC,101,90
+603,603,20,"[""Nausea"", ""Chest Pain""]",ESI-2,90,99,133/71,D,triage_assessment,603,ESI,UTC,133,71
+604,604,23,"[""Nausea"", ""Dizziness""]",ESI-2,78,97,128/86,D,triage_assessment,604,ESI,UTC,128,86
+605,605,,"[""Fatigue"", ""Nausea""]",ESI-4,76,100,122/63,D,triage_assessment,605,ESI,UTC,122,63
+606,606,24,"[""Chest Pain"", ""Nausea""]",ESI-4,68,98,100/84,D,triage_assessment,606,ESI,UTC,100,84
+607,607,,"[""Chest Pain"", ""Nausea""]",ESI-5,94,95,128/74,D,triage_assessment,607,ESI,UTC,128,74
+608,608,22,"[""Fatigue"", ""Nausea""]",ESI-1,68,100,125/67,D,triage_assessment,608,ESI,UTC,125,67
+610,610,22,"[""Shortness of Breath"", ""Chest Pain""]",ESI-5,66,98,100/67,D,triage_assessment,610,ESI,UTC,100,67
+611,611,21,"[""Dizziness"", ""Shortness of Breath"", ""Nausea""]",ESI-3,66,95,136/85,D,triage_assessment,611,ESI,UTC,136,85
+612,612,25,"[""Fatigue"", ""Chest Pain"", ""Shortness of Breath""]",ESI-1,76,97,122/65,D,triage_assessment,612,ESI,UTC,122,65
+613,613,20,"[""Shortness of Breath"", ""Dizziness""]",ESI-1,68,99,123/62,D,triage_assessment,613,ESI,UTC,123,62
+614,614,17,"[""Shortness of Breath""]",ESI-2,83,99,133/78,D,triage_assessment,614,ESI,UTC,133,78
+615,615,21,"[""Chest Pain"", ""Fatigue""]",ESI-3,78,95,114/86,D,triage_assessment,615,ESI,UTC,114,86
+616,616,25,"[""Shortness of Breath"", ""Dizziness"", ""Fatigue""]",ESI-1,72,95,132/88,D,triage_assessment,616,ESI,UTC,132,88
+617,617,19,"[""Fatigue""]",ESI-2,78,96,111/83,D,triage_assessment,617,ESI,UTC,111,83
+618,618,25,"[""Chest Pain""]",ESI-4,81,99,113/88,D,triage_assessment,618,ESI,UTC,113,88
+619,619,18,"[""Fatigue"", ""Dizziness"", ""Nausea""]",ESI-4,98,100,129/72,D,triage_assessment,619,ESI,UTC,129,72
+620,620,16,"[""Shortness of Breath"", ""Dizziness""]",ESI-5,78,99,112/89,D,triage_assessment,620,ESI,UTC,112,89
+621,621,23,"[""Nausea"", ""Chest Pain"", ""Shortness of Breath""]",ESI-5,88,95,104/64,D,triage_assessment,621,ESI,UTC,104,64
+622,622,25,"[""Nausea"", ""Fatigue""]",ESI-5,93,95,102/71,D,triage_assessment,622,ESI,UTC,102,71
+623,623,17,"[""Nausea"", ""Chest Pain"", ""Fatigue""]",ESI-3,71,98,112/60,D,triage_assessment,623,ESI,UTC,112,60
+624,624,21,"[""Shortness of Breath""]",ESI-2,80,100,107/61,D,triage_assessment,624,ESI,UTC,107,61
+625,625,17,"[""Nausea"", ""Chest Pain""]",ESI-2,88,100,100/63,D,triage_assessment,625,ESI,UTC,100,63
+626,626,24,"[""Shortness of Breath""]",ESI-1,81,99,101/84,D,triage_assessment,626,ESI,UTC,101,84
+627,627,16,"[""Nausea""]",ESI-5,100,100,108/90,D,triage_assessment,627,ESI,UTC,108,90
+628,628,25,"[""Fatigue""]",ESI-1,89,99,125/74,D,triage_assessment,628,ESI,UTC,125,74
+629,629,16,"[""Shortness of Breath"", ""Chest Pain""]",ESI-3,85,96,121/69,D,triage_assessment,629,ESI,UTC,121,69
+631,631,16,"[""Dizziness"", ""Fatigue""]",ESI-1,81,98,112/67,D,triage_assessment,631,ESI,UTC,112,67
+632,632,19,"[""Fatigue""]",ESI-5,86,97,133/77,D,triage_assessment,632,ESI,UTC,133,77
+633,633,21,"[""Nausea"", ""Shortness of Breath"", ""Chest Pain""]",ESI-2,62,95,133/84,D,triage_assessment,633,ESI,UTC,133,84
+634,634,19,"[""Fatigue"", ""Shortness of Breath"", ""Nausea""]",ESI-2,66,96,103/82,D,triage_assessment,634,ESI,UTC,103,82
+635,635,17,"[""Fatigue"", ""Chest Pain"", ""Dizziness""]",ESI-1,85,100,136/60,D,triage_assessment,635,ESI,UTC,136,60
+636,636,23,"[""Dizziness"", ""Nausea""]",ESI-1,67,97,127/79,D,triage_assessment,636,ESI,UTC,127,79
+637,637,23,"[""Nausea""]",ESI-1,89,95,114/66,D,triage_assessment,637,ESI,UTC,114,66
+638,638,25,"[""Fatigue"", ""Shortness of Breath"", ""Nausea""]",ESI-2,66,97,125/61,D,triage_assessment,638,ESI,UTC,125,61
+639,639,,"[""Fatigue"", ""Chest Pain"", ""Nausea""]",ESI-3,67,97,118/71,D,triage_assessment,639,ESI,UTC,118,71
+640,640,24,"[""Dizziness"", ""Chest Pain""]",ESI-4,69,99,136/74,D,triage_assessment,640,ESI,UTC,136,74
+641,641,24,"[""Dizziness""]",ESI-3,65,99,133/69,D,triage_assessment,641,ESI,UTC,133,69
+642,642,,"[""Dizziness""]",ESI-4,64,97,128/61,D,triage_assessment,642,ESI,UTC,128,61
+643,643,24,"[""Dizziness"", ""Nausea"", ""Chest Pain""]",ESI-2,70,97,111/65,D,triage_assessment,643,ESI,UTC,111,65
+644,644,21,"[""Shortness of Breath"", ""Nausea"", ""Chest Pain""]",ESI-2,62,97,103/84,D,triage_assessment,644,ESI,UTC,103,84
+645,645,22,"[""Fatigue""]",ESI-2,92,95,107/69,D,triage_assessment,645,ESI,UTC,107,69
+646,646,,"[""Fatigue""]",ESI-2,88,95,110/90,D,triage_assessment,646,ESI,UTC,110,90
+647,647,23,"[""Chest Pain"", ""Fatigue""]",ESI-5,81,100,131/72,D,triage_assessment,647,ESI,UTC,131,72
+648,648,18,"[""Nausea"", ""Chest Pain""]",ESI-2,98,99,110/61,D,triage_assessment,648,ESI,UTC,110,61
+649,649,16,"[""Shortness of Breath"", ""Chest Pain""]",ESI-3,80,99,129/72,D,triage_assessment,649,ESI,UTC,129,72
+650,650,20,"[""Shortness of Breath""]",ESI-4,92,95,116/77,D,triage_assessment,650,ESI,UTC,116,77
+652,652,18,"[""Nausea""]",ESI-2,93,100,136/62,D,triage_assessment,652,ESI,UTC,136,62
+653,653,23,"[""Dizziness""]",ESI-5,66,97,121/83,D,triage_assessment,653,ESI,UTC,121,83
+654,654,18,"[""Fatigue"", ""Chest Pain""]",ESI-2,88,95,116/61,D,triage_assessment,654,ESI,UTC,116,61
+655,655,24,"[""Dizziness""]",ESI-5,86,99,107/76,D,triage_assessment,655,ESI,UTC,107,76
+656,656,17,"[""Fatigue"", ""Chest Pain"", ""Dizziness""]",ESI-3,83,99,113/60,D,triage_assessment,656,ESI,UTC,113,60
+657,657,22,"[""Shortness of Breath"", ""Dizziness"", ""Nausea""]",ESI-4,80,99,136/80,D,triage_assessment,657,ESI,UTC,136,80
+658,658,18,"[""Fatigue"", ""Nausea""]",ESI-5,77,99,105/68,D,triage_assessment,658,ESI,UTC,105,68
+659,659,21,"[""Fatigue"", ""Nausea"", ""Chest Pain""]",ESI-5,75,95,126/64,D,triage_assessment,659,ESI,UTC,126,64
+660,660,24,"[""Dizziness"", ""Fatigue"", ""Shortness of Breath""]",ESI-1,74,100,132/77,D,triage_assessment,660,ESI,UTC,132,77
+661,661,18,"[""Dizziness""]",ESI-2,93,96,122/70,D,triage_assessment,661,ESI,UTC,122,70
+662,662,19,"[""Chest Pain"", ""Nausea""]",ESI-5,92,99,130/69,D,triage_assessment,662,ESI,UTC,130,69
+663,663,19,"[""Chest Pain""]",ESI-3,69,95,106/82,D,triage_assessment,663,ESI,UTC,106,82
+664,664,25,"[""Chest Pain""]",ESI-5,66,97,123/70,D,triage_assessment,664,ESI,UTC,123,70
+665,665,16,"[""Chest Pain"", ""Nausea"", ""Fatigue""]",ESI-4,84,98,108/66,D,triage_assessment,665,ESI,UTC,108,66
+666,666,25,"[""Nausea""]",ESI-2,73,97,105/90,D,triage_assessment,666,ESI,UTC,105,90
+667,667,24,"[""Dizziness""]",ESI-5,76,95,108/90,D,triage_assessment,667,ESI,UTC,108,90
+668,668,23,"[""Fatigue"", ""Shortness of Breath""]",ESI-3,63,95,118/77,D,triage_assessment,668,ESI,UTC,118,77
+669,669,25,"[""Fatigue"", ""Dizziness""]",ESI-2,62,100,120/73,D,triage_assessment,669,ESI,UTC,120,73
+670,670,16,"[""Nausea""]",ESI-3,67,98,138/79,D,triage_assessment,670,ESI,UTC,138,79
+671,671,19,"[""Dizziness""]",ESI-1,97,97,113/64,D,triage_assessment,671,ESI,UTC,113,64
+672,672,21,"[""Fatigue""]",ESI-5,71,99,110/86,D,triage_assessment,672,ESI,UTC,110,86
+673,673,20,"[""Fatigue"", ""Dizziness"", ""Chest Pain""]",ESI-1,62,98,120/72,D,triage_assessment,673,ESI,UTC,120,72
+675,675,24,"[""Dizziness"", ""Nausea""]",ESI-5,83,99,120/79,D,triage_assessment,675,ESI,UTC,120,79
+676,676,25,"[""Shortness of Breath"", ""Chest Pain"", ""Dizziness""]",ESI-4,81,99,110/78,D,triage_assessment,676,ESI,UTC,110,78
+677,677,22,"[""Nausea"", ""Dizziness"", ""Fatigue""]",ESI-5,78,98,111/78,D,triage_assessment,677,ESI,UTC,111,78
+678,678,23,"[""Fatigue"", ""Dizziness"", ""Nausea""]",ESI-2,84,95,137/89,D,triage_assessment,678,ESI,UTC,137,89
+679,679,23,"[""Dizziness""]",ESI-1,97,98,130/81,D,triage_assessment,679,ESI,UTC,130,81
+680,680,17,"[""Nausea""]",ESI-2,97,98,125/60,D,triage_assessment,680,ESI,UTC,125,60
+681,681,25,"[""Shortness of Breath"", ""Dizziness""]",ESI-3,77,97,124/73,D,triage_assessment,681,ESI,UTC,124,73
+682,682,19,"[""Fatigue"", ""Nausea"", ""Chest Pain""]",ESI-5,100,98,134/86,D,triage_assessment,682,ESI,UTC,134,86
+684,684,23,"[""Shortness of Breath"", ""Fatigue""]",ESI-2,81,97,122/81,D,triage_assessment,684,ESI,UTC,122,81
+685,685,17,"[""Nausea"", ""Dizziness""]",ESI-3,60,95,140/63,D,triage_assessment,685,ESI,UTC,140,63
+686,686,17,"[""Fatigue""]",ESI-2,67,95,135/63,D,triage_assessment,686,ESI,UTC,135,63
+687,687,17,"[""Nausea"", ""Chest Pain""]",ESI-1,93,97,106/79,D,triage_assessment,687,ESI,UTC,106,79
+688,688,18,"[""Chest Pain"", ""Shortness of Breath"", ""Fatigue""]",ESI-5,73,95,115/65,D,triage_assessment,688,ESI,UTC,115,65
+689,689,19,"[""Nausea"", ""Dizziness""]",ESI-1,65,96,119/90,D,triage_assessment,689,ESI,UTC,119,90
+690,690,16,"[""Chest Pain"", ""Dizziness""]",ESI-4,95,96,113/80,D,triage_assessment,690,ESI,UTC,113,80
+691,691,23,"[""Fatigue"", ""Shortness of Breath"", ""Chest Pain""]",ESI-5,97,98,131/82,D,triage_assessment,691,ESI,UTC,131,82
+692,692,22,"[""Nausea""]",ESI-2,75,98,112/73,D,triage_assessment,692,ESI,UTC,112,73
+693,693,16,"[""Chest Pain""]",ESI-5,97,100,105/65,D,triage_assessment,693,ESI,UTC,105,65
+694,694,24,"[""Shortness of Breath""]",ESI-5,61,98,111/68,D,triage_assessment,694,ESI,UTC,111,68
+695,695,24,"[""Shortness of Breath""]",ESI-1,81,98,135/88,D,triage_assessment,695,ESI,UTC,135,88
+696,696,19,"[""Dizziness""]",ESI-2,89,95,112/74,D,triage_assessment,696,ESI,UTC,112,74
+697,697,20,"[""Dizziness"", ""Fatigue"", ""Nausea""]",ESI-4,78,100,126/65,D,triage_assessment,697,ESI,UTC,126,65
+698,698,22,"[""Dizziness"", ""Nausea""]",ESI-3,62,99,133/74,D,triage_assessment,698,ESI,UTC,133,74
+699,699,22,"[""Chest Pain"", ""Fatigue"", ""Shortness of Breath""]",ESI-2,84,98,105/78,D,triage_assessment,699,ESI,UTC,105,78
+700,700,24,"[""Dizziness"", ""Shortness of Breath""]",ESI-4,93,99,108/74,D,triage_assessment,700,ESI,UTC,108,74
+701,701,17,"[""Nausea"", ""Shortness of Breath""]",ESI-1,90,100,101/88,D,triage_assessment,701,ESI,UTC,101,88
+702,702,17,"[""Shortness of Breath"", ""Chest Pain"", ""Dizziness""]",ESI-5,68,99,131/79,D,triage_assessment,702,ESI,UTC,131,79
+704,704,19,"[""Chest Pain"", ""Nausea"", ""Shortness of Breath""]",ESI-5,72,97,138/81,D,triage_assessment,704,ESI,UTC,138,81
+705,705,23,"[""Shortness of Breath"", ""Chest Pain""]",ESI-4,100,97,133/79,D,triage_assessment,705,ESI,UTC,133,79
+706,706,19,"[""Shortness of Breath"", ""Dizziness"", ""Nausea""]",ESI-5,70,97,119/90,D,triage_assessment,706,ESI,UTC,119,90
+707,707,25,"[""Dizziness"", ""Shortness of Breath""]",ESI-5,89,100,119/90,D,triage_assessment,707,ESI,UTC,119,90
+708,708,24,"[""Dizziness""]",ESI-1,84,97,128/70,D,triage_assessment,708,ESI,UTC,128,70
+709,709,18,"[""Nausea""]",ESI-1,65,97,114/86,D,triage_assessment,709,ESI,UTC,114,86
+710,710,16,"[""Dizziness""]",ESI-4,75,99,139/63,D,triage_assessment,710,ESI,UTC,139,63
+711,711,25,"[""Nausea"", ""Fatigue"", ""Chest Pain""]",ESI-4,72,99,105/84,D,triage_assessment,711,ESI,UTC,105,84
+712,712,25,"[""Dizziness""]",ESI-2,68,99,102/63,D,triage_assessment,712,ESI,UTC,102,63
+713,713,22,"[""Nausea"", ""Dizziness"", ""Shortness of Breath""]",ESI-2,64,98,120/89,D,triage_assessment,713,ESI,UTC,120,89
+714,714,21,"[""Dizziness"", ""Chest Pain""]",ESI-3,62,98,120/77,D,triage_assessment,714,ESI,UTC,120,77
+715,715,22,"[""Shortness of Breath""]",ESI-1,75,95,103/61,D,triage_assessment,715,ESI,UTC,103,61
+716,716,23,"[""Chest Pain"", ""Nausea""]",ESI-3,92,97,120/70,D,triage_assessment,716,ESI,UTC,120,70
+717,717,16,"[""Nausea"", ""Fatigue"", ""Chest Pain""]",ESI-4,97,95,136/77,D,triage_assessment,717,ESI,UTC,136,77
+718,718,16,"[""Fatigue"", ""Dizziness""]",ESI-1,94,95,131/64,D,triage_assessment,718,ESI,UTC,131,64
+719,719,21,"[""Shortness of Breath"", ""Fatigue""]",ESI-5,67,100,106/75,D,triage_assessment,719,ESI,UTC,106,75
+720,720,24,"[""Nausea""]",ESI-2,86,99,122/65,D,triage_assessment,720,ESI,UTC,122,65
+721,721,17,"[""Nausea"", ""Chest Pain"", ""Dizziness""]",ESI-5,68,97,115/73,D,triage_assessment,721,ESI,UTC,115,73
+722,722,25,"[""Shortness of Breath"", ""Dizziness"", ""Fatigue""]",ESI-1,70,99,106/87,D,triage_assessment,722,ESI,UTC,106,87
+723,723,18,"[""Dizziness"", ""Chest Pain""]",ESI-5,83,98,119/82,D,triage_assessment,723,ESI,UTC,119,82
+724,724,16,"[""Shortness of Breath""]",ESI-1,87,96,105/74,D,triage_assessment,724,ESI,UTC,105,74
+725,725,25,"[""Fatigue"", ""Nausea""]",ESI-1,73,96,134/76,D,triage_assessment,725,ESI,UTC,134,76
+726,726,25,"[""Nausea"", ""Chest Pain"", ""Fatigue""]",ESI-1,67,99,121/63,D,triage_assessment,726,ESI,UTC,121,63
+727,727,22,"[""Shortness of Breath"", ""Nausea""]",ESI-1,91,100,138/66,D,triage_assessment,727,ESI,UTC,138,66
+728,728,19,"[""Nausea"", ""Fatigue"", ""Dizziness""]",ESI-5,68,100,103/78,D,triage_assessment,728,ESI,UTC,103,78
+730,730,25,"[""Fatigue"", ""Dizziness""]",ESI-3,61,100,119/82,D,triage_assessment,730,ESI,UTC,119,82
+731,731,18,"[""Chest Pain"", ""Dizziness"", ""Fatigue""]",ESI-5,69,98,117/72,D,triage_assessment,731,ESI,UTC,117,72
+732,732,21,"[""Dizziness"", ""Chest Pain""]",ESI-5,71,96,109/74,D,triage_assessment,732,ESI,UTC,109,74
+733,733,24,"[""Chest Pain"", ""Shortness of Breath""]",ESI-1,65,95,114/85,D,triage_assessment,733,ESI,UTC,114,85
+734,734,18,"[""Chest Pain"", ""Dizziness""]",ESI-4,93,100,110/86,D,triage_assessment,734,ESI,UTC,110,86
+735,735,22,"[""Chest Pain""]",ESI-4,70,95,108/72,D,triage_assessment,735,ESI,UTC,108,72
+736,736,20,"[""Shortness of Breath""]",ESI-3,75,95,131/65,D,triage_assessment,736,ESI,UTC,131,65
+737,737,21,"[""Shortness of Breath""]",ESI-2,76,97,124/90,D,triage_assessment,737,ESI,UTC,124,90
+738,738,25,"[""Nausea"", ""Shortness of Breath""]",ESI-5,95,98,109/66,D,triage_assessment,738,ESI,UTC,109,66
+739,739,25,"[""Fatigue"", ""Chest Pain"", ""Nausea""]",ESI-5,64,96,122/85,D,triage_assessment,739,ESI,UTC,122,85
+740,740,21,"[""Nausea""]",ESI-1,84,99,136/84,D,triage_assessment,740,ESI,UTC,136,84
+741,741,24,"[""Chest Pain""]",ESI-4,68,95,132/89,D,triage_assessment,741,ESI,UTC,132,89
+742,742,25,"[""Shortness of Breath"", ""Dizziness"", ""Fatigue""]",ESI-5,86,97,117/79,D,triage_assessment,742,ESI,UTC,117,79
+744,744,21,"[""Dizziness"", ""Nausea"", ""Chest Pain""]",ESI-3,92,98,122/61,D,triage_assessment,744,ESI,UTC,122,61
+745,745,20,"[""Dizziness"", ""Chest Pain"", ""Fatigue""]",ESI-2,76,95,139/73,D,triage_assessment,745,ESI,UTC,139,73
+746,746,17,"[""Shortness of Breath""]",ESI-5,62,100,140/86,D,triage_assessment,746,ESI,UTC,140,86
+747,747,20,"[""Chest Pain""]",ESI-3,92,99,139/77,D,triage_assessment,747,ESI,UTC,139,77
+748,748,25,"[""Chest Pain"", ""Shortness of Breath"", ""Nausea""]",ESI-2,85,100,130/65,D,triage_assessment,748,ESI,UTC,130,65
+749,749,16,"[""Dizziness"", ""Chest Pain"", ""Fatigue""]",ESI-1,64,98,109/89,D,triage_assessment,749,ESI,UTC,109,89
+750,750,19,"[""Shortness of Breath"", ""Dizziness"", ""Chest Pain""]",ESI-4,75,95,123/71,D,triage_assessment,750,ESI,UTC,123,71
+751,751,17,"[""Nausea""]",ESI-3,71,100,118/75,D,triage_assessment,751,ESI,UTC,118,75
+752,752,17,"[""Nausea""]",ESI-3,81,99,127/61,D,triage_assessment,752,ESI,UTC,127,61
+753,753,23,"[""Nausea"", ""Fatigue""]",ESI-1,65,100,110/90,D,triage_assessment,753,ESI,UTC,110,90
+754,754,25,"[""Fatigue"", ""Dizziness"", ""Shortness of Breath""]",ESI-1,78,96,128/69,D,triage_assessment,754,ESI,UTC,128,69
+755,755,25,"[""Fatigue"", ""Shortness of Breath"", ""Chest Pain""]",ESI-3,93,97,108/65,D,triage_assessment,755,ESI,UTC,108,65
+756,756,23,"[""Shortness of Breath"", ""Fatigue""]",ESI-3,94,96,113/76,D,triage_assessment,756,ESI,UTC,113,76
+757,757,17,"[""Shortness of Breath"", ""Chest Pain"", ""Dizziness""]",ESI-4,89,100,110/72,D,triage_assessment,757,ESI,UTC,110,72
+758,758,16,"[""Chest Pain""]",ESI-4,77,98,115/72,D,triage_assessment,758,ESI,UTC,115,72
+760,760,24,"[""Chest Pain""]",ESI-4,65,98,101/63,D,triage_assessment,760,ESI,UTC,101,63
+761,761,22,"[""Fatigue"", ""Nausea"", ""Chest Pain""]",ESI-4,60,99,103/71,D,triage_assessment,761,ESI,UTC,103,71
+762,762,24,"[""Fatigue"", ""Dizziness"", ""Shortness of Breath""]",ESI-1,89,100,131/90,D,triage_assessment,762,ESI,UTC,131,90
+763,763,16,"[""Nausea""]",ESI-1,72,97,120/67,D,triage_assessment,763,ESI,UTC,120,67
+764,764,21,"[""Nausea""]",ESI-2,91,98,120/71,D,triage_assessment,764,ESI,UTC,120,71
+765,765,25,"[""Fatigue"", ""Shortness of Breath"", ""Nausea""]",ESI-1,67,99,139/78,D,triage_assessment,765,ESI,UTC,139,78
+766,766,17,"[""Chest Pain"", ""Dizziness""]",ESI-1,89,98,119/79,D,triage_assessment,766,ESI,UTC,119,79
+767,767,21,"[""Shortness of Breath"", ""Chest Pain""]",ESI-5,73,96,135/74,D,triage_assessment,767,ESI,UTC,135,74
+768,768,17,"[""Chest Pain"", ""Nausea""]",ESI-4,69,95,136/69,D,triage_assessment,768,ESI,UTC,136,69
+769,769,21,"[""Shortness of Breath"", ""Chest Pain""]",ESI-2,95,98,133/64,D,triage_assessment,769,ESI,UTC,133,64
+770,770,22,"[""Shortness of Breath"", ""Dizziness"", ""Fatigue""]",ESI-5,88,100,130/67,D,triage_assessment,770,ESI,UTC,130,67
+771,771,25,"[""Chest Pain"", ""Fatigue""]",ESI-3,74,98,121/76,D,triage_assessment,771,ESI,UTC,121,76
+772,772,24,"[""Shortness of Breath"", ""Dizziness""]",ESI-2,92,95,103/62,D,triage_assessment,772,ESI,UTC,103,62
+773,773,18,"[""Nausea""]",ESI-3,69,96,136/73,D,triage_assessment,773,ESI,UTC,136,73
+774,774,25,"[""Nausea""]",ESI-4,70,96,110/77,D,triage_assessment,774,ESI,UTC,110,77
+775,775,22,"[""Dizziness""]",ESI-1,63,96,140/86,D,triage_assessment,775,ESI,UTC,140,86
+776,776,17,"[""Nausea"", ""Chest Pain"", ""Dizziness""]",ESI-2,70,96,108/70,D,triage_assessment,776,ESI,UTC,108,70
+777,777,21,"[""Fatigue"", ""Shortness of Breath""]",ESI-2,60,98,138/66,D,triage_assessment,777,ESI,UTC,138,66
+778,778,23,"[""Dizziness""]",ESI-2,79,98,140/90,D,triage_assessment,778,ESI,UTC,140,90
+780,780,,"[""Chest Pain"", ""Dizziness"", ""Fatigue""]",ESI-3,93,96,134/84,D,triage_assessment,780,ESI,UTC,134,84
+781,781,22,"[""Chest Pain"", ""Shortness of Breath"", ""Fatigue""]",ESI-1,82,95,119/69,D,triage_assessment,781,ESI,UTC,119,69
+782,782,17,"[""Chest Pain"", ""Shortness of Breath"", ""Nausea""]",ESI-2,98,96,136/74,D,triage_assessment,782,ESI,UTC,136,74
+783,783,22,"[""Chest Pain"", ""Dizziness"", ""Fatigue""]",ESI-5,64,97,105/80,D,triage_assessment,783,ESI,UTC,105,80
+784,784,25,"[""Fatigue"", ""Chest Pain"", ""Nausea""]",ESI-5,85,98,118/65,D,triage_assessment,784,ESI,UTC,118,65
+785,785,16,"[""Dizziness"", ""Chest Pain""]",ESI-4,63,97,129/73,D,triage_assessment,785,ESI,UTC,129,73
+786,786,18,"[""Shortness of Breath"", ""Chest Pain""]",ESI-5,81,99,110/81,D,triage_assessment,786,ESI,UTC,110,81
+787,787,21,"[""Dizziness""]",ESI-5,100,100,129/77,D,triage_assessment,787,ESI,UTC,129,77
+788,788,22,"[""Shortness of Breath""]",ESI-3,100,97,139/65,D,triage_assessment,788,ESI,UTC,139,65
+789,789,21,"[""Shortness of Breath"", ""Dizziness"", ""Nausea""]",ESI-2,70,98,125/85,D,triage_assessment,789,ESI,UTC,125,85
+790,790,21,"[""Fatigue""]",ESI-5,94,97,135/76,D,triage_assessment,790,ESI,UTC,135,76
+791,791,24,"[""Dizziness"", ""Fatigue"", ""Nausea""]",ESI-4,79,97,103/85,D,triage_assessment,791,ESI,UTC,103,85
+792,792,24,"[""Nausea"", ""Chest Pain""]",ESI-2,73,98,122/76,D,triage_assessment,792,ESI,UTC,122,76
+793,793,22,"[""Shortness of Breath""]",ESI-2,90,100,118/71,D,triage_assessment,793,ESI,UTC,118,71
+794,794,20,"[""Nausea"", ""Chest Pain"", ""Fatigue""]",ESI-3,98,99,113/68,D,triage_assessment,794,ESI,UTC,113,68
+796,796,23,"[""Chest Pain"", ""Dizziness"", ""Nausea""]",ESI-4,83,96,104/71,D,triage_assessment,796,ESI,UTC,104,71
+797,797,17,"[""Fatigue"", ""Shortness of Breath""]",ESI-2,93,100,139/61,D,triage_assessment,797,ESI,UTC,139,61
+798,798,19,"[""Chest Pain"", ""Fatigue""]",ESI-1,91,100,139/76,D,triage_assessment,798,ESI,UTC,139,76
+799,799,18,"[""Dizziness"", ""Chest Pain""]",ESI-5,89,96,140/64,D,triage_assessment,799,ESI,UTC,140,64
+800,800,23,"[""Chest Pain"", ""Fatigue"", ""Shortness of Breath""]",ESI-1,69,96,123/86,D,triage_assessment,800,ESI,UTC,123,86
+801,801,17,"[""Chest Pain"", ""Shortness of Breath"", ""Fatigue""]",ESI-1,86,95,138/66,D,triage_assessment,801,ESI,UTC,138,66
+802,802,16,"[""Nausea"", ""Chest Pain"", ""Dizziness""]",ESI-5,91,99,109/63,D,triage_assessment,802,ESI,UTC,109,63
+803,803,22,"[""Dizziness"", ""Fatigue"", ""Chest Pain""]",ESI-3,70,95,134/76,D,triage_assessment,803,ESI,UTC,134,76
+804,804,22,"[""Fatigue"", ""Dizziness""]",ESI-3,88,98,131/60,D,triage_assessment,804,ESI,UTC,131,60
+805,805,19,"[""Nausea""]",ESI-3,96,98,127/61,D,triage_assessment,805,ESI,UTC,127,61
+806,806,23,"[""Shortness of Breath"", ""Nausea""]",ESI-4,66,96,133/78,D,triage_assessment,806,ESI,UTC,133,78
+807,807,23,"[""Nausea"", ""Fatigue"", ""Dizziness""]",ESI-2,68,95,102/75,D,triage_assessment,807,ESI,UTC,102,75
+808,808,18,"[""Nausea"", ""Dizziness""]",ESI-2,95,100,125/69,D,triage_assessment,808,ESI,UTC,125,69
+810,810,21,"[""Nausea""]",ESI-3,61,95,138/86,D,triage_assessment,810,ESI,UTC,138,86
+811,811,17,"[""Nausea"", ""Chest Pain"", ""Fatigue""]",ESI-2,61,97,127/85,D,triage_assessment,811,ESI,UTC,127,85
+812,812,24,"[""Shortness of Breath"", ""Nausea"", ""Chest Pain""]",ESI-2,86,95,122/89,D,triage_assessment,812,ESI,UTC,122,89
+813,813,19,"[""Fatigue"", ""Shortness of Breath""]",ESI-3,70,99,128/67,D,triage_assessment,813,ESI,UTC,128,67
+814,814,20,"[""Shortness of Breath"", ""Dizziness""]",ESI-5,89,95,107/86,D,triage_assessment,814,ESI,UTC,107,86
+815,815,19,"[""Nausea""]",ESI-5,93,95,139/61,D,triage_assessment,815,ESI,UTC,139,61
+816,816,18,"[""Shortness of Breath""]",ESI-2,85,99,122/65,D,triage_assessment,816,ESI,UTC,122,65
+817,817,20,"[""Shortness of Breath"", ""Dizziness"", ""Chest Pain""]",ESI-2,63,97,129/67,D,triage_assessment,817,ESI,UTC,129,67
+818,818,22,"[""Nausea"", ""Dizziness"", ""Shortness of Breath""]",ESI-2,81,99,122/82,D,triage_assessment,818,ESI,UTC,122,82
+819,819,19,"[""Nausea""]",ESI-2,80,95,126/60,D,triage_assessment,819,ESI,UTC,126,60
+821,821,22,"[""Nausea"", ""Dizziness""]",ESI-5,90,99,106/88,D,triage_assessment,821,ESI,UTC,106,88
+823,823,21,"[""Chest Pain""]",ESI-5,77,98,139/62,D,triage_assessment,823,ESI,UTC,139,62
+824,824,23,"[""Nausea"", ""Shortness of Breath"", ""Fatigue""]",ESI-5,81,97,134/87,D,triage_assessment,824,ESI,UTC,134,87
+825,825,16,"[""Chest Pain""]",ESI-1,93,99,134/75,D,triage_assessment,825,ESI,UTC,134,75
+826,826,19,"[""Nausea"", ""Dizziness"", ""Chest Pain""]",ESI-3,92,95,126/84,D,triage_assessment,826,ESI,UTC,126,84
+827,827,16,"[""Shortness of Breath"", ""Chest Pain"", ""Fatigue""]",ESI-4,91,99,123/80,D,triage_assessment,827,ESI,UTC,123,80
+828,828,20,"[""Chest Pain"", ""Nausea"", ""Shortness of Breath""]",ESI-1,99,95,105/85,D,triage_assessment,828,ESI,UTC,105,85
+829,829,25,"[""Chest Pain"", ""Dizziness""]",ESI-3,63,95,122/70,D,triage_assessment,829,ESI,UTC,122,70
+830,830,17,"[""Chest Pain"", ""Shortness of Breath"", ""Dizziness""]",ESI-1,72,98,132/78,D,triage_assessment,830,ESI,UTC,132,78
+832,832,23,"[""Chest Pain""]",ESI-3,71,99,111/72,D,triage_assessment,832,ESI,UTC,111,72
+833,833,24,"[""Fatigue""]",ESI-2,83,97,131/80,D,triage_assessment,833,ESI,UTC,131,80
+834,834,21,"[""Nausea"", ""Chest Pain"", ""Fatigue""]",ESI-2,63,99,112/82,D,triage_assessment,834,ESI,UTC,112,82
+835,835,18,"[""Shortness of Breath"", ""Nausea""]",ESI-4,96,100,113/87,D,triage_assessment,835,ESI,UTC,113,87
+837,837,21,"[""Chest Pain""]",ESI-1,72,98,108/65,D,triage_assessment,837,ESI,UTC,108,65
+838,838,18,"[""Shortness of Breath"", ""Nausea""]",ESI-5,66,96,115/74,D,triage_assessment,838,ESI,UTC,115,74
+839,839,21,"[""Shortness of Breath"", ""Nausea"", ""Chest Pain""]",ESI-3,61,100,131/62,D,triage_assessment,839,ESI,UTC,131,62
+840,840,16,"[""Dizziness"", ""Nausea"", ""Fatigue""]",ESI-4,90,97,100/88,D,triage_assessment,840,ESI,UTC,100,88
+841,841,19,"[""Chest Pain"", ""Fatigue""]",ESI-1,78,100,140/62,D,triage_assessment,841,ESI,UTC,140,62
+842,842,24,"[""Dizziness"", ""Nausea""]",ESI-2,92,100,111/87,D,triage_assessment,842,ESI,UTC,111,87
+843,843,25,"[""Shortness of Breath"", ""Chest Pain"", ""Nausea""]",ESI-1,75,97,114/66,D,triage_assessment,843,ESI,UTC,114,66
+844,844,22,"[""Dizziness"", ""Fatigue"", ""Nausea""]",ESI-2,63,95,131/85,D,triage_assessment,844,ESI,UTC,131,85
+845,845,22,"[""Shortness of Breath"", ""Nausea"", ""Chest Pain""]",ESI-3,85,98,132/63,D,triage_assessment,845,ESI,UTC,132,63
+846,846,19,"[""Shortness of Breath"", ""Chest Pain"", ""Fatigue""]",ESI-2,90,100,103/60,D,triage_assessment,846,ESI,UTC,103,60
+847,847,24,"[""Chest Pain"", ""Fatigue""]",ESI-2,63,95,120/77,D,triage_assessment,847,ESI,UTC,120,77
+848,848,24,"[""Shortness of Breath"", ""Chest Pain""]",ESI-4,82,100,128/64,D,triage_assessment,848,ESI,UTC,128,64
+849,849,23,"[""Dizziness""]",ESI-3,83,97,136/88,D,triage_assessment,849,ESI,UTC,136,88
+851,851,22,"[""Nausea"", ""Shortness of Breath"", ""Dizziness""]",ESI-3,77,99,111/68,D,triage_assessment,851,ESI,UTC,111,68
+852,852,21,"[""Fatigue""]",ESI-1,79,98,122/81,D,triage_assessment,852,ESI,UTC,122,81
+853,853,21,"[""Dizziness""]",ESI-2,62,96,118/83,D,triage_assessment,853,ESI,UTC,118,83
+854,854,24,"[""Fatigue"", ""Nausea"", ""Dizziness""]",ESI-1,61,98,107/69,D,triage_assessment,854,ESI,UTC,107,69
+855,855,19,"[""Dizziness""]",ESI-2,72,99,139/85,D,triage_assessment,855,ESI,UTC,139,85
+856,856,16,"[""Shortness of Breath"", ""Fatigue"", ""Dizziness""]",ESI-2,98,96,119/73,D,triage_assessment,856,ESI,UTC,119,73
+857,857,18,"[""Dizziness""]",ESI-4,72,95,109/79,D,triage_assessment,857,ESI,UTC,109,79
+858,858,22,"[""Shortness of Breath"", ""Dizziness"", ""Fatigue""]",ESI-2,97,98,140/84,D,triage_assessment,858,ESI,UTC,140,84
+859,859,18,"[""Fatigue"", ""Shortness of Breath""]",ESI-2,80,100,120/71,D,triage_assessment,859,ESI,UTC,120,71
+860,860,23,"[""Fatigue""]",ESI-4,100,95,111/78,D,triage_assessment,860,ESI,UTC,111,78
+861,861,17,"[""Fatigue"", ""Nausea""]",ESI-4,73,96,132/86,D,triage_assessment,861,ESI,UTC,132,86
+862,862,18,"[""Dizziness""]",ESI-4,73,98,110/61,D,triage_assessment,862,ESI,UTC,110,61
+863,863,24,"[""Fatigue""]",ESI-3,67,100,120/77,D,triage_assessment,863,ESI,UTC,120,77
+864,864,17,"[""Chest Pain""]",ESI-1,78,100,114/73,D,triage_assessment,864,ESI,UTC,114,73
+865,865,22,"[""Shortness of Breath"", ""Fatigue""]",ESI-2,79,95,140/60,D,triage_assessment,865,ESI,UTC,140,60
+866,866,19,"[""Shortness of Breath"", ""Dizziness"", ""Chest Pain""]",ESI-4,98,99,126/77,D,triage_assessment,866,ESI,UTC,126,77
+867,867,19,"[""Fatigue"", ""Chest Pain"", ""Nausea""]",ESI-1,63,99,137/70,D,triage_assessment,867,ESI,UTC,137,70
+868,868,18,"[""Chest Pain"", ""Dizziness""]",ESI-5,80,100,106/75,D,triage_assessment,868,ESI,UTC,106,75
+869,869,22,"[""Chest Pain"", ""Fatigue"", ""Shortness of Breath""]",ESI-5,68,100,132/70,D,triage_assessment,869,ESI,UTC,132,70
+870,870,25,"[""Dizziness"", ""Nausea""]",ESI-1,65,100,121/79,D,triage_assessment,870,ESI,UTC,121,79
+872,872,16,"[""Dizziness"", ""Fatigue""]",ESI-2,89,97,126/66,D,triage_assessment,872,ESI,UTC,126,66
+874,874,17,"[""Fatigue""]",ESI-4,84,97,130/68,D,triage_assessment,874,ESI,UTC,130,68
+875,875,16,"[""Fatigue"", ""Shortness of Breath"", ""Dizziness""]",ESI-4,82,97,140/65,D,triage_assessment,875,ESI,UTC,140,65
+876,876,16,"[""Chest Pain"", ""Nausea"", ""Fatigue""]",ESI-2,68,98,113/90,D,triage_assessment,876,ESI,UTC,113,90
+877,877,21,"[""Dizziness"", ""Chest Pain""]",ESI-3,90,95,110/84,D,triage_assessment,877,ESI,UTC,110,84
+879,879,23,"[""Nausea"", ""Fatigue""]",ESI-4,94,99,100/73,D,triage_assessment,879,ESI,UTC,100,73
+880,880,23,"[""Chest Pain"", ""Fatigue"", ""Dizziness""]",ESI-5,70,95,114/76,D,triage_assessment,880,ESI,UTC,114,76
+881,881,19,"[""Nausea"", ""Chest Pain""]",ESI-5,80,95,111/80,D,triage_assessment,881,ESI,UTC,111,80
+882,882,17,"[""Fatigue""]",ESI-4,60,97,139/90,D,triage_assessment,882,ESI,UTC,139,90
+883,883,25,"[""Fatigue""]",ESI-2,85,98,117/88,D,triage_assessment,883,ESI,UTC,117,88
+885,885,22,"[""Shortness of Breath""]",ESI-2,62,97,103/88,D,triage_assessment,885,ESI,UTC,103,88
+886,886,22,"[""Chest Pain"", ""Fatigue"", ""Nausea""]",ESI-4,98,96,119/72,D,triage_assessment,886,ESI,UTC,119,72
+887,887,24,"[""Shortness of Breath""]",ESI-2,99,99,117/68,D,triage_assessment,887,ESI,UTC,117,68
+888,888,21,"[""Chest Pain""]",ESI-3,61,97,139/64,D,triage_assessment,888,ESI,UTC,139,64
+889,889,18,"[""Dizziness"", ""Shortness of Breath"", ""Chest Pain""]",ESI-1,97,100,106/81,D,triage_assessment,889,ESI,UTC,106,81
+890,890,21,"[""Fatigue""]",ESI-3,77,99,116/83,D,triage_assessment,890,ESI,UTC,116,83
+891,891,19,"[""Fatigue"", ""Nausea"", ""Chest Pain""]",ESI-4,80,98,124/84,D,triage_assessment,891,ESI,UTC,124,84
+892,892,20,"[""Dizziness"", ""Chest Pain"", ""Fatigue""]",ESI-5,74,97,127/87,D,triage_assessment,892,ESI,UTC,127,87
+893,893,19,"[""Chest Pain"", ""Shortness of Breath"", ""Fatigue""]",ESI-2,77,99,130/78,D,triage_assessment,893,ESI,UTC,130,78
+894,894,24,"[""Dizziness"", ""Chest Pain"", ""Nausea""]",ESI-1,70,97,100/64,D,triage_assessment,894,ESI,UTC,100,64
+895,895,22,"[""Chest Pain""]",ESI-1,85,95,121/74,D,triage_assessment,895,ESI,UTC,121,74
+896,896,22,"[""Nausea"", ""Fatigue""]",ESI-5,76,100,102/70,D,triage_assessment,896,ESI,UTC,102,70
+897,897,22,"[""Nausea"", ""Shortness of Breath""]",ESI-5,86,98,107/65,D,triage_assessment,897,ESI,UTC,107,65
+898,898,22,"[""Chest Pain"", ""Fatigue""]",ESI-3,67,98,103/90,D,triage_assessment,898,ESI,UTC,103,90
+899,899,25,"[""Dizziness""]",ESI-1,69,99,122/73,D,triage_assessment,899,ESI,UTC,122,73
+900,900,21,"[""Nausea"", ""Chest Pain""]",ESI-1,64,96,106/83,D,triage_assessment,900,ESI,UTC,106,83
+901,901,21,"[""Shortness of Breath"", ""Chest Pain""]",ESI-5,65,99,128/83,D,triage_assessment,901,ESI,UTC,128,83
+902,902,16,"[""Chest Pain"", ""Nausea"", ""Dizziness""]",ESI-5,67,97,121/78,D,triage_assessment,902,ESI,UTC,121,78
+903,903,18,"[""Dizziness""]",ESI-5,86,98,109/74,D,triage_assessment,903,ESI,UTC,109,74
+904,904,18,"[""Dizziness""]",ESI-2,60,97,122/87,D,triage_assessment,904,ESI,UTC,122,87
+905,905,17,"[""Nausea""]",ESI-4,72,96,101/60,D,triage_assessment,905,ESI,UTC,101,60
+906,906,19,"[""Nausea""]",ESI-5,83,98,140/64,D,triage_assessment,906,ESI,UTC,140,64
+907,907,23,"[""Shortness of Breath"", ""Fatigue""]",ESI-4,74,97,109/70,D,triage_assessment,907,ESI,UTC,109,70
+908,908,20,"[""Chest Pain"", ""Shortness of Breath"", ""Fatigue""]",ESI-4,72,98,108/90,D,triage_assessment,908,ESI,UTC,108,90
+909,909,21,"[""Nausea""]",ESI-3,96,96,105/80,D,triage_assessment,909,ESI,UTC,105,80
+912,912,18,"[""Dizziness""]",ESI-1,87,99,124/64,D,triage_assessment,912,ESI,UTC,124,64
+913,913,23,"[""Fatigue"", ""Dizziness""]",ESI-3,64,95,107/83,D,triage_assessment,913,ESI,UTC,107,83
+914,914,18,"[""Dizziness""]",ESI-1,100,99,131/76,D,triage_assessment,914,ESI,UTC,131,76
+915,915,23,"[""Fatigue"", ""Shortness of Breath"", ""Chest Pain""]",ESI-2,74,97,107/66,D,triage_assessment,915,ESI,UTC,107,66
+916,916,16,"[""Fatigue""]",ESI-5,82,97,121/73,D,triage_assessment,916,ESI,UTC,121,73
+917,917,20,"[""Shortness of Breath""]",ESI-1,69,100,136/86,D,triage_assessment,917,ESI,UTC,136,86
+918,918,21,"[""Dizziness"", ""Fatigue"", ""Chest Pain""]",ESI-2,88,100,124/78,D,triage_assessment,918,ESI,UTC,124,78
+919,919,22,"[""Fatigue""]",ESI-4,61,96,129/73,D,triage_assessment,919,ESI,UTC,129,73
+920,920,16,"[""Shortness of Breath"", ""Nausea"", ""Fatigue""]",ESI-1,91,98,133/77,D,triage_assessment,920,ESI,UTC,133,77
+921,921,24,"[""Fatigue"", ""Nausea""]",ESI-5,64,99,119/83,D,triage_assessment,921,ESI,UTC,119,83
+922,922,21,"[""Chest Pain"", ""Fatigue""]",ESI-1,98,97,102/77,D,triage_assessment,922,ESI,UTC,102,77
+923,923,20,"[""Nausea""]",ESI-4,60,96,136/81,D,triage_assessment,923,ESI,UTC,136,81
+924,924,18,"[""Fatigue""]",ESI-2,69,95,138/74,D,triage_assessment,924,ESI,UTC,138,74
+925,925,20,"[""Dizziness"", ""Shortness of Breath""]",ESI-5,65,95,128/83,D,triage_assessment,925,ESI,UTC,128,83
+926,926,24,"[""Dizziness""]",ESI-2,64,97,100/71,D,triage_assessment,926,ESI,UTC,100,71
+927,927,16,"[""Fatigue"", ""Shortness of Breath""]",ESI-4,91,96,117/88,D,triage_assessment,927,ESI,UTC,117,88
+928,928,24,"[""Nausea""]",ESI-1,83,96,135/60,D,triage_assessment,928,ESI,UTC,135,60
+929,929,19,"[""Shortness of Breath"", ""Chest Pain"", ""Dizziness""]",ESI-1,93,97,103/69,D,triage_assessment,929,ESI,UTC,103,69
+930,930,17,"[""Chest Pain"", ""Shortness of Breath""]",ESI-5,78,96,132/68,D,triage_assessment,930,ESI,UTC,132,68
+931,931,21,"[""Dizziness"", ""Fatigue""]",ESI-3,82,99,138/84,D,triage_assessment,931,ESI,UTC,138,84
+932,932,19,"[""Nausea""]",ESI-3,61,100,134/70,D,triage_assessment,932,ESI,UTC,134,70
+933,933,18,"[""Fatigue""]",ESI-5,74,97,128/86,D,triage_assessment,933,ESI,UTC,128,86
+934,934,23,"[""Dizziness"", ""Chest Pain""]",ESI-2,73,97,109/79,D,triage_assessment,934,ESI,UTC,109,79
+935,935,25,"[""Nausea"", ""Shortness of Breath"", ""Fatigue""]",ESI-3,84,98,108/65,D,triage_assessment,935,ESI,UTC,108,65
+936,936,22,"[""Dizziness""]",ESI-3,64,98,107/90,D,triage_assessment,936,ESI,UTC,107,90
+937,937,23,"[""Chest Pain"", ""Dizziness"", ""Nausea""]",ESI-3,86,95,134/66,D,triage_assessment,937,ESI,UTC,134,66
+938,938,18,"[""Dizziness""]",ESI-2,77,98,126/76,D,triage_assessment,938,ESI,UTC,126,76
+939,939,16,"[""Shortness of Breath""]",ESI-1,99,100,100/66,D,triage_assessment,939,ESI,UTC,100,66
+940,940,24,"[""Chest Pain""]",ESI-3,82,95,113/68,D,triage_assessment,940,ESI,UTC,113,68
+941,941,19,"[""Nausea"", ""Shortness of Breath"", ""Chest Pain""]",ESI-1,67,97,104/68,D,triage_assessment,941,ESI,UTC,104,68
+942,942,25,"[""Chest Pain""]",ESI-3,62,95,107/77,D,triage_assessment,942,ESI,UTC,107,77
+943,943,24,"[""Shortness of Breath""]",ESI-3,77,99,136/81,D,triage_assessment,943,ESI,UTC,136,81
+944,944,20,"[""Chest Pain"", ""Dizziness"", ""Shortness of Breath""]",ESI-3,63,95,111/77,D,triage_assessment,944,ESI,UTC,111,77
+945,945,23,"[""Shortness of Breath"", ""Fatigue""]",ESI-4,77,99,128/73,D,triage_assessment,945,ESI,UTC,128,73
+947,947,21,"[""Fatigue"", ""Nausea"", ""Chest Pain""]",ESI-3,96,99,140/64,D,triage_assessment,947,ESI,UTC,140,64
+948,948,,"[""Fatigue"", ""Nausea"", ""Chest Pain""]",ESI-2,65,98,119/89,D,triage_assessment,948,ESI,UTC,119,89
+950,950,24,"[""Dizziness"", ""Fatigue"", ""Chest Pain""]",ESI-4,82,95,122/78,D,triage_assessment,950,ESI,UTC,122,78
+951,951,23,"[""Shortness of Breath"", ""Nausea""]",ESI-5,76,97,125/80,D,triage_assessment,951,ESI,UTC,125,80
+952,952,24,"[""Dizziness""]",ESI-1,64,96,107/70,D,triage_assessment,952,ESI,UTC,107,70
+953,953,21,"[""Dizziness""]",ESI-2,75,99,117/69,D,triage_assessment,953,ESI,UTC,117,69
+954,954,20,"[""Shortness of Breath"", ""Nausea""]",ESI-3,66,98,131/70,D,triage_assessment,954,ESI,UTC,131,70
+955,955,19,"[""Dizziness""]",ESI-3,70,97,135/65,D,triage_assessment,955,ESI,UTC,135,65
+956,956,23,"[""Fatigue""]",ESI-5,97,96,110/88,D,triage_assessment,956,ESI,UTC,110,88
+957,957,19,"[""Nausea"", ""Fatigue""]",ESI-2,84,95,110/66,D,triage_assessment,957,ESI,UTC,110,66
+958,958,22,"[""Nausea"", ""Chest Pain""]",ESI-2,77,95,129/62,D,triage_assessment,958,ESI,UTC,129,62
+961,961,25,"[""Shortness of Breath"", ""Dizziness""]",ESI-5,89,96,113/69,D,triage_assessment,961,ESI,UTC,113,69
+962,962,17,"[""Fatigue"", ""Shortness of Breath""]",ESI-1,98,99,139/64,D,triage_assessment,962,ESI,UTC,139,64
+963,963,22,"[""Nausea"", ""Shortness of Breath"", ""Chest Pain""]",ESI-2,62,97,123/63,D,triage_assessment,963,ESI,UTC,123,63
+964,964,24,"[""Dizziness""]",ESI-1,72,99,128/62,D,triage_assessment,964,ESI,UTC,128,62
+965,965,24,"[""Chest Pain"", ""Shortness of Breath""]",ESI-5,75,95,119/90,D,triage_assessment,965,ESI,UTC,119,90
+966,966,17,"[""Shortness of Breath"", ""Dizziness"", ""Chest Pain""]",ESI-5,63,96,111/60,D,triage_assessment,966,ESI,UTC,111,60
+967,967,16,"[""Dizziness"", ""Fatigue"", ""Shortness of Breath""]",ESI-5,76,97,110/75,D,triage_assessment,967,ESI,UTC,110,75
+968,968,18,"[""Fatigue"", ""Nausea"", ""Dizziness""]",ESI-2,88,95,121/61,D,triage_assessment,968,ESI,UTC,121,61
+969,969,21,"[""Fatigue"", ""Shortness of Breath"", ""Chest Pain""]",ESI-5,76,100,100/60,D,triage_assessment,969,ESI,UTC,100,60
+970,970,23,"[""Shortness of Breath"", ""Dizziness"", ""Nausea""]",ESI-3,62,96,122/83,D,triage_assessment,970,ESI,UTC,122,83
+971,971,22,"[""Nausea""]",ESI-5,85,99,125/84,D,triage_assessment,971,ESI,UTC,125,84
+972,972,16,"[""Nausea"", ""Dizziness""]",ESI-5,88,98,121/72,D,triage_assessment,972,ESI,UTC,121,72
+974,974,22,"[""Fatigue"", ""Chest Pain""]",ESI-1,63,96,107/89,D,triage_assessment,974,ESI,UTC,107,89
+975,975,19,"[""Dizziness""]",ESI-2,94,98,110/62,D,triage_assessment,975,ESI,UTC,110,62
+977,977,17,"[""Fatigue"", ""Nausea"", ""Chest Pain""]",ESI-5,90,95,130/86,D,triage_assessment,977,ESI,UTC,130,86
+978,978,21,"[""Nausea"", ""Fatigue""]",ESI-2,84,97,128/63,D,triage_assessment,978,ESI,UTC,128,63
+979,979,24,"[""Chest Pain"", ""Dizziness"", ""Nausea""]",ESI-1,86,98,111/68,D,triage_assessment,979,ESI,UTC,111,68
+980,980,20,"[""Chest Pain"", ""Fatigue""]",ESI-2,80,98,126/82,D,triage_assessment,980,ESI,UTC,126,82
+981,981,23,"[""Dizziness"", ""Fatigue""]",ESI-4,87,97,101/73,D,triage_assessment,981,ESI,UTC,101,73
+982,982,18,"[""Chest Pain""]",ESI-5,78,97,113/87,D,triage_assessment,982,ESI,UTC,113,87
+983,983,25,"[""Fatigue""]",ESI-5,100,100,119/64,D,triage_assessment,983,ESI,UTC,119,64
+984,984,16,"[""Nausea"", ""Chest Pain""]",ESI-2,97,95,122/65,D,triage_assessment,984,ESI,UTC,122,65
+985,985,24,"[""Fatigue""]",ESI-5,100,99,129/66,D,triage_assessment,985,ESI,UTC,129,66
+986,986,17,"[""Chest Pain"", ""Fatigue""]",ESI-3,98,99,129/65,D,triage_assessment,986,ESI,UTC,129,65
+988,988,16,"[""Dizziness"", ""Shortness of Breath""]",ESI-5,66,95,135/84,D,triage_assessment,988,ESI,UTC,135,84
+989,989,24,"[""Nausea""]",ESI-2,90,96,101/74,D,triage_assessment,989,ESI,UTC,101,74
+990,990,18,"[""Shortness of Breath"", ""Dizziness""]",ESI-2,82,98,134/60,D,triage_assessment,990,ESI,UTC,134,60
+992,992,18,"[""Nausea""]",ESI-3,95,95,125/60,D,triage_assessment,992,ESI,UTC,125,60
+993,993,23,"[""Nausea"", ""Chest Pain""]",ESI-5,68,100,111/68,D,triage_assessment,993,ESI,UTC,111,68
+994,994,19,"[""Fatigue""]",ESI-1,98,98,118/69,D,triage_assessment,994,ESI,UTC,118,69
+995,995,18,"[""Shortness of Breath"", ""Chest Pain"", ""Dizziness""]",ESI-5,95,96,122/88,D,triage_assessment,995,ESI,UTC,122,88
+996,996,23,"[""Fatigue"", ""Nausea"", ""Shortness of Breath""]",ESI-4,100,98,116/86,D,triage_assessment,996,ESI,UTC,116,86
+997,997,21,"[""Chest Pain""]",ESI-1,72,98,136/70,D,triage_assessment,997,ESI,UTC,136,70
+998,998,25,"[""Nausea""]",ESI-5,82,100,107/78,D,triage_assessment,998,ESI,UTC,107,78
+999,999,19,"[""Chest Pain"", ""Nausea"", ""Dizziness""]",ESI-3,83,97,133/85,D,triage_assessment,999,ESI,UTC,133,85
+1000,1000,22,"[""Fatigue"", ""Shortness of Breath"", ""Chest Pain""]",ESI-3,74,95,133/78,D,triage_assessment,1000,ESI,UTC,133,78
+1001,1001,24,"[""Shortness of Breath"", ""Dizziness"", ""Fatigue""]",ESI-4,73,97,109/60,D,triage_assessment,1001,ESI,UTC,109,60
+1002,1002,16,"[""Dizziness"", ""Chest Pain""]",ESI-1,88,100,105/69,D,triage_assessment,1002,ESI,UTC,105,69
+1003,1003,22,"[""Shortness of Breath"", ""Fatigue""]",ESI-5,94,95,132/84,D,triage_assessment,1003,ESI,UTC,132,84
+1004,1004,20,"[""Fatigue"", ""Dizziness""]",ESI-5,81,100,108/76,D,triage_assessment,1004,ESI,UTC,108,76
+1005,1005,24,"[""Chest Pain"", ""Fatigue"", ""Shortness of Breath""]",ESI-1,63,98,117/81,D,triage_assessment,1005,ESI,UTC,117,81
+1006,1006,19,"[""Shortness of Breath""]",ESI-1,92,97,134/74,D,triage_assessment,1006,ESI,UTC,134,74
+1008,1008,22,"[""Dizziness"", ""Chest Pain""]",ESI-1,89,96,102/75,D,triage_assessment,1008,ESI,UTC,102,75
+1009,1009,16,"[""Fatigue""]",ESI-4,89,96,100/64,D,triage_assessment,1009,ESI,UTC,100,64
+1011,1011,18,"[""Dizziness""]",ESI-2,67,96,122/90,D,triage_assessment,1011,ESI,UTC,122,90
+1012,1012,21,"[""Chest Pain"", ""Fatigue""]",ESI-4,66,99,104/81,D,triage_assessment,1012,ESI,UTC,104,81
+1015,1015,24,"[""Fatigue""]",ESI-5,94,96,113/73,D,triage_assessment,1015,ESI,UTC,113,73
+1016,1016,17,"[""Chest Pain"", ""Dizziness""]",ESI-4,63,100,139/65,D,triage_assessment,1016,ESI,UTC,139,65
+1017,1017,24,"[""Dizziness"", ""Chest Pain"", ""Nausea""]",ESI-1,97,95,138/76,D,triage_assessment,1017,ESI,UTC,138,76
+1018,1018,20,"[""Fatigue"", ""Nausea"", ""Dizziness""]",ESI-2,76,100,109/90,D,triage_assessment,1018,ESI,UTC,109,90
+1020,1020,25,"[""Nausea""]",ESI-4,63,95,135/79,D,triage_assessment,1020,ESI,UTC,135,79
+1021,1021,20,"[""Chest Pain"", ""Dizziness"", ""Nausea""]",ESI-2,92,100,128/65,D,triage_assessment,1021,ESI,UTC,128,65
+1022,1022,23,"[""Nausea"", ""Shortness of Breath""]",ESI-5,81,97,132/84,D,triage_assessment,1022,ESI,UTC,132,84
+1023,1023,24,"[""Dizziness""]",ESI-2,79,97,123/73,D,triage_assessment,1023,ESI,UTC,123,73
+1024,1024,19,"[""Chest Pain"", ""Fatigue""]",ESI-4,73,100,110/81,D,triage_assessment,1024,ESI,UTC,110,81
+1025,1025,23,"[""Nausea"", ""Chest Pain"", ""Dizziness""]",ESI-3,73,100,127/69,D,triage_assessment,1025,ESI,UTC,127,69
+1027,1027,24,"[""Dizziness"", ""Chest Pain"", ""Shortness of Breath""]",ESI-5,77,99,125/69,D,triage_assessment,1027,ESI,UTC,125,69
+1028,1028,20,"[""Nausea""]",ESI-3,91,100,133/82,D,triage_assessment,1028,ESI,UTC,133,82
+1029,1029,24,"[""Fatigue"", ""Shortness of Breath"", ""Chest Pain""]",ESI-5,72,96,122/90,D,triage_assessment,1029,ESI,UTC,122,90
+1031,1031,21,"[""Dizziness""]",ESI-5,84,95,107/60,D,triage_assessment,1031,ESI,UTC,107,60
+1032,1032,25,"[""Shortness of Breath""]",ESI-1,63,96,127/89,D,triage_assessment,1032,ESI,UTC,127,89
+1033,1033,23,"[""Fatigue""]",ESI-4,86,99,135/65,D,triage_assessment,1033,ESI,UTC,135,65
+1034,1034,20,"[""Nausea"", ""Fatigue"", ""Chest Pain""]",ESI-3,94,97,129/68,D,triage_assessment,1034,ESI,UTC,129,68
+1035,1035,16,"[""Nausea"", ""Dizziness"", ""Shortness of Breath""]",ESI-1,66,98,125/75,D,triage_assessment,1035,ESI,UTC,125,75
+1036,1036,18,"[""Nausea"", ""Chest Pain""]",ESI-3,83,99,116/87,D,triage_assessment,1036,ESI,UTC,116,87
+1037,1037,24,"[""Nausea"", ""Dizziness"", ""Chest Pain""]",ESI-5,64,99,102/61,D,triage_assessment,1037,ESI,UTC,102,61
+1038,1038,16,"[""Fatigue"", ""Shortness of Breath"", ""Nausea""]",ESI-4,80,95,125/66,D,triage_assessment,1038,ESI,UTC,125,66
+1039,1039,19,"[""Fatigue""]",ESI-1,100,100,129/67,D,triage_assessment,1039,ESI,UTC,129,67
+1040,1040,17,"[""Nausea""]",ESI-5,65,96,110/78,D,triage_assessment,1040,ESI,UTC,110,78
+1041,1041,17,"[""Chest Pain"", ""Fatigue""]",ESI-3,65,100,128/77,D,triage_assessment,1041,ESI,UTC,128,77
+1042,1042,23,"[""Dizziness"", ""Nausea"", ""Chest Pain""]",ESI-5,76,97,114/81,D,triage_assessment,1042,ESI,UTC,114,81
+1043,1043,18,"[""Nausea"", ""Dizziness"", ""Chest Pain""]",ESI-5,72,99,123/84,D,triage_assessment,1043,ESI,UTC,123,84
+1044,1044,23,"[""Shortness of Breath"", ""Chest Pain"", ""Dizziness""]",ESI-4,60,96,133/81,D,triage_assessment,1044,ESI,UTC,133,81
+1045,1045,20,"[""Dizziness"", ""Nausea""]",ESI-4,91,95,104/90,D,triage_assessment,1045,ESI,UTC,104,90
+1047,1047,20,"[""Dizziness"", ""Shortness of Breath""]",ESI-3,73,99,137/76,D,triage_assessment,1047,ESI,UTC,137,76
+1049,1049,23,"[""Fatigue"", ""Dizziness""]",ESI-2,89,95,100/79,D,triage_assessment,1049,ESI,UTC,100,79
+1050,1050,21,"[""Dizziness""]",ESI-5,63,100,136/70,D,triage_assessment,1050,ESI,UTC,136,70
+1051,1051,16,"[""Shortness of Breath""]",ESI-2,72,98,102/64,D,triage_assessment,1051,ESI,UTC,102,64
+1052,1052,24,"[""Dizziness"", ""Nausea"", ""Chest Pain""]",ESI-3,95,95,138/81,D,triage_assessment,1052,ESI,UTC,138,81
+1053,1053,20,"[""Dizziness"", ""Chest Pain"", ""Shortness of Breath""]",ESI-4,86,96,120/62,D,triage_assessment,1053,ESI,UTC,120,62
+1054,1054,17,"[""Nausea""]",ESI-3,83,99,108/75,D,triage_assessment,1054,ESI,UTC,108,75
+1055,1055,18,"[""Chest Pain"", ""Nausea""]",ESI-2,93,95,111/77,D,triage_assessment,1055,ESI,UTC,111,77
+1056,1056,21,"[""Shortness of Breath""]",ESI-4,67,95,126/67,D,triage_assessment,1056,ESI,UTC,126,67
+1057,1057,23,"[""Fatigue""]",ESI-4,62,99,136/80,D,triage_assessment,1057,ESI,UTC,136,80
+1058,1058,18,"[""Fatigue"", ""Nausea""]",ESI-1,92,98,133/71,D,triage_assessment,1058,ESI,UTC,133,71
+1059,1059,20,"[""Fatigue""]",ESI-2,80,95,111/64,D,triage_assessment,1059,ESI,UTC,111,64
+1060,1060,25,"[""Fatigue""]",ESI-3,75,99,134/81,D,triage_assessment,1060,ESI,UTC,134,81
+1061,1061,25,"[""Shortness of Breath""]",ESI-4,99,97,101/81,D,triage_assessment,1061,ESI,UTC,101,81
+1062,1062,16,"[""Dizziness"", ""Nausea"", ""Shortness of Breath""]",ESI-3,95,97,136/63,D,triage_assessment,1062,ESI,UTC,136,63
+1064,1064,21,"[""Chest Pain"", ""Fatigue"", ""Dizziness""]",ESI-1,94,99,111/65,D,triage_assessment,1064,ESI,UTC,111,65
+1065,1065,25,"[""Nausea""]",ESI-2,88,98,139/80,D,triage_assessment,1065,ESI,UTC,139,80
+1066,1066,16,"[""Shortness of Breath""]",ESI-1,81,95,121/61,D,triage_assessment,1066,ESI,UTC,121,61
+1067,1067,23,"[""Nausea"", ""Shortness of Breath"", ""Fatigue""]",ESI-4,67,99,134/71,D,triage_assessment,1067,ESI,UTC,134,71
+1068,1068,23,"[""Chest Pain"", ""Shortness of Breath""]",ESI-4,100,100,101/75,D,triage_assessment,1068,ESI,UTC,101,75
+1069,1069,20,"[""Fatigue"", ""Nausea""]",ESI-1,90,98,127/64,D,triage_assessment,1069,ESI,UTC,127,64
+1070,1070,20,"[""Shortness of Breath""]",ESI-4,100,100,113/73,D,triage_assessment,1070,ESI,UTC,113,73
+1071,1071,25,"[""Shortness of Breath""]",ESI-4,62,97,140/85,D,triage_assessment,1071,ESI,UTC,140,85
+1072,1072,24,"[""Dizziness""]",ESI-2,99,95,121/82,D,triage_assessment,1072,ESI,UTC,121,82
+1073,1073,21,"[""Nausea"", ""Shortness of Breath"", ""Chest Pain""]",ESI-3,62,99,140/83,D,triage_assessment,1073,ESI,UTC,140,83
+1074,1074,16,"[""Dizziness""]",ESI-1,92,95,140/74,D,triage_assessment,1074,ESI,UTC,140,74
+1075,1075,25,"[""Fatigue"", ""Dizziness"", ""Shortness of Breath""]",ESI-2,99,99,100/79,D,triage_assessment,1075,ESI,UTC,100,79
+1076,1076,18,"[""Dizziness""]",ESI-2,76,95,117/63,D,triage_assessment,1076,ESI,UTC,117,63
+1077,1077,25,"[""Fatigue"", ""Nausea""]",ESI-1,70,98,108/78,D,triage_assessment,1077,ESI,UTC,108,78
+1078,1078,23,"[""Chest Pain""]",ESI-1,80,98,112/65,D,triage_assessment,1078,ESI,UTC,112,65
+1079,1079,20,"[""Nausea"", ""Shortness of Breath"", ""Dizziness""]",ESI-5,93,95,105/76,D,triage_assessment,1079,ESI,UTC,105,76
+1080,1080,20,"[""Fatigue"", ""Shortness of Breath""]",ESI-4,69,98,117/70,D,triage_assessment,1080,ESI,UTC,117,70
+1081,1081,19,"[""Nausea"", ""Shortness of Breath""]",ESI-4,95,95,104/83,D,triage_assessment,1081,ESI,UTC,104,83
+1082,1082,20,"[""Dizziness"", ""Nausea""]",ESI-3,73,98,129/73,D,triage_assessment,1082,ESI,UTC,129,73
+1083,1083,,"[""Chest Pain"", ""Fatigue"", ""Dizziness""]",ESI-3,69,98,129/86,D,triage_assessment,1083,ESI,UTC,129,86
+1085,1085,23,"[""Chest Pain"", ""Shortness of Breath""]",ESI-3,96,96,137/84,D,triage_assessment,1085,ESI,UTC,137,84
+1087,1087,19,"[""Fatigue"", ""Shortness of Breath"", ""Chest Pain""]",ESI-4,61,95,140/68,D,triage_assessment,1087,ESI,UTC,140,68
+1088,1088,24,"[""Nausea""]",ESI-3,92,95,133/88,D,triage_assessment,1088,ESI,UTC,133,88
+1089,1089,23,"[""Fatigue""]",ESI-5,97,98,121/79,D,triage_assessment,1089,ESI,UTC,121,79
+1090,1090,23,"[""Shortness of Breath"", ""Fatigue""]",ESI-3,83,100,126/84,D,triage_assessment,1090,ESI,UTC,126,84
+1091,1091,21,"[""Fatigue"", ""Dizziness""]",ESI-5,70,97,138/90,D,triage_assessment,1091,ESI,UTC,138,90
+1092,1092,16,"[""Nausea"", ""Dizziness""]",ESI-3,91,98,112/83,D,triage_assessment,1092,ESI,UTC,112,83
+1093,1093,18,"[""Dizziness"", ""Fatigue"", ""Nausea""]",ESI-1,91,97,126/75,D,triage_assessment,1093,ESI,UTC,126,75
+1094,1094,23,"[""Shortness of Breath"", ""Chest Pain""]",ESI-3,68,97,122/82,D,triage_assessment,1094,ESI,UTC,122,82
+1095,1095,,"[""Shortness of Breath"", ""Chest Pain"", ""Dizziness""]",ESI-2,66,95,117/79,D,triage_assessment,1095,ESI,UTC,117,79
+1096,1096,,"[""Dizziness"", ""Chest Pain"", ""Nausea""]",ESI-3,71,96,106/69,D,triage_assessment,1096,ESI,UTC,106,69
+1098,1098,17,"[""Shortness of Breath"", ""Fatigue"", ""Nausea""]",ESI-2,76,95,119/70,D,triage_assessment,1098,ESI,UTC,119,70
+1100,1100,22,"[""Chest Pain"", ""Shortness of Breath""]",ESI-4,84,97,102/85,D,triage_assessment,1100,ESI,UTC,102,85
+1101,1101,21,"[""Fatigue"", ""Chest Pain""]",ESI-3,95,97,130/81,D,triage_assessment,1101,ESI,UTC,130,81
+1103,1103,25,"[""Shortness of Breath""]",ESI-5,70,100,127/61,D,triage_assessment,1103,ESI,UTC,127,61
+1104,1104,16,"[""Fatigue"", ""Nausea""]",ESI-2,89,100,129/79,D,triage_assessment,1104,ESI,UTC,129,79
+1105,1105,20,"[""Fatigue""]",ESI-4,86,96,139/87,D,triage_assessment,1105,ESI,UTC,139,87
+1106,1106,19,"[""Fatigue"", ""Chest Pain""]",ESI-3,91,99,121/81,D,triage_assessment,1106,ESI,UTC,121,81
+1107,1107,19,"[""Fatigue"", ""Chest Pain""]",ESI-4,72,98,113/76,D,triage_assessment,1107,ESI,UTC,113,76
+1108,1108,23,"[""Shortness of Breath"", ""Fatigue""]",ESI-4,73,97,102/80,D,triage_assessment,1108,ESI,UTC,102,80
+1110,1110,24,"[""Chest Pain"", ""Fatigue""]",ESI-3,94,97,103/77,D,triage_assessment,1110,ESI,UTC,103,77
+1112,1112,16,"[""Fatigue"", ""Dizziness""]",ESI-4,78,100,138/84,D,triage_assessment,1112,ESI,UTC,138,84
+1113,1113,22,"[""Fatigue"", ""Chest Pain"", ""Nausea""]",ESI-5,85,97,132/87,D,triage_assessment,1113,ESI,UTC,132,87
+1114,1114,22,"[""Nausea"", ""Fatigue""]",ESI-2,82,95,107/62,D,triage_assessment,1114,ESI,UTC,107,62
+1115,1115,20,"[""Shortness of Breath"", ""Dizziness""]",ESI-3,72,100,103/71,D,triage_assessment,1115,ESI,UTC,103,71
+1116,1116,24,"[""Nausea"", ""Chest Pain"", ""Fatigue""]",ESI-4,96,95,137/89,D,triage_assessment,1116,ESI,UTC,137,89
+1117,1117,24,"[""Dizziness"", ""Shortness of Breath"", ""Chest Pain""]",ESI-5,98,96,106/85,D,triage_assessment,1117,ESI,UTC,106,85
+1118,1118,22,"[""Fatigue"", ""Shortness of Breath"", ""Dizziness""]",ESI-3,64,99,139/64,D,triage_assessment,1118,ESI,UTC,139,64
+1119,1119,19,"[""Nausea"", ""Dizziness""]",ESI-1,63,98,130/79,D,triage_assessment,1119,ESI,UTC,130,79
+1120,1120,19,"[""Dizziness"", ""Shortness of Breath""]",ESI-1,82,99,117/76,D,triage_assessment,1120,ESI,UTC,117,76
+1121,1121,16,"[""Shortness of Breath""]",ESI-3,64,97,104/74,D,triage_assessment,1121,ESI,UTC,104,74
+1122,1122,21,"[""Fatigue""]",ESI-2,96,95,105/70,D,triage_assessment,1122,ESI,UTC,105,70
+1123,1123,19,"[""Nausea"", ""Shortness of Breath""]",ESI-3,64,100,111/86,D,triage_assessment,1123,ESI,UTC,111,86
+1124,1124,16,"[""Dizziness"", ""Fatigue"", ""Chest Pain""]",ESI-5,97,99,104/68,D,triage_assessment,1124,ESI,UTC,104,68
+1125,1125,22,"[""Fatigue"", ""Shortness of Breath"", ""Chest Pain""]",ESI-2,94,100,139/73,D,triage_assessment,1125,ESI,UTC,139,73
+1126,1126,21,"[""Fatigue"", ""Dizziness"", ""Nausea""]",ESI-2,65,97,111/80,D,triage_assessment,1126,ESI,UTC,111,80
+1129,1129,24,"[""Fatigue"", ""Dizziness"", ""Chest Pain""]",ESI-4,74,97,127/83,D,triage_assessment,1129,ESI,UTC,127,83
+1130,1130,21,"[""Chest Pain""]",ESI-1,82,97,135/63,D,triage_assessment,1130,ESI,UTC,135,63
+1131,1131,17,"[""Fatigue"", ""Shortness of Breath"", ""Dizziness""]",ESI-1,80,98,101/68,D,triage_assessment,1131,ESI,UTC,101,68
+1132,1132,18,"[""Dizziness"", ""Chest Pain""]",ESI-4,83,99,102/89,D,triage_assessment,1132,ESI,UTC,102,89
+1133,1133,23,"[""Nausea""]",ESI-5,98,96,127/72,D,triage_assessment,1133,ESI,UTC,127,72
+1134,1134,24,"[""Fatigue""]",ESI-5,63,95,104/69,D,triage_assessment,1134,ESI,UTC,104,69
+1135,1135,17,"[""Nausea"", ""Fatigue""]",ESI-3,93,98,102/72,D,triage_assessment,1135,ESI,UTC,102,72
+1136,1136,22,"[""Chest Pain""]",ESI-4,67,98,100/78,D,triage_assessment,1136,ESI,UTC,100,78
+1137,1137,22,"[""Shortness of Breath"", ""Dizziness""]",ESI-4,65,100,135/65,D,triage_assessment,1137,ESI,UTC,135,65
+1139,1139,16,"[""Nausea"", ""Fatigue""]",ESI-4,60,97,120/90,D,triage_assessment,1139,ESI,UTC,120,90
+1140,1140,18,"[""Chest Pain"", ""Nausea"", ""Shortness of Breath""]",ESI-1,83,96,110/74,D,triage_assessment,1140,ESI,UTC,110,74
+1141,1141,16,"[""Nausea"", ""Chest Pain"", ""Dizziness""]",ESI-2,97,96,139/63,D,triage_assessment,1141,ESI,UTC,139,63
+1142,1142,24,"[""Nausea""]",ESI-5,82,100,115/90,D,triage_assessment,1142,ESI,UTC,115,90
+1143,1143,18,"[""Chest Pain"", ""Nausea""]",ESI-3,86,95,136/67,D,triage_assessment,1143,ESI,UTC,136,67
+1144,1144,16,"[""Chest Pain""]",ESI-2,98,95,117/85,D,triage_assessment,1144,ESI,UTC,117,85
+1145,1145,24,"[""Chest Pain"", ""Nausea"", ""Fatigue""]",ESI-2,88,98,103/76,D,triage_assessment,1145,ESI,UTC,103,76
+1146,1146,21,"[""Dizziness""]",ESI-1,92,97,130/82,D,triage_assessment,1146,ESI,UTC,130,82
+1147,1147,16,"[""Chest Pain"", ""Dizziness""]",ESI-3,80,97,114/70,D,triage_assessment,1147,ESI,UTC,114,70
+1148,1148,24,"[""Nausea"", ""Chest Pain""]",ESI-2,87,98,126/73,D,triage_assessment,1148,ESI,UTC,126,73
+1149,1149,19,"[""Shortness of Breath"", ""Nausea"", ""Chest Pain""]",ESI-1,76,99,135/61,D,triage_assessment,1149,ESI,UTC,135,61
+1150,1150,18,"[""Nausea"", ""Shortness of Breath"", ""Chest Pain""]",ESI-1,64,96,101/76,D,triage_assessment,1150,ESI,UTC,101,76
+1151,1151,25,"[""Chest Pain""]",ESI-1,82,99,102/86,D,triage_assessment,1151,ESI,UTC,102,86
+1152,1152,17,"[""Chest Pain"", ""Nausea"", ""Shortness of Breath""]",ESI-3,98,96,117/84,D,triage_assessment,1152,ESI,UTC,117,84
+1153,1153,17,"[""Fatigue""]",ESI-5,98,98,129/75,D,triage_assessment,1153,ESI,UTC,129,75
+1154,1154,19,"[""Fatigue""]",ESI-4,94,95,131/84,D,triage_assessment,1154,ESI,UTC,131,84
+1155,1155,22,"[""Shortness of Breath"", ""Dizziness"", ""Chest Pain""]",ESI-5,84,98,123/68,D,triage_assessment,1155,ESI,UTC,123,68
+1156,1156,17,"[""Nausea""]",ESI-5,78,95,127/79,D,triage_assessment,1156,ESI,UTC,127,79
+1157,1157,20,"[""Fatigue"", ""Chest Pain"", ""Dizziness""]",ESI-3,78,98,140/70,D,triage_assessment,1157,ESI,UTC,140,70
+1158,1158,24,"[""Shortness of Breath"", ""Nausea""]",ESI-1,87,100,126/73,D,triage_assessment,1158,ESI,UTC,126,73
+1159,1159,17,"[""Shortness of Breath""]",ESI-4,64,99,135/79,D,triage_assessment,1159,ESI,UTC,135,79
+1162,1162,20,"[""Dizziness""]",ESI-1,90,98,131/87,D,triage_assessment,1162,ESI,UTC,131,87
+1163,1163,22,"[""Shortness of Breath""]",ESI-1,84,99,135/79,D,triage_assessment,1163,ESI,UTC,135,79
+1164,1164,19,"[""Nausea"", ""Chest Pain"", ""Dizziness""]",ESI-5,91,97,101/70,D,triage_assessment,1164,ESI,UTC,101,70
+1165,1165,16,"[""Fatigue""]",ESI-3,94,95,117/89,D,triage_assessment,1165,ESI,UTC,117,89
+1166,1166,19,"[""Dizziness"", ""Nausea""]",ESI-4,87,95,138/76,D,triage_assessment,1166,ESI,UTC,138,76
+1167,1167,21,"[""Fatigue"", ""Shortness of Breath"", ""Chest Pain""]",ESI-5,100,95,132/69,D,triage_assessment,1167,ESI,UTC,132,69
+1168,1168,19,"[""Fatigue""]",ESI-3,70,100,134/81,D,triage_assessment,1168,ESI,UTC,134,81
+1169,1169,19,"[""Dizziness"", ""Shortness of Breath""]",ESI-1,70,100,115/80,D,triage_assessment,1169,ESI,UTC,115,80
+1171,1171,24,"[""Shortness of Breath"", ""Nausea"", ""Fatigue""]",ESI-5,88,100,129/64,D,triage_assessment,1171,ESI,UTC,129,64
+1173,1173,22,"[""Fatigue"", ""Nausea"", ""Dizziness""]",ESI-4,85,100,127/83,D,triage_assessment,1173,ESI,UTC,127,83
+1174,1174,21,"[""Chest Pain"", ""Nausea""]",ESI-2,64,97,137/77,D,triage_assessment,1174,ESI,UTC,137,77
+1175,1175,21,"[""Fatigue"", ""Dizziness""]",ESI-4,60,100,116/78,D,triage_assessment,1175,ESI,UTC,116,78
+1176,1176,18,"[""Chest Pain"", ""Shortness of Breath"", ""Fatigue""]",ESI-4,91,97,104/82,D,triage_assessment,1176,ESI,UTC,104,82
+1177,1177,19,"[""Nausea"", ""Fatigue""]",ESI-5,94,95,110/78,D,triage_assessment,1177,ESI,UTC,110,78
+1178,1178,19,"[""Fatigue"", ""Shortness of Breath"", ""Nausea""]",ESI-4,99,97,104/70,D,triage_assessment,1178,ESI,UTC,104,70
+1179,1179,19,"[""Shortness of Breath"", ""Chest Pain""]",ESI-5,97,97,125/60,D,triage_assessment,1179,ESI,UTC,125,60
+1180,1180,17,"[""Shortness of Breath"", ""Chest Pain""]",ESI-1,66,100,117/70,D,triage_assessment,1180,ESI,UTC,117,70
+1181,1181,23,"[""Dizziness"", ""Shortness of Breath""]",ESI-4,73,97,105/90,D,triage_assessment,1181,ESI,UTC,105,90
+1182,1182,21,"[""Fatigue"", ""Dizziness""]",ESI-2,99,100,123/84,D,triage_assessment,1182,ESI,UTC,123,84
+1183,1183,24,"[""Fatigue"", ""Shortness of Breath"", ""Chest Pain""]",ESI-1,84,96,125/87,D,triage_assessment,1183,ESI,UTC,125,87
+1184,1184,22,"[""Nausea""]",ESI-4,76,100,120/65,D,triage_assessment,1184,ESI,UTC,120,65
+1185,1185,16,"[""Dizziness"", ""Fatigue"", ""Shortness of Breath""]",ESI-1,80,97,140/73,D,triage_assessment,1185,ESI,UTC,140,73
+1186,1186,19,"[""Nausea""]",ESI-2,95,99,101/85,D,triage_assessment,1186,ESI,UTC,101,85
+1187,1187,18,"[""Shortness of Breath""]",ESI-2,66,95,108/68,D,triage_assessment,1187,ESI,UTC,108,68
+1188,1188,18,"[""Shortness of Breath""]",ESI-2,96,95,127/70,D,triage_assessment,1188,ESI,UTC,127,70
+1189,1189,18,"[""Nausea""]",ESI-5,72,95,115/70,D,triage_assessment,1189,ESI,UTC,115,70
+1190,1190,25,"[""Nausea"", ""Chest Pain""]",ESI-3,62,100,116/81,D,triage_assessment,1190,ESI,UTC,116,81
+1191,1191,17,"[""Chest Pain"", ""Dizziness"", ""Nausea""]",ESI-4,78,98,123/73,D,triage_assessment,1191,ESI,UTC,123,73
+1192,1192,21,"[""Fatigue"", ""Chest Pain""]",ESI-2,83,98,136/88,D,triage_assessment,1192,ESI,UTC,136,88
+1193,1193,21,"[""Shortness of Breath"", ""Nausea""]",ESI-3,76,99,132/77,D,triage_assessment,1193,ESI,UTC,132,77
+1194,1194,25,"[""Chest Pain"", ""Nausea""]",ESI-2,68,96,135/68,D,triage_assessment,1194,ESI,UTC,135,68
+1195,1195,17,"[""Chest Pain""]",ESI-2,99,97,116/67,D,triage_assessment,1195,ESI,UTC,116,67
+1196,1196,18,"[""Fatigue"", ""Nausea""]",ESI-1,94,95,131/63,D,triage_assessment,1196,ESI,UTC,131,63
+1197,1197,17,"[""Chest Pain""]",ESI-1,82,97,138/79,D,triage_assessment,1197,ESI,UTC,138,79
+1198,1198,17,"[""Chest Pain"", ""Dizziness"", ""Fatigue""]",ESI-5,90,95,130/80,D,triage_assessment,1198,ESI,UTC,130,80
+1199,1199,16,"[""Dizziness"", ""Nausea"", ""Chest Pain""]",ESI-2,90,95,103/76,D,triage_assessment,1199,ESI,UTC,103,76
+1200,1200,22,"[""Shortness of Breath"", ""Chest Pain""]",ESI-1,83,96,120/67,D,triage_assessment,1200,ESI,UTC,120,67

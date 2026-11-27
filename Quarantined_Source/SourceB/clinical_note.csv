@@ -1,0 +1,303 @@
+note_id,admission_id,physician_id,type,creation_date,note_text,_source,_table,_source_row,_reason,_missing_required_fields
+59,67,MRN-10015,SOAP,19/03/2026 10:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,59,missing_or_quarantined_parent:admission,
+69,9999,MRN-10007,Narrative,14/01/2026 04:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,69,missing_or_quarantined_parent:admission,
+76,89,MRN-10007,Narrative,27/01/2026 02:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,76,missing_or_quarantined_parent:admission,
+86,100,MRN-10011,Discharge Summary,28/04/2026 12:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,86,missing_or_quarantined_parent:admission,
+98,112,MRN-10003,Narrative,28/08/2026 06:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,98,missing_or_quarantined_parent:admission,
+121,139,MRN-10003,Narrative,28/02/2026 12:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,121,missing_or_quarantined_parent:admission,
+128,148,MRN-10009,Discharge Summary,02/04/2026 23:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,128,missing_or_quarantined_parent:admission,
+152,9999,MRN-10005,Narrative,26/08/2026 16:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,152,missing_or_quarantined_parent:admission,
+203,9999,MRN-10013,SOAP,14/08/2026 01:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,203,missing_or_quarantined_parent:admission,
+242,9999,MRN-10013,Discharge Summary,24/01/2026 08:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,242,missing_or_quarantined_parent:admission,
+257,9999,MRN-10009,Discharge Summary,16/03/2026 19:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,257,missing_or_quarantined_parent:admission,
+325,9999,MRN-10002,Narrative,07/01/2026 08:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,325,missing_or_quarantined_parent:admission,
+366,418,MRN-10004,Discharge Summary,05/09/2026 01:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,366,missing_or_quarantined_parent:admission,
+371,9999,MRN-10010,SOAP,02/05/2026 11:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,371,missing_or_quarantined_parent:admission,
+379,434,MRN-10008,SOAP,01/05/2026 13:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,379,missing_or_quarantined_parent:admission,
+412,471,MRN-10006,Discharge Summary,10/02/2026 11:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,412,missing_or_quarantined_parent:admission,
+421,9999,MRN-10007,Narrative,17/01/2026 09:00,,B,clinical_note,421,missing_or_quarantined_parent:admission,
+431,9999,MRN-10003,SOAP,11/06/2026 06:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,431,missing_or_quarantined_parent:admission,
+432,495,MRN-10003,Discharge Summary,30/04/2026 01:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,432,missing_or_quarantined_parent:admission,
+437,500,MRN-10009,Discharge Summary,06/06/2026 18:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,437,missing_or_quarantined_parent:admission,
+498,9999,MRN-10002,Narrative,17/08/2026 10:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,498,missing_or_quarantined_parent:admission,
+523,600,MRN-10009,Discharge Summary,04/06/2026 18:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,523,missing_or_quarantined_parent:admission,
+536,9999,MRN-10006,Discharge Summary,27/08/2026 02:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,536,missing_or_quarantined_parent:admission,
+579,9999,MRN-10004,Narrative,14/02/2026 15:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,579,missing_or_quarantined_parent:admission,
+590,9999,MRN-10015,Narrative,25/03/2026 13:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,590,missing_or_quarantined_parent:admission,
+607,9999,MRN-10013,SOAP,01/06/2026 04:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,607,missing_or_quarantined_parent:admission,
+616,9999,MRN-10011,Narrative,05/02/2026 11:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,616,missing_or_quarantined_parent:admission,
+644,736,MRN-10004,Narrative,03/04/2026 09:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,644,missing_or_quarantined_parent:admission,
+703,9999,MRN-10012,Discharge Summary,07/03/2026 15:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,703,missing_or_quarantined_parent:admission,
+708,810,MRN-10001,Discharge Summary,08/01/2026 17:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,708,missing_or_quarantined_parent:admission,
+745,9999,MRN-10003,Discharge Summary,23/07/2026 07:00,,B,clinical_note,745,missing_or_quarantined_parent:admission,
+768,9999,MRN-10004,SOAP,03/04/2026 13:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,768,missing_or_quarantined_parent:admission,
+772,882,MRN-10009,Discharge Summary,11/07/2026 07:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,772,missing_or_quarantined_parent:admission,
+812,9999,MRN-10015,Discharge Summary,22/06/2026 20:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,812,missing_or_quarantined_parent:admission,
+819,934,MRN-10015,Narrative,28/01/2026 08:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,819,missing_or_quarantined_parent:admission,
+828,944,MRN-10011,Narrative,15/02/2026 22:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,828,missing_or_quarantined_parent:admission,
+840,9999,MRN-10002,Narrative,24/06/2026 04:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,840,missing_or_quarantined_parent:admission,
+842,961,MRN-10004,Narrative,13/01/2026 01:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,842,missing_or_quarantined_parent:admission,
+859,981,MRN-10014,SOAP,07/07/2026 02:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,859,missing_or_quarantined_parent:admission,
+874,9999,MRN-10009,Discharge Summary,03/07/2026 21:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,874,missing_or_quarantined_parent:admission,
+907,1037,MRN-10011,Narrative,22/03/2026 08:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,907,missing_or_quarantined_parent:admission,
+909,9999,MRN-10010,Narrative,01/07/2026 19:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,909,missing_or_quarantined_parent:admission,
+938,9999,MRN-10003,Narrative,01/06/2026 05:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,938,missing_or_quarantined_parent:admission,
+941,9999,MRN-10002,SOAP,18/04/2026 18:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,941,missing_or_quarantined_parent:admission,
+950,9999,MRN-10002,Narrative,04/09/2026 13:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,950,missing_or_quarantined_parent:admission,
+962,9999,MRN-10015,SOAP,29/06/2026 00:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,962,missing_or_quarantined_parent:admission,
+963,9999,MRN-10005,Narrative,19/08/2026 05:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,963,missing_or_quarantined_parent:admission,
+964,9999,MRN-10014,Discharge Summary,02/04/2026 16:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,964,missing_or_quarantined_parent:admission,
+1011,1153,MRN-10004,SOAP,10/08/2026 04:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,1011,missing_or_quarantined_parent:admission,
+1012,9999,MRN-10007,SOAP,26/07/2026 20:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,1012,missing_or_quarantined_parent:admission,
+1019,9999,MRN-10003,Narrative,04/03/2026 07:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,1019,missing_or_quarantined_parent:admission,
+1020,9999,MRN-10004,SOAP,08/09/2026 05:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,1020,missing_or_quarantined_parent:admission,
+1024,1167,MRN-10014,Discharge Summary,28/08/2026 17:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,1024,missing_or_quarantined_parent:admission,
+21,24,MRN-10004,Narrative,08/03/2026 18:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,21,creation_date:after_discharge,
+79,93,MRN-10014,Narrative,04/04/2026 07:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,79,creation_date:after_discharge,
+91,105,MRN-10013,Narrative,26/05/2026 08:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,91,creation_date:after_discharge,
+225,255,MRN-10015,Narrative,02/07/2026 11:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,225,creation_date:after_discharge,
+272,308,MRN-10007,SOAP,30/07/2026 09:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,272,creation_date:after_discharge,
+280,316,MRN-10013,Discharge Summary,22/05/2026 06:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,280,creation_date:after_discharge,
+327,372,MRN-10002,SOAP,10/08/2026 03:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,327,creation_date:after_discharge,
+369,422,MRN-10013,SOAP,11/04/2026 20:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,369,creation_date:after_discharge,
+392,448,MRN-10011,Narrative,30/06/2026 21:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,392,creation_date:after_discharge,
+439,503,MRN-10006,Discharge Summary,20/03/2026 13:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,439,creation_date:after_discharge,
+545,629,MRN-10014,Narrative,04/05/2026 03:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,545,creation_date:after_discharge,
+563,649,MRN-10014,Discharge Summary,13/06/2026 19:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,563,creation_date:after_discharge,
+617,708,MRN-10009,Discharge Summary,17/06/2026 19:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,617,creation_date:after_discharge,
+642,734,MRN-10004,Discharge Summary,22/05/2026 04:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,642,creation_date:after_discharge,
+654,746,MRN-10009,Discharge Summary,04/06/2026 23:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,654,creation_date:after_discharge,
+717,819,MRN-10008,SOAP,14/07/2026 03:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,717,creation_date:after_discharge,
+725,827,MRN-10007,Narrative,24/03/2026 06:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,725,creation_date:after_discharge,
+760,869,MRN-10009,Narrative,13/08/2026 05:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,760,creation_date:after_discharge,
+771,881,MRN-10014,Discharge Summary,11/04/2026 22:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,771,creation_date:after_discharge,
+794,907,MRN-10011,Discharge Summary,21/04/2026 02:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,794,creation_date:after_discharge,
+887,1012,MRN-10006,Discharge Summary,24/05/2026 07:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,887,creation_date:after_discharge,
+888,1013,MRN-10003,Narrative,06/08/2026 17:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,888,creation_date:after_discharge,
+966,1103,MRN-10010,SOAP,11/03/2026 15:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,966,creation_date:after_discharge,
+997,1137,MRN-10007,SOAP,31/07/2026 19:00,"Subjective: Patient presents with acute discomfort.
+Objective: Vitals show mild elevation. Patient is alert.
+Assessment: Suspected acute condition requiring observation.
+Plan: Admit for further testing and continuous monitoring.",B,clinical_note,997,creation_date:after_discharge,

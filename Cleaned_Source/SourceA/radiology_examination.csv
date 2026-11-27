@@ -1,0 +1,235 @@
+examination_id,order_id,examination_type,examination_date_time,body_area_examined,referring_physician_id,radiology_technician,examination_status,medical_images,_source,_table,_source_row,_time_basis
+1,1,MRI Brain,2026-07-22T21:45:00,Head,6,Tech D. Tremblay,PENDING,DICOM-3779,A,radiology_examination,1,LOCAL_ZONE_UNKNOWN
+2,2,Chest X-Ray,2026-07-12T04:15:00,Chest,8,Tech C. Smith,PENDING,DICOM-7195,A,radiology_examination,2,LOCAL_ZONE_UNKNOWN
+3,3,CT Scan - Chest,2026-04-08T17:15:00,Chest,6,Tech D. Tremblay,IN_PROGRESS,DICOM-8399,A,radiology_examination,3,LOCAL_ZONE_UNKNOWN
+5,5,Chest X-Ray,2026-06-06T13:30:00,Chest,9,Tech D. Tremblay,IN_PROGRESS,DICOM-9111,A,radiology_examination,5,LOCAL_ZONE_UNKNOWN
+6,6,Abdominal Ultrasound,2026-08-13T13:45:00,Abdomen,13,Tech D. Tremblay,FINALIZED,DICOM-1200,A,radiology_examination,6,LOCAL_ZONE_UNKNOWN
+7,7,Abdominal Ultrasound,2026-05-05T14:30:00,Abdomen,4,Tech D. Tremblay,FINALIZED,DICOM-3555,A,radiology_examination,7,LOCAL_ZONE_UNKNOWN
+10,10,Abdominal Ultrasound,2026-08-26T00:45:00,Abdomen,12,Tech D. Tremblay,IN_PROGRESS,DICOM-8890,A,radiology_examination,10,LOCAL_ZONE_UNKNOWN
+11,11,MRI Brain,2026-08-04T14:45:00,Head,2,Tech A. Roy,FINALIZED,DICOM-3181,A,radiology_examination,11,LOCAL_ZONE_UNKNOWN
+13,13,Abdominal Ultrasound,2026-01-24T06:45:00,Abdomen,4,Tech D. Tremblay,IN_PROGRESS,DICOM-5411,A,radiology_examination,13,LOCAL_ZONE_UNKNOWN
+14,14,CT Scan - Chest,2026-09-02T08:00:00,Chest,9,Tech D. Tremblay,IN_PROGRESS,DICOM-6297,A,radiology_examination,14,LOCAL_ZONE_UNKNOWN
+15,15,CT Scan - Chest,2026-07-08T08:15:00,Chest,12,Tech A. Roy,IN_PROGRESS,DICOM-5998,A,radiology_examination,15,LOCAL_ZONE_UNKNOWN
+16,16,Abdominal Ultrasound,2026-04-20T11:30:00,Abdomen,11,Tech B. Gagnon,IN_PROGRESS,DICOM-6570,A,radiology_examination,16,LOCAL_ZONE_UNKNOWN
+17,17,Chest X-Ray,2026-07-18T09:45:00,Chest,15,Tech A. Roy,FINALIZED,DICOM-5494,A,radiology_examination,17,LOCAL_ZONE_UNKNOWN
+18,18,Abdominal Ultrasound,2026-07-31T09:00:00,Abdomen,8,Tech C. Smith,PENDING,DICOM-2213,A,radiology_examination,18,LOCAL_ZONE_UNKNOWN
+19,19,Chest X-Ray,2026-04-03T06:00:00,Chest,8,Tech B. Gagnon,IN_PROGRESS,,A,radiology_examination,19,LOCAL_ZONE_UNKNOWN
+20,20,MRI Brain,2026-04-04T12:15:00,Head,4,Tech C. Smith,PENDING,DICOM-9608,A,radiology_examination,20,LOCAL_ZONE_UNKNOWN
+21,21,CT Scan - Chest,2026-03-15T12:30:00,Chest,9,Tech D. Tremblay,PENDING,DICOM-9226,A,radiology_examination,21,LOCAL_ZONE_UNKNOWN
+22,22,MRI Brain,2026-01-09T05:45:00,Head,7,Tech C. Smith,FINALIZED,DICOM-9123,A,radiology_examination,22,LOCAL_ZONE_UNKNOWN
+23,23,Abdominal Ultrasound,2026-05-27T22:00:00,Abdomen,12,Tech D. Tremblay,PENDING,DICOM-5239,A,radiology_examination,23,LOCAL_ZONE_UNKNOWN
+25,25,Abdominal Ultrasound,2026-02-01T22:15:00,Abdomen,14,Tech A. Roy,IN_PROGRESS,DICOM-9888,A,radiology_examination,25,LOCAL_ZONE_UNKNOWN
+26,26,Chest X-Ray,2026-09-07T03:15:00,,4,Tech A. Roy,FINALIZED,DICOM-2137,A,radiology_examination,26,LOCAL_ZONE_UNKNOWN
+27,27,Abdominal Ultrasound,2026-07-31T02:00:00,Abdomen,4,Tech D. Tremblay,FINALIZED,DICOM-3522,A,radiology_examination,27,LOCAL_ZONE_UNKNOWN
+28,28,MRI Brain,2026-01-07T21:15:00,Head,9,Tech D. Tremblay,FINALIZED,DICOM-5929,A,radiology_examination,28,LOCAL_ZONE_UNKNOWN
+31,31,CT Scan - Chest,2026-07-31T14:00:00,Chest,10,Tech C. Smith,PENDING,DICOM-7259,A,radiology_examination,31,LOCAL_ZONE_UNKNOWN
+32,32,MRI Brain,2026-01-31T18:30:00,Head,10,Tech C. Smith,PENDING,DICOM-9355,A,radiology_examination,32,LOCAL_ZONE_UNKNOWN
+33,33,Abdominal Ultrasound,2026-02-20T14:45:00,Abdomen,8,Tech A. Roy,FINALIZED,DICOM-4756,A,radiology_examination,33,LOCAL_ZONE_UNKNOWN
+34,34,CT Scan - Chest,2026-08-16T23:15:00,Chest,15,Tech C. Smith,IN_PROGRESS,DICOM-5161,A,radiology_examination,34,LOCAL_ZONE_UNKNOWN
+35,35,CT Scan - Chest,2026-02-08T02:00:00,Chest,1,Tech D. Tremblay,PENDING,DICOM-2032,A,radiology_examination,35,LOCAL_ZONE_UNKNOWN
+36,36,MRI Brain,2026-05-05T07:30:00,Head,9,Tech C. Smith,PENDING,DICOM-2367,A,radiology_examination,36,LOCAL_ZONE_UNKNOWN
+37,37,MRI Brain,2026-01-08T20:15:00,Head,8,Tech A. Roy,FINALIZED,DICOM-3819,A,radiology_examination,37,LOCAL_ZONE_UNKNOWN
+38,38,MRI Brain,2026-04-18T19:00:00,Head,5,Tech A. Roy,IN_PROGRESS,DICOM-4237,A,radiology_examination,38,LOCAL_ZONE_UNKNOWN
+39,39,MRI Brain,2026-09-08T02:00:00,Head,5,Tech B. Gagnon,PENDING,DICOM-5680,A,radiology_examination,39,LOCAL_ZONE_UNKNOWN
+40,40,CT Scan - Chest,2026-07-04T08:45:00,,13,Tech A. Roy,PENDING,DICOM-5759,A,radiology_examination,40,LOCAL_ZONE_UNKNOWN
+41,41,MRI Brain,2026-07-16T01:30:00,Head,12,Tech C. Smith,IN_PROGRESS,DICOM-3967,A,radiology_examination,41,LOCAL_ZONE_UNKNOWN
+42,42,CT Scan - Chest,2026-08-01T18:15:00,Chest,13,Tech C. Smith,IN_PROGRESS,DICOM-1555,A,radiology_examination,42,LOCAL_ZONE_UNKNOWN
+43,43,Abdominal Ultrasound,2026-07-20T23:00:00,Abdomen,4,Tech D. Tremblay,FINALIZED,DICOM-1301,A,radiology_examination,43,LOCAL_ZONE_UNKNOWN
+44,44,Abdominal Ultrasound,2026-04-07T22:30:00,Abdomen,13,Tech D. Tremblay,PENDING,DICOM-7033,A,radiology_examination,44,LOCAL_ZONE_UNKNOWN
+45,45,CT Scan - Chest,2026-02-13T07:45:00,Chest,14,Tech D. Tremblay,PENDING,DICOM-4166,A,radiology_examination,45,LOCAL_ZONE_UNKNOWN
+46,46,Chest X-Ray,2026-02-08T19:00:00,Chest,7,Tech B. Gagnon,PENDING,DICOM-2545,A,radiology_examination,46,LOCAL_ZONE_UNKNOWN
+47,47,Chest X-Ray,2026-01-15T18:15:00,Chest,10,Tech B. Gagnon,PENDING,DICOM-1928,A,radiology_examination,47,LOCAL_ZONE_UNKNOWN
+48,48,MRI Brain,2026-06-17T15:45:00,Head,2,Tech A. Roy,IN_PROGRESS,DICOM-5592,A,radiology_examination,48,LOCAL_ZONE_UNKNOWN
+49,49,Chest X-Ray,2026-08-17T21:00:00,Chest,1,Tech B. Gagnon,IN_PROGRESS,DICOM-3335,A,radiology_examination,49,LOCAL_ZONE_UNKNOWN
+50,50,Chest X-Ray,2026-05-03T03:45:00,Chest,2,Tech B. Gagnon,PENDING,DICOM-2674,A,radiology_examination,50,LOCAL_ZONE_UNKNOWN
+51,51,Chest X-Ray,2026-01-22T17:45:00,Chest,13,Tech B. Gagnon,PENDING,DICOM-2042,A,radiology_examination,51,LOCAL_ZONE_UNKNOWN
+52,52,MRI Brain,2026-07-06T03:00:00,Head,4,Tech D. Tremblay,FINALIZED,DICOM-6812,A,radiology_examination,52,LOCAL_ZONE_UNKNOWN
+53,53,Chest X-Ray,2026-01-08T15:00:00,Chest,11,Tech D. Tremblay,PENDING,DICOM-7473,A,radiology_examination,53,LOCAL_ZONE_UNKNOWN
+54,54,MRI Brain,2026-01-12T12:15:00,Head,12,Tech D. Tremblay,IN_PROGRESS,DICOM-6147,A,radiology_examination,54,LOCAL_ZONE_UNKNOWN
+55,55,Abdominal Ultrasound,2026-04-19T07:45:00,Abdomen,10,Tech B. Gagnon,PENDING,DICOM-8155,A,radiology_examination,55,LOCAL_ZONE_UNKNOWN
+56,56,MRI Brain,2026-04-26T05:15:00,Head,8,Tech A. Roy,PENDING,DICOM-8185,A,radiology_examination,56,LOCAL_ZONE_UNKNOWN
+57,57,MRI Brain,2026-05-30T03:45:00,Head,15,Tech B. Gagnon,IN_PROGRESS,DICOM-3464,A,radiology_examination,57,LOCAL_ZONE_UNKNOWN
+59,59,MRI Brain,2026-08-21T00:15:00,Head,1,Tech C. Smith,FINALIZED,,A,radiology_examination,59,LOCAL_ZONE_UNKNOWN
+60,60,CT Scan - Chest,2026-07-04T10:15:00,Chest,1,Tech A. Roy,IN_PROGRESS,DICOM-4565,A,radiology_examination,60,LOCAL_ZONE_UNKNOWN
+61,61,CT Scan - Chest,2026-08-28T15:15:00,Chest,13,Tech A. Roy,PENDING,DICOM-2033,A,radiology_examination,61,LOCAL_ZONE_UNKNOWN
+62,62,Abdominal Ultrasound,2026-02-27T08:30:00,Abdomen,8,Tech C. Smith,IN_PROGRESS,DICOM-1526,A,radiology_examination,62,LOCAL_ZONE_UNKNOWN
+63,63,CT Scan - Chest,2026-01-03T22:30:00,Chest,5,Tech D. Tremblay,FINALIZED,DICOM-1051,A,radiology_examination,63,LOCAL_ZONE_UNKNOWN
+64,64,Abdominal Ultrasound,2026-04-25T15:45:00,Abdomen,13,Tech B. Gagnon,PENDING,DICOM-5765,A,radiology_examination,64,LOCAL_ZONE_UNKNOWN
+65,65,MRI Brain,2026-08-31T15:15:00,Head,12,Tech C. Smith,FINALIZED,DICOM-7126,A,radiology_examination,65,LOCAL_ZONE_UNKNOWN
+67,67,CT Scan - Chest,2026-01-27T09:30:00,Chest,6,Tech D. Tremblay,IN_PROGRESS,DICOM-8754,A,radiology_examination,67,LOCAL_ZONE_UNKNOWN
+68,68,MRI Brain,2026-05-26T13:15:00,Head,11,Tech A. Roy,IN_PROGRESS,DICOM-1545,A,radiology_examination,68,LOCAL_ZONE_UNKNOWN
+69,69,Chest X-Ray,2026-06-13T14:00:00,Chest,12,Tech B. Gagnon,PENDING,DICOM-5615,A,radiology_examination,69,LOCAL_ZONE_UNKNOWN
+70,70,MRI Brain,2026-03-13T17:15:00,Head,6,Tech A. Roy,IN_PROGRESS,DICOM-3726,A,radiology_examination,70,LOCAL_ZONE_UNKNOWN
+71,71,MRI Brain,2026-01-10T15:45:00,Head,10,Tech D. Tremblay,FINALIZED,DICOM-5099,A,radiology_examination,71,LOCAL_ZONE_UNKNOWN
+72,72,CT Scan - Chest,2026-01-27T14:45:00,Chest,7,Tech C. Smith,IN_PROGRESS,DICOM-5611,A,radiology_examination,72,LOCAL_ZONE_UNKNOWN
+73,73,Abdominal Ultrasound,2026-02-13T11:00:00,Abdomen,3,Tech C. Smith,IN_PROGRESS,DICOM-9040,A,radiology_examination,73,LOCAL_ZONE_UNKNOWN
+74,74,Chest X-Ray,2026-06-20T12:15:00,Chest,3,Tech B. Gagnon,FINALIZED,DICOM-2052,A,radiology_examination,74,LOCAL_ZONE_UNKNOWN
+75,75,MRI Brain,2026-04-18T09:00:00,Head,1,Tech C. Smith,FINALIZED,DICOM-4392,A,radiology_examination,75,LOCAL_ZONE_UNKNOWN
+76,76,MRI Brain,2026-06-25T10:30:00,Head,9,Tech C. Smith,PENDING,DICOM-7873,A,radiology_examination,76,LOCAL_ZONE_UNKNOWN
+79,79,Abdominal Ultrasound,2026-06-15T20:15:00,Abdomen,15,Tech B. Gagnon,PENDING,DICOM-1647,A,radiology_examination,79,LOCAL_ZONE_UNKNOWN
+80,80,MRI Brain,2026-08-05T14:00:00,Head,1,Tech C. Smith,PENDING,DICOM-4935,A,radiology_examination,80,LOCAL_ZONE_UNKNOWN
+81,81,MRI Brain,2026-07-12T08:00:00,Head,2,Tech A. Roy,PENDING,DICOM-5876,A,radiology_examination,81,LOCAL_ZONE_UNKNOWN
+82,82,Abdominal Ultrasound,2026-07-30T05:15:00,Abdomen,6,Tech D. Tremblay,IN_PROGRESS,DICOM-6691,A,radiology_examination,82,LOCAL_ZONE_UNKNOWN
+83,83,CT Scan - Chest,2026-01-07T17:45:00,Chest,11,Tech A. Roy,PENDING,DICOM-6579,A,radiology_examination,83,LOCAL_ZONE_UNKNOWN
+84,84,MRI Brain,2026-08-19T15:45:00,Head,2,Tech A. Roy,FINALIZED,DICOM-4546,A,radiology_examination,84,LOCAL_ZONE_UNKNOWN
+85,85,CT Scan - Chest,2026-01-08T17:45:00,Chest,15,Tech C. Smith,FINALIZED,DICOM-7125,A,radiology_examination,85,LOCAL_ZONE_UNKNOWN
+86,86,CT Scan - Chest,2026-01-28T14:45:00,Chest,10,Tech B. Gagnon,FINALIZED,DICOM-8879,A,radiology_examination,86,LOCAL_ZONE_UNKNOWN
+87,87,CT Scan - Chest,2026-01-12T23:30:00,Chest,12,Tech D. Tremblay,IN_PROGRESS,DICOM-1292,A,radiology_examination,87,LOCAL_ZONE_UNKNOWN
+88,88,CT Scan - Chest,2026-06-04T02:15:00,,3,Tech B. Gagnon,IN_PROGRESS,DICOM-2804,A,radiology_examination,88,LOCAL_ZONE_UNKNOWN
+89,89,Chest X-Ray,2026-06-23T15:00:00,Chest,14,Tech B. Gagnon,PENDING,DICOM-3385,A,radiology_examination,89,LOCAL_ZONE_UNKNOWN
+90,90,Chest X-Ray,2026-02-16T15:15:00,Chest,6,Tech A. Roy,PENDING,DICOM-9715,A,radiology_examination,90,LOCAL_ZONE_UNKNOWN
+91,91,Chest X-Ray,2026-04-25T13:00:00,Chest,13,Tech C. Smith,IN_PROGRESS,DICOM-6702,A,radiology_examination,91,LOCAL_ZONE_UNKNOWN
+92,92,CT Scan - Chest,2026-06-19T22:15:00,Chest,8,Tech C. Smith,PENDING,DICOM-8728,A,radiology_examination,92,LOCAL_ZONE_UNKNOWN
+93,93,Chest X-Ray,2026-04-07T18:45:00,Chest,8,Tech D. Tremblay,IN_PROGRESS,,A,radiology_examination,93,LOCAL_ZONE_UNKNOWN
+94,94,CT Scan - Chest,2026-01-13T06:00:00,Chest,7,Tech A. Roy,IN_PROGRESS,DICOM-1980,A,radiology_examination,94,LOCAL_ZONE_UNKNOWN
+95,95,CT Scan - Chest,2026-07-20T21:45:00,Chest,8,Tech A. Roy,PENDING,DICOM-3493,A,radiology_examination,95,LOCAL_ZONE_UNKNOWN
+96,96,Abdominal Ultrasound,2026-07-06T23:30:00,Abdomen,4,Tech C. Smith,IN_PROGRESS,DICOM-4273,A,radiology_examination,96,LOCAL_ZONE_UNKNOWN
+97,97,Chest X-Ray,2026-09-09T07:00:00,Chest,4,Tech A. Roy,PENDING,DICOM-4855,A,radiology_examination,97,LOCAL_ZONE_UNKNOWN
+98,98,Chest X-Ray,2026-07-10T06:30:00,Chest,3,Tech A. Roy,PENDING,DICOM-7482,A,radiology_examination,98,LOCAL_ZONE_UNKNOWN
+99,99,MRI Brain,2026-03-23T02:30:00,Head,1,Tech B. Gagnon,IN_PROGRESS,DICOM-8035,A,radiology_examination,99,LOCAL_ZONE_UNKNOWN
+100,100,Abdominal Ultrasound,2026-07-03T06:15:00,Abdomen,2,Tech B. Gagnon,FINALIZED,DICOM-9728,A,radiology_examination,100,LOCAL_ZONE_UNKNOWN
+102,102,MRI Brain,2026-06-28T23:45:00,Head,4,Tech B. Gagnon,FINALIZED,DICOM-7519,A,radiology_examination,102,LOCAL_ZONE_UNKNOWN
+103,103,MRI Brain,2026-04-08T14:00:00,Head,10,Tech D. Tremblay,FINALIZED,DICOM-9474,A,radiology_examination,103,LOCAL_ZONE_UNKNOWN
+105,105,Abdominal Ultrasound,2026-08-10T03:45:00,,5,Tech D. Tremblay,PENDING,DICOM-4712,A,radiology_examination,105,LOCAL_ZONE_UNKNOWN
+106,106,Chest X-Ray,2026-05-15T06:00:00,,5,Tech C. Smith,IN_PROGRESS,DICOM-1839,A,radiology_examination,106,LOCAL_ZONE_UNKNOWN
+107,107,Chest X-Ray,2026-02-03T07:15:00,Chest,1,Tech D. Tremblay,FINALIZED,DICOM-8346,A,radiology_examination,107,LOCAL_ZONE_UNKNOWN
+108,108,Chest X-Ray,2026-02-01T06:30:00,Chest,6,Tech C. Smith,PENDING,DICOM-3992,A,radiology_examination,108,LOCAL_ZONE_UNKNOWN
+109,109,CT Scan - Chest,2026-05-24T19:00:00,Chest,8,Tech C. Smith,FINALIZED,DICOM-2546,A,radiology_examination,109,LOCAL_ZONE_UNKNOWN
+110,110,Abdominal Ultrasound,2026-09-02T01:30:00,Abdomen,12,Tech C. Smith,PENDING,DICOM-5890,A,radiology_examination,110,LOCAL_ZONE_UNKNOWN
+111,111,CT Scan - Chest,2026-03-30T17:45:00,Chest,2,Tech C. Smith,PENDING,DICOM-8653,A,radiology_examination,111,LOCAL_ZONE_UNKNOWN
+112,112,CT Scan - Chest,2026-05-28T01:30:00,Chest,4,Tech C. Smith,FINALIZED,DICOM-8107,A,radiology_examination,112,LOCAL_ZONE_UNKNOWN
+113,113,Chest X-Ray,2026-03-22T02:45:00,Chest,4,Tech B. Gagnon,FINALIZED,DICOM-3656,A,radiology_examination,113,LOCAL_ZONE_UNKNOWN
+115,115,Abdominal Ultrasound,2026-02-21T09:45:00,Abdomen,10,Tech A. Roy,IN_PROGRESS,DICOM-3235,A,radiology_examination,115,LOCAL_ZONE_UNKNOWN
+116,116,Chest X-Ray,2026-07-08T22:15:00,Chest,5,Tech A. Roy,IN_PROGRESS,DICOM-8337,A,radiology_examination,116,LOCAL_ZONE_UNKNOWN
+117,117,Abdominal Ultrasound,2026-07-21T15:30:00,Abdomen,2,Tech A. Roy,PENDING,DICOM-3854,A,radiology_examination,117,LOCAL_ZONE_UNKNOWN
+118,118,MRI Brain,2026-03-23T20:30:00,Head,13,Tech C. Smith,IN_PROGRESS,,A,radiology_examination,118,LOCAL_ZONE_UNKNOWN
+119,119,Chest X-Ray,2026-03-18T16:45:00,Chest,13,Tech B. Gagnon,FINALIZED,DICOM-8659,A,radiology_examination,119,LOCAL_ZONE_UNKNOWN
+120,120,Abdominal Ultrasound,2026-06-04T04:45:00,Abdomen,11,Tech D. Tremblay,IN_PROGRESS,DICOM-9650,A,radiology_examination,120,LOCAL_ZONE_UNKNOWN
+122,122,Abdominal Ultrasound,2026-05-20T01:30:00,Abdomen,14,Tech D. Tremblay,FINALIZED,DICOM-6869,A,radiology_examination,122,LOCAL_ZONE_UNKNOWN
+123,123,Chest X-Ray,2026-03-27T18:15:00,Chest,13,Tech C. Smith,PENDING,DICOM-9321,A,radiology_examination,123,LOCAL_ZONE_UNKNOWN
+124,124,MRI Brain,2026-08-12T01:30:00,Head,11,Tech C. Smith,FINALIZED,DICOM-6820,A,radiology_examination,124,LOCAL_ZONE_UNKNOWN
+125,125,MRI Brain,2026-02-15T18:15:00,Head,15,Tech B. Gagnon,FINALIZED,DICOM-7156,A,radiology_examination,125,LOCAL_ZONE_UNKNOWN
+126,126,Abdominal Ultrasound,2026-07-17T19:30:00,Abdomen,13,Tech A. Roy,IN_PROGRESS,DICOM-7125,A,radiology_examination,126,LOCAL_ZONE_UNKNOWN
+127,127,MRI Brain,2026-08-31T05:45:00,Head,3,Tech C. Smith,FINALIZED,DICOM-2602,A,radiology_examination,127,LOCAL_ZONE_UNKNOWN
+128,128,Abdominal Ultrasound,2026-08-09T15:00:00,Abdomen,11,Tech B. Gagnon,PENDING,DICOM-6962,A,radiology_examination,128,LOCAL_ZONE_UNKNOWN
+129,129,MRI Brain,2026-05-19T08:00:00,Head,13,Tech C. Smith,FINALIZED,DICOM-4322,A,radiology_examination,129,LOCAL_ZONE_UNKNOWN
+130,130,CT Scan - Chest,2026-06-01T08:30:00,Chest,6,Tech B. Gagnon,PENDING,DICOM-6750,A,radiology_examination,130,LOCAL_ZONE_UNKNOWN
+131,131,MRI Brain,2026-03-10T07:00:00,Head,1,Tech A. Roy,IN_PROGRESS,DICOM-5411,A,radiology_examination,131,LOCAL_ZONE_UNKNOWN
+132,132,Abdominal Ultrasound,2026-01-27T07:45:00,Abdomen,13,Tech A. Roy,PENDING,DICOM-6270,A,radiology_examination,132,LOCAL_ZONE_UNKNOWN
+133,133,CT Scan - Chest,2026-08-17T22:00:00,Chest,6,Tech A. Roy,PENDING,DICOM-5262,A,radiology_examination,133,LOCAL_ZONE_UNKNOWN
+134,134,CT Scan - Chest,2026-02-27T07:45:00,Chest,14,Tech B. Gagnon,FINALIZED,,A,radiology_examination,134,LOCAL_ZONE_UNKNOWN
+135,135,CT Scan - Chest,2026-06-27T09:30:00,,14,Tech A. Roy,PENDING,DICOM-6994,A,radiology_examination,135,LOCAL_ZONE_UNKNOWN
+136,136,CT Scan - Chest,2026-05-17T10:15:00,Chest,10,Tech B. Gagnon,FINALIZED,DICOM-7195,A,radiology_examination,136,LOCAL_ZONE_UNKNOWN
+138,138,Chest X-Ray,2026-05-14T21:30:00,Chest,9,Tech B. Gagnon,IN_PROGRESS,DICOM-5673,A,radiology_examination,138,LOCAL_ZONE_UNKNOWN
+139,139,MRI Brain,2026-06-21T12:15:00,Head,2,Tech A. Roy,IN_PROGRESS,DICOM-3797,A,radiology_examination,139,LOCAL_ZONE_UNKNOWN
+140,140,MRI Brain,2026-05-19T18:00:00,Head,4,Tech C. Smith,FINALIZED,DICOM-6690,A,radiology_examination,140,LOCAL_ZONE_UNKNOWN
+141,141,Chest X-Ray,2026-01-12T09:00:00,Chest,4,Tech C. Smith,PENDING,DICOM-6821,A,radiology_examination,141,LOCAL_ZONE_UNKNOWN
+142,142,CT Scan - Chest,2026-02-02T00:15:00,Chest,10,Tech C. Smith,FINALIZED,DICOM-3147,A,radiology_examination,142,LOCAL_ZONE_UNKNOWN
+143,143,Chest X-Ray,2026-05-27T01:15:00,Chest,13,Tech A. Roy,IN_PROGRESS,DICOM-3097,A,radiology_examination,143,LOCAL_ZONE_UNKNOWN
+144,144,CT Scan - Chest,2026-01-29T00:00:00,Chest,7,Tech D. Tremblay,IN_PROGRESS,DICOM-4861,A,radiology_examination,144,LOCAL_ZONE_UNKNOWN
+145,145,Abdominal Ultrasound,2026-08-11T04:45:00,Abdomen,3,Tech D. Tremblay,IN_PROGRESS,DICOM-4645,A,radiology_examination,145,LOCAL_ZONE_UNKNOWN
+146,146,Chest X-Ray,2026-07-05T13:00:00,Chest,2,Tech B. Gagnon,IN_PROGRESS,DICOM-9750,A,radiology_examination,146,LOCAL_ZONE_UNKNOWN
+147,147,CT Scan - Chest,2026-01-26T05:30:00,Chest,7,Tech C. Smith,FINALIZED,DICOM-6158,A,radiology_examination,147,LOCAL_ZONE_UNKNOWN
+148,148,Chest X-Ray,2026-07-21T06:00:00,Chest,7,Tech C. Smith,IN_PROGRESS,DICOM-9338,A,radiology_examination,148,LOCAL_ZONE_UNKNOWN
+150,150,CT Scan - Chest,2026-01-28T13:00:00,Chest,3,Tech D. Tremblay,IN_PROGRESS,DICOM-5662,A,radiology_examination,150,LOCAL_ZONE_UNKNOWN
+151,151,Chest X-Ray,2026-07-16T00:15:00,Chest,14,Tech A. Roy,FINALIZED,DICOM-8151,A,radiology_examination,151,LOCAL_ZONE_UNKNOWN
+153,153,Chest X-Ray,2026-05-27T07:45:00,Chest,11,Tech D. Tremblay,FINALIZED,DICOM-6409,A,radiology_examination,153,LOCAL_ZONE_UNKNOWN
+154,154,CT Scan - Chest,2026-06-13T23:00:00,Chest,13,Tech C. Smith,IN_PROGRESS,DICOM-7839,A,radiology_examination,154,LOCAL_ZONE_UNKNOWN
+155,155,MRI Brain,2026-06-03T22:15:00,Head,2,Tech A. Roy,FINALIZED,DICOM-8418,A,radiology_examination,155,LOCAL_ZONE_UNKNOWN
+156,156,MRI Brain,2026-08-17T08:30:00,Head,9,Tech A. Roy,PENDING,DICOM-9101,A,radiology_examination,156,LOCAL_ZONE_UNKNOWN
+157,157,CT Scan - Chest,2026-01-19T03:15:00,Chest,3,Tech C. Smith,PENDING,DICOM-2727,A,radiology_examination,157,LOCAL_ZONE_UNKNOWN
+158,158,MRI Brain,2026-07-08T23:00:00,Head,1,Tech A. Roy,PENDING,DICOM-1657,A,radiology_examination,158,LOCAL_ZONE_UNKNOWN
+159,159,CT Scan - Chest,2026-04-12T04:15:00,Chest,5,Tech A. Roy,PENDING,DICOM-4190,A,radiology_examination,159,LOCAL_ZONE_UNKNOWN
+161,161,Abdominal Ultrasound,2026-07-15T02:30:00,Abdomen,13,Tech A. Roy,IN_PROGRESS,DICOM-8912,A,radiology_examination,161,LOCAL_ZONE_UNKNOWN
+164,164,Abdominal Ultrasound,2026-08-15T04:45:00,Abdomen,12,Tech D. Tremblay,FINALIZED,DICOM-8115,A,radiology_examination,164,LOCAL_ZONE_UNKNOWN
+165,165,MRI Brain,2026-03-30T08:15:00,Head,10,Tech A. Roy,PENDING,DICOM-4867,A,radiology_examination,165,LOCAL_ZONE_UNKNOWN
+166,166,Chest X-Ray,2026-07-27T16:00:00,Chest,3,Tech D. Tremblay,FINALIZED,DICOM-2440,A,radiology_examination,166,LOCAL_ZONE_UNKNOWN
+168,168,Abdominal Ultrasound,2026-05-12T21:15:00,Abdomen,10,Tech D. Tremblay,FINALIZED,DICOM-2171,A,radiology_examination,168,LOCAL_ZONE_UNKNOWN
+169,169,Abdominal Ultrasound,2026-05-09T00:45:00,Abdomen,3,Tech B. Gagnon,IN_PROGRESS,DICOM-3500,A,radiology_examination,169,LOCAL_ZONE_UNKNOWN
+171,171,CT Scan - Chest,2026-05-30T16:45:00,Chest,15,Tech D. Tremblay,PENDING,DICOM-2909,A,radiology_examination,171,LOCAL_ZONE_UNKNOWN
+172,172,Chest X-Ray,2026-02-15T07:45:00,Chest,8,Tech D. Tremblay,IN_PROGRESS,DICOM-5947,A,radiology_examination,172,LOCAL_ZONE_UNKNOWN
+173,173,MRI Brain,2026-06-08T02:30:00,Head,8,Tech C. Smith,PENDING,DICOM-5514,A,radiology_examination,173,LOCAL_ZONE_UNKNOWN
+175,175,Chest X-Ray,2026-01-02T07:45:00,Chest,14,Tech D. Tremblay,FINALIZED,DICOM-7408,A,radiology_examination,175,LOCAL_ZONE_UNKNOWN
+177,177,MRI Brain,2026-04-17T09:45:00,Head,10,Tech D. Tremblay,PENDING,DICOM-5088,A,radiology_examination,177,LOCAL_ZONE_UNKNOWN
+178,178,MRI Brain,2026-07-15T10:45:00,Head,13,Tech C. Smith,IN_PROGRESS,DICOM-2534,A,radiology_examination,178,LOCAL_ZONE_UNKNOWN
+179,179,MRI Brain,2026-07-22T00:00:00,Head,11,Tech D. Tremblay,IN_PROGRESS,DICOM-6060,A,radiology_examination,179,LOCAL_ZONE_UNKNOWN
+182,182,CT Scan - Chest,2026-03-30T01:15:00,,5,Tech D. Tremblay,PENDING,DICOM-1249,A,radiology_examination,182,LOCAL_ZONE_UNKNOWN
+183,183,Chest X-Ray,2026-05-03T22:45:00,Chest,15,Tech A. Roy,PENDING,DICOM-6641,A,radiology_examination,183,LOCAL_ZONE_UNKNOWN
+184,184,CT Scan - Chest,2026-08-29T13:15:00,Chest,9,Tech B. Gagnon,IN_PROGRESS,DICOM-8671,A,radiology_examination,184,LOCAL_ZONE_UNKNOWN
+185,185,Chest X-Ray,2026-07-29T09:00:00,Chest,2,Tech A. Roy,IN_PROGRESS,DICOM-8793,A,radiology_examination,185,LOCAL_ZONE_UNKNOWN
+186,186,Abdominal Ultrasound,2026-02-14T19:00:00,Abdomen,6,Tech A. Roy,FINALIZED,DICOM-1580,A,radiology_examination,186,LOCAL_ZONE_UNKNOWN
+188,188,MRI Brain,2026-08-22T01:30:00,Head,5,Tech D. Tremblay,PENDING,DICOM-7741,A,radiology_examination,188,LOCAL_ZONE_UNKNOWN
+189,189,Abdominal Ultrasound,2026-02-07T19:30:00,Abdomen,1,Tech B. Gagnon,PENDING,DICOM-3110,A,radiology_examination,189,LOCAL_ZONE_UNKNOWN
+191,191,Abdominal Ultrasound,2026-06-04T21:15:00,Abdomen,9,Tech A. Roy,FINALIZED,DICOM-2178,A,radiology_examination,191,LOCAL_ZONE_UNKNOWN
+192,192,CT Scan - Chest,2026-01-09T10:45:00,Chest,14,Tech C. Smith,IN_PROGRESS,DICOM-8029,A,radiology_examination,192,LOCAL_ZONE_UNKNOWN
+193,193,CT Scan - Chest,2026-04-30T21:45:00,Chest,9,Tech B. Gagnon,IN_PROGRESS,DICOM-5757,A,radiology_examination,193,LOCAL_ZONE_UNKNOWN
+194,194,Abdominal Ultrasound,2026-08-19T22:00:00,Abdomen,9,Tech B. Gagnon,IN_PROGRESS,DICOM-6213,A,radiology_examination,194,LOCAL_ZONE_UNKNOWN
+195,195,Chest X-Ray,2026-05-30T11:00:00,Chest,13,Tech B. Gagnon,IN_PROGRESS,DICOM-3099,A,radiology_examination,195,LOCAL_ZONE_UNKNOWN
+197,197,MRI Brain,2026-01-01T16:15:00,Head,9,Tech A. Roy,FINALIZED,DICOM-6551,A,radiology_examination,197,LOCAL_ZONE_UNKNOWN
+198,198,Chest X-Ray,2026-07-14T03:45:00,Chest,10,Tech A. Roy,FINALIZED,DICOM-7532,A,radiology_examination,198,LOCAL_ZONE_UNKNOWN
+199,199,CT Scan - Chest,2026-04-26T14:30:00,Chest,13,Tech D. Tremblay,FINALIZED,DICOM-3423,A,radiology_examination,199,LOCAL_ZONE_UNKNOWN
+200,200,Chest X-Ray,2026-07-27T03:45:00,Chest,12,Tech D. Tremblay,IN_PROGRESS,DICOM-9106,A,radiology_examination,200,LOCAL_ZONE_UNKNOWN
+201,201,CT Scan - Chest,2026-06-28T18:45:00,Chest,10,Tech C. Smith,IN_PROGRESS,DICOM-7007,A,radiology_examination,201,LOCAL_ZONE_UNKNOWN
+202,202,CT Scan - Chest,2026-05-25T19:00:00,Chest,14,Tech A. Roy,PENDING,DICOM-9247,A,radiology_examination,202,LOCAL_ZONE_UNKNOWN
+203,203,Abdominal Ultrasound,2026-01-23T18:30:00,Abdomen,13,Tech A. Roy,PENDING,DICOM-2496,A,radiology_examination,203,LOCAL_ZONE_UNKNOWN
+204,204,CT Scan - Chest,2026-01-05T16:45:00,Chest,7,Tech B. Gagnon,IN_PROGRESS,,A,radiology_examination,204,LOCAL_ZONE_UNKNOWN
+205,205,MRI Brain,2026-04-23T03:45:00,Head,12,Tech A. Roy,PENDING,DICOM-5202,A,radiology_examination,205,LOCAL_ZONE_UNKNOWN
+206,206,MRI Brain,2026-08-04T11:30:00,Head,8,Tech D. Tremblay,FINALIZED,DICOM-1329,A,radiology_examination,206,LOCAL_ZONE_UNKNOWN
+207,207,CT Scan - Chest,2026-03-13T00:15:00,Chest,15,Tech D. Tremblay,IN_PROGRESS,DICOM-4986,A,radiology_examination,207,LOCAL_ZONE_UNKNOWN
+209,209,Abdominal Ultrasound,2026-04-27T17:00:00,Abdomen,4,Tech A. Roy,PENDING,DICOM-9556,A,radiology_examination,209,LOCAL_ZONE_UNKNOWN
+210,210,Chest X-Ray,2026-07-07T03:30:00,Chest,5,Tech C. Smith,PENDING,DICOM-6370,A,radiology_examination,210,LOCAL_ZONE_UNKNOWN
+211,211,Abdominal Ultrasound,2026-04-17T04:00:00,Abdomen,14,Tech D. Tremblay,IN_PROGRESS,DICOM-8783,A,radiology_examination,211,LOCAL_ZONE_UNKNOWN
+212,212,Chest X-Ray,2026-04-15T00:15:00,Chest,1,Tech B. Gagnon,PENDING,DICOM-4755,A,radiology_examination,212,LOCAL_ZONE_UNKNOWN
+213,213,MRI Brain,2026-07-03T03:30:00,Head,3,Tech B. Gagnon,PENDING,DICOM-7057,A,radiology_examination,213,LOCAL_ZONE_UNKNOWN
+215,215,CT Scan - Chest,2026-03-18T12:45:00,Chest,4,Tech A. Roy,PENDING,DICOM-3278,A,radiology_examination,215,LOCAL_ZONE_UNKNOWN
+216,216,Abdominal Ultrasound,2026-06-10T02:45:00,Abdomen,6,Tech C. Smith,IN_PROGRESS,DICOM-6388,A,radiology_examination,216,LOCAL_ZONE_UNKNOWN
+217,217,CT Scan - Chest,2026-03-31T13:15:00,Chest,11,Tech C. Smith,IN_PROGRESS,DICOM-2557,A,radiology_examination,217,LOCAL_ZONE_UNKNOWN
+218,218,MRI Brain,2026-07-11T21:45:00,Head,12,Tech A. Roy,FINALIZED,,A,radiology_examination,218,LOCAL_ZONE_UNKNOWN
+219,219,Abdominal Ultrasound,2026-03-27T07:00:00,Abdomen,7,Tech D. Tremblay,IN_PROGRESS,DICOM-6173,A,radiology_examination,219,LOCAL_ZONE_UNKNOWN
+220,220,CT Scan - Chest,2026-05-18T09:45:00,Chest,15,Tech D. Tremblay,PENDING,DICOM-1317,A,radiology_examination,220,LOCAL_ZONE_UNKNOWN
+221,221,CT Scan - Chest,2026-07-21T18:00:00,Chest,15,Tech A. Roy,PENDING,DICOM-7711,A,radiology_examination,221,LOCAL_ZONE_UNKNOWN
+222,222,Chest X-Ray,2026-01-10T09:45:00,Chest,12,Tech A. Roy,PENDING,DICOM-3320,A,radiology_examination,222,LOCAL_ZONE_UNKNOWN
+223,223,Abdominal Ultrasound,2026-05-20T01:45:00,Abdomen,3,Tech D. Tremblay,PENDING,DICOM-6980,A,radiology_examination,223,LOCAL_ZONE_UNKNOWN
+224,224,CT Scan - Chest,2026-02-17T01:45:00,Chest,3,Tech A. Roy,FINALIZED,DICOM-1072,A,radiology_examination,224,LOCAL_ZONE_UNKNOWN
+225,225,MRI Brain,2026-04-03T01:45:00,Head,14,Tech D. Tremblay,FINALIZED,DICOM-6267,A,radiology_examination,225,LOCAL_ZONE_UNKNOWN
+226,226,CT Scan - Chest,2026-03-08T12:45:00,,5,Tech D. Tremblay,IN_PROGRESS,DICOM-2357,A,radiology_examination,226,LOCAL_ZONE_UNKNOWN
+227,227,Abdominal Ultrasound,2026-03-08T22:45:00,,3,Tech B. Gagnon,FINALIZED,DICOM-2873,A,radiology_examination,227,LOCAL_ZONE_UNKNOWN
+228,228,Chest X-Ray,2026-03-02T12:45:00,,8,Tech B. Gagnon,PENDING,DICOM-1312,A,radiology_examination,228,LOCAL_ZONE_UNKNOWN
+229,229,Chest X-Ray,2026-08-28T01:30:00,Chest,1,Tech C. Smith,FINALIZED,,A,radiology_examination,229,LOCAL_ZONE_UNKNOWN
+231,231,CT Scan - Chest,2026-08-20T23:00:00,Chest,12,Tech A. Roy,FINALIZED,DICOM-4929,A,radiology_examination,231,LOCAL_ZONE_UNKNOWN
+232,232,Chest X-Ray,2026-04-18T02:45:00,Chest,7,Tech C. Smith,FINALIZED,DICOM-4669,A,radiology_examination,232,LOCAL_ZONE_UNKNOWN
+234,234,CT Scan - Chest,2026-02-23T19:45:00,Chest,11,Tech B. Gagnon,PENDING,DICOM-9852,A,radiology_examination,234,LOCAL_ZONE_UNKNOWN
+235,235,CT Scan - Chest,2026-08-15T15:45:00,Chest,8,Tech C. Smith,FINALIZED,DICOM-3091,A,radiology_examination,235,LOCAL_ZONE_UNKNOWN
+236,236,CT Scan - Chest,2026-03-28T13:30:00,Chest,9,Tech C. Smith,FINALIZED,DICOM-4868,A,radiology_examination,236,LOCAL_ZONE_UNKNOWN
+237,237,MRI Brain,2026-08-08T11:00:00,Head,14,Tech D. Tremblay,IN_PROGRESS,DICOM-2065,A,radiology_examination,237,LOCAL_ZONE_UNKNOWN
+238,238,Abdominal Ultrasound,2026-06-17T03:45:00,Abdomen,13,Tech C. Smith,PENDING,DICOM-7084,A,radiology_examination,238,LOCAL_ZONE_UNKNOWN
+239,239,Chest X-Ray,2026-08-05T15:30:00,Chest,6,Tech C. Smith,FINALIZED,DICOM-2037,A,radiology_examination,239,LOCAL_ZONE_UNKNOWN
+240,240,Abdominal Ultrasound,2026-05-11T03:45:00,Abdomen,12,Tech B. Gagnon,IN_PROGRESS,DICOM-9430,A,radiology_examination,240,LOCAL_ZONE_UNKNOWN
+241,241,Abdominal Ultrasound,2026-07-23T20:45:00,Abdomen,13,Tech D. Tremblay,FINALIZED,DICOM-5293,A,radiology_examination,241,LOCAL_ZONE_UNKNOWN
+242,242,CT Scan - Chest,2026-06-09T09:00:00,Chest,4,Tech B. Gagnon,IN_PROGRESS,DICOM-7615,A,radiology_examination,242,LOCAL_ZONE_UNKNOWN
+243,243,Chest X-Ray,2026-02-08T14:15:00,Chest,2,Tech D. Tremblay,IN_PROGRESS,DICOM-3648,A,radiology_examination,243,LOCAL_ZONE_UNKNOWN
+244,244,MRI Brain,2026-07-03T11:15:00,Head,11,Tech A. Roy,IN_PROGRESS,DICOM-2254,A,radiology_examination,244,LOCAL_ZONE_UNKNOWN
+246,246,Chest X-Ray,2026-04-03T20:45:00,Chest,3,Tech C. Smith,FINALIZED,DICOM-5511,A,radiology_examination,246,LOCAL_ZONE_UNKNOWN
+247,247,CT Scan - Chest,2026-07-22T12:15:00,Chest,12,Tech B. Gagnon,FINALIZED,DICOM-9422,A,radiology_examination,247,LOCAL_ZONE_UNKNOWN
+248,248,MRI Brain,2026-08-04T12:15:00,Head,10,Tech C. Smith,FINALIZED,DICOM-3629,A,radiology_examination,248,LOCAL_ZONE_UNKNOWN
+249,249,MRI Brain,2026-04-21T12:45:00,Head,5,Tech A. Roy,IN_PROGRESS,DICOM-6152,A,radiology_examination,249,LOCAL_ZONE_UNKNOWN
+250,250,CT Scan - Chest,2026-05-08T04:15:00,Chest,12,Tech A. Roy,FINALIZED,DICOM-3877,A,radiology_examination,250,LOCAL_ZONE_UNKNOWN
+251,251,MRI Brain,2026-04-17T21:45:00,Head,13,Tech D. Tremblay,FINALIZED,DICOM-6295,A,radiology_examination,251,LOCAL_ZONE_UNKNOWN
+252,252,CT Scan - Chest,2026-01-11T23:45:00,Chest,8,Tech C. Smith,PENDING,DICOM-2368,A,radiology_examination,252,LOCAL_ZONE_UNKNOWN
+253,253,MRI Brain,2026-01-06T14:30:00,Head,2,Tech B. Gagnon,PENDING,DICOM-4799,A,radiology_examination,253,LOCAL_ZONE_UNKNOWN
+256,256,Abdominal Ultrasound,2026-01-10T12:30:00,Abdomen,14,Tech C. Smith,PENDING,DICOM-1052,A,radiology_examination,256,LOCAL_ZONE_UNKNOWN
+258,258,Chest X-Ray,2026-04-17T13:00:00,Chest,6,Tech B. Gagnon,IN_PROGRESS,DICOM-1581,A,radiology_examination,258,LOCAL_ZONE_UNKNOWN
+261,261,MRI Brain,2026-01-09T05:30:00,Head,9,Tech C. Smith,PENDING,DICOM-3983,A,radiology_examination,261,LOCAL_ZONE_UNKNOWN
+263,263,MRI Brain,2026-06-13T14:00:00,Head,3,Tech A. Roy,FINALIZED,DICOM-8426,A,radiology_examination,263,LOCAL_ZONE_UNKNOWN
+264,264,MRI Brain,2026-04-17T09:45:00,Head,11,Tech A. Roy,IN_PROGRESS,DICOM-2799,A,radiology_examination,264,LOCAL_ZONE_UNKNOWN
+265,265,MRI Brain,2026-06-26T13:00:00,Head,8,Tech A. Roy,IN_PROGRESS,DICOM-3707,A,radiology_examination,265,LOCAL_ZONE_UNKNOWN
+266,266,Abdominal Ultrasound,2026-07-24T22:00:00,Abdomen,8,Tech B. Gagnon,IN_PROGRESS,DICOM-2033,A,radiology_examination,266,LOCAL_ZONE_UNKNOWN
+267,267,CT Scan - Chest,2026-09-05T06:45:00,Chest,14,Tech A. Roy,PENDING,DICOM-9315,A,radiology_examination,267,LOCAL_ZONE_UNKNOWN
+268,268,MRI Brain,2026-07-07T08:15:00,Head,4,Tech A. Roy,IN_PROGRESS,DICOM-1277,A,radiology_examination,268,LOCAL_ZONE_UNKNOWN
+269,269,Abdominal Ultrasound,2026-01-22T22:45:00,Abdomen,5,Tech C. Smith,PENDING,DICOM-9017,A,radiology_examination,269,LOCAL_ZONE_UNKNOWN
+270,270,CT Scan - Chest,2026-08-04T22:15:00,Chest,14,Tech C. Smith,PENDING,DICOM-5612,A,radiology_examination,270,LOCAL_ZONE_UNKNOWN
+271,271,MRI Brain,2026-08-14T00:00:00,Head,5,Tech A. Roy,IN_PROGRESS,DICOM-2898,A,radiology_examination,271,LOCAL_ZONE_UNKNOWN
+272,272,Abdominal Ultrasound,2026-02-18T20:30:00,Abdomen,4,Tech A. Roy,IN_PROGRESS,DICOM-2981,A,radiology_examination,272,LOCAL_ZONE_UNKNOWN
+273,273,Chest X-Ray,2026-03-13T07:45:00,Chest,8,Tech D. Tremblay,FINALIZED,DICOM-6980,A,radiology_examination,273,LOCAL_ZONE_UNKNOWN
+274,274,CT Scan - Chest,2026-08-21T00:30:00,Chest,14,Tech D. Tremblay,PENDING,DICOM-9197,A,radiology_examination,274,LOCAL_ZONE_UNKNOWN
+275,275,Chest X-Ray,2026-09-08T02:30:00,Chest,14,Tech D. Tremblay,PENDING,DICOM-6273,A,radiology_examination,275,LOCAL_ZONE_UNKNOWN

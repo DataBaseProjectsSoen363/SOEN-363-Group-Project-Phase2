@@ -1,0 +1,7 @@
+examination_id,order_id,examination_date_time,radiology_technician,report.findings,report.conclusion,_source,_table,_source_row,_reason,_missing_required_fields
+17,17,2026-02-05T08:00:00,Tech_5,Clear lungs,No acute intervention required.,C,radiology_examination,17,missing_or_quarantined_parent:diagnostic_order,
+132,132,2026-08-18T11:00:00,Tech_5,Normal,No acute intervention required.,C,radiology_examination,132,missing_or_quarantined_parent:diagnostic_order,
+163,163,2026-06-20T13:00:00,Tech_8,Mild opacity,No acute intervention required.,C,radiology_examination,163,missing_or_quarantined_parent:diagnostic_order,
+205,205,2026-07-01T10:00:00,Tech_1,Mild opacity,No acute intervention required.,C,radiology_examination,205,missing_or_quarantined_parent:diagnostic_order,
+215,215,2026-02-15T17:00:00,Tech_4,Clear lungs,No acute intervention required.,C,radiology_examination,215,missing_or_quarantined_parent:diagnostic_order,
+269,269,2026-07-05T01:00:00,Tech_1,Clear lungs,No acute intervention required.,C,radiology_examination,269,missing_or_quarantined_parent:diagnostic_order,

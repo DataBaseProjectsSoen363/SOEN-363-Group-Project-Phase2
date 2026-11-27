@@ -1,0 +1,7 @@
+order_id,admission_id,requested_examination,requesting_physician_id,request_date_time,_source,_table,_source_row,_reason,_missing_required_fields
+17,75,X-Ray,4,2026-02-05T06:00:00,C,diagnostic_order,17,missing_or_quarantined_parent:admission,
+132,559,X-Ray,15,2026-08-18T09:00:00,C,diagnostic_order,132,missing_or_quarantined_parent:admission,
+163,667,CT Scan,1,2026-06-20T11:00:00,C,diagnostic_order,163,missing_or_quarantined_parent:admission,
+205,822,CT Scan,7,2026-07-01T08:00:00,C,diagnostic_order,205,missing_or_quarantined_parent:admission,
+215,874,CT Scan,15,2026-02-15T15:00:00,C,diagnostic_order,215,missing_or_quarantined_parent:admission,
+269,1116,CT Scan,2,2026-07-04T23:00:00,C,diagnostic_order,269,missing_or_quarantined_parent:admission,

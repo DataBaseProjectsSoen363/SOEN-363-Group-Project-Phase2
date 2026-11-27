@@ -1,0 +1,287 @@
+examination_id,order_id,radiology_technician,examination_date_time,contrast_used,findings_text,radiologist_conclusion,_source,_table,_source_row,_time_basis
+1,1,Tech C. Bernard,2026-07-16T04:00:00,True,,,B,radiology_examination,1,LOCAL_ZONE_UNKNOWN
+2,2,Tech C. Bernard,2026-05-22T19:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,2,LOCAL_ZONE_UNKNOWN
+3,3,Tech C. Bernard,2026-06-12T17:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,3,LOCAL_ZONE_UNKNOWN
+4,4,Tech C. Bernard,2026-05-30T13:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,4,LOCAL_ZONE_UNKNOWN
+5,5,Tech A. Dupont,2026-03-27T14:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,5,LOCAL_ZONE_UNKNOWN
+6,6,Tech B. Martin,2026-04-09T10:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,6,LOCAL_ZONE_UNKNOWN
+7,7,Tech C. Bernard,2026-01-10T17:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,7,LOCAL_ZONE_UNKNOWN
+8,8,Tech A. Dupont,2026-07-16T10:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,8,LOCAL_ZONE_UNKNOWN
+9,9,Tech A. Dupont,2026-06-09T07:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,9,LOCAL_ZONE_UNKNOWN
+10,10,Tech C. Bernard,2026-02-07T23:00:00,False,,,B,radiology_examination,10,LOCAL_ZONE_UNKNOWN
+11,11,Tech B. Martin,2026-04-03T21:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,11,LOCAL_ZONE_UNKNOWN
+12,12,Tech C. Bernard,2026-08-01T07:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,12,LOCAL_ZONE_UNKNOWN
+13,13,Tech C. Bernard,2026-02-25T10:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,13,LOCAL_ZONE_UNKNOWN
+14,14,Tech A. Dupont,2026-06-22T01:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,14,LOCAL_ZONE_UNKNOWN
+15,15,Tech C. Bernard,2026-06-11T04:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,15,LOCAL_ZONE_UNKNOWN
+16,16,Tech B. Martin,2026-08-01T00:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,16,LOCAL_ZONE_UNKNOWN
+17,17,Tech C. Bernard,2026-08-30T13:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,17,LOCAL_ZONE_UNKNOWN
+18,18,Tech B. Martin,2026-06-03T14:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,18,LOCAL_ZONE_UNKNOWN
+19,19,Tech C. Bernard,2026-07-22T21:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,19,LOCAL_ZONE_UNKNOWN
+20,20,Tech A. Dupont,2026-02-17T19:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,20,LOCAL_ZONE_UNKNOWN
+21,22,Tech B. Martin,2026-07-16T07:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,21,LOCAL_ZONE_UNKNOWN
+23,24,Tech C. Bernard,2026-03-16T03:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,23,LOCAL_ZONE_UNKNOWN
+24,25,Tech A. Dupont,2026-07-21T16:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,24,LOCAL_ZONE_UNKNOWN
+25,26,Tech A. Dupont,2026-03-24T15:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,25,LOCAL_ZONE_UNKNOWN
+26,27,Tech C. Bernard,2026-05-16T06:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,26,LOCAL_ZONE_UNKNOWN
+27,28,Tech A. Dupont,2026-02-03T10:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,27,LOCAL_ZONE_UNKNOWN
+28,29,Tech B. Martin,2026-03-06T23:00:00,False,,,B,radiology_examination,28,LOCAL_ZONE_UNKNOWN
+29,30,Tech B. Martin,2026-02-17T13:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,29,LOCAL_ZONE_UNKNOWN
+30,31,Tech C. Bernard,2026-01-20T12:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,30,LOCAL_ZONE_UNKNOWN
+31,33,Tech B. Martin,2026-03-12T01:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,31,LOCAL_ZONE_UNKNOWN
+32,34,Tech B. Martin,2026-08-26T07:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,32,LOCAL_ZONE_UNKNOWN
+33,35,Tech C. Bernard,2026-03-27T08:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,33,LOCAL_ZONE_UNKNOWN
+34,36,Tech C. Bernard,2026-07-16T18:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,34,LOCAL_ZONE_UNKNOWN
+35,37,Tech B. Martin,2026-02-18T02:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,35,LOCAL_ZONE_UNKNOWN
+36,38,Tech C. Bernard,2026-07-27T11:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,36,LOCAL_ZONE_UNKNOWN
+37,39,Tech B. Martin,2026-03-06T02:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,37,LOCAL_ZONE_UNKNOWN
+38,40,Tech C. Bernard,2026-02-19T22:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,38,LOCAL_ZONE_UNKNOWN
+39,41,Tech B. Martin,2026-06-08T01:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,39,LOCAL_ZONE_UNKNOWN
+40,42,Tech A. Dupont,2026-05-23T08:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,40,LOCAL_ZONE_UNKNOWN
+41,43,Tech C. Bernard,2026-08-04T08:00:00,True,,,B,radiology_examination,41,LOCAL_ZONE_UNKNOWN
+42,44,Tech A. Dupont,2026-04-09T13:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,42,LOCAL_ZONE_UNKNOWN
+43,45,Tech A. Dupont,2026-07-28T16:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,43,LOCAL_ZONE_UNKNOWN
+44,46,Tech A. Dupont,2026-02-07T22:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,44,LOCAL_ZONE_UNKNOWN
+45,47,Tech C. Bernard,2026-04-28T08:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,45,LOCAL_ZONE_UNKNOWN
+46,48,Tech C. Bernard,2026-04-25T20:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,46,LOCAL_ZONE_UNKNOWN
+47,49,Tech B. Martin,2026-04-12T07:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,47,LOCAL_ZONE_UNKNOWN
+48,50,Tech B. Martin,2026-08-27T03:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,48,LOCAL_ZONE_UNKNOWN
+49,51,Tech C. Bernard,2026-06-21T04:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,49,LOCAL_ZONE_UNKNOWN
+50,52,Tech A. Dupont,2026-07-14T05:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,50,LOCAL_ZONE_UNKNOWN
+51,53,Tech A. Dupont,2026-02-16T03:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,51,LOCAL_ZONE_UNKNOWN
+52,54,Tech C. Bernard,2026-05-20T15:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,52,LOCAL_ZONE_UNKNOWN
+53,55,Tech B. Martin,2026-06-30T22:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,53,LOCAL_ZONE_UNKNOWN
+54,56,Tech C. Bernard,2026-03-18T07:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,54,LOCAL_ZONE_UNKNOWN
+55,57,Tech A. Dupont,2026-07-18T12:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,55,LOCAL_ZONE_UNKNOWN
+56,58,Tech B. Martin,2026-07-20T08:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,56,LOCAL_ZONE_UNKNOWN
+57,59,Tech A. Dupont,2026-07-03T18:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,57,LOCAL_ZONE_UNKNOWN
+58,60,Tech C. Bernard,2026-08-14T12:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,58,LOCAL_ZONE_UNKNOWN
+59,61,Tech A. Dupont,2026-03-10T16:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,59,LOCAL_ZONE_UNKNOWN
+60,62,Tech A. Dupont,2026-05-28T13:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,60,LOCAL_ZONE_UNKNOWN
+61,63,Tech C. Bernard,2026-08-04T14:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,61,LOCAL_ZONE_UNKNOWN
+62,64,Tech B. Martin,2026-03-08T19:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,62,LOCAL_ZONE_UNKNOWN
+65,67,Tech A. Dupont,2026-05-25T00:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,65,LOCAL_ZONE_UNKNOWN
+67,69,Tech B. Martin,2026-01-11T09:00:00,False,,,B,radiology_examination,67,LOCAL_ZONE_UNKNOWN
+68,70,Tech B. Martin,2026-07-01T00:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,68,LOCAL_ZONE_UNKNOWN
+69,71,Tech B. Martin,2026-07-08T06:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,69,LOCAL_ZONE_UNKNOWN
+70,72,Tech C. Bernard,2026-05-03T17:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,70,LOCAL_ZONE_UNKNOWN
+71,73,Tech B. Martin,2026-04-27T14:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,71,LOCAL_ZONE_UNKNOWN
+72,74,Tech B. Martin,2026-08-27T15:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,72,LOCAL_ZONE_UNKNOWN
+73,76,Tech B. Martin,2026-06-14T10:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,73,LOCAL_ZONE_UNKNOWN
+74,77,Tech A. Dupont,2026-05-27T04:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,74,LOCAL_ZONE_UNKNOWN
+75,78,Tech A. Dupont,2026-01-22T04:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,75,LOCAL_ZONE_UNKNOWN
+76,79,Tech A. Dupont,2026-09-01T14:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,76,LOCAL_ZONE_UNKNOWN
+77,80,Tech A. Dupont,2026-02-06T23:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,77,LOCAL_ZONE_UNKNOWN
+79,82,Tech B. Martin,2026-06-05T15:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,79,LOCAL_ZONE_UNKNOWN
+80,83,Tech A. Dupont,2026-05-27T03:00:00,False,,,B,radiology_examination,80,LOCAL_ZONE_UNKNOWN
+81,84,Tech B. Martin,2026-02-02T12:00:00,True,,,B,radiology_examination,81,LOCAL_ZONE_UNKNOWN
+82,85,Tech B. Martin,2026-01-16T04:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,82,LOCAL_ZONE_UNKNOWN
+83,86,Tech C. Bernard,2026-01-18T03:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,83,LOCAL_ZONE_UNKNOWN
+84,87,Tech A. Dupont,2026-05-25T09:00:00,True,,,B,radiology_examination,84,LOCAL_ZONE_UNKNOWN
+85,88,Tech C. Bernard,2026-05-28T16:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,85,LOCAL_ZONE_UNKNOWN
+86,89,Tech C. Bernard,2026-02-05T08:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,86,LOCAL_ZONE_UNKNOWN
+87,90,Tech A. Dupont,2026-05-09T02:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,87,LOCAL_ZONE_UNKNOWN
+88,91,Tech C. Bernard,2026-06-03T07:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,88,LOCAL_ZONE_UNKNOWN
+89,92,Tech B. Martin,2026-03-14T09:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,89,LOCAL_ZONE_UNKNOWN
+90,93,Tech A. Dupont,2026-07-17T19:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,90,LOCAL_ZONE_UNKNOWN
+91,94,Tech C. Bernard,2026-05-03T16:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,91,LOCAL_ZONE_UNKNOWN
+92,95,Tech C. Bernard,2026-09-08T09:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,92,LOCAL_ZONE_UNKNOWN
+93,96,Tech A. Dupont,2026-06-15T03:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,93,LOCAL_ZONE_UNKNOWN
+94,97,Tech C. Bernard,2026-07-10T17:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,94,LOCAL_ZONE_UNKNOWN
+95,98,Tech B. Martin,2026-05-04T04:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,95,LOCAL_ZONE_UNKNOWN
+96,99,Tech B. Martin,2026-08-22T01:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,96,LOCAL_ZONE_UNKNOWN
+97,100,Tech B. Martin,2026-05-11T11:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,97,LOCAL_ZONE_UNKNOWN
+98,101,Tech A. Dupont,2026-08-22T16:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,98,LOCAL_ZONE_UNKNOWN
+99,102,Tech C. Bernard,2026-03-19T00:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,99,LOCAL_ZONE_UNKNOWN
+100,103,Tech A. Dupont,2026-04-19T01:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,100,LOCAL_ZONE_UNKNOWN
+101,104,Tech B. Martin,2026-03-09T14:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,101,LOCAL_ZONE_UNKNOWN
+102,105,Tech B. Martin,2026-08-24T17:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,102,LOCAL_ZONE_UNKNOWN
+103,106,Tech B. Martin,2026-05-04T09:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,103,LOCAL_ZONE_UNKNOWN
+104,107,Tech B. Martin,2026-01-15T14:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,104,LOCAL_ZONE_UNKNOWN
+105,108,Tech B. Martin,2026-09-01T19:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,105,LOCAL_ZONE_UNKNOWN
+106,109,Tech B. Martin,2026-01-26T08:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,106,LOCAL_ZONE_UNKNOWN
+107,110,Tech A. Dupont,2026-08-06T07:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,107,LOCAL_ZONE_UNKNOWN
+108,111,Tech A. Dupont,2026-07-15T19:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,108,LOCAL_ZONE_UNKNOWN
+109,112,Tech B. Martin,2026-04-17T13:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,109,LOCAL_ZONE_UNKNOWN
+110,113,Tech B. Martin,2026-07-18T14:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,110,LOCAL_ZONE_UNKNOWN
+111,114,Tech A. Dupont,2026-02-09T08:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,111,LOCAL_ZONE_UNKNOWN
+112,115,Tech C. Bernard,2026-02-15T10:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,112,LOCAL_ZONE_UNKNOWN
+113,116,Tech B. Martin,2026-08-07T08:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,113,LOCAL_ZONE_UNKNOWN
+114,117,Tech C. Bernard,2026-07-22T13:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,114,LOCAL_ZONE_UNKNOWN
+115,118,Tech C. Bernard,2026-01-20T13:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,115,LOCAL_ZONE_UNKNOWN
+116,119,Tech B. Martin,2026-07-26T22:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,116,LOCAL_ZONE_UNKNOWN
+117,120,Tech C. Bernard,2026-07-22T22:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,117,LOCAL_ZONE_UNKNOWN
+118,121,Tech C. Bernard,2026-01-11T03:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,118,LOCAL_ZONE_UNKNOWN
+119,122,Tech B. Martin,2026-01-16T14:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,119,LOCAL_ZONE_UNKNOWN
+120,123,Tech A. Dupont,2026-05-05T04:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,120,LOCAL_ZONE_UNKNOWN
+121,124,Tech C. Bernard,2026-06-02T04:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,121,LOCAL_ZONE_UNKNOWN
+122,125,Tech C. Bernard,2026-05-29T00:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,122,LOCAL_ZONE_UNKNOWN
+124,127,Tech B. Martin,2026-01-27T08:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,124,LOCAL_ZONE_UNKNOWN
+125,129,Tech B. Martin,2026-05-11T11:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,125,LOCAL_ZONE_UNKNOWN
+126,130,Tech A. Dupont,2026-09-05T15:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,126,LOCAL_ZONE_UNKNOWN
+127,131,Tech A. Dupont,2026-05-19T20:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,127,LOCAL_ZONE_UNKNOWN
+128,132,Tech B. Martin,2026-07-21T08:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,128,LOCAL_ZONE_UNKNOWN
+129,133,Tech A. Dupont,2026-01-02T14:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,129,LOCAL_ZONE_UNKNOWN
+130,134,Tech C. Bernard,2026-05-21T11:00:00,True,,,B,radiology_examination,130,LOCAL_ZONE_UNKNOWN
+131,135,Tech B. Martin,2026-04-28T14:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,131,LOCAL_ZONE_UNKNOWN
+132,136,Tech C. Bernard,2026-08-29T20:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,132,LOCAL_ZONE_UNKNOWN
+133,137,Tech B. Martin,2026-02-24T16:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,133,LOCAL_ZONE_UNKNOWN
+134,138,Tech B. Martin,2026-07-22T18:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,134,LOCAL_ZONE_UNKNOWN
+135,139,Tech B. Martin,2026-01-23T21:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,135,LOCAL_ZONE_UNKNOWN
+136,140,Tech A. Dupont,2026-03-14T03:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,136,LOCAL_ZONE_UNKNOWN
+137,141,Tech C. Bernard,2026-07-04T11:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,137,LOCAL_ZONE_UNKNOWN
+138,142,Tech A. Dupont,2026-05-23T19:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,138,LOCAL_ZONE_UNKNOWN
+139,143,Tech A. Dupont,2026-05-28T16:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,139,LOCAL_ZONE_UNKNOWN
+140,144,Tech A. Dupont,2026-03-17T13:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,140,LOCAL_ZONE_UNKNOWN
+141,145,Tech C. Bernard,2026-09-02T23:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,141,LOCAL_ZONE_UNKNOWN
+142,146,Tech B. Martin,2026-06-27T17:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,142,LOCAL_ZONE_UNKNOWN
+143,147,Tech A. Dupont,2026-02-24T12:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,143,LOCAL_ZONE_UNKNOWN
+144,148,Tech A. Dupont,2026-06-27T18:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,144,LOCAL_ZONE_UNKNOWN
+145,149,Tech C. Bernard,2026-06-26T07:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,145,LOCAL_ZONE_UNKNOWN
+146,150,Tech A. Dupont,2026-04-19T07:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,146,LOCAL_ZONE_UNKNOWN
+147,151,Tech C. Bernard,2026-08-19T22:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,147,LOCAL_ZONE_UNKNOWN
+148,152,Tech B. Martin,2026-05-21T01:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,148,LOCAL_ZONE_UNKNOWN
+149,153,Tech A. Dupont,2026-05-09T07:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,149,LOCAL_ZONE_UNKNOWN
+150,154,Tech A. Dupont,2026-02-23T17:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,150,LOCAL_ZONE_UNKNOWN
+151,155,Tech A. Dupont,2026-02-13T14:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,151,LOCAL_ZONE_UNKNOWN
+152,156,Tech A. Dupont,2026-04-03T20:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,152,LOCAL_ZONE_UNKNOWN
+153,157,Tech B. Martin,2026-04-02T22:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,153,LOCAL_ZONE_UNKNOWN
+154,158,Tech A. Dupont,2026-06-30T00:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,154,LOCAL_ZONE_UNKNOWN
+155,159,Tech C. Bernard,2026-07-28T16:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,155,LOCAL_ZONE_UNKNOWN
+156,160,Tech C. Bernard,2026-06-29T09:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,156,LOCAL_ZONE_UNKNOWN
+157,161,Tech C. Bernard,2026-02-27T15:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,157,LOCAL_ZONE_UNKNOWN
+158,162,Tech B. Martin,2026-07-07T15:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,158,LOCAL_ZONE_UNKNOWN
+159,163,Tech B. Martin,2026-07-04T16:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,159,LOCAL_ZONE_UNKNOWN
+160,164,Tech B. Martin,2026-05-23T23:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,160,LOCAL_ZONE_UNKNOWN
+161,165,Tech C. Bernard,2026-02-04T15:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,161,LOCAL_ZONE_UNKNOWN
+162,166,Tech A. Dupont,2026-04-08T20:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,162,LOCAL_ZONE_UNKNOWN
+163,167,Tech C. Bernard,2026-02-28T02:00:00,False,,,B,radiology_examination,163,LOCAL_ZONE_UNKNOWN
+165,169,Tech C. Bernard,2026-04-18T11:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,165,LOCAL_ZONE_UNKNOWN
+166,170,Tech B. Martin,2026-03-13T22:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,166,LOCAL_ZONE_UNKNOWN
+167,171,Tech A. Dupont,2026-01-25T04:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,167,LOCAL_ZONE_UNKNOWN
+170,174,Tech A. Dupont,2026-08-29T06:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,170,LOCAL_ZONE_UNKNOWN
+171,175,Tech B. Martin,2026-01-23T21:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,171,LOCAL_ZONE_UNKNOWN
+172,176,Tech A. Dupont,2026-06-07T05:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,172,LOCAL_ZONE_UNKNOWN
+173,177,Tech C. Bernard,2026-04-06T17:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,173,LOCAL_ZONE_UNKNOWN
+174,178,Tech A. Dupont,2026-09-06T22:00:00,False,,,B,radiology_examination,174,LOCAL_ZONE_UNKNOWN
+175,179,Tech B. Martin,2026-07-26T18:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,175,LOCAL_ZONE_UNKNOWN
+176,180,Tech A. Dupont,2026-06-22T09:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,176,LOCAL_ZONE_UNKNOWN
+177,181,Tech A. Dupont,2026-01-02T10:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,177,LOCAL_ZONE_UNKNOWN
+178,182,Tech A. Dupont,2026-06-01T08:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,178,LOCAL_ZONE_UNKNOWN
+179,183,Tech B. Martin,2026-04-06T03:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,179,LOCAL_ZONE_UNKNOWN
+180,184,Tech B. Martin,2026-02-14T19:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,180,LOCAL_ZONE_UNKNOWN
+181,185,Tech C. Bernard,2026-07-22T18:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,181,LOCAL_ZONE_UNKNOWN
+182,186,Tech B. Martin,2026-05-30T07:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,182,LOCAL_ZONE_UNKNOWN
+183,187,Tech B. Martin,2026-05-24T13:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,183,LOCAL_ZONE_UNKNOWN
+184,188,Tech A. Dupont,2026-03-24T14:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,184,LOCAL_ZONE_UNKNOWN
+185,189,Tech B. Martin,2026-06-29T11:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,185,LOCAL_ZONE_UNKNOWN
+186,190,Tech A. Dupont,2026-07-09T13:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,186,LOCAL_ZONE_UNKNOWN
+187,191,Tech C. Bernard,2026-09-01T15:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,187,LOCAL_ZONE_UNKNOWN
+188,192,Tech B. Martin,2026-04-27T23:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,188,LOCAL_ZONE_UNKNOWN
+189,193,Tech A. Dupont,2026-07-13T03:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,189,LOCAL_ZONE_UNKNOWN
+190,194,Tech A. Dupont,2026-08-20T18:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,190,LOCAL_ZONE_UNKNOWN
+191,196,Tech C. Bernard,2026-06-07T09:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,191,LOCAL_ZONE_UNKNOWN
+192,197,Tech A. Dupont,2026-02-06T13:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,192,LOCAL_ZONE_UNKNOWN
+193,198,Tech B. Martin,2026-06-26T23:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,193,LOCAL_ZONE_UNKNOWN
+194,199,Tech B. Martin,2026-04-17T19:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,194,LOCAL_ZONE_UNKNOWN
+195,200,Tech B. Martin,2026-07-29T18:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,195,LOCAL_ZONE_UNKNOWN
+196,201,Tech A. Dupont,2026-07-24T12:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,196,LOCAL_ZONE_UNKNOWN
+197,202,Tech B. Martin,2026-01-12T13:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,197,LOCAL_ZONE_UNKNOWN
+198,203,Tech A. Dupont,2026-02-11T14:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,198,LOCAL_ZONE_UNKNOWN
+199,204,Tech C. Bernard,2026-02-26T01:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,199,LOCAL_ZONE_UNKNOWN
+200,205,Tech B. Martin,2026-06-02T11:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,200,LOCAL_ZONE_UNKNOWN
+201,206,Tech A. Dupont,2026-05-09T04:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,201,LOCAL_ZONE_UNKNOWN
+202,207,Tech B. Martin,2026-08-17T18:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,202,LOCAL_ZONE_UNKNOWN
+203,208,Tech A. Dupont,2026-06-27T11:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,203,LOCAL_ZONE_UNKNOWN
+204,209,Tech A. Dupont,2026-03-15T19:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,204,LOCAL_ZONE_UNKNOWN
+205,210,Tech A. Dupont,2026-07-09T15:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,205,LOCAL_ZONE_UNKNOWN
+206,211,Tech C. Bernard,2026-02-02T10:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,206,LOCAL_ZONE_UNKNOWN
+207,212,Tech A. Dupont,2026-02-08T11:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,207,LOCAL_ZONE_UNKNOWN
+208,213,Tech B. Martin,2026-03-08T04:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,208,LOCAL_ZONE_UNKNOWN
+209,214,Tech C. Bernard,2026-02-20T10:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,209,LOCAL_ZONE_UNKNOWN
+210,215,Tech C. Bernard,2026-04-30T11:00:00,True,,,B,radiology_examination,210,LOCAL_ZONE_UNKNOWN
+211,216,Tech A. Dupont,2026-03-18T04:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,211,LOCAL_ZONE_UNKNOWN
+212,217,Tech A. Dupont,2026-05-26T17:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,212,LOCAL_ZONE_UNKNOWN
+213,218,Tech C. Bernard,2026-03-27T10:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,213,LOCAL_ZONE_UNKNOWN
+214,219,Tech B. Martin,2026-08-28T11:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,214,LOCAL_ZONE_UNKNOWN
+215,220,Tech C. Bernard,2026-07-30T01:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,215,LOCAL_ZONE_UNKNOWN
+216,221,Tech B. Martin,2026-03-29T17:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,216,LOCAL_ZONE_UNKNOWN
+217,222,Tech A. Dupont,2026-05-19T12:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,217,LOCAL_ZONE_UNKNOWN
+218,223,Tech A. Dupont,2026-03-29T11:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,218,LOCAL_ZONE_UNKNOWN
+219,224,Tech C. Bernard,2026-01-16T17:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,219,LOCAL_ZONE_UNKNOWN
+220,225,Tech C. Bernard,2026-05-18T01:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,220,LOCAL_ZONE_UNKNOWN
+221,226,Tech A. Dupont,2026-01-31T01:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,221,LOCAL_ZONE_UNKNOWN
+222,227,Tech A. Dupont,2026-02-23T16:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,222,LOCAL_ZONE_UNKNOWN
+223,228,Tech B. Martin,2026-04-13T23:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,223,LOCAL_ZONE_UNKNOWN
+224,229,Tech B. Martin,2026-03-28T05:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,224,LOCAL_ZONE_UNKNOWN
+225,230,Tech A. Dupont,2026-03-19T13:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,225,LOCAL_ZONE_UNKNOWN
+226,232,Tech B. Martin,2026-07-21T19:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,226,LOCAL_ZONE_UNKNOWN
+227,233,Tech C. Bernard,2026-06-27T02:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,227,LOCAL_ZONE_UNKNOWN
+228,234,Tech C. Bernard,2026-06-13T13:00:00,False,,,B,radiology_examination,228,LOCAL_ZONE_UNKNOWN
+229,235,Tech C. Bernard,2026-02-02T15:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,229,LOCAL_ZONE_UNKNOWN
+231,237,Tech B. Martin,2026-09-05T09:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,231,LOCAL_ZONE_UNKNOWN
+232,238,Tech A. Dupont,2026-02-17T20:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,232,LOCAL_ZONE_UNKNOWN
+233,239,Tech B. Martin,2026-04-04T18:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,233,LOCAL_ZONE_UNKNOWN
+234,240,Tech A. Dupont,2026-05-27T05:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,234,LOCAL_ZONE_UNKNOWN
+235,241,Tech A. Dupont,2026-05-13T06:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,235,LOCAL_ZONE_UNKNOWN
+237,243,Tech A. Dupont,2026-05-31T02:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,237,LOCAL_ZONE_UNKNOWN
+239,245,Tech C. Bernard,2026-03-08T12:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,239,LOCAL_ZONE_UNKNOWN
+240,246,Tech A. Dupont,2026-03-24T23:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,240,LOCAL_ZONE_UNKNOWN
+241,247,Tech C. Bernard,2026-09-04T12:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,241,LOCAL_ZONE_UNKNOWN
+242,248,Tech A. Dupont,2026-03-21T01:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,242,LOCAL_ZONE_UNKNOWN
+243,249,Tech A. Dupont,2026-03-17T06:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,243,LOCAL_ZONE_UNKNOWN
+244,250,Tech A. Dupont,2026-04-30T15:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,244,LOCAL_ZONE_UNKNOWN
+245,251,Tech A. Dupont,2026-02-16T13:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,245,LOCAL_ZONE_UNKNOWN
+246,252,Tech A. Dupont,2026-02-17T06:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,246,LOCAL_ZONE_UNKNOWN
+247,253,Tech B. Martin,2026-06-27T03:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,247,LOCAL_ZONE_UNKNOWN
+248,254,Tech B. Martin,2026-08-26T06:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,248,LOCAL_ZONE_UNKNOWN
+249,255,Tech C. Bernard,2026-05-28T03:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,249,LOCAL_ZONE_UNKNOWN
+251,257,Tech B. Martin,2026-06-23T21:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,251,LOCAL_ZONE_UNKNOWN
+252,258,Tech B. Martin,2026-05-11T18:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,252,LOCAL_ZONE_UNKNOWN
+253,259,Tech A. Dupont,2026-05-26T07:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,253,LOCAL_ZONE_UNKNOWN
+254,260,Tech A. Dupont,2026-01-13T01:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,254,LOCAL_ZONE_UNKNOWN
+255,261,Tech B. Martin,2026-04-30T03:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,255,LOCAL_ZONE_UNKNOWN
+256,262,Tech B. Martin,2026-03-02T12:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,256,LOCAL_ZONE_UNKNOWN
+257,263,Tech A. Dupont,2026-03-28T09:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,257,LOCAL_ZONE_UNKNOWN
+258,264,Tech B. Martin,2026-04-13T19:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,258,LOCAL_ZONE_UNKNOWN
+260,266,Tech C. Bernard,2026-03-25T18:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,260,LOCAL_ZONE_UNKNOWN
+261,267,Tech A. Dupont,2026-08-04T19:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,261,LOCAL_ZONE_UNKNOWN
+262,268,Tech C. Bernard,2026-02-05T06:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,262,LOCAL_ZONE_UNKNOWN
+263,269,Tech A. Dupont,2026-01-25T11:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,263,LOCAL_ZONE_UNKNOWN
+264,270,Tech C. Bernard,2026-06-18T05:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,264,LOCAL_ZONE_UNKNOWN
+265,271,Tech C. Bernard,2026-04-18T21:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,265,LOCAL_ZONE_UNKNOWN
+266,272,Tech B. Martin,2026-02-14T20:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,266,LOCAL_ZONE_UNKNOWN
+267,273,Tech B. Martin,2026-02-15T18:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,267,LOCAL_ZONE_UNKNOWN
+268,274,Tech A. Dupont,2026-07-16T08:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,268,LOCAL_ZONE_UNKNOWN
+269,275,Tech C. Bernard,2026-06-14T09:00:00,True,,,B,radiology_examination,269,LOCAL_ZONE_UNKNOWN
+270,276,Tech C. Bernard,2026-05-18T02:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,270,LOCAL_ZONE_UNKNOWN
+271,277,Tech B. Martin,2026-06-22T23:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,271,LOCAL_ZONE_UNKNOWN
+272,278,Tech C. Bernard,2026-04-01T13:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,272,LOCAL_ZONE_UNKNOWN
+273,279,Tech A. Dupont,2026-04-02T06:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,273,LOCAL_ZONE_UNKNOWN
+274,280,Tech C. Bernard,2026-07-29T16:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,274,LOCAL_ZONE_UNKNOWN
+275,281,Tech B. Martin,2026-04-03T00:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,275,LOCAL_ZONE_UNKNOWN
+276,282,Tech A. Dupont,2026-06-24T08:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,276,LOCAL_ZONE_UNKNOWN
+277,283,Tech A. Dupont,2026-04-21T10:00:00,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,277,LOCAL_ZONE_UNKNOWN
+278,284,Tech C. Bernard,2026-05-05T23:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,278,LOCAL_ZONE_UNKNOWN
+279,285,Tech B. Martin,2026-07-29T16:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,279,LOCAL_ZONE_UNKNOWN
+280,286,Tech B. Martin,2026-08-14T19:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,280,LOCAL_ZONE_UNKNOWN
+281,287,Tech A. Dupont,2026-01-12T04:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,281,LOCAL_ZONE_UNKNOWN
+282,288,Tech B. Martin,2026-03-22T18:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,282,LOCAL_ZONE_UNKNOWN
+283,289,Tech B. Martin,2026-01-19T08:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,283,LOCAL_ZONE_UNKNOWN
+284,290,Tech A. Dupont,2026-08-09T16:00:00,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,284,LOCAL_ZONE_UNKNOWN
+286,292,Tech A. Dupont,2026-04-13T03:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,286,LOCAL_ZONE_UNKNOWN
+287,293,Tech A. Dupont,2026-04-18T13:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,287,LOCAL_ZONE_UNKNOWN
+288,294,Tech A. Dupont,2026-08-24T08:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,288,LOCAL_ZONE_UNKNOWN
+289,295,Tech A. Dupont,2026-01-28T00:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,289,LOCAL_ZONE_UNKNOWN
+290,296,Tech C. Bernard,2026-02-18T14:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,290,LOCAL_ZONE_UNKNOWN
+291,297,Tech B. Martin,2026-06-13T23:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,291,LOCAL_ZONE_UNKNOWN
+292,298,Tech A. Dupont,2026-03-22T21:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,292,LOCAL_ZONE_UNKNOWN
+293,299,Tech A. Dupont,2026-08-31T20:00:00,True,Aucune anomalie détectée.,Normal.,B,radiology_examination,293,LOCAL_ZONE_UNKNOWN
+294,300,Tech C. Bernard,2026-09-08T11:00:00,False,,,B,radiology_examination,294,LOCAL_ZONE_UNKNOWN
+295,301,Tech A. Dupont,2026-06-12T06:00:00,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,295,LOCAL_ZONE_UNKNOWN
+296,302,Tech C. Bernard,2026-04-09T12:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,296,LOCAL_ZONE_UNKNOWN
+297,303,Tech A. Dupont,2026-01-16T09:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,297,LOCAL_ZONE_UNKNOWN
+298,304,Tech C. Bernard,2026-03-06T20:00:00,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,B,radiology_examination,298,LOCAL_ZONE_UNKNOWN
+299,305,Tech A. Dupont,2026-06-22T23:00:00,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,B,radiology_examination,299,LOCAL_ZONE_UNKNOWN
+300,306,Tech C. Bernard,2026-01-05T18:00:00,False,Aucune anomalie détectée.,Normal.,B,radiology_examination,300,LOCAL_ZONE_UNKNOWN
+301,307,Tech C. Bernard,2026-07-01T20:00:00,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,B,radiology_examination,301,LOCAL_ZONE_UNKNOWN

@@ -1,0 +1,10 @@
+[tools]
+postgres = "17"
+python = "3.13"
+
+[env]
+_.python.venv = { path = ".venv", create = true, uv_create_args = ["--seed"] }
+
+[tasks.setup]
+description = "Install Python dependencies"
+run = "python -m pip install pandas openpyxl jupyterlab ipykernel lxml nbconvert"

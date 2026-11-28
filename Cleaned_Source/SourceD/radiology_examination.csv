@@ -1,0 +1,15 @@
+order_id,examination_date_time,radiology_technician,report.findings,report.conclusion,examination_id,_source,_table,_source_row,_time_basis
+42,2026-07-16T09:00:00Z,Tech_2,Normal,No acute findings.,42,D,radiology_examination,42,UTC
+53,2026-08-21T05:00:00Z,Tech_9,Normal,No acute findings.,53,D,radiology_examination,53,UTC
+58,2026-03-02T14:00:00Z,Tech_5,Normal,No acute findings.,58,D,radiology_examination,58,UTC
+90,2026-07-31T05:00:00Z,Tech_10,Normal,No acute findings.,90,D,radiology_examination,90,UTC
+127,2026-03-04T12:00:00Z,Tech_5,Mild opacity,No acute findings.,127,D,radiology_examination,127,UTC
+137,2026-02-28T10:00:00Z,Tech_1,Mild opacity,No acute findings.,137,D,radiology_examination,137,UTC
+176,2026-01-21T03:00:00Z,Tech_2,Clear,No acute findings.,176,D,radiology_examination,176,UTC
+180,2026-02-17T10:00:00Z,Tech_1,Mild opacity,No acute findings.,180,D,radiology_examination,180,UTC
+200,2026-09-03T03:00:00Z,Tech_10,Mild opacity,No acute findings.,200,D,radiology_examination,200,UTC
+234,2026-04-25T07:00:00Z,Tech_6,Clear,No acute findings.,234,D,radiology_examination,234,UTC
+246,2026-04-24T03:00:00Z,Tech_4,Mild opacity,No acute findings.,246,D,radiology_examination,246,UTC
+251,2026-06-06T09:00:00Z,Tech_2,Clear,No acute findings.,251,D,radiology_examination,251,UTC
+261,2026-01-14T07:00:00Z,Tech_6,Mild opacity,No acute findings.,261,D,radiology_examination,261,UTC
+301,2026-06-17T10:00:00Z,Tech_8,Mild opacity,No acute findings.,301,D,radiology_examination,301,UTC

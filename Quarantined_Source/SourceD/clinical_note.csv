@@ -1,0 +1,3053 @@
+note_id,admission_id,physician_id,creation_date,note_text,_source,_table,_source_row,_reason,_missing_required_fields
+67,76,12,1777165200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,67,missing_or_quarantined_parent:admission,
+128,146,5,1784250000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,128,missing_or_quarantined_parent:admission,
+231,262,8,1779584400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,231,missing_or_quarantined_parent:admission,
+313,354,2,1771549200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,313,missing_or_quarantined_parent:admission,
+362,406,4,1767834000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,362,missing_or_quarantined_parent:admission,
+370,415,7,1787187600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,370,missing_or_quarantined_parent:admission,
+383,430,1,1775264400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,383,missing_or_quarantined_parent:admission,
+399,446,10,1780794000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,399,missing_or_quarantined_parent:admission,
+430,482,6,1769475600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,430,missing_or_quarantined_parent:admission,
+520,582,2,1785114000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,520,missing_or_quarantined_parent:admission,
+601,674,3,1787533200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,601,missing_or_quarantined_parent:admission,
+676,759,7,1786150800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,676,missing_or_quarantined_parent:admission,
+695,779,13,1787187600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,695,missing_or_quarantined_parent:admission,
+723,809,15,1773622800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,723,missing_or_quarantined_parent:admission,
+789,884,6,1782954000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,789,missing_or_quarantined_parent:admission,
+813,910,10,1782090000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,813,missing_or_quarantined_parent:admission,
+848,949,2,1780794000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,848,missing_or_quarantined_parent:admission,
+859,960,2,1778202000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,859,missing_or_quarantined_parent:admission,
+880,987,10,1776301200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,880,missing_or_quarantined_parent:admission,
+897,1007,11,1782694800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,897,missing_or_quarantined_parent:admission,
+900,1010,7,1785805200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,900,missing_or_quarantined_parent:admission,
+908,1019,10,1771376400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,908,missing_or_quarantined_parent:admission,
+968,1086,14,1782954000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,968,missing_or_quarantined_parent:admission,
+1042,1170,7,1785632400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1042,missing_or_quarantined_parent:admission,
+1,1,7,1772154000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1,creation_date:before_admission,
+3,3,13,1770944400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,3,creation_date:before_admission,
+7,8,15,1776301200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,7,creation_date:before_admission,
+8,9,8,1786755600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,8,creation_date:before_admission,
+12,13,10,1770080400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,12,creation_date:before_admission,
+14,15,5,1784250000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,14,creation_date:before_admission,
+15,16,5,1772586000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,15,creation_date:before_admission,
+17,18,7,1776992400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,17,creation_date:before_admission,
+19,20,1,1770685200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,19,creation_date:before_admission,
+21,22,11,1772586000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,21,creation_date:before_admission,
+22,23,7,1780794000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,22,creation_date:before_admission,
+25,26,1,1777424400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,25,creation_date:before_admission,
+26,27,14,1779670800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,26,creation_date:before_admission,
+28,30,6,1776906000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,28,creation_date:before_admission,
+30,33,7,1774918800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,30,creation_date:before_admission,
+33,37,1,1771722000,,D,clinical_note,33,creation_date:before_admission,
+34,40,12,1775610000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,34,creation_date:before_admission,
+36,42,3,1770858000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,36,creation_date:before_admission,
+38,44,8,1775178000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,38,creation_date:before_admission,
+39,45,8,1769562000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,39,creation_date:before_admission,
+40,46,15,1771808400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,40,creation_date:before_admission,
+42,48,6,1770858000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,42,creation_date:before_admission,
+46,53,14,1773968400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,46,creation_date:before_admission,
+47,54,2,1772067600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,47,creation_date:before_admission,
+48,55,11,1774746000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,48,creation_date:before_admission,
+49,56,15,1771030800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,49,creation_date:before_admission,
+50,57,4,1769821200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,50,creation_date:before_admission,
+51,58,1,1781571600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,51,creation_date:before_admission,
+52,59,9,1776042000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,52,creation_date:before_admission,
+53,60,1,1769043600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,53,creation_date:before_admission,
+55,63,6,1768870800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,55,creation_date:before_admission,
+63,72,3,1772154000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,63,creation_date:before_admission,
+64,73,14,1774486800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,64,creation_date:before_admission,
+65,74,3,1783904400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,65,creation_date:before_admission,
+66,75,10,1777856400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,66,creation_date:before_admission,
+73,82,1,1770858000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,73,creation_date:before_admission,
+78,87,4,1770080400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,78,creation_date:before_admission,
+79,88,14,1780448400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,79,creation_date:before_admission,
+80,89,1,1774659600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,80,creation_date:before_admission,
+83,92,11,1774141200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,83,creation_date:before_admission,
+84,93,12,1777078800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,84,creation_date:before_admission,
+86,95,7,1778202000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,86,creation_date:before_admission,
+91,100,8,1770685200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,91,creation_date:before_admission,
+93,102,6,1775955600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,93,creation_date:before_admission,
+94,104,6,1775350800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,94,creation_date:before_admission,
+97,107,13,1770339600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,97,creation_date:before_admission,
+100,112,2,1782694800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,100,creation_date:before_admission,
+101,113,4,1772154000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,101,creation_date:before_admission,
+104,118,5,1771290000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,104,creation_date:before_admission,
+106,120,7,1767488400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,106,creation_date:before_admission,
+107,121,14,1784250000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,107,creation_date:before_admission,
+108,122,2,1768870800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,108,creation_date:before_admission,
+109,125,3,1767402000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,109,creation_date:before_admission,
+110,126,1,1774486800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,110,creation_date:before_admission,
+111,127,10,1768179600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,111,creation_date:before_admission,
+113,129,9,1770426000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,113,creation_date:before_admission,
+114,130,12,1773622800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,114,creation_date:before_admission,
+115,132,12,1771117200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,115,creation_date:before_admission,
+118,136,13,1781485200,,D,clinical_note,118,creation_date:before_admission,
+120,138,15,1777683600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,120,creation_date:before_admission,
+122,140,10,1771894800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,122,creation_date:before_admission,
+123,141,12,1781571600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,123,creation_date:before_admission,
+125,143,4,1772326800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,125,creation_date:before_admission,
+126,144,13,1785114000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,126,creation_date:before_admission,
+131,149,2,1768611600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,131,creation_date:before_admission,
+135,155,4,1776819600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,135,creation_date:before_admission,
+138,158,3,1785978000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,138,creation_date:before_admission,
+139,159,3,1772154000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,139,creation_date:before_admission,
+141,161,14,1783472400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,141,creation_date:before_admission,
+142,162,11,1776387600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,142,creation_date:before_admission,
+143,163,12,1777510800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,143,creation_date:before_admission,
+144,164,8,1768266000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,144,creation_date:before_admission,
+145,165,14,1768525200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,145,creation_date:before_admission,
+147,167,2,1771030800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,147,creation_date:before_admission,
+151,173,11,1776301200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,151,creation_date:before_admission,
+152,174,7,1785373200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,152,creation_date:before_admission,
+157,179,6,1780880400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,157,creation_date:before_admission,
+159,181,2,1772845200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,159,creation_date:before_admission,
+160,182,10,1767747600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,160,creation_date:before_admission,
+164,188,5,1774832400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,164,creation_date:before_admission,
+165,189,6,1770685200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,165,creation_date:before_admission,
+166,190,5,1773968400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,166,creation_date:before_admission,
+168,193,12,1770080400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,168,creation_date:before_admission,
+173,198,4,1771030800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,173,creation_date:before_admission,
+174,199,11,1773622800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,174,creation_date:before_admission,
+177,203,11,1771808400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,177,creation_date:before_admission,
+182,208,13,1769562000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,182,creation_date:before_admission,
+183,209,9,1774659600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,183,creation_date:before_admission,
+184,210,12,1771894800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,184,creation_date:before_admission,
+185,211,2,1775178000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,185,creation_date:before_admission,
+189,215,5,1773795600,,D,clinical_note,189,creation_date:before_admission,
+190,216,11,1767402000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,190,creation_date:before_admission,
+191,218,11,1775610000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,191,creation_date:before_admission,
+198,226,7,1771722000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,198,creation_date:before_admission,
+199,227,1,1768957200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,199,creation_date:before_admission,
+202,231,11,1770598800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,202,creation_date:before_admission,
+203,232,11,1778374800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,203,creation_date:before_admission,
+207,236,13,1778720400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,207,creation_date:before_admission,
+208,237,9,1775350800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,208,creation_date:before_admission,
+210,239,1,1772586000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,210,creation_date:before_admission,
+211,240,11,1771376400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,211,creation_date:before_admission,
+214,243,8,1776560400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,214,creation_date:before_admission,
+215,244,3,1769821200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,215,creation_date:before_admission,
+220,250,5,1775437200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,220,creation_date:before_admission,
+221,251,14,1784854800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,221,creation_date:before_admission,
+222,252,3,1769302800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,222,creation_date:before_admission,
+224,254,15,1771549200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,224,creation_date:before_admission,
+225,255,5,1777942800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,225,creation_date:before_admission,
+227,257,10,1775955600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,227,creation_date:before_admission,
+228,259,7,1773882000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,228,creation_date:before_admission,
+233,264,2,1776819600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,233,creation_date:before_admission,
+235,266,5,1778029200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,235,creation_date:before_admission,
+237,268,8,1777424400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,237,creation_date:before_admission,
+240,271,1,1780794000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,240,creation_date:before_admission,
+241,272,15,1774054800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,241,creation_date:before_admission,
+242,273,13,1767661200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,242,creation_date:before_admission,
+243,274,6,1768698000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,243,creation_date:before_admission,
+244,275,9,1770426000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,244,creation_date:before_admission,
+245,276,9,1768870800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,245,creation_date:before_admission,
+249,280,15,1772240400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,249,creation_date:before_admission,
+250,281,6,1780016400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,250,creation_date:before_admission,
+251,282,14,1776646800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,251,creation_date:before_admission,
+252,283,8,1772499600,,D,clinical_note,252,creation_date:before_admission,
+253,284,4,1770771600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,253,creation_date:before_admission,
+255,287,4,1767574800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,255,creation_date:before_admission,
+257,289,8,1768957200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,257,creation_date:before_admission,
+259,291,8,1770771600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,259,creation_date:before_admission,
+261,294,11,1781139600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,261,creation_date:before_admission,
+263,296,4,1771894800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,263,creation_date:before_admission,
+264,297,1,1767488400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,264,creation_date:before_admission,
+265,298,7,1777424400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,265,creation_date:before_admission,
+270,305,10,1782349200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,270,creation_date:before_admission,
+278,313,15,1768957200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,278,creation_date:before_admission,
+279,314,10,1783472400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,279,creation_date:before_admission,
+281,316,1,1774227600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,281,creation_date:before_admission,
+292,329,14,1772067600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,292,creation_date:before_admission,
+293,330,13,1769907600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,293,creation_date:before_admission,
+295,332,12,1775005200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,295,creation_date:before_admission,
+296,333,10,1778806800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,296,creation_date:before_admission,
+301,340,13,1773709200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,301,creation_date:before_admission,
+304,344,13,1771203600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,304,creation_date:before_admission,
+305,346,9,1781139600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,305,creation_date:before_admission,
+306,347,14,1776474000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,306,creation_date:before_admission,
+309,350,8,1771981200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,309,creation_date:before_admission,
+311,352,3,1778720400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,311,creation_date:before_admission,
+317,358,3,1775350800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,317,creation_date:before_admission,
+318,359,5,1769821200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,318,creation_date:before_admission,
+320,361,12,1780707600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,320,creation_date:before_admission,
+322,364,14,1769216400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,322,creation_date:before_admission,
+323,365,12,1769043600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,323,creation_date:before_admission,
+325,367,8,1768006800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,325,creation_date:before_admission,
+328,370,15,1768438800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,328,creation_date:before_admission,
+332,374,12,1767920400,,D,clinical_note,332,creation_date:before_admission,
+333,375,2,1779930000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,333,creation_date:before_admission,
+334,376,14,1778806800,,D,clinical_note,334,creation_date:before_admission,
+335,377,9,1768698000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,335,creation_date:before_admission,
+338,380,12,1768525200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,338,creation_date:before_admission,
+341,384,6,1776214800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,341,creation_date:before_admission,
+345,388,13,1787878800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,345,creation_date:before_admission,
+346,389,2,1768006800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,346,creation_date:before_admission,
+350,393,2,1767661200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,350,creation_date:before_admission,
+351,394,9,1767488400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,351,creation_date:before_admission,
+352,395,7,1772413200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,352,creation_date:before_admission,
+353,396,8,1785200400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,353,creation_date:before_admission,
+354,397,8,1770598800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,354,creation_date:before_admission,
+355,398,2,1775610000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,355,creation_date:before_admission,
+356,399,1,1767834000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,356,creation_date:before_admission,
+357,400,14,1771376400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,357,creation_date:before_admission,
+361,405,2,1776733200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,361,creation_date:before_admission,
+365,410,8,1774141200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,365,creation_date:before_admission,
+366,411,12,1768611600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,366,creation_date:before_admission,
+367,412,11,1786755600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,367,creation_date:before_admission,
+369,414,8,1785027600,,D,clinical_note,369,creation_date:before_admission,
+371,416,7,1778979600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,371,creation_date:before_admission,
+372,417,1,1771981200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,372,creation_date:before_admission,
+374,419,14,1771376400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,374,creation_date:before_admission,
+375,420,14,1779757200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,375,creation_date:before_admission,
+377,423,15,1775264400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,377,creation_date:before_admission,
+379,426,7,1775178000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,379,creation_date:before_admission,
+380,427,7,1773882000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,380,creation_date:before_admission,
+384,431,7,1770339600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,384,creation_date:before_admission,
+386,433,7,1770685200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,386,creation_date:before_admission,
+387,434,9,1773795600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,387,creation_date:before_admission,
+389,436,2,1770080400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,389,creation_date:before_admission,
+390,437,15,1777338000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,390,creation_date:before_admission,
+392,439,7,1772499600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,392,creation_date:before_admission,
+393,440,11,1780102800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,393,creation_date:before_admission,
+396,443,12,1769043600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,396,creation_date:before_admission,
+401,449,5,1784422800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,401,creation_date:before_admission,
+402,450,6,1772240400,,D,clinical_note,402,creation_date:before_admission,
+403,451,2,1779152400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,403,creation_date:before_admission,
+405,453,15,1769562000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,405,creation_date:before_admission,
+408,456,11,1778461200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,408,creation_date:before_admission,
+409,457,14,1779325200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,409,creation_date:before_admission,
+411,459,13,1775610000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,411,creation_date:before_admission,
+412,460,2,1779843600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,412,creation_date:before_admission,
+413,461,15,1767402000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,413,creation_date:before_admission,
+415,464,15,1774918800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,415,creation_date:before_admission,
+416,465,9,1775437200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,416,creation_date:before_admission,
+417,466,10,1768784400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,417,creation_date:before_admission,
+418,467,8,1767402000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,418,creation_date:before_admission,
+419,468,3,1779843600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,419,creation_date:before_admission,
+423,472,3,1767574800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,423,creation_date:before_admission,
+424,476,2,1768093200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,424,creation_date:before_admission,
+428,480,3,1775782800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,428,creation_date:before_admission,
+429,481,12,1767747600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,429,creation_date:before_admission,
+432,485,2,1783645200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,432,creation_date:before_admission,
+433,486,10,1779757200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,433,creation_date:before_admission,
+434,487,2,1777683600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,434,creation_date:before_admission,
+435,488,14,1781571600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,435,creation_date:before_admission,
+438,491,1,1771462800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,438,creation_date:before_admission,
+439,492,3,1783645200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,439,creation_date:before_admission,
+440,494,5,1767574800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,440,creation_date:before_admission,
+444,499,11,1783645200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,444,creation_date:before_admission,
+445,500,12,1782349200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,445,creation_date:before_admission,
+446,501,8,1773536400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,446,creation_date:before_admission,
+447,502,8,1771894800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,447,creation_date:before_admission,
+449,504,14,1781658000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,449,creation_date:before_admission,
+450,505,7,1774486800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,450,creation_date:before_admission,
+453,508,2,1767229200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,453,creation_date:before_admission,
+456,511,13,1782694800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,456,creation_date:before_admission,
+457,513,2,1769302800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,457,creation_date:before_admission,
+458,514,4,1767661200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,458,creation_date:before_admission,
+460,516,3,1769302800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,460,creation_date:before_admission,
+461,517,4,1770339600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,461,creation_date:before_admission,
+463,521,12,1772326800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,463,creation_date:before_admission,
+466,524,3,1776819600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,466,creation_date:before_admission,
+469,527,5,1770253200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,469,creation_date:before_admission,
+474,535,8,1768784400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,474,creation_date:before_admission,
+475,536,14,1768957200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,475,creation_date:before_admission,
+479,540,1,1770080400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,479,creation_date:before_admission,
+481,542,6,1783731600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,481,creation_date:before_admission,
+482,543,1,1771549200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,482,creation_date:before_admission,
+483,544,13,1782867600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,483,creation_date:before_admission,
+484,545,5,1773018000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,484,creation_date:before_admission,
+485,546,12,1767574800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,485,creation_date:before_admission,
+486,547,8,1778461200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,486,creation_date:before_admission,
+487,548,6,1772326800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,487,creation_date:before_admission,
+493,555,5,1773795600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,493,creation_date:before_admission,
+497,559,12,1781485200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,497,creation_date:before_admission,
+499,561,14,1777856400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,499,creation_date:before_admission,
+501,563,10,1768784400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,501,creation_date:before_admission,
+502,564,12,1769994000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,502,creation_date:before_admission,
+503,565,15,1785373200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,503,creation_date:before_admission,
+504,566,5,1777338000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,504,creation_date:before_admission,
+506,568,9,1774832400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,506,creation_date:before_admission,
+508,570,10,1778634000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,508,creation_date:before_admission,
+510,572,6,1770426000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,510,creation_date:before_admission,
+513,575,4,1780966800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,513,creation_date:before_admission,
+516,578,4,1781658000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,516,creation_date:before_admission,
+517,579,5,1786410000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,517,creation_date:before_admission,
+518,580,11,1768006800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,518,creation_date:before_admission,
+519,581,2,1781139600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,519,creation_date:before_admission,
+521,583,5,1777338000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,521,creation_date:before_admission,
+522,584,5,1771117200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,522,creation_date:before_admission,
+524,586,2,1769130000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,524,creation_date:before_admission,
+527,589,7,1768266000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,527,creation_date:before_admission,
+529,591,13,1769734800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,529,creation_date:before_admission,
+530,592,5,1774832400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,530,creation_date:before_admission,
+533,595,7,1768784400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,533,creation_date:before_admission,
+537,599,8,1772326800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,537,creation_date:before_admission,
+539,602,14,1776042000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,539,creation_date:before_admission,
+541,604,12,1775178000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,541,creation_date:before_admission,
+544,608,3,1787706000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,544,creation_date:before_admission,
+545,609,9,1773104400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,545,creation_date:before_admission,
+546,610,5,1772240400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,546,creation_date:before_admission,
+547,611,6,1780707600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,547,creation_date:before_admission,
+548,613,13,1774746000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,548,creation_date:before_admission,
+553,618,12,1774659600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,553,creation_date:before_admission,
+556,621,2,1775523600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,556,creation_date:before_admission,
+559,625,3,1774573200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,559,creation_date:before_admission,
+560,626,7,1769389200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,560,creation_date:before_admission,
+561,627,10,1768438800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,561,creation_date:before_admission,
+562,630,13,1776560400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,562,creation_date:before_admission,
+563,631,13,1769734800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,563,creation_date:before_admission,
+565,633,11,1770253200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,565,creation_date:before_admission,
+566,634,6,1773190800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,566,creation_date:before_admission,
+567,636,10,1775005200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,567,creation_date:before_admission,
+573,642,8,1774314000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,573,creation_date:before_admission,
+575,645,7,1768698000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,575,creation_date:before_admission,
+576,646,1,1771981200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,576,creation_date:before_admission,
+580,650,11,1776560400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,580,creation_date:before_admission,
+582,653,1,1781485200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,582,creation_date:before_admission,
+585,656,11,1774659600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,585,creation_date:before_admission,
+587,658,3,1774400400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,587,creation_date:before_admission,
+590,662,9,1772672400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,590,creation_date:before_admission,
+591,663,7,1781312400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,591,creation_date:before_admission,
+594,667,4,1776560400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,594,creation_date:before_admission,
+595,668,7,1772499600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,595,creation_date:before_admission,
+597,670,13,1772586000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,597,creation_date:before_admission,
+598,671,14,1770426000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,598,creation_date:before_admission,
+602,675,10,1769562000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,602,creation_date:before_admission,
+603,676,4,1767488400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,603,creation_date:before_admission,
+609,684,10,1786755600,,D,clinical_note,609,creation_date:before_admission,
+611,686,10,1776474000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,611,creation_date:before_admission,
+612,688,9,1769216400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,612,creation_date:before_admission,
+616,692,9,1775696400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,616,creation_date:before_admission,
+618,694,9,1772240400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,618,creation_date:before_admission,
+622,699,8,1778288400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,622,creation_date:before_admission,
+623,700,11,1784595600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,623,creation_date:before_admission,
+624,701,2,1777078800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,624,creation_date:before_admission,
+627,704,15,1777510800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,627,creation_date:before_admission,
+628,705,12,1783818000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,628,creation_date:before_admission,
+629,706,3,1773190800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,629,creation_date:before_admission,
+632,709,10,1771981200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,632,creation_date:before_admission,
+633,710,14,1778547600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,633,creation_date:before_admission,
+634,711,13,1779843600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,634,creation_date:before_admission,
+636,713,11,1769475600,,D,clinical_note,636,creation_date:before_admission,
+638,716,15,1776387600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,638,creation_date:before_admission,
+639,717,4,1771376400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,639,creation_date:before_admission,
+640,718,10,1786064400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,640,creation_date:before_admission,
+641,719,14,1781571600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,641,creation_date:before_admission,
+644,723,3,1770598800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,644,creation_date:before_admission,
+645,724,8,1770598800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,645,creation_date:before_admission,
+646,725,5,1781226000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,646,creation_date:before_admission,
+647,726,14,1769302800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,647,creation_date:before_admission,
+648,727,10,1769821200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,648,creation_date:before_admission,
+649,728,12,1773882000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,649,creation_date:before_admission,
+650,729,2,1776042000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,650,creation_date:before_admission,
+651,730,13,1776906000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,651,creation_date:before_admission,
+652,731,4,1772845200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,652,creation_date:before_admission,
+653,732,14,1782608400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,653,creation_date:before_admission,
+654,734,6,1768179600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,654,creation_date:before_admission,
+655,736,5,1767574800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,655,creation_date:before_admission,
+656,737,15,1782003600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,656,creation_date:before_admission,
+659,740,13,1771030800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,659,creation_date:before_admission,
+660,741,1,1777770000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,660,creation_date:before_admission,
+661,743,15,1777770000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,661,creation_date:before_admission,
+663,745,7,1784163600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,663,creation_date:before_admission,
+664,747,4,1769994000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,664,creation_date:before_admission,
+665,748,11,1771808400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,665,creation_date:before_admission,
+667,750,15,1775005200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,667,creation_date:before_admission,
+673,756,3,1776906000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,673,creation_date:before_admission,
+675,758,11,1780016400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,675,creation_date:before_admission,
+677,760,9,1773795600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,677,creation_date:before_admission,
+679,762,3,1772758800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,679,creation_date:before_admission,
+680,763,15,1776474000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,680,creation_date:before_admission,
+681,764,4,1780880400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,681,creation_date:before_admission,
+682,765,9,1777165200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,682,creation_date:before_admission,
+683,766,4,1773104400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,683,creation_date:before_admission,
+685,769,6,1777856400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,685,creation_date:before_admission,
+686,770,12,1770339600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,686,creation_date:before_admission,
+690,774,14,1770080400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,690,creation_date:before_admission,
+691,775,9,1782522000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,691,creation_date:before_admission,
+693,777,3,1778374800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,693,creation_date:before_admission,
+698,782,10,1770253200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,698,creation_date:before_admission,
+699,783,9,1767747600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,699,creation_date:before_admission,
+700,784,3,1769475600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,700,creation_date:before_admission,
+702,786,5,1778979600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,702,creation_date:before_admission,
+703,787,3,1778634000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,703,creation_date:before_admission,
+705,789,15,1772586000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,705,creation_date:before_admission,
+706,790,9,1770512400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,706,creation_date:before_admission,
+709,793,13,1769302800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,709,creation_date:before_admission,
+710,794,13,1781312400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,710,creation_date:before_admission,
+711,796,10,1772154000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,711,creation_date:before_admission,
+712,797,10,1777078800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,712,creation_date:before_admission,
+713,798,8,1775178000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,713,creation_date:before_admission,
+715,800,14,1776560400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,715,creation_date:before_admission,
+716,801,1,1775091600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,716,creation_date:before_admission,
+717,802,2,1777597200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,717,creation_date:before_admission,
+718,803,5,1771030800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,718,creation_date:before_admission,
+719,804,3,1768352400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,719,creation_date:before_admission,
+721,806,2,1777424400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,721,creation_date:before_admission,
+722,808,11,1768698000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,722,creation_date:before_admission,
+724,810,14,1782262800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,724,creation_date:before_admission,
+725,811,15,1768179600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,725,creation_date:before_admission,
+728,814,1,1773450000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,728,creation_date:before_admission,
+729,815,11,1771203600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,729,creation_date:before_admission,
+731,817,8,1768870800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,731,creation_date:before_admission,
+732,818,7,1773104400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,732,creation_date:before_admission,
+734,820,12,1770685200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,734,creation_date:before_admission,
+735,821,7,1768698000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,735,creation_date:before_admission,
+739,827,12,1767315600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,739,creation_date:before_admission,
+741,829,13,1773968400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,741,creation_date:before_admission,
+748,839,6,1774486800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,748,creation_date:before_admission,
+749,840,12,1768006800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,749,creation_date:before_admission,
+750,841,10,1781312400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,750,creation_date:before_admission,
+751,842,4,1768870800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,751,creation_date:before_admission,
+752,843,14,1768870800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,752,creation_date:before_admission,
+755,846,14,1770080400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,755,creation_date:before_admission,
+756,847,9,1770253200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,756,creation_date:before_admission,
+758,849,4,1767920400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,758,creation_date:before_admission,
+760,851,2,1770512400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,760,creation_date:before_admission,
+763,854,10,1767747600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,763,creation_date:before_admission,
+767,858,7,1768870800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,767,creation_date:before_admission,
+768,859,11,1774486800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,768,creation_date:before_admission,
+772,864,14,1771290000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,772,creation_date:before_admission,
+778,873,4,1786410000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,778,creation_date:before_admission,
+779,874,8,1770339600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,779,creation_date:before_admission,
+780,875,4,1774918800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,780,creation_date:before_admission,
+781,876,9,1769907600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,781,creation_date:before_admission,
+783,878,6,1768179600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,783,creation_date:before_admission,
+784,879,2,1769475600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,784,creation_date:before_admission,
+786,881,13,1779152400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,786,creation_date:before_admission,
+787,882,3,1773277200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,787,creation_date:before_admission,
+790,885,13,1768611600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,790,creation_date:before_admission,
+792,887,10,1779670800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,792,creation_date:before_admission,
+793,888,15,1768006800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,793,creation_date:before_admission,
+794,889,1,1773363600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,794,creation_date:before_admission,
+796,891,13,1771981200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,796,creation_date:before_admission,
+797,892,4,1767402000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,797,creation_date:before_admission,
+798,894,11,1772413200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,798,creation_date:before_admission,
+799,895,7,1769216400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,799,creation_date:before_admission,
+801,897,7,1770426000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,801,creation_date:before_admission,
+805,901,1,1770080400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,805,creation_date:before_admission,
+809,906,6,1781312400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,809,creation_date:before_admission,
+811,908,13,1781658000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,811,creation_date:before_admission,
+814,911,3,1781053200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,814,creation_date:before_admission,
+815,912,5,1780794000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,815,creation_date:before_admission,
+817,914,10,1774141200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,817,creation_date:before_admission,
+819,916,6,1775350800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,819,creation_date:before_admission,
+820,917,2,1778029200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,820,creation_date:before_admission,
+823,920,1,1768006800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,823,creation_date:before_admission,
+825,923,5,1771981200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,825,creation_date:before_admission,
+826,924,10,1783386000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,826,creation_date:before_admission,
+827,925,13,1773622800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,827,creation_date:before_admission,
+830,928,14,1773709200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,830,creation_date:before_admission,
+832,932,14,1770166800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,832,creation_date:before_admission,
+834,934,9,1773018000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,834,creation_date:before_admission,
+836,936,9,1767747600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,836,creation_date:before_admission,
+842,942,4,1785805200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,842,creation_date:before_admission,
+843,943,12,1780966800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,843,creation_date:before_admission,
+844,945,11,1780707600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,844,creation_date:before_admission,
+845,946,7,1770512400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,845,creation_date:before_admission,
+846,947,15,1775610000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,846,creation_date:before_admission,
+850,951,15,1773363600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,850,creation_date:before_admission,
+853,954,10,1774659600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,853,creation_date:before_admission,
+854,955,11,1771203600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,854,creation_date:before_admission,
+856,957,2,1772931600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,856,creation_date:before_admission,
+862,963,6,1772154000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,862,creation_date:before_admission,
+863,964,13,1773536400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,863,creation_date:before_admission,
+867,968,8,1768179600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,867,creation_date:before_admission,
+869,970,8,1767661200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,869,creation_date:before_admission,
+873,975,12,1776992400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,873,creation_date:before_admission,
+874,976,11,1769130000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,874,creation_date:before_admission,
+875,977,1,1773450000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,875,creation_date:before_admission,
+876,980,10,1767834000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,876,creation_date:before_admission,
+878,984,10,1778634000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,878,creation_date:before_admission,
+884,992,4,1770858000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,884,creation_date:before_admission,
+885,993,5,1777078800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,885,creation_date:before_admission,
+887,996,10,1767920400,,D,clinical_note,887,creation_date:before_admission,
+889,998,12,1770512400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,889,creation_date:before_admission,
+892,1001,6,1768611600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,892,creation_date:before_admission,
+894,1004,2,1776474000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,894,creation_date:before_admission,
+898,1008,7,1771722000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,898,creation_date:before_admission,
+901,1011,5,1771117200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,901,creation_date:before_admission,
+902,1013,7,1773622800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,902,creation_date:before_admission,
+903,1014,7,1779584400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,903,creation_date:before_admission,
+904,1015,2,1771203600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,904,creation_date:before_admission,
+906,1017,9,1776387600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,906,creation_date:before_admission,
+909,1020,10,1769389200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,909,creation_date:before_admission,
+910,1021,4,1768784400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,910,creation_date:before_admission,
+911,1022,11,1770685200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,911,creation_date:before_admission,
+915,1027,6,1773450000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,915,creation_date:before_admission,
+918,1033,9,1779325200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,918,creation_date:before_admission,
+919,1035,13,1771376400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,919,creation_date:before_admission,
+921,1037,14,1773018000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,921,creation_date:before_admission,
+923,1039,7,1768870800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,923,creation_date:before_admission,
+927,1043,14,1777338000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,927,creation_date:before_admission,
+928,1044,8,1774659600,,D,clinical_note,928,creation_date:before_admission,
+929,1045,2,1786669200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,929,creation_date:before_admission,
+932,1048,6,1783126800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,932,creation_date:before_admission,
+934,1050,14,1767229200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,934,creation_date:before_admission,
+938,1055,3,1768784400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,938,creation_date:before_admission,
+940,1057,15,1774486800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,940,creation_date:before_admission,
+944,1061,4,1768698000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,944,creation_date:before_admission,
+945,1062,5,1776733200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,945,creation_date:before_admission,
+946,1063,13,1777165200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,946,creation_date:before_admission,
+947,1064,2,1768438800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,947,creation_date:before_admission,
+949,1066,1,1769043600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,949,creation_date:before_admission,
+950,1067,14,1778202000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,950,creation_date:before_admission,
+953,1071,5,1785200400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,953,creation_date:before_admission,
+955,1073,6,1782522000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,955,creation_date:before_admission,
+956,1074,5,1779930000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,956,creation_date:before_admission,
+961,1079,2,1770858000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,961,creation_date:before_admission,
+962,1080,12,1771290000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,962,creation_date:before_admission,
+963,1081,6,1767834000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,963,creation_date:before_admission,
+964,1082,7,1774227600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,964,creation_date:before_admission,
+972,1091,15,1772931600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,972,creation_date:before_admission,
+973,1093,13,1771376400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,973,creation_date:before_admission,
+974,1094,5,1769130000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,974,creation_date:before_admission,
+975,1095,6,1768784400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,975,creation_date:before_admission,
+976,1096,3,1767574800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,976,creation_date:before_admission,
+979,1099,15,1770598800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,979,creation_date:before_admission,
+980,1101,6,1785459600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,980,creation_date:before_admission,
+981,1102,3,1782262800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,981,creation_date:before_admission,
+982,1103,1,1777338000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,982,creation_date:before_admission,
+983,1104,11,1784509200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,983,creation_date:before_admission,
+985,1106,14,1786150800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,985,creation_date:before_admission,
+987,1108,9,1780275600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,987,creation_date:before_admission,
+988,1109,15,1770339600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,988,creation_date:before_admission,
+992,1113,5,1772413200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,992,creation_date:before_admission,
+995,1116,13,1768352400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,995,creation_date:before_admission,
+997,1118,5,1782349200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,997,creation_date:before_admission,
+1000,1121,15,1768266000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1000,creation_date:before_admission,
+1001,1122,4,1780448400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1001,creation_date:before_admission,
+1004,1125,15,1779238800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1004,creation_date:before_admission,
+1006,1127,11,1777510800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1006,creation_date:before_admission,
+1007,1128,3,1768352400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1007,creation_date:before_admission,
+1010,1131,13,1771722000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1010,creation_date:before_admission,
+1012,1133,8,1784595600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1012,creation_date:before_admission,
+1013,1134,13,1772931600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1013,creation_date:before_admission,
+1014,1135,8,1771981200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1014,creation_date:before_admission,
+1015,1136,6,1770771600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1015,creation_date:before_admission,
+1016,1137,6,1771635600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1016,creation_date:before_admission,
+1018,1139,15,1770426000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1018,creation_date:before_admission,
+1019,1141,7,1774832400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1019,creation_date:before_admission,
+1023,1146,12,1770253200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1023,creation_date:before_admission,
+1027,1152,12,1769907600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1027,creation_date:before_admission,
+1032,1158,13,1768698000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1032,creation_date:before_admission,
+1033,1159,8,1781744400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1033,creation_date:before_admission,
+1034,1161,15,1779152400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1034,creation_date:before_admission,
+1035,1162,11,1771290000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1035,creation_date:before_admission,
+1036,1163,14,1780102800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1036,creation_date:before_admission,
+1038,1166,5,1783472400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1038,creation_date:before_admission,
+1040,1168,8,1768698000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1040,creation_date:before_admission,
+1043,1171,2,1768438800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1043,creation_date:before_admission,
+1044,1172,5,1782435600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1044,creation_date:before_admission,
+1045,1173,1,1771462800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1045,creation_date:before_admission,
+1046,1174,8,1782003600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1046,creation_date:before_admission,
+1047,1175,3,1777165200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1047,creation_date:before_admission,
+1048,1176,12,1773795600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1048,creation_date:before_admission,
+1049,1177,14,1777597200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1049,creation_date:before_admission,
+1050,1178,13,1772240400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1050,creation_date:before_admission,
+1051,1179,1,1771117200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1051,creation_date:before_admission,
+1053,1181,9,1775523600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1053,creation_date:before_admission,
+1054,1184,3,1769043600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1054,creation_date:before_admission,
+1058,1189,14,1776906000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1058,creation_date:before_admission,
+1059,1190,13,1778461200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1059,creation_date:before_admission,
+1060,1192,1,1769734800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1060,creation_date:before_admission,
+1064,1196,4,1768784400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1064,creation_date:before_admission,
+1065,1197,3,1784163600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1065,creation_date:before_admission,
+1067,1200,10,1780275600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1067,creation_date:before_admission,
+2,2,13,1786755600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,2,creation_date:after_discharge,
+4,4,1,1778115600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,4,creation_date:after_discharge,
+5,5,7,1776214800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,5,creation_date:after_discharge,
+6,7,7,1783645200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,6,creation_date:after_discharge,
+10,11,4,1777856400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,10,creation_date:after_discharge,
+11,12,11,1788051600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,11,creation_date:after_discharge,
+13,14,12,1773277200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,13,creation_date:after_discharge,
+16,17,3,1773363600,,D,clinical_note,16,creation_date:after_discharge,
+18,19,10,1777424400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,18,creation_date:after_discharge,
+20,21,15,1787619600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,20,creation_date:after_discharge,
+23,24,5,1786323600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,23,creation_date:after_discharge,
+24,25,3,1788138000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,24,creation_date:after_discharge,
+27,29,11,1780707600,,D,clinical_note,27,creation_date:after_discharge,
+29,31,5,1769389200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,29,creation_date:after_discharge,
+31,34,7,1786237200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,31,creation_date:after_discharge,
+32,36,14,1770858000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,32,creation_date:after_discharge,
+35,41,7,1782176400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,35,creation_date:after_discharge,
+37,43,7,1786064400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,37,creation_date:after_discharge,
+41,47,12,1782349200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,41,creation_date:after_discharge,
+43,49,7,1775350800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,43,creation_date:after_discharge,
+44,51,7,1788224400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,44,creation_date:after_discharge,
+45,52,14,1786410000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,45,creation_date:after_discharge,
+54,61,6,1780362000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,54,creation_date:after_discharge,
+56,64,10,1786410000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,56,creation_date:after_discharge,
+57,65,13,1785200400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,57,creation_date:after_discharge,
+58,66,6,1783386000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,58,creation_date:after_discharge,
+59,67,2,1780966800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,59,creation_date:after_discharge,
+60,68,8,1784682000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,60,creation_date:after_discharge,
+61,70,13,1780966800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,61,creation_date:after_discharge,
+62,71,10,1786928400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,62,creation_date:after_discharge,
+68,77,2,1779411600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,68,creation_date:after_discharge,
+69,78,4,1776387600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,69,creation_date:after_discharge,
+70,79,7,1788483600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,70,creation_date:after_discharge,
+71,80,1,1784163600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,71,creation_date:after_discharge,
+72,81,6,1783990800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,72,creation_date:after_discharge,
+74,83,13,1772240400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,74,creation_date:after_discharge,
+75,84,15,1783386000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,75,creation_date:after_discharge,
+76,85,14,1778202000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,76,creation_date:after_discharge,
+77,86,2,1772586000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,77,creation_date:after_discharge,
+81,90,13,1780534800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,81,creation_date:after_discharge,
+82,91,11,1784163600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,82,creation_date:after_discharge,
+85,94,15,1784163600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,85,creation_date:after_discharge,
+87,96,9,1784509200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,87,creation_date:after_discharge,
+88,97,10,1771462800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,88,creation_date:after_discharge,
+89,98,7,1776646800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,89,creation_date:after_discharge,
+90,99,2,1784595600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,90,creation_date:after_discharge,
+92,101,4,1787014800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,92,creation_date:after_discharge,
+95,105,14,1781571600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,95,creation_date:after_discharge,
+96,106,11,1783299600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,96,creation_date:after_discharge,
+98,108,13,1774054800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,98,creation_date:after_discharge,
+99,111,2,1783990800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,99,creation_date:after_discharge,
+102,114,12,1781226000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,102,creation_date:after_discharge,
+103,115,7,1774746000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,103,creation_date:after_discharge,
+105,119,10,1773968400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,105,creation_date:after_discharge,
+112,128,13,1784422800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,112,creation_date:after_discharge,
+116,134,8,1780794000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,116,creation_date:after_discharge,
+117,135,2,1784595600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,117,creation_date:after_discharge,
+119,137,14,1782954000,,D,clinical_note,119,creation_date:after_discharge,
+121,139,2,1782867600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,121,creation_date:after_discharge,
+124,142,9,1787360400,,D,clinical_note,124,creation_date:after_discharge,
+127,145,7,1783299600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,127,creation_date:after_discharge,
+129,147,1,1772672400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,129,creation_date:after_discharge,
+130,148,10,1786150800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,130,creation_date:after_discharge,
+133,152,2,1780016400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,133,creation_date:after_discharge,
+134,153,11,1773536400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,134,creation_date:after_discharge,
+136,156,14,1786842000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,136,creation_date:after_discharge,
+137,157,10,1777338000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,137,creation_date:after_discharge,
+140,160,4,1776387600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,140,creation_date:after_discharge,
+146,166,3,1787187600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,146,creation_date:after_discharge,
+148,168,1,1782090000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,148,creation_date:after_discharge,
+149,170,7,1781226000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,149,creation_date:after_discharge,
+150,172,15,1787187600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,150,creation_date:after_discharge,
+153,175,3,1779584400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,153,creation_date:after_discharge,
+155,177,10,1777424400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,155,creation_date:after_discharge,
+156,178,14,1788570000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,156,creation_date:after_discharge,
+158,180,5,1788397200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,158,creation_date:after_discharge,
+161,185,12,1776560400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,161,creation_date:after_discharge,
+162,186,10,1778547600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,162,creation_date:after_discharge,
+163,187,6,1779757200,,D,clinical_note,163,creation_date:after_discharge,
+167,191,4,1787014800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,167,creation_date:after_discharge,
+169,194,4,1771376400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,169,creation_date:after_discharge,
+170,195,4,1788051600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,170,creation_date:after_discharge,
+171,196,8,1780275600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,171,creation_date:after_discharge,
+172,197,13,1779411600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,172,creation_date:after_discharge,
+175,200,12,1782954000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,175,creation_date:after_discharge,
+176,201,11,1785200400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,176,creation_date:after_discharge,
+178,204,8,1780448400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,178,creation_date:after_discharge,
+179,205,5,1779584400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,179,creation_date:after_discharge,
+181,207,3,1783990800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,181,creation_date:after_discharge,
+186,212,15,1787101200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,186,creation_date:after_discharge,
+187,213,8,1775955600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,187,creation_date:after_discharge,
+188,214,10,1787792400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,188,creation_date:after_discharge,
+192,219,8,1781398800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,192,creation_date:after_discharge,
+193,220,3,1775869200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,193,creation_date:after_discharge,
+194,221,5,1770512400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,194,creation_date:after_discharge,
+195,222,14,1783731600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,195,creation_date:after_discharge,
+196,223,6,1776992400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,196,creation_date:after_discharge,
+197,224,4,1783126800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,197,creation_date:after_discharge,
+200,228,8,1786582800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,200,creation_date:after_discharge,
+201,229,14,1783904400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,201,creation_date:after_discharge,
+205,234,5,1771981200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,205,creation_date:after_discharge,
+206,235,6,1775696400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,206,creation_date:after_discharge,
+209,238,1,1779411600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,209,creation_date:after_discharge,
+213,242,5,1772326800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,213,creation_date:after_discharge,
+216,246,4,1785632400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,216,creation_date:after_discharge,
+217,247,8,1783472400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,217,creation_date:after_discharge,
+218,248,10,1780794000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,218,creation_date:after_discharge,
+219,249,1,1784595600,,D,clinical_note,219,creation_date:after_discharge,
+223,253,2,1778634000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,223,creation_date:after_discharge,
+226,256,9,1775350800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,226,creation_date:after_discharge,
+229,260,2,1785114000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,229,creation_date:after_discharge,
+232,263,9,1785027600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,232,creation_date:after_discharge,
+234,265,10,1769734800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,234,creation_date:after_discharge,
+236,267,4,1776560400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,236,creation_date:after_discharge,
+238,269,9,1784250000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,238,creation_date:after_discharge,
+246,277,8,1788051600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,246,creation_date:after_discharge,
+247,278,11,1783645200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,247,creation_date:after_discharge,
+248,279,8,1788570000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,248,creation_date:after_discharge,
+254,285,13,1786410000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,254,creation_date:after_discharge,
+256,288,4,1788310800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,256,creation_date:after_discharge,
+258,290,7,1773882000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,258,creation_date:after_discharge,
+260,293,6,1785632400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,260,creation_date:after_discharge,
+266,300,11,1785718800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,266,creation_date:after_discharge,
+267,301,8,1783386000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,267,creation_date:after_discharge,
+268,303,14,1787878800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,268,creation_date:after_discharge,
+269,304,9,1784250000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,269,creation_date:after_discharge,
+271,306,9,1786237200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,271,creation_date:after_discharge,
+272,307,15,1778202000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,272,creation_date:after_discharge,
+273,308,6,1775955600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,273,creation_date:after_discharge,
+275,310,5,1788570000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,275,creation_date:after_discharge,
+276,311,15,1788742800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,276,creation_date:after_discharge,
+277,312,9,1782954000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,277,creation_date:after_discharge,
+280,315,10,1787965200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,280,creation_date:after_discharge,
+282,317,2,1775350800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,282,creation_date:after_discharge,
+283,319,12,1782090000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,283,creation_date:after_discharge,
+284,320,2,1780707600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,284,creation_date:after_discharge,
+285,321,1,1787187600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,285,creation_date:after_discharge,
+286,323,3,1773968400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,286,creation_date:after_discharge,
+287,324,14,1779325200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,287,creation_date:after_discharge,
+288,325,11,1787360400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,288,creation_date:after_discharge,
+289,326,4,1787533200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,289,creation_date:after_discharge,
+290,327,14,1785286800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,290,creation_date:after_discharge,
+291,328,13,1776042000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,291,creation_date:after_discharge,
+294,331,2,1785027600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,294,creation_date:after_discharge,
+297,334,2,1787274000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,297,creation_date:after_discharge,
+298,336,3,1787792400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,298,creation_date:after_discharge,
+299,337,6,1775869200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,299,creation_date:after_discharge,
+300,339,1,1784509200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,300,creation_date:after_discharge,
+303,342,4,1782522000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,303,creation_date:after_discharge,
+308,349,1,1773622800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,308,creation_date:after_discharge,
+310,351,11,1777251600,,D,clinical_note,310,creation_date:after_discharge,
+312,353,1,1788570000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,312,creation_date:after_discharge,
+314,355,14,1782608400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,314,creation_date:after_discharge,
+315,356,2,1784768400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,315,creation_date:after_discharge,
+316,357,4,1784941200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,316,creation_date:after_discharge,
+319,360,10,1782003600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,319,creation_date:after_discharge,
+324,366,8,1775350800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,324,creation_date:after_discharge,
+326,368,15,1781571600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,326,creation_date:after_discharge,
+327,369,7,1782608400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,327,creation_date:after_discharge,
+329,371,13,1788051600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,329,creation_date:after_discharge,
+330,372,8,1780189200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,330,creation_date:after_discharge,
+331,373,2,1783731600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,331,creation_date:after_discharge,
+336,378,3,1780189200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,336,creation_date:after_discharge,
+337,379,10,1781485200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,337,creation_date:after_discharge,
+339,381,15,1785114000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,339,creation_date:after_discharge,
+340,383,1,1785891600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,340,creation_date:after_discharge,
+342,385,7,1779152400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,342,creation_date:after_discharge,
+343,386,15,1784422800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,343,creation_date:after_discharge,
+344,387,7,1787878800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,344,creation_date:after_discharge,
+347,390,10,1769907600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,347,creation_date:after_discharge,
+348,391,11,1776819600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,348,creation_date:after_discharge,
+349,392,7,1781053200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,349,creation_date:after_discharge,
+359,403,3,1781139600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,359,creation_date:after_discharge,
+360,404,5,1788656400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,360,creation_date:after_discharge,
+363,407,3,1779843600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,363,creation_date:after_discharge,
+364,409,12,1782522000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,364,creation_date:after_discharge,
+368,413,5,1782262800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,368,creation_date:after_discharge,
+373,418,11,1788224400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,373,creation_date:after_discharge,
+376,422,5,1776819600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,376,creation_date:after_discharge,
+378,425,10,1781917200,,D,clinical_note,378,creation_date:after_discharge,
+381,428,7,1788224400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,381,creation_date:after_discharge,
+382,429,4,1782262800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,382,creation_date:after_discharge,
+385,432,5,1784163600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,385,creation_date:after_discharge,
+388,435,1,1781398800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,388,creation_date:after_discharge,
+391,438,13,1787965200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,391,creation_date:after_discharge,
+394,441,2,1785459600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,394,creation_date:after_discharge,
+395,442,15,1780102800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,395,creation_date:after_discharge,
+398,445,11,1771894800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,398,creation_date:after_discharge,
+400,447,6,1778202000,,D,clinical_note,400,creation_date:after_discharge,
+404,452,7,1784250000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,404,creation_date:after_discharge,
+406,454,7,1775955600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,406,creation_date:after_discharge,
+407,455,8,1774486800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,407,creation_date:after_discharge,
+414,462,15,1779670800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,414,creation_date:after_discharge,
+420,469,11,1778202000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,420,creation_date:after_discharge,
+421,470,13,1773536400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,421,creation_date:after_discharge,
+422,471,3,1784077200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,422,creation_date:after_discharge,
+425,477,8,1781312400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,425,creation_date:after_discharge,
+426,478,14,1776560400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,426,creation_date:after_discharge,
+427,479,4,1788397200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,427,creation_date:after_discharge,
+431,484,4,1784077200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,431,creation_date:after_discharge,
+437,490,2,1782781200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,437,creation_date:after_discharge,
+441,495,2,1783126800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,441,creation_date:after_discharge,
+442,496,6,1771894800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,442,creation_date:after_discharge,
+443,497,1,1778029200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,443,creation_date:after_discharge,
+448,503,4,1788829200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,448,creation_date:after_discharge,
+451,506,15,1772067600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,451,creation_date:after_discharge,
+454,509,15,1787446800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,454,creation_date:after_discharge,
+455,510,2,1777251600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,455,creation_date:after_discharge,
+459,515,1,1776474000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,459,creation_date:after_discharge,
+462,520,9,1785978000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,462,creation_date:after_discharge,
+464,522,15,1782522000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,464,creation_date:after_discharge,
+465,523,9,1777078800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,465,creation_date:after_discharge,
+467,525,1,1781571600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,467,creation_date:after_discharge,
+468,526,5,1773018000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,468,creation_date:after_discharge,
+470,528,12,1780534800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,470,creation_date:after_discharge,
+471,529,6,1779498000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,471,creation_date:after_discharge,
+472,532,13,1784682000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,472,creation_date:after_discharge,
+473,533,2,1774573200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,473,creation_date:after_discharge,
+476,537,1,1778720400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,476,creation_date:after_discharge,
+477,538,14,1780966800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,477,creation_date:after_discharge,
+480,541,4,1778547600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,480,creation_date:after_discharge,
+488,549,5,1784941200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,488,creation_date:after_discharge,
+489,550,2,1786150800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,489,creation_date:after_discharge,
+490,551,10,1780880400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,490,creation_date:after_discharge,
+491,552,7,1784509200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,491,creation_date:after_discharge,
+492,553,5,1776474000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,492,creation_date:after_discharge,
+494,556,12,1787965200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,494,creation_date:after_discharge,
+496,558,14,1782349200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,496,creation_date:after_discharge,
+498,560,15,1788138000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,498,creation_date:after_discharge,
+500,562,3,1773018000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,500,creation_date:after_discharge,
+505,567,4,1772758800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,505,creation_date:after_discharge,
+507,569,11,1788397200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,507,creation_date:after_discharge,
+509,571,10,1783299600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,509,creation_date:after_discharge,
+511,573,13,1785114000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,511,creation_date:after_discharge,
+512,574,1,1778115600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,512,creation_date:after_discharge,
+514,576,11,1776042000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,514,creation_date:after_discharge,
+515,577,8,1777424400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,515,creation_date:after_discharge,
+523,585,8,1778634000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,523,creation_date:after_discharge,
+525,587,11,1774054800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,525,creation_date:after_discharge,
+526,588,7,1773622800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,526,creation_date:after_discharge,
+528,590,13,1787533200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,528,creation_date:after_discharge,
+531,593,12,1773968400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,531,creation_date:after_discharge,
+532,594,5,1787706000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,532,creation_date:after_discharge,
+534,596,2,1788051600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,534,creation_date:after_discharge,
+535,597,15,1769821200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,535,creation_date:after_discharge,
+536,598,15,1784768400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,536,creation_date:after_discharge,
+538,600,5,1779066000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,538,creation_date:after_discharge,
+540,603,8,1785891600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,540,creation_date:after_discharge,
+542,605,1,1785891600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,542,creation_date:after_discharge,
+543,607,10,1772413200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,543,creation_date:after_discharge,
+549,614,14,1782781200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,549,creation_date:after_discharge,
+550,615,9,1784336400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,550,creation_date:after_discharge,
+551,616,6,1786237200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,551,creation_date:after_discharge,
+552,617,5,1778288400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,552,creation_date:after_discharge,
+554,619,8,1780534800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,554,creation_date:after_discharge,
+555,620,1,1777165200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,555,creation_date:after_discharge,
+557,622,4,1788138000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,557,creation_date:after_discharge,
+558,623,9,1788483600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,558,creation_date:after_discharge,
+564,632,6,1781053200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,564,creation_date:after_discharge,
+568,637,3,1785114000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,568,creation_date:after_discharge,
+569,638,9,1780016400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,569,creation_date:after_discharge,
+570,639,14,1783213200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,570,creation_date:after_discharge,
+571,640,15,1786582800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,571,creation_date:after_discharge,
+572,641,9,1776992400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,572,creation_date:after_discharge,
+574,643,1,1785632400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,574,creation_date:after_discharge,
+577,647,12,1786669200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,577,creation_date:after_discharge,
+578,648,12,1784854800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,578,creation_date:after_discharge,
+579,649,7,1787706000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,579,creation_date:after_discharge,
+581,652,5,1782349200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,581,creation_date:after_discharge,
+583,654,3,1784682000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,583,creation_date:after_discharge,
+584,655,4,1783904400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,584,creation_date:after_discharge,
+586,657,12,1782954000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,586,creation_date:after_discharge,
+588,659,11,1783040400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,588,creation_date:after_discharge,
+589,661,15,1788138000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,589,creation_date:after_discharge,
+592,664,4,1787878800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,592,creation_date:after_discharge,
+593,666,11,1788570000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,593,creation_date:after_discharge,
+596,669,5,1782003600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,596,creation_date:after_discharge,
+599,672,12,1783990800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,599,creation_date:after_discharge,
+600,673,10,1779757200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,600,creation_date:after_discharge,
+604,677,6,1788397200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,604,creation_date:after_discharge,
+605,678,1,1784163600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,605,creation_date:after_discharge,
+607,680,13,1775610000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,607,creation_date:after_discharge,
+608,681,10,1788742800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,608,creation_date:after_discharge,
+610,685,11,1779843600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,610,creation_date:after_discharge,
+614,690,1,1784941200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,614,creation_date:after_discharge,
+615,691,1,1785027600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,615,creation_date:after_discharge,
+617,693,3,1778893200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,617,creation_date:after_discharge,
+619,695,15,1780189200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,619,creation_date:after_discharge,
+620,696,5,1783818000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,620,creation_date:after_discharge,
+621,697,4,1775264400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,621,creation_date:after_discharge,
+625,702,4,1782694800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,625,creation_date:after_discharge,
+626,703,9,1776387600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,626,creation_date:after_discharge,
+630,707,4,1780794000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,630,creation_date:after_discharge,
+631,708,2,1775350800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,631,creation_date:after_discharge,
+635,712,10,1788829200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,635,creation_date:after_discharge,
+637,715,9,1781312400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,637,creation_date:after_discharge,
+643,722,1,1780189200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,643,creation_date:after_discharge,
+657,738,6,1786410000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,657,creation_date:after_discharge,
+658,739,1,1785027600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,658,creation_date:after_discharge,
+662,744,7,1785286800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,662,creation_date:after_discharge,
+666,749,12,1776042000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,666,creation_date:after_discharge,
+669,752,11,1787274000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,669,creation_date:after_discharge,
+670,753,13,1780362000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,670,creation_date:after_discharge,
+671,754,1,1776992400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,671,creation_date:after_discharge,
+672,755,4,1780621200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,672,creation_date:after_discharge,
+674,757,10,1787101200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,674,creation_date:after_discharge,
+678,761,10,1780966800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,678,creation_date:after_discharge,
+684,768,13,1779930000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,684,creation_date:after_discharge,
+687,771,6,1777683600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,687,creation_date:after_discharge,
+688,772,1,1786323600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,688,creation_date:after_discharge,
+689,773,10,1782090000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,689,creation_date:after_discharge,
+692,776,14,1775264400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,692,creation_date:after_discharge,
+694,778,9,1788570000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,694,creation_date:after_discharge,
+696,780,14,1782781200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,696,creation_date:after_discharge,
+697,781,11,1777251600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,697,creation_date:after_discharge,
+704,788,1,1783040400,,D,clinical_note,704,creation_date:after_discharge,
+707,791,1,1771635600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,707,creation_date:after_discharge,
+708,792,1,1775178000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,708,creation_date:after_discharge,
+714,799,2,1782435600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,714,creation_date:after_discharge,
+720,805,13,1774400400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,720,creation_date:after_discharge,
+726,812,11,1787274000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,726,creation_date:after_discharge,
+727,813,13,1783818000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,727,creation_date:after_discharge,
+730,816,5,1786237200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,730,creation_date:after_discharge,
+733,819,10,1786669200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,733,creation_date:after_discharge,
+736,822,11,1772931600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,736,creation_date:after_discharge,
+737,825,5,1784422800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,737,creation_date:after_discharge,
+738,826,7,1788051600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,738,creation_date:after_discharge,
+740,828,13,1782176400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,740,creation_date:after_discharge,
+742,830,12,1788138000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,742,creation_date:after_discharge,
+743,831,4,1780102800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,743,creation_date:after_discharge,
+744,833,1,1787446800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,744,creation_date:after_discharge,
+745,834,6,1782003600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,745,creation_date:after_discharge,
+746,836,3,1787360400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,746,creation_date:after_discharge,
+747,838,15,1788310800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,747,creation_date:after_discharge,
+753,844,6,1777856400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,753,creation_date:after_discharge,
+754,845,14,1780448400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,754,creation_date:after_discharge,
+757,848,4,1779152400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,757,creation_date:after_discharge,
+759,850,1,1779411600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,759,creation_date:after_discharge,
+761,852,10,1785978000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,761,creation_date:after_discharge,
+762,853,13,1787360400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,762,creation_date:after_discharge,
+764,855,10,1772672400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,764,creation_date:after_discharge,
+765,856,5,1788829200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,765,creation_date:after_discharge,
+766,857,5,1788051600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,766,creation_date:after_discharge,
+769,861,5,1782090000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,769,creation_date:after_discharge,
+770,862,13,1772413200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,770,creation_date:after_discharge,
+771,863,3,1782781200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,771,creation_date:after_discharge,
+773,865,15,1778979600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,773,creation_date:after_discharge,
+774,866,9,1786928400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,774,creation_date:after_discharge,
+775,867,4,1786669200,,D,clinical_note,775,creation_date:after_discharge,
+776,868,7,1773104400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,776,creation_date:after_discharge,
+777,870,10,1785546000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,777,creation_date:after_discharge,
+782,877,9,1780448400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,782,creation_date:after_discharge,
+785,880,6,1788138000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,785,creation_date:after_discharge,
+788,883,15,1773795600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,788,creation_date:after_discharge,
+791,886,1,1783645200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,791,creation_date:after_discharge,
+795,890,4,1776301200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,795,creation_date:after_discharge,
+800,896,8,1774141200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,800,creation_date:after_discharge,
+802,898,6,1788829200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,802,creation_date:after_discharge,
+803,899,1,1773018000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,803,creation_date:after_discharge,
+804,900,7,1785891600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,804,creation_date:after_discharge,
+806,903,7,1780794000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,806,creation_date:after_discharge,
+807,904,13,1777597200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,807,creation_date:after_discharge,
+808,905,12,1783299600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,808,creation_date:after_discharge,
+810,907,12,1782003600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,810,creation_date:after_discharge,
+812,909,8,1770944400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,812,creation_date:after_discharge,
+816,913,13,1780016400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,816,creation_date:after_discharge,
+818,915,1,1773882000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,818,creation_date:after_discharge,
+821,918,14,1786064400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,821,creation_date:after_discharge,
+822,919,8,1778720400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,822,creation_date:after_discharge,
+824,921,13,1773622800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,824,creation_date:after_discharge,
+828,926,6,1785200400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,828,creation_date:after_discharge,
+829,927,12,1785805200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,829,creation_date:after_discharge,
+831,930,12,1778374800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,831,creation_date:after_discharge,
+833,933,9,1774054800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,833,creation_date:after_discharge,
+835,935,15,1781658000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,835,creation_date:after_discharge,
+837,937,3,1785114000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,837,creation_date:after_discharge,
+838,938,3,1783990800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,838,creation_date:after_discharge,
+839,939,11,1779411600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,839,creation_date:after_discharge,
+840,940,10,1773882000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,840,creation_date:after_discharge,
+841,941,2,1786582800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,841,creation_date:after_discharge,
+847,948,10,1777165200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,847,creation_date:after_discharge,
+849,950,6,1782954000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,849,creation_date:after_discharge,
+851,952,3,1777078800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,851,creation_date:after_discharge,
+852,953,11,1784941200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,852,creation_date:after_discharge,
+855,956,5,1788138000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,855,creation_date:after_discharge,
+857,958,3,1772931600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,857,creation_date:after_discharge,
+858,959,12,1787533200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,858,creation_date:after_discharge,
+860,961,13,1775955600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,860,creation_date:after_discharge,
+861,962,15,1780102800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,861,creation_date:after_discharge,
+864,965,1,1777338000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,864,creation_date:after_discharge,
+866,967,2,1785459600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,866,creation_date:after_discharge,
+868,969,6,1780275600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,868,creation_date:after_discharge,
+870,971,5,1776819600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,870,creation_date:after_discharge,
+871,972,1,1788224400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,871,creation_date:after_discharge,
+872,973,12,1786928400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,872,creation_date:after_discharge,
+877,982,10,1788483600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,877,creation_date:after_discharge,
+879,986,7,1778893200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,879,creation_date:after_discharge,
+881,988,7,1780534800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,881,creation_date:after_discharge,
+882,990,13,1780534800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,882,creation_date:after_discharge,
+886,994,8,1774486800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,886,creation_date:after_discharge,
+888,997,4,1786842000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,888,creation_date:after_discharge,
+890,999,4,1785200400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,890,creation_date:after_discharge,
+891,1000,2,1786669200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,891,creation_date:after_discharge,
+893,1003,1,1778893200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,893,creation_date:after_discharge,
+895,1005,5,1773277200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,895,creation_date:after_discharge,
+896,1006,14,1772586000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,896,creation_date:after_discharge,
+899,1009,5,1787360400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,899,creation_date:after_discharge,
+905,1016,10,1784422800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,905,creation_date:after_discharge,
+907,1018,10,1787706000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,907,creation_date:after_discharge,
+912,1023,5,1782867600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,912,creation_date:after_discharge,
+913,1024,14,1782867600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,913,creation_date:after_discharge,
+914,1026,11,1775264400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,914,creation_date:after_discharge,
+916,1029,1,1777338000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,916,creation_date:after_discharge,
+917,1032,2,1780621200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,917,creation_date:after_discharge,
+920,1036,4,1768784400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,920,creation_date:after_discharge,
+922,1038,8,1784595600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,922,creation_date:after_discharge,
+925,1041,7,1782349200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,925,creation_date:after_discharge,
+926,1042,3,1788742800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,926,creation_date:after_discharge,
+930,1046,5,1772672400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,930,creation_date:after_discharge,
+931,1047,2,1783558800,,D,clinical_note,931,creation_date:after_discharge,
+933,1049,2,1784854800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,933,creation_date:after_discharge,
+935,1051,9,1786669200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,935,creation_date:after_discharge,
+936,1052,14,1784595600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,936,creation_date:after_discharge,
+937,1054,4,1787792400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,937,creation_date:after_discharge,
+939,1056,15,1774573200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,939,creation_date:after_discharge,
+941,1058,6,1778288400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,941,creation_date:after_discharge,
+942,1059,5,1780102800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,942,creation_date:after_discharge,
+943,1060,6,1782781200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,943,creation_date:after_discharge,
+948,1065,3,1786842000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,948,creation_date:after_discharge,
+951,1068,7,1784941200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,951,creation_date:after_discharge,
+952,1070,7,1775782800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,952,creation_date:after_discharge,
+954,1072,7,1786410000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,954,creation_date:after_discharge,
+957,1075,9,1787878800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,957,creation_date:after_discharge,
+959,1077,10,1788138000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,959,creation_date:after_discharge,
+960,1078,1,1787878800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,960,creation_date:after_discharge,
+965,1083,6,1788656400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,965,creation_date:after_discharge,
+966,1084,7,1776646800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,966,creation_date:after_discharge,
+969,1087,14,1773622800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,969,creation_date:after_discharge,
+970,1088,13,1775782800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,970,creation_date:after_discharge,
+971,1090,2,1788397200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,971,creation_date:after_discharge,
+978,1098,4,1784509200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,978,creation_date:after_discharge,
+984,1105,10,1783386000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,984,creation_date:after_discharge,
+989,1110,2,1784768400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,989,creation_date:after_discharge,
+990,1111,13,1782781200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,990,creation_date:after_discharge,
+991,1112,3,1772672400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,991,creation_date:after_discharge,
+993,1114,12,1775610000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,993,creation_date:after_discharge,
+994,1115,6,1785459600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,994,creation_date:after_discharge,
+996,1117,2,1785286800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,996,creation_date:after_discharge,
+998,1119,15,1782003600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,998,creation_date:after_discharge,
+999,1120,13,1779152400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,999,creation_date:after_discharge,
+1002,1123,15,1772586000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1002,creation_date:after_discharge,
+1003,1124,15,1781658000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1003,creation_date:after_discharge,
+1005,1126,15,1787360400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1005,creation_date:after_discharge,
+1008,1129,11,1786323600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1008,creation_date:after_discharge,
+1009,1130,4,1782349200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1009,creation_date:after_discharge,
+1011,1132,3,1781398800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1011,creation_date:after_discharge,
+1017,1138,10,1782003600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1017,creation_date:after_discharge,
+1020,1142,9,1780621200,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1020,creation_date:after_discharge,
+1021,1143,13,1784250000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1021,creation_date:after_discharge,
+1022,1145,14,1783990800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1022,creation_date:after_discharge,
+1024,1147,8,1768352400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1024,creation_date:after_discharge,
+1026,1151,10,1783990800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1026,creation_date:after_discharge,
+1028,1153,15,1783818000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1028,creation_date:after_discharge,
+1029,1154,3,1777338000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1029,creation_date:after_discharge,
+1030,1155,5,1779930000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1030,creation_date:after_discharge,
+1031,1157,15,1778115600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1031,creation_date:after_discharge,
+1037,1164,14,1784595600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1037,creation_date:after_discharge,
+1039,1167,6,1787274000,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1039,creation_date:after_discharge,
+1041,1169,13,1785718800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1041,creation_date:after_discharge,
+1052,1180,15,1784336400,,D,clinical_note,1052,creation_date:after_discharge,
+1055,1185,12,1783558800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1055,creation_date:after_discharge,
+1056,1186,13,1785027600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1056,creation_date:after_discharge,
+1057,1188,9,1769475600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1057,creation_date:after_discharge,
+1061,1193,2,1776214800,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1061,creation_date:after_discharge,
+1062,1194,8,1784163600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1062,creation_date:after_discharge,
+1063,1195,11,1777251600,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1063,creation_date:after_discharge,
+1066,1199,11,1788224400,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1066,creation_date:after_discharge,

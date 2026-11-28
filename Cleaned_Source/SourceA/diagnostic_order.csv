@@ -1,0 +1,237 @@
+order_id,admission_id,patient_id,requesting_physician_id,requested_examination,request_date_time,clinical_reason_examination,priority,order_status,_source,_table,_source_row,priority_scheme,_time_basis
+1,2,603,14,MRI Brain,2026-07-22T19:45:00,Evaluate for acute pathology.,STAT,COMPLETED,A,diagnostic_order,1,LOCAL_A,LOCAL_ZONE_UNKNOWN
+2,4,733,10,Chest X-Ray,2026-07-12T02:15:00,Evaluate for acute pathology.,ROUTINE,PENDING,A,diagnostic_order,2,LOCAL_A,LOCAL_ZONE_UNKNOWN
+3,5,633,4,CT Scan - Chest,2026-04-08T13:15:00,Rule out pulmonary embolism.,ROUTINE,CANCELLED,A,diagnostic_order,3,LOCAL_A,LOCAL_ZONE_UNKNOWN
+5,11,675,14,Chest X-Ray,2026-06-06T12:30:00,Evaluate for acute pathology.,ROUTINE,COMPLETED,A,diagnostic_order,5,LOCAL_A,LOCAL_ZONE_UNKNOWN
+6,15,337,10,Abdominal Ultrasound,2026-08-13T12:45:00,Evaluate for acute pathology.,STAT,PENDING,A,diagnostic_order,6,LOCAL_A,LOCAL_ZONE_UNKNOWN
+7,18,194,7,Abdominal Ultrasound,2026-05-05T13:30:00,Evaluate for acute pathology.,ROUTINE,COMPLETED,A,diagnostic_order,7,LOCAL_A,LOCAL_ZONE_UNKNOWN
+8,20,184,14,Chest X-Ray,2026-01-29T13:45:00,Evaluate for acute pathology.,URGENT,CANCELLED,A,diagnostic_order,8,LOCAL_A,LOCAL_ZONE_UNKNOWN
+10,34,70,12,Abdominal Ultrasound,2026-08-25T20:45:00,Evaluate for acute pathology.,URGENT,CANCELLED,A,diagnostic_order,10,LOCAL_A,LOCAL_ZONE_UNKNOWN
+11,36,108,7,MRI Brain,2026-08-04T10:45:00,Evaluate for acute pathology.,ROUTINE,CANCELLED,A,diagnostic_order,11,LOCAL_A,LOCAL_ZONE_UNKNOWN
+13,55,743,13,Abdominal Ultrasound,2026-01-24T03:45:00,Evaluate for acute pathology.,URGENT,PENDING,A,diagnostic_order,13,LOCAL_A,LOCAL_ZONE_UNKNOWN
+14,58,561,12,CT Scan - Chest,2026-09-02T05:00:00,Rule out pulmonary embolism.,STAT,COMPLETED,A,diagnostic_order,14,LOCAL_A,LOCAL_ZONE_UNKNOWN
+15,64,276,7,CT Scan - Chest,2026-07-08T07:15:00,Rule out pulmonary embolism.,STAT,CANCELLED,A,diagnostic_order,15,LOCAL_A,LOCAL_ZONE_UNKNOWN
+16,71,176,4,Abdominal Ultrasound,2026-04-20T09:30:00,Evaluate for acute pathology.,ROUTINE,COMPLETED,A,diagnostic_order,16,LOCAL_A,LOCAL_ZONE_UNKNOWN
+17,72,134,7,Chest X-Ray,2026-07-18T08:45:00,Evaluate for acute pathology.,STAT,COMPLETED,A,diagnostic_order,17,LOCAL_A,LOCAL_ZONE_UNKNOWN
+18,77,200,5,Abdominal Ultrasound,2026-07-31T05:00:00,Evaluate for acute pathology.,URGENT,CANCELLED,A,diagnostic_order,18,LOCAL_A,LOCAL_ZONE_UNKNOWN
+19,84,766,4,Chest X-Ray,2026-04-03T05:00:00,Evaluate for acute pathology.,ROUTINE,PENDING,A,diagnostic_order,19,LOCAL_A,LOCAL_ZONE_UNKNOWN
+20,85,200,5,MRI Brain,2026-04-04T11:15:00,Evaluate for acute pathology.,STAT,,A,diagnostic_order,20,LOCAL_A,LOCAL_ZONE_UNKNOWN
+21,100,267,12,CT Scan - Chest,2026-03-15T08:30:00,Rule out pulmonary embolism.,STAT,CANCELLED,A,diagnostic_order,21,LOCAL_A,LOCAL_ZONE_UNKNOWN
+22,101,238,10,MRI Brain,2026-01-09T01:45:00,Evaluate for acute pathology.,URGENT,PENDING,A,diagnostic_order,22,LOCAL_A,LOCAL_ZONE_UNKNOWN
+23,104,545,9,Abdominal Ultrasound,2026-05-27T18:00:00,Evaluate for acute pathology.,STAT,COMPLETED,A,diagnostic_order,23,LOCAL_A,LOCAL_ZONE_UNKNOWN
+25,107,674,15,Abdominal Ultrasound,2026-02-01T18:15:00,Evaluate for acute pathology.,URGENT,COMPLETED,A,diagnostic_order,25,LOCAL_A,LOCAL_ZONE_UNKNOWN
+26,109,63,7,Chest X-Ray,2026-09-06T23:15:00,Evaluate for acute pathology.,ROUTINE,PENDING,A,diagnostic_order,26,LOCAL_A,LOCAL_ZONE_UNKNOWN
+27,111,622,7,Abdominal Ultrasound,2026-07-31T00:00:00,Evaluate for acute pathology.,ROUTINE,COMPLETED,A,diagnostic_order,27,LOCAL_A,LOCAL_ZONE_UNKNOWN
+28,113,724,8,MRI Brain,2026-01-07T17:15:00,Evaluate for acute pathology.,STAT,CANCELLED,A,diagnostic_order,28,LOCAL_A,LOCAL_ZONE_UNKNOWN
+31,122,26,1,CT Scan - Chest,2026-07-31T12:00:00,Rule out pulmonary embolism.,ROUTINE,CANCELLED,A,diagnostic_order,31,LOCAL_A,LOCAL_ZONE_UNKNOWN
+32,125,267,2,MRI Brain,2026-01-31T15:30:00,Evaluate for acute pathology.,URGENT,PENDING,A,diagnostic_order,32,LOCAL_A,LOCAL_ZONE_UNKNOWN
+33,130,776,6,Abdominal Ultrasound,2026-02-20T12:45:00,Evaluate for acute pathology.,URGENT,PENDING,A,diagnostic_order,33,LOCAL_A,LOCAL_ZONE_UNKNOWN
+34,137,454,2,CT Scan - Chest,2026-08-16T19:15:00,Rule out pulmonary embolism.,URGENT,CANCELLED,A,diagnostic_order,34,LOCAL_A,LOCAL_ZONE_UNKNOWN
+35,140,205,14,CT Scan - Chest,2026-02-07T22:00:00,Rule out pulmonary embolism.,URGENT,COMPLETED,A,diagnostic_order,35,LOCAL_A,LOCAL_ZONE_UNKNOWN
+36,143,335,7,MRI Brain,2026-05-05T05:30:00,Evaluate for acute pathology.,STAT,COMPLETED,A,diagnostic_order,36,LOCAL_A,LOCAL_ZONE_UNKNOWN
+37,145,781,9,MRI Brain,2026-01-08T18:15:00,Evaluate for acute pathology.,ROUTINE,PENDING,A,diagnostic_order,37,LOCAL_A,LOCAL_ZONE_UNKNOWN
+38,148,229,9,MRI Brain,2026-04-18T18:00:00,Evaluate for acute pathology.,ROUTINE,PENDING,A,diagnostic_order,38,LOCAL_A,LOCAL_ZONE_UNKNOWN
+39,154,74,8,MRI Brain,2026-09-07T22:00:00,Evaluate for acute pathology.,URGENT,PENDING,A,diagnostic_order,39,LOCAL_A,LOCAL_ZONE_UNKNOWN
+40,158,180,5,CT Scan - Chest,2026-07-04T04:45:00,Rule out pulmonary embolism.,ROUTINE,PENDING,A,diagnostic_order,40,LOCAL_A,LOCAL_ZONE_UNKNOWN
+41,159,734,15,MRI Brain,2026-07-15T22:30:00,Evaluate for acute pathology.,STAT,COMPLETED,A,diagnostic_order,41,LOCAL_A,LOCAL_ZONE_UNKNOWN
+42,160,44,12,CT Scan - Chest,2026-08-01T17:15:00,Rule out pulmonary embolism.,ROUTINE,CANCELLED,A,diagnostic_order,42,LOCAL_A,LOCAL_ZONE_UNKNOWN
+43,161,198,1,Abdominal Ultrasound,2026-07-20T21:00:00,Evaluate for acute pathology.,ROUTINE,CANCELLED,A,diagnostic_order,43,LOCAL_A,LOCAL_ZONE_UNKNOWN
+44,168,348,1,Abdominal Ultrasound,2026-04-07T18:30:00,Evaluate for acute pathology.,URGENT,COMPLETED,A,diagnostic_order,44,LOCAL_A,LOCAL_ZONE_UNKNOWN
+45,169,342,5,CT Scan - Chest,2026-02-13T03:45:00,Rule out pulmonary embolism.,URGENT,CANCELLED,A,diagnostic_order,45,LOCAL_A,LOCAL_ZONE_UNKNOWN
+46,177,402,15,Chest X-Ray,2026-02-08T16:00:00,Evaluate for acute pathology.,ROUTINE,COMPLETED,A,diagnostic_order,46,LOCAL_A,LOCAL_ZONE_UNKNOWN
+47,182,90,14,Chest X-Ray,2026-01-15T17:15:00,Evaluate for acute pathology.,ROUTINE,PENDING,A,diagnostic_order,47,LOCAL_A,LOCAL_ZONE_UNKNOWN
+48,186,214,5,MRI Brain,2026-06-17T14:45:00,Evaluate for acute pathology.,URGENT,PENDING,A,diagnostic_order,48,LOCAL_A,LOCAL_ZONE_UNKNOWN
+49,188,336,13,Chest X-Ray,2026-08-17T19:00:00,Evaluate for acute pathology.,ROUTINE,PENDING,A,diagnostic_order,49,LOCAL_A,LOCAL_ZONE_UNKNOWN
+50,190,315,9,Chest X-Ray,2026-05-03T01:45:00,Evaluate for acute pathology.,URGENT,CANCELLED,A,diagnostic_order,50,LOCAL_A,LOCAL_ZONE_UNKNOWN
+51,199,298,11,Chest X-Ray,2026-01-22T16:45:00,Evaluate for acute pathology.,URGENT,,A,diagnostic_order,51,LOCAL_A,LOCAL_ZONE_UNKNOWN
+52,201,490,8,MRI Brain,2026-07-06T01:00:00,Evaluate for acute pathology.,URGENT,PENDING,A,diagnostic_order,52,LOCAL_A,LOCAL_ZONE_UNKNOWN
+53,203,389,5,Chest X-Ray,2026-01-08T13:00:00,Evaluate for acute pathology.,URGENT,COMPLETED,A,diagnostic_order,53,LOCAL_A,LOCAL_ZONE_UNKNOWN
+54,206,765,11,MRI Brain,2026-01-12T09:15:00,Evaluate for acute pathology.,STAT,COMPLETED,A,diagnostic_order,54,LOCAL_A,LOCAL_ZONE_UNKNOWN
+55,207,175,5,Abdominal Ultrasound,2026-04-19T03:45:00,Evaluate for acute pathology.,ROUTINE,COMPLETED,A,diagnostic_order,55,LOCAL_A,LOCAL_ZONE_UNKNOWN
+56,209,154,2,MRI Brain,2026-04-26T03:15:00,Evaluate for acute pathology.,URGENT,PENDING,A,diagnostic_order,56,LOCAL_A,LOCAL_ZONE_UNKNOWN
+57,210,70,5,MRI Brain,2026-05-30T00:45:00,Evaluate for acute pathology.,URGENT,PENDING,A,diagnostic_order,57,LOCAL_A,LOCAL_ZONE_UNKNOWN
+59,215,320,12,MRI Brain,2026-08-20T21:15:00,Evaluate for acute pathology.,STAT,COMPLETED,A,diagnostic_order,59,LOCAL_A,LOCAL_ZONE_UNKNOWN
+60,222,219,3,CT Scan - Chest,2026-07-04T09:15:00,Rule out pulmonary embolism.,URGENT,COMPLETED,A,diagnostic_order,60,LOCAL_A,LOCAL_ZONE_UNKNOWN
+61,223,370,2,CT Scan - Chest,2026-08-28T12:15:00,Rule out pulmonary embolism.,URGENT,CANCELLED,A,diagnostic_order,61,LOCAL_A,LOCAL_ZONE_UNKNOWN
+62,225,43,11,Abdominal Ultrasound,2026-02-27T04:30:00,Evaluate for acute pathology.,ROUTINE,PENDING,A,diagnostic_order,62,LOCAL_A,LOCAL_ZONE_UNKNOWN
+63,228,692,12,CT Scan - Chest,2026-01-03T21:30:00,Rule out pulmonary embolism.,URGENT,COMPLETED,A,diagnostic_order,63,LOCAL_A,LOCAL_ZONE_UNKNOWN
+64,230,335,9,Abdominal Ultrasound,2026-04-25T12:45:00,Evaluate for acute pathology.,ROUTINE,COMPLETED,A,diagnostic_order,64,LOCAL_A,LOCAL_ZONE_UNKNOWN
+65,231,373,9,MRI Brain,2026-08-31T11:15:00,Evaluate for acute pathology.,ROUTINE,CANCELLED,A,diagnostic_order,65,LOCAL_A,LOCAL_ZONE_UNKNOWN
+67,238,559,15,CT Scan - Chest,2026-01-27T07:30:00,Rule out pulmonary embolism.,ROUTINE,COMPLETED,A,diagnostic_order,67,LOCAL_A,LOCAL_ZONE_UNKNOWN
+68,248,288,10,MRI Brain,2026-05-26T11:15:00,Evaluate for acute pathology.,URGENT,COMPLETED,A,diagnostic_order,68,LOCAL_A,LOCAL_ZONE_UNKNOWN
+69,258,228,5,Chest X-Ray,2026-06-13T11:00:00,Evaluate for acute pathology.,STAT,PENDING,A,diagnostic_order,69,LOCAL_A,LOCAL_ZONE_UNKNOWN
+70,260,449,5,MRI Brain,2026-03-13T14:15:00,Evaluate for acute pathology.,URGENT,CANCELLED,A,diagnostic_order,70,LOCAL_A,LOCAL_ZONE_UNKNOWN
+71,261,726,6,MRI Brain,2026-01-10T11:45:00,Evaluate for acute pathology.,URGENT,COMPLETED,A,diagnostic_order,71,LOCAL_A,LOCAL_ZONE_UNKNOWN
+72,263,475,4,CT Scan - Chest,2026-01-27T12:45:00,Rule out pulmonary embolism.,STAT,COMPLETED,A,diagnostic_order,72,LOCAL_A,LOCAL_ZONE_UNKNOWN
+73,271,750,14,Abdominal Ultrasound,2026-02-13T07:00:00,Evaluate for acute pathology.,STAT,PENDING,A,diagnostic_order,73,LOCAL_A,LOCAL_ZONE_UNKNOWN
+74,276,277,10,Chest X-Ray,2026-06-20T10:15:00,Evaluate for acute pathology.,ROUTINE,PENDING,A,diagnostic_order,74,LOCAL_A,LOCAL_ZONE_UNKNOWN
+75,283,98,11,MRI Brain,2026-04-18T06:00:00,Evaluate for acute pathology.,URGENT,COMPLETED,A,diagnostic_order,75,LOCAL_A,LOCAL_ZONE_UNKNOWN
+76,284,391,11,MRI Brain,2026-06-25T09:30:00,Evaluate for acute pathology.,URGENT,PENDING,A,diagnostic_order,76,LOCAL_A,LOCAL_ZONE_UNKNOWN
+79,290,154,15,Abdominal Ultrasound,2026-06-15T16:15:00,Evaluate for acute pathology.,STAT,PENDING,A,diagnostic_order,79,LOCAL_A,LOCAL_ZONE_UNKNOWN
+80,294,659,7,MRI Brain,2026-08-05T12:00:00,Evaluate for acute pathology.,ROUTINE,CANCELLED,A,diagnostic_order,80,LOCAL_A,LOCAL_ZONE_UNKNOWN
+81,297,9,12,MRI Brain,2026-07-12T07:00:00,Evaluate for acute pathology.,URGENT,CANCELLED,A,diagnostic_order,81,LOCAL_A,LOCAL_ZONE_UNKNOWN
+82,307,578,2,Abdominal Ultrasound,2026-07-30T01:15:00,Evaluate for acute pathology.,URGENT,PENDING,A,diagnostic_order,82,LOCAL_A,LOCAL_ZONE_UNKNOWN
+83,315,779,14,CT Scan - Chest,2026-01-07T14:45:00,Rule out pulmonary embolism.,ROUTINE,CANCELLED,A,diagnostic_order,83,LOCAL_A,LOCAL_ZONE_UNKNOWN
+84,317,31,10,MRI Brain,2026-08-19T11:45:00,Evaluate for acute pathology.,STAT,PENDING,A,diagnostic_order,84,LOCAL_A,LOCAL_ZONE_UNKNOWN
+85,320,143,4,CT Scan - Chest,2026-01-08T16:45:00,Rule out pulmonary embolism.,ROUTINE,PENDING,A,diagnostic_order,85,LOCAL_A,LOCAL_ZONE_UNKNOWN
+86,322,578,5,CT Scan - Chest,2026-01-28T10:45:00,Rule out pulmonary embolism.,ROUTINE,COMPLETED,A,diagnostic_order,86,LOCAL_A,LOCAL_ZONE_UNKNOWN
+87,325,709,10,CT Scan - Chest,2026-01-12T21:30:00,Rule out pulmonary embolism.,STAT,COMPLETED,A,diagnostic_order,87,LOCAL_A,LOCAL_ZONE_UNKNOWN
+88,326,467,9,CT Scan - Chest,2026-06-03T23:15:00,Rule out pulmonary embolism.,STAT,CANCELLED,A,diagnostic_order,88,LOCAL_A,LOCAL_ZONE_UNKNOWN
+89,329,383,1,Chest X-Ray,2026-06-23T11:00:00,Evaluate for acute pathology.,STAT,COMPLETED,A,diagnostic_order,89,LOCAL_A,LOCAL_ZONE_UNKNOWN
+90,330,753,11,Chest X-Ray,2026-02-16T14:15:00,Evaluate for acute pathology.,URGENT,COMPLETED,A,diagnostic_order,90,LOCAL_A,LOCAL_ZONE_UNKNOWN
+91,331,116,1,Chest X-Ray,2026-04-25T10:00:00,Evaluate for acute pathology.,ROUTINE,CANCELLED,A,diagnostic_order,91,LOCAL_A,LOCAL_ZONE_UNKNOWN
+92,334,613,15,CT Scan - Chest,2026-06-19T21:15:00,Rule out pulmonary embolism.,ROUTINE,PENDING,A,diagnostic_order,92,LOCAL_A,LOCAL_ZONE_UNKNOWN
+93,338,554,1,Chest X-Ray,2026-04-07T16:45:00,Evaluate for acute pathology.,STAT,COMPLETED,A,diagnostic_order,93,LOCAL_A,LOCAL_ZONE_UNKNOWN
+94,340,747,14,CT Scan - Chest,2026-01-13T04:00:00,Rule out pulmonary embolism.,ROUTINE,COMPLETED,A,diagnostic_order,94,LOCAL_A,LOCAL_ZONE_UNKNOWN
+95,350,376,2,CT Scan - Chest,2026-07-20T20:45:00,Rule out pulmonary embolism.,ROUTINE,PENDING,A,diagnostic_order,95,LOCAL_A,LOCAL_ZONE_UNKNOWN
+96,353,413,13,Abdominal Ultrasound,2026-07-06T22:30:00,Evaluate for acute pathology.,URGENT,COMPLETED,A,diagnostic_order,96,LOCAL_A,LOCAL_ZONE_UNKNOWN
+97,361,144,10,Chest X-Ray,2026-09-09T03:00:00,Evaluate for acute pathology.,ROUTINE,PENDING,A,diagnostic_order,97,LOCAL_A,LOCAL_ZONE_UNKNOWN
+98,367,104,10,Chest X-Ray,2026-07-10T03:30:00,Evaluate for acute pathology.,URGENT,COMPLETED,A,diagnostic_order,98,LOCAL_A,LOCAL_ZONE_UNKNOWN
+99,369,531,7,MRI Brain,2026-03-22T23:30:00,Evaluate for acute pathology.,URGENT,PENDING,A,diagnostic_order,99,LOCAL_A,LOCAL_ZONE_UNKNOWN
+100,373,617,5,Abdominal Ultrasound,2026-07-03T05:15:00,Evaluate for acute pathology.,STAT,PENDING,A,diagnostic_order,100,LOCAL_A,LOCAL_ZONE_UNKNOWN
+102,392,174,2,MRI Brain,2026-06-28T20:45:00,Evaluate for acute pathology.,URGENT,COMPLETED,A,diagnostic_order,102,LOCAL_A,LOCAL_ZONE_UNKNOWN
+103,393,537,1,MRI Brain,2026-04-08T10:00:00,Evaluate for acute pathology.,STAT,CANCELLED,A,diagnostic_order,103,LOCAL_A,LOCAL_ZONE_UNKNOWN
+105,395,610,2,Abdominal Ultrasound,2026-08-10T02:45:00,Evaluate for acute pathology.,ROUTINE,COMPLETED,A,diagnostic_order,105,LOCAL_A,LOCAL_ZONE_UNKNOWN
+106,403,678,13,Chest X-Ray,2026-05-15T05:00:00,Evaluate for acute pathology.,URGENT,PENDING,A,diagnostic_order,106,LOCAL_A,LOCAL_ZONE_UNKNOWN
+107,405,349,1,Chest X-Ray,2026-02-03T06:15:00,Evaluate for acute pathology.,ROUTINE,COMPLETED,A,diagnostic_order,107,LOCAL_A,LOCAL_ZONE_UNKNOWN
+108,406,134,14,Chest X-Ray,2026-02-01T02:30:00,Evaluate for acute pathology.,ROUTINE,CANCELLED,A,diagnostic_order,108,LOCAL_A,LOCAL_ZONE_UNKNOWN
+109,411,749,4,CT Scan - Chest,2026-05-24T15:00:00,Rule out pulmonary embolism.,URGENT,PENDING,A,diagnostic_order,109,LOCAL_A,LOCAL_ZONE_UNKNOWN
+110,422,158,8,Abdominal Ultrasound,2026-09-01T21:30:00,Evaluate for acute pathology.,STAT,PENDING,A,diagnostic_order,110,LOCAL_A,LOCAL_ZONE_UNKNOWN
+111,423,556,10,CT Scan - Chest,2026-03-30T15:45:00,Rule out pulmonary embolism.,ROUTINE,PENDING,A,diagnostic_order,111,LOCAL_A,LOCAL_ZONE_UNKNOWN
+112,424,209,8,CT Scan - Chest,2026-05-27T21:30:00,Rule out pulmonary embolism.,ROUTINE,CANCELLED,A,diagnostic_order,112,LOCAL_A,LOCAL_ZONE_UNKNOWN
+113,428,720,12,Chest X-Ray,2026-03-22T00:45:00,Evaluate for acute pathology.,STAT,CANCELLED,A,diagnostic_order,113,LOCAL_A,LOCAL_ZONE_UNKNOWN
+115,434,300,13,Abdominal Ultrasound,2026-02-21T06:45:00,Evaluate for acute pathology.,URGENT,PENDING,A,diagnostic_order,115,LOCAL_A,LOCAL_ZONE_UNKNOWN
+116,439,537,3,Chest X-Ray,2026-07-08T18:15:00,Evaluate for acute pathology.,ROUTINE,CANCELLED,A,diagnostic_order,116,LOCAL_A,LOCAL_ZONE_UNKNOWN
+117,454,612,6,Abdominal Ultrasound,2026-07-21T14:30:00,Evaluate for acute pathology.,STAT,CANCELLED,A,diagnostic_order,117,LOCAL_A,LOCAL_ZONE_UNKNOWN
+118,455,745,5,MRI Brain,2026-03-23T17:30:00,Evaluate for acute pathology.,URGENT,CANCELLED,A,diagnostic_order,118,LOCAL_A,LOCAL_ZONE_UNKNOWN
+119,459,685,5,Chest X-Ray,2026-03-18T13:45:00,Evaluate for acute pathology.,ROUTINE,CANCELLED,A,diagnostic_order,119,LOCAL_A,LOCAL_ZONE_UNKNOWN
+120,463,591,3,Abdominal Ultrasound,2026-06-04T02:45:00,Evaluate for acute pathology.,STAT,CANCELLED,A,diagnostic_order,120,LOCAL_A,LOCAL_ZONE_UNKNOWN
+122,482,206,5,Abdominal Ultrasound,2026-05-19T22:30:00,Evaluate for acute pathology.,STAT,PENDING,A,diagnostic_order,122,LOCAL_A,LOCAL_ZONE_UNKNOWN
+123,483,26,14,Chest X-Ray,2026-03-27T14:15:00,Evaluate for acute pathology.,URGENT,COMPLETED,A,diagnostic_order,123,LOCAL_A,LOCAL_ZONE_UNKNOWN
+124,487,491,15,MRI Brain,2026-08-12T00:30:00,Evaluate for acute pathology.,STAT,COMPLETED,A,diagnostic_order,124,LOCAL_A,LOCAL_ZONE_UNKNOWN
+125,494,136,12,MRI Brain,2026-02-15T15:15:00,Evaluate for acute pathology.,URGENT,CANCELLED,A,diagnostic_order,125,LOCAL_A,LOCAL_ZONE_UNKNOWN
+126,501,683,3,Abdominal Ultrasound,2026-07-17T15:30:00,Evaluate for acute pathology.,STAT,PENDING,A,diagnostic_order,126,LOCAL_A,LOCAL_ZONE_UNKNOWN
+127,503,188,7,MRI Brain,2026-08-31T02:45:00,Evaluate for acute pathology.,URGENT,COMPLETED,A,diagnostic_order,127,LOCAL_A,LOCAL_ZONE_UNKNOWN
+128,505,471,12,Abdominal Ultrasound,2026-08-09T14:00:00,Evaluate for acute pathology.,URGENT,COMPLETED,A,diagnostic_order,128,LOCAL_A,LOCAL_ZONE_UNKNOWN
+129,506,243,6,MRI Brain,2026-05-19T06:00:00,Evaluate for acute pathology.,ROUTINE,CANCELLED,A,diagnostic_order,129,LOCAL_A,LOCAL_ZONE_UNKNOWN
+130,509,763,9,CT Scan - Chest,2026-06-01T04:30:00,Rule out pulmonary embolism.,ROUTINE,PENDING,A,diagnostic_order,130,LOCAL_A,LOCAL_ZONE_UNKNOWN
+131,514,420,5,MRI Brain,2026-03-10T03:00:00,Evaluate for acute pathology.,URGENT,COMPLETED,A,diagnostic_order,131,LOCAL_A,LOCAL_ZONE_UNKNOWN
+132,526,552,8,Abdominal Ultrasound,2026-01-27T03:45:00,Evaluate for acute pathology.,STAT,CANCELLED,A,diagnostic_order,132,LOCAL_A,LOCAL_ZONE_UNKNOWN
+133,535,800,12,CT Scan - Chest,2026-08-17T19:00:00,Rule out pulmonary embolism.,URGENT,COMPLETED,A,diagnostic_order,133,LOCAL_A,LOCAL_ZONE_UNKNOWN
+134,537,14,6,CT Scan - Chest,2026-02-27T03:45:00,Rule out pulmonary embolism.,ROUTINE,PENDING,A,diagnostic_order,134,LOCAL_A,LOCAL_ZONE_UNKNOWN
+135,550,53,7,CT Scan - Chest,2026-06-27T08:30:00,Rule out pulmonary embolism.,ROUTINE,COMPLETED,A,diagnostic_order,135,LOCAL_A,LOCAL_ZONE_UNKNOWN
+136,555,10,4,CT Scan - Chest,2026-05-17T09:15:00,Rule out pulmonary embolism.,ROUTINE,CANCELLED,A,diagnostic_order,136,LOCAL_A,LOCAL_ZONE_UNKNOWN
+138,566,761,6,Chest X-Ray,2026-05-14T18:30:00,Evaluate for acute pathology.,STAT,CANCELLED,A,diagnostic_order,138,LOCAL_A,LOCAL_ZONE_UNKNOWN
+139,571,667,2,MRI Brain,2026-06-21T10:15:00,Evaluate for acute pathology.,ROUTINE,PENDING,A,diagnostic_order,139,LOCAL_A,LOCAL_ZONE_UNKNOWN
+140,573,388,1,MRI Brain,2026-05-19T15:00:00,Evaluate for acute pathology.,ROUTINE,COMPLETED,A,diagnostic_order,140,LOCAL_A,LOCAL_ZONE_UNKNOWN
+141,586,37,8,Chest X-Ray,2026-01-12T06:00:00,Evaluate for acute pathology.,ROUTINE,COMPLETED,A,diagnostic_order,141,LOCAL_A,LOCAL_ZONE_UNKNOWN
+142,588,350,10,CT Scan - Chest,2026-02-01T20:15:00,Rule out pulmonary embolism.,STAT,PENDING,A,diagnostic_order,142,LOCAL_A,LOCAL_ZONE_UNKNOWN
+143,590,231,11,Chest X-Ray,2026-05-27T00:15:00,Evaluate for acute pathology.,ROUTINE,CANCELLED,A,diagnostic_order,143,LOCAL_A,LOCAL_ZONE_UNKNOWN
+144,592,29,6,CT Scan - Chest,2026-01-28T21:00:00,Rule out pulmonary embolism.,URGENT,PENDING,A,diagnostic_order,144,LOCAL_A,LOCAL_ZONE_UNKNOWN
+145,593,310,8,Abdominal Ultrasound,2026-08-11T02:45:00,Evaluate for acute pathology.,ROUTINE,CANCELLED,A,diagnostic_order,145,LOCAL_A,LOCAL_ZONE_UNKNOWN
+146,599,389,12,Chest X-Ray,2026-07-05T11:00:00,Evaluate for acute pathology.,STAT,COMPLETED,A,diagnostic_order,146,LOCAL_A,LOCAL_ZONE_UNKNOWN
+147,609,789,14,CT Scan - Chest,2026-01-26T03:30:00,Rule out pulmonary embolism.,URGENT,PENDING,A,diagnostic_order,147,LOCAL_A,LOCAL_ZONE_UNKNOWN
+148,618,120,4,Chest X-Ray,2026-07-21T02:00:00,Evaluate for acute pathology.,URGENT,COMPLETED,A,diagnostic_order,148,LOCAL_A,LOCAL_ZONE_UNKNOWN
+150,632,480,2,CT Scan - Chest,2026-01-28T11:00:00,Rule out pulmonary embolism.,STAT,COMPLETED,A,diagnostic_order,150,LOCAL_A,LOCAL_ZONE_UNKNOWN
+151,633,516,10,Chest X-Ray,2026-07-15T23:15:00,Evaluate for acute pathology.,STAT,PENDING,A,diagnostic_order,151,LOCAL_A,LOCAL_ZONE_UNKNOWN
+153,643,49,4,Chest X-Ray,2026-05-27T04:45:00,Evaluate for acute pathology.,STAT,PENDING,A,diagnostic_order,153,LOCAL_A,LOCAL_ZONE_UNKNOWN
+154,648,142,15,CT Scan - Chest,2026-06-13T20:00:00,Rule out pulmonary embolism.,URGENT,PENDING,A,diagnostic_order,154,LOCAL_A,LOCAL_ZONE_UNKNOWN
+155,649,738,10,MRI Brain,2026-06-03T18:15:00,Evaluate for acute pathology.,STAT,PENDING,A,diagnostic_order,155,LOCAL_A,LOCAL_ZONE_UNKNOWN
+156,650,320,15,MRI Brain,2026-08-17T07:30:00,Evaluate for acute pathology.,ROUTINE,CANCELLED,A,diagnostic_order,156,LOCAL_A,LOCAL_ZONE_UNKNOWN
+157,651,622,11,CT Scan - Chest,2026-01-18T23:15:00,Rule out pulmonary embolism.,ROUTINE,PENDING,A,diagnostic_order,157,LOCAL_A,LOCAL_ZONE_UNKNOWN
+158,657,60,8,MRI Brain,2026-07-08T19:00:00,Evaluate for acute pathology.,ROUTINE,COMPLETED,A,diagnostic_order,158,LOCAL_A,LOCAL_ZONE_UNKNOWN
+159,659,7,2,CT Scan - Chest,2026-04-12T01:15:00,Rule out pulmonary embolism.,URGENT,CANCELLED,A,diagnostic_order,159,LOCAL_A,LOCAL_ZONE_UNKNOWN
+161,666,512,10,Abdominal Ultrasound,2026-07-14T23:30:00,Evaluate for acute pathology.,STAT,COMPLETED,A,diagnostic_order,161,LOCAL_A,LOCAL_ZONE_UNKNOWN
+164,673,545,11,Abdominal Ultrasound,2026-08-15T02:45:00,Evaluate for acute pathology.,URGENT,COMPLETED,A,diagnostic_order,164,LOCAL_A,LOCAL_ZONE_UNKNOWN
+165,676,135,11,MRI Brain,2026-03-30T06:15:00,Evaluate for acute pathology.,ROUTINE,CANCELLED,A,diagnostic_order,165,LOCAL_A,LOCAL_ZONE_UNKNOWN
+166,681,432,14,Chest X-Ray,2026-07-27T15:00:00,Evaluate for acute pathology.,ROUTINE,COMPLETED,A,diagnostic_order,166,LOCAL_A,LOCAL_ZONE_UNKNOWN
+168,686,225,3,Abdominal Ultrasound,2026-05-12T20:15:00,Evaluate for acute pathology.,ROUTINE,PENDING,A,diagnostic_order,168,LOCAL_A,LOCAL_ZONE_UNKNOWN
+169,687,2,1,Abdominal Ultrasound,2026-05-08T22:45:00,Evaluate for acute pathology.,STAT,COMPLETED,A,diagnostic_order,169,LOCAL_A,LOCAL_ZONE_UNKNOWN
+171,689,800,11,CT Scan - Chest,2026-05-30T12:45:00,Rule out pulmonary embolism.,URGENT,PENDING,A,diagnostic_order,171,LOCAL_A,LOCAL_ZONE_UNKNOWN
+172,692,344,4,Chest X-Ray,2026-02-15T04:45:00,Evaluate for acute pathology.,STAT,CANCELLED,A,diagnostic_order,172,LOCAL_A,LOCAL_ZONE_UNKNOWN
+173,697,134,4,MRI Brain,2026-06-08T01:30:00,Evaluate for acute pathology.,STAT,COMPLETED,A,diagnostic_order,173,LOCAL_A,LOCAL_ZONE_UNKNOWN
+175,702,395,10,Chest X-Ray,2026-01-02T04:45:00,Evaluate for acute pathology.,URGENT,PENDING,A,diagnostic_order,175,LOCAL_A,LOCAL_ZONE_UNKNOWN
+177,710,308,6,MRI Brain,2026-04-17T08:45:00,Evaluate for acute pathology.,ROUTINE,CANCELLED,A,diagnostic_order,177,LOCAL_A,LOCAL_ZONE_UNKNOWN
+178,721,477,10,MRI Brain,2026-07-15T06:45:00,Evaluate for acute pathology.,ROUTINE,PENDING,A,diagnostic_order,178,LOCAL_A,LOCAL_ZONE_UNKNOWN
+179,727,431,10,MRI Brain,2026-07-21T22:00:00,Evaluate for acute pathology.,URGENT,PENDING,A,diagnostic_order,179,LOCAL_A,LOCAL_ZONE_UNKNOWN
+182,742,682,9,CT Scan - Chest,2026-03-30T00:15:00,Rule out pulmonary embolism.,STAT,PENDING,A,diagnostic_order,182,LOCAL_A,LOCAL_ZONE_UNKNOWN
+183,770,475,12,Chest X-Ray,2026-05-03T19:45:00,Evaluate for acute pathology.,ROUTINE,CANCELLED,A,diagnostic_order,183,LOCAL_A,LOCAL_ZONE_UNKNOWN
+184,776,629,9,CT Scan - Chest,2026-08-29T10:15:00,Rule out pulmonary embolism.,URGENT,COMPLETED,A,diagnostic_order,184,LOCAL_A,LOCAL_ZONE_UNKNOWN
+185,779,558,11,Chest X-Ray,2026-07-29T08:00:00,Evaluate for acute pathology.,URGENT,CANCELLED,A,diagnostic_order,185,LOCAL_A,LOCAL_ZONE_UNKNOWN
+186,785,278,13,Abdominal Ultrasound,2026-02-14T18:00:00,Evaluate for acute pathology.,ROUTINE,CANCELLED,A,diagnostic_order,186,LOCAL_A,LOCAL_ZONE_UNKNOWN
+188,791,133,15,MRI Brain,2026-08-22T00:30:00,Evaluate for acute pathology.,URGENT,COMPLETED,A,diagnostic_order,188,LOCAL_A,LOCAL_ZONE_UNKNOWN
+189,797,478,7,Abdominal Ultrasound,2026-02-07T15:30:00,Evaluate for acute pathology.,STAT,PENDING,A,diagnostic_order,189,LOCAL_A,LOCAL_ZONE_UNKNOWN
+191,814,394,8,Abdominal Ultrasound,2026-06-04T20:15:00,Evaluate for acute pathology.,URGENT,CANCELLED,A,diagnostic_order,191,LOCAL_A,LOCAL_ZONE_UNKNOWN
+192,830,786,11,CT Scan - Chest,2026-01-09T06:45:00,Rule out pulmonary embolism.,ROUTINE,COMPLETED,A,diagnostic_order,192,LOCAL_A,LOCAL_ZONE_UNKNOWN
+193,831,441,4,CT Scan - Chest,2026-04-30T17:45:00,Rule out pulmonary embolism.,STAT,CANCELLED,A,diagnostic_order,193,LOCAL_A,LOCAL_ZONE_UNKNOWN
+194,839,169,1,Abdominal Ultrasound,2026-08-19T20:00:00,Evaluate for acute pathology.,STAT,COMPLETED,A,diagnostic_order,194,LOCAL_A,LOCAL_ZONE_UNKNOWN
+195,843,341,2,Chest X-Ray,2026-05-30T08:00:00,Evaluate for acute pathology.,URGENT,CANCELLED,A,diagnostic_order,195,LOCAL_A,LOCAL_ZONE_UNKNOWN
+197,848,620,9,MRI Brain,2026-01-01T15:15:00,Evaluate for acute pathology.,ROUTINE,COMPLETED,A,diagnostic_order,197,LOCAL_A,LOCAL_ZONE_UNKNOWN
+198,851,783,13,Chest X-Ray,2026-07-14T00:45:00,Evaluate for acute pathology.,ROUTINE,COMPLETED,A,diagnostic_order,198,LOCAL_A,LOCAL_ZONE_UNKNOWN
+199,856,122,11,CT Scan - Chest,2026-04-26T11:30:00,Rule out pulmonary embolism.,URGENT,CANCELLED,A,diagnostic_order,199,LOCAL_A,LOCAL_ZONE_UNKNOWN
+200,860,133,8,Chest X-Ray,2026-07-27T00:45:00,Evaluate for acute pathology.,URGENT,CANCELLED,A,diagnostic_order,200,LOCAL_A,LOCAL_ZONE_UNKNOWN
+201,864,217,11,CT Scan - Chest,2026-06-28T15:45:00,Rule out pulmonary embolism.,ROUTINE,PENDING,A,diagnostic_order,201,LOCAL_A,LOCAL_ZONE_UNKNOWN
+202,876,391,5,CT Scan - Chest,2026-05-25T18:00:00,Rule out pulmonary embolism.,ROUTINE,CANCELLED,A,diagnostic_order,202,LOCAL_A,LOCAL_ZONE_UNKNOWN
+203,891,603,6,Abdominal Ultrasound,2026-01-23T14:30:00,Evaluate for acute pathology.,URGENT,COMPLETED,A,diagnostic_order,203,LOCAL_A,LOCAL_ZONE_UNKNOWN
+204,893,392,8,CT Scan - Chest,2026-01-05T12:45:00,Rule out pulmonary embolism.,ROUTINE,CANCELLED,A,diagnostic_order,204,LOCAL_A,LOCAL_ZONE_UNKNOWN
+205,895,85,3,MRI Brain,2026-04-22T23:45:00,Evaluate for acute pathology.,STAT,CANCELLED,A,diagnostic_order,205,LOCAL_A,LOCAL_ZONE_UNKNOWN
+206,904,609,12,MRI Brain,2026-08-04T08:30:00,Evaluate for acute pathology.,URGENT,PENDING,A,diagnostic_order,206,LOCAL_A,LOCAL_ZONE_UNKNOWN
+207,908,396,6,CT Scan - Chest,2026-03-12T23:15:00,Rule out pulmonary embolism.,ROUTINE,CANCELLED,A,diagnostic_order,207,LOCAL_A,LOCAL_ZONE_UNKNOWN
+208,911,242,12,CT Scan - Chest,2026-09-05T01:45:00,Rule out pulmonary embolism.,ROUTINE,COMPLETED,A,diagnostic_order,208,LOCAL_A,LOCAL_ZONE_UNKNOWN
+209,916,296,10,Abdominal Ultrasound,2026-04-27T13:00:00,Evaluate for acute pathology.,ROUTINE,CANCELLED,A,diagnostic_order,209,LOCAL_A,LOCAL_ZONE_UNKNOWN
+210,917,361,6,Chest X-Ray,2026-07-07T02:30:00,Evaluate for acute pathology.,URGENT,PENDING,A,diagnostic_order,210,LOCAL_A,LOCAL_ZONE_UNKNOWN
+211,919,666,4,Abdominal Ultrasound,2026-04-17T00:00:00,Evaluate for acute pathology.,ROUTINE,PENDING,A,diagnostic_order,211,LOCAL_A,LOCAL_ZONE_UNKNOWN
+212,922,279,8,Chest X-Ray,2026-04-14T21:15:00,Evaluate for acute pathology.,STAT,COMPLETED,A,diagnostic_order,212,LOCAL_A,LOCAL_ZONE_UNKNOWN
+213,924,179,11,MRI Brain,2026-07-02T23:30:00,Evaluate for acute pathology.,STAT,CANCELLED,A,diagnostic_order,213,LOCAL_A,LOCAL_ZONE_UNKNOWN
+215,930,242,4,CT Scan - Chest,2026-03-18T08:45:00,Rule out pulmonary embolism.,STAT,PENDING,A,diagnostic_order,215,LOCAL_A,LOCAL_ZONE_UNKNOWN
+216,936,6,14,Abdominal Ultrasound,2026-06-09T22:45:00,Evaluate for acute pathology.,URGENT,PENDING,A,diagnostic_order,216,LOCAL_A,LOCAL_ZONE_UNKNOWN
+217,937,343,10,CT Scan - Chest,2026-03-31T10:15:00,Rule out pulmonary embolism.,STAT,CANCELLED,A,diagnostic_order,217,LOCAL_A,LOCAL_ZONE_UNKNOWN
+218,941,653,6,MRI Brain,2026-07-11T17:45:00,Evaluate for acute pathology.,STAT,PENDING,A,diagnostic_order,218,LOCAL_A,LOCAL_ZONE_UNKNOWN
+219,942,675,8,Abdominal Ultrasound,2026-03-27T05:00:00,Evaluate for acute pathology.,ROUTINE,CANCELLED,A,diagnostic_order,219,LOCAL_A,LOCAL_ZONE_UNKNOWN
+220,945,300,12,CT Scan - Chest,2026-05-18T05:45:00,Rule out pulmonary embolism.,STAT,CANCELLED,A,diagnostic_order,220,LOCAL_A,LOCAL_ZONE_UNKNOWN
+221,946,289,9,CT Scan - Chest,2026-07-21T15:00:00,Rule out pulmonary embolism.,STAT,COMPLETED,A,diagnostic_order,221,LOCAL_A,LOCAL_ZONE_UNKNOWN
+222,947,520,13,Chest X-Ray,2026-01-10T06:45:00,Evaluate for acute pathology.,STAT,PENDING,A,diagnostic_order,222,LOCAL_A,LOCAL_ZONE_UNKNOWN
+223,956,279,5,Abdominal Ultrasound,2026-05-19T21:45:00,Evaluate for acute pathology.,URGENT,COMPLETED,A,diagnostic_order,223,LOCAL_A,LOCAL_ZONE_UNKNOWN
+224,960,52,12,CT Scan - Chest,2026-02-16T21:45:00,Rule out pulmonary embolism.,STAT,COMPLETED,A,diagnostic_order,224,LOCAL_A,LOCAL_ZONE_UNKNOWN
+225,961,371,11,MRI Brain,2026-04-02T22:45:00,Evaluate for acute pathology.,STAT,COMPLETED,A,diagnostic_order,225,LOCAL_A,LOCAL_ZONE_UNKNOWN
+226,974,766,12,CT Scan - Chest,2026-03-08T09:45:00,Rule out pulmonary embolism.,STAT,CANCELLED,A,diagnostic_order,226,LOCAL_A,LOCAL_ZONE_UNKNOWN
+227,981,62,10,Abdominal Ultrasound,2026-03-08T21:45:00,Evaluate for acute pathology.,ROUTINE,PENDING,A,diagnostic_order,227,LOCAL_A,LOCAL_ZONE_UNKNOWN
+228,985,340,15,Chest X-Ray,2026-03-02T08:45:00,Evaluate for acute pathology.,ROUTINE,CANCELLED,A,diagnostic_order,228,LOCAL_A,LOCAL_ZONE_UNKNOWN
+229,987,256,5,Chest X-Ray,2026-08-27T21:30:00,Evaluate for acute pathology.,URGENT,PENDING,A,diagnostic_order,229,LOCAL_A,LOCAL_ZONE_UNKNOWN
+231,1000,551,10,CT Scan - Chest,2026-08-20T19:00:00,Rule out pulmonary embolism.,STAT,COMPLETED,A,diagnostic_order,231,LOCAL_A,LOCAL_ZONE_UNKNOWN
+232,1004,204,15,Chest X-Ray,2026-04-18T01:45:00,Evaluate for acute pathology.,ROUTINE,PENDING,A,diagnostic_order,232,LOCAL_A,LOCAL_ZONE_UNKNOWN
+234,1020,395,4,CT Scan - Chest,2026-02-23T15:45:00,Rule out pulmonary embolism.,URGENT,COMPLETED,A,diagnostic_order,234,LOCAL_A,LOCAL_ZONE_UNKNOWN
+235,1023,776,1,CT Scan - Chest,2026-08-15T12:45:00,Rule out pulmonary embolism.,ROUTINE,PENDING,A,diagnostic_order,235,LOCAL_A,LOCAL_ZONE_UNKNOWN
+236,1027,624,15,CT Scan - Chest,2026-03-28T09:30:00,Rule out pulmonary embolism.,STAT,CANCELLED,A,diagnostic_order,236,LOCAL_A,LOCAL_ZONE_UNKNOWN
+237,1033,629,1,MRI Brain,2026-08-08T07:00:00,Evaluate for acute pathology.,URGENT,,A,diagnostic_order,237,LOCAL_A,LOCAL_ZONE_UNKNOWN
+238,1036,633,9,Abdominal Ultrasound,2026-06-16T23:45:00,Evaluate for acute pathology.,ROUTINE,PENDING,A,diagnostic_order,238,LOCAL_A,LOCAL_ZONE_UNKNOWN
+239,1039,781,3,Chest X-Ray,2026-08-05T13:30:00,Evaluate for acute pathology.,ROUTINE,COMPLETED,A,diagnostic_order,239,LOCAL_A,LOCAL_ZONE_UNKNOWN
+240,1046,248,11,Abdominal Ultrasound,2026-05-11T01:45:00,Evaluate for acute pathology.,ROUTINE,PENDING,A,diagnostic_order,240,LOCAL_A,LOCAL_ZONE_UNKNOWN
+241,1048,769,12,Abdominal Ultrasound,2026-07-23T16:45:00,Evaluate for acute pathology.,ROUTINE,PENDING,A,diagnostic_order,241,LOCAL_A,LOCAL_ZONE_UNKNOWN
+242,1057,427,10,CT Scan - Chest,2026-06-09T08:00:00,Rule out pulmonary embolism.,STAT,PENDING,A,diagnostic_order,242,LOCAL_A,LOCAL_ZONE_UNKNOWN
+243,1059,734,13,Chest X-Ray,2026-02-08T10:15:00,Evaluate for acute pathology.,ROUTINE,CANCELLED,A,diagnostic_order,243,LOCAL_A,LOCAL_ZONE_UNKNOWN
+244,1060,690,6,MRI Brain,2026-07-03T09:15:00,Evaluate for acute pathology.,URGENT,CANCELLED,A,diagnostic_order,244,LOCAL_A,LOCAL_ZONE_UNKNOWN
+246,1070,93,5,Chest X-Ray,2026-04-03T17:45:00,Evaluate for acute pathology.,ROUTINE,CANCELLED,A,diagnostic_order,246,LOCAL_A,LOCAL_ZONE_UNKNOWN
+247,1072,379,1,CT Scan - Chest,2026-07-22T10:15:00,Rule out pulmonary embolism.,STAT,CANCELLED,A,diagnostic_order,247,LOCAL_A,LOCAL_ZONE_UNKNOWN
+248,1077,324,14,MRI Brain,2026-08-04T08:15:00,Evaluate for acute pathology.,ROUTINE,CANCELLED,A,diagnostic_order,248,LOCAL_A,LOCAL_ZONE_UNKNOWN
+249,1090,688,3,MRI Brain,2026-04-21T09:45:00,Evaluate for acute pathology.,ROUTINE,PENDING,A,diagnostic_order,249,LOCAL_A,LOCAL_ZONE_UNKNOWN
+250,1094,349,4,CT Scan - Chest,2026-05-08T00:15:00,Rule out pulmonary embolism.,URGENT,COMPLETED,A,diagnostic_order,250,LOCAL_A,LOCAL_ZONE_UNKNOWN
+251,1097,339,14,MRI Brain,2026-04-17T20:45:00,Evaluate for acute pathology.,STAT,COMPLETED,A,diagnostic_order,251,LOCAL_A,LOCAL_ZONE_UNKNOWN
+252,1107,496,11,CT Scan - Chest,2026-01-11T21:45:00,Rule out pulmonary embolism.,ROUTINE,CANCELLED,A,diagnostic_order,252,LOCAL_A,LOCAL_ZONE_UNKNOWN
+253,1109,52,8,MRI Brain,2026-01-06T13:30:00,Evaluate for acute pathology.,URGENT,COMPLETED,A,diagnostic_order,253,LOCAL_A,LOCAL_ZONE_UNKNOWN
+256,1122,659,9,Abdominal Ultrasound,2026-01-10T09:30:00,Evaluate for acute pathology.,STAT,COMPLETED,A,diagnostic_order,256,LOCAL_A,LOCAL_ZONE_UNKNOWN
+258,1126,415,13,Chest X-Ray,2026-04-17T10:00:00,Evaluate for acute pathology.,STAT,PENDING,A,diagnostic_order,258,LOCAL_A,LOCAL_ZONE_UNKNOWN
+261,1141,37,11,MRI Brain,2026-01-09T01:30:00,Evaluate for acute pathology.,STAT,CANCELLED,A,diagnostic_order,261,LOCAL_A,LOCAL_ZONE_UNKNOWN
+263,1143,165,14,MRI Brain,2026-06-13T13:00:00,Evaluate for acute pathology.,STAT,COMPLETED,A,diagnostic_order,263,LOCAL_A,LOCAL_ZONE_UNKNOWN
+264,1155,618,15,MRI Brain,2026-04-17T05:45:00,Evaluate for acute pathology.,URGENT,COMPLETED,A,diagnostic_order,264,LOCAL_A,LOCAL_ZONE_UNKNOWN
+265,1161,764,1,MRI Brain,2026-06-26T09:00:00,Evaluate for acute pathology.,URGENT,COMPLETED,A,diagnostic_order,265,LOCAL_A,LOCAL_ZONE_UNKNOWN
+266,1162,485,1,Abdominal Ultrasound,2026-07-24T21:00:00,Evaluate for acute pathology.,STAT,PENDING,A,diagnostic_order,266,LOCAL_A,LOCAL_ZONE_UNKNOWN
+267,1167,508,13,CT Scan - Chest,2026-09-05T04:45:00,Rule out pulmonary embolism.,ROUTINE,CANCELLED,A,diagnostic_order,267,LOCAL_A,LOCAL_ZONE_UNKNOWN
+268,1168,251,3,MRI Brain,2026-07-07T04:15:00,Evaluate for acute pathology.,STAT,CANCELLED,A,diagnostic_order,268,LOCAL_A,LOCAL_ZONE_UNKNOWN
+269,1175,216,11,Abdominal Ultrasound,2026-01-22T21:45:00,Evaluate for acute pathology.,ROUTINE,COMPLETED,A,diagnostic_order,269,LOCAL_A,LOCAL_ZONE_UNKNOWN
+270,1182,638,10,CT Scan - Chest,2026-08-04T20:15:00,Rule out pulmonary embolism.,ROUTINE,PENDING,A,diagnostic_order,270,LOCAL_A,LOCAL_ZONE_UNKNOWN
+271,1183,228,1,MRI Brain,2026-08-13T22:00:00,Evaluate for acute pathology.,ROUTINE,COMPLETED,A,diagnostic_order,271,LOCAL_A,LOCAL_ZONE_UNKNOWN
+272,1185,291,14,Abdominal Ultrasound,2026-02-18T16:30:00,Evaluate for acute pathology.,URGENT,PENDING,A,diagnostic_order,272,LOCAL_A,LOCAL_ZONE_UNKNOWN
+273,1189,760,8,Chest X-Ray,2026-03-13T05:45:00,Evaluate for acute pathology.,STAT,CANCELLED,A,diagnostic_order,273,LOCAL_A,LOCAL_ZONE_UNKNOWN
+274,1192,652,1,CT Scan - Chest,2026-08-20T23:30:00,Rule out pulmonary embolism.,STAT,PENDING,A,diagnostic_order,274,LOCAL_A,LOCAL_ZONE_UNKNOWN
+275,1200,757,14,Chest X-Ray,2026-09-08T00:30:00,Evaluate for acute pathology.,STAT,PENDING,A,diagnostic_order,275,LOCAL_A,LOCAL_ZONE_UNKNOWN

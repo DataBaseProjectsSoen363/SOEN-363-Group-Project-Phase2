@@ -1,0 +1,11 @@
+nurse_id,name,role,specialty,license_number,_source,_table,_source_row,_time_basis
+16,David Brown,NURSE,,RN-75078,A,nurse,1,LOCAL_ZONE_UNKNOWN
+17,David Taylor,NURSE,,RN-27947,A,nurse,2,LOCAL_ZONE_UNKNOWN
+18,Robert Jones,NURSE,,RN-57024,A,nurse,3,LOCAL_ZONE_UNKNOWN
+19,David Gagnon,NURSE,,RN-33097,A,nurse,4,LOCAL_ZONE_UNKNOWN
+20,Emily Tremblay,NURSE,,RN-87217,A,nurse,5,LOCAL_ZONE_UNKNOWN
+21,Michael Tremblay,NURSE,,RN-80069,A,nurse,6,LOCAL_ZONE_UNKNOWN
+22,Rachel Williams,NURSE,,RN-77566,A,nurse,7,LOCAL_ZONE_UNKNOWN
+23,Daniel Charette,NURSE,,RN-99204,A,nurse,8,LOCAL_ZONE_UNKNOWN
+24,David Brown,NURSE,,RN-23570,A,nurse,9,LOCAL_ZONE_UNKNOWN
+25,David Tremblay,NURSE,,RN-37363,A,nurse,10,LOCAL_ZONE_UNKNOWN

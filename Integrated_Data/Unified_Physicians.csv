@@ -1,0 +1,16 @@
+name,role,specialty,license_number,global_physician_id
+Dr. Amelie Roy,PHYSICIAN,Cardiology,MD-80239,1
+Dr. Daniel Taylor,PHYSICIAN,Cardiology,MD-19156,2
+Dr. Robert Brown,PHYSICIAN,General Surgery,MD-39260,3
+Dr. Rachel Tremblay,PHYSICIAN,,MD-38977,4
+Dr. Michael Brown,PHYSICIAN,Cardiology,MD-83434,5
+Dr. John Smith,PHYSICIAN,Internal Medicine,MD-81793,6
+Dr. Rachel Tremblay,PHYSICIAN,Pulmonology,MD-66045,7
+Dr. Jessica Miller,PHYSICIAN,Emergency Medicine,MD-33562,8
+Dr. Emily Smith,PHYSICIAN,General Surgery,MD-55020,9
+Dr. Michael Miller,PHYSICIAN,Cardiology,MD-31621,10
+Dr. John Charette,PHYSICIAN,Cardiology,MD-85107,11
+Dr. Amelie Williams,PHYSICIAN,General Surgery,MD-69795,12
+Dr. Michael Charette,PHYSICIAN,,MD-50580,13
+Dr. Jessica Jones,PHYSICIAN,,MD-70515,14
+Dr. Rachel Smith,PHYSICIAN,Internal Medicine,MD-26952,15

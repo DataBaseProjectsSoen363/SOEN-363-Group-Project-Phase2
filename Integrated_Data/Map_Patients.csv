@@ -1,0 +1,3151 @@
+global_patient_id,source_system,continent,source_id
+1,Source_A,North America,1
+2,Source_A,North America,2
+3,Source_A,North America,4
+4,Source_A,North America,5
+5,Source_A,North America,6
+6,Source_A,North America,7
+7,Source_A,North America,8
+8,Source_A,North America,9
+9,Source_A,North America,10
+10,Source_A,North America,11
+11,Source_A,North America,12
+12,Source_A,North America,13
+13,Source_A,North America,14
+14,Source_A,North America,15
+15,Source_A,North America,16
+16,Source_A,North America,17
+17,Source_A,North America,18
+18,Source_A,North America,20
+19,Source_A,North America,21
+20,Source_A,North America,22
+21,Source_A,North America,23
+22,Source_A,North America,24
+23,Source_A,North America,25
+24,Source_A,North America,26
+25,Source_A,North America,28
+26,Source_A,North America,29
+27,Source_A,North America,30
+28,Source_A,North America,31
+29,Source_A,North America,32
+30,Source_A,North America,33
+31,Source_A,North America,35
+32,Source_A,North America,37
+33,Source_A,North America,38
+34,Source_A,North America,39
+35,Source_A,North America,40
+36,Source_A,North America,41
+37,Source_A,North America,42
+38,Source_A,North America,43
+39,Source_A,North America,44
+40,Source_A,North America,45
+41,Source_A,North America,47
+42,Source_A,North America,48
+43,Source_A,North America,49
+44,Source_A,North America,50
+45,Source_A,North America,51
+46,Source_A,North America,52
+47,Source_A,North America,53
+48,Source_A,North America,54
+49,Source_A,North America,55
+50,Source_A,North America,57
+51,Source_A,North America,58
+52,Source_A,North America,59
+53,Source_A,North America,60
+54,Source_A,North America,61
+55,Source_A,North America,62
+56,Source_A,North America,63
+57,Source_A,North America,65
+58,Source_A,North America,66
+59,Source_A,North America,67
+60,Source_A,North America,69
+61,Source_A,North America,70
+62,Source_A,North America,71
+63,Source_A,North America,72
+64,Source_A,North America,74
+65,Source_A,North America,75
+66,Source_A,North America,76
+67,Source_A,North America,77
+68,Source_A,North America,78
+69,Source_A,North America,79
+70,Source_A,North America,80
+71,Source_A,North America,81
+72,Source_A,North America,82
+73,Source_A,North America,83
+74,Source_A,North America,85
+75,Source_A,North America,86
+76,Source_A,North America,87
+77,Source_A,North America,88
+78,Source_A,North America,89
+79,Source_A,North America,90
+80,Source_A,North America,91
+81,Source_A,North America,92
+82,Source_A,North America,93
+83,Source_A,North America,94
+84,Source_A,North America,96
+85,Source_A,North America,97
+86,Source_A,North America,98
+87,Source_A,North America,99
+88,Source_A,North America,100
+89,Source_A,North America,101
+90,Source_A,North America,102
+91,Source_A,North America,103
+92,Source_A,North America,104
+93,Source_A,North America,105
+94,Source_A,North America,106
+95,Source_A,North America,107
+96,Source_A,North America,108
+97,Source_A,North America,109
+98,Source_A,North America,110
+99,Source_A,North America,111
+100,Source_A,North America,112
+101,Source_A,North America,113
+102,Source_A,North America,114
+103,Source_A,North America,115
+104,Source_A,North America,116
+105,Source_A,North America,117
+106,Source_A,North America,118
+107,Source_A,North America,119
+108,Source_A,North America,120
+109,Source_A,North America,121
+110,Source_A,North America,122
+111,Source_A,North America,123
+112,Source_A,North America,124
+113,Source_A,North America,125
+114,Source_A,North America,126
+115,Source_A,North America,127
+116,Source_A,North America,128
+117,Source_A,North America,129
+118,Source_A,North America,130
+119,Source_A,North America,131
+120,Source_A,North America,132
+121,Source_A,North America,133
+122,Source_A,North America,134
+123,Source_A,North America,135
+124,Source_A,North America,136
+125,Source_A,North America,137
+126,Source_A,North America,139
+127,Source_A,North America,140
+128,Source_A,North America,141
+129,Source_A,North America,142
+130,Source_A,North America,143
+131,Source_A,North America,144
+132,Source_A,North America,145
+133,Source_A,North America,146
+134,Source_A,North America,147
+135,Source_A,North America,148
+136,Source_A,North America,149
+137,Source_A,North America,150
+138,Source_A,North America,151
+139,Source_A,North America,152
+140,Source_A,North America,153
+141,Source_A,North America,154
+142,Source_A,North America,155
+143,Source_A,North America,156
+144,Source_A,North America,157
+145,Source_A,North America,158
+146,Source_A,North America,159
+147,Source_A,North America,161
+148,Source_A,North America,162
+149,Source_A,North America,163
+150,Source_A,North America,164
+151,Source_A,North America,165
+152,Source_A,North America,166
+153,Source_A,North America,167
+154,Source_A,North America,168
+155,Source_A,North America,169
+156,Source_A,North America,170
+157,Source_A,North America,171
+158,Source_A,North America,172
+159,Source_A,North America,174
+160,Source_A,North America,175
+161,Source_A,North America,176
+162,Source_A,North America,177
+163,Source_A,North America,178
+164,Source_A,North America,179
+165,Source_A,North America,180
+166,Source_A,North America,181
+167,Source_A,North America,182
+168,Source_A,North America,183
+169,Source_A,North America,184
+170,Source_A,North America,185
+171,Source_A,North America,186
+172,Source_A,North America,187
+173,Source_A,North America,188
+174,Source_A,North America,189
+175,Source_A,North America,191
+176,Source_A,North America,192
+177,Source_A,North America,193
+178,Source_A,North America,194
+179,Source_A,North America,195
+180,Source_A,North America,196
+181,Source_A,North America,197
+182,Source_A,North America,198
+183,Source_A,North America,199
+184,Source_A,North America,200
+185,Source_A,North America,201
+186,Source_A,North America,202
+187,Source_A,North America,203
+188,Source_A,North America,204
+189,Source_A,North America,205
+190,Source_A,North America,206
+191,Source_A,North America,207
+192,Source_A,North America,209
+193,Source_A,North America,210
+194,Source_A,North America,211
+195,Source_A,North America,212
+196,Source_A,North America,213
+197,Source_A,North America,214
+198,Source_A,North America,215
+199,Source_A,North America,216
+200,Source_A,North America,217
+201,Source_A,North America,218
+202,Source_A,North America,219
+203,Source_A,North America,220
+204,Source_A,North America,221
+205,Source_A,North America,222
+206,Source_A,North America,223
+207,Source_A,North America,224
+208,Source_A,North America,225
+209,Source_A,North America,226
+210,Source_A,North America,227
+211,Source_A,North America,228
+212,Source_A,North America,229
+213,Source_A,North America,230
+214,Source_A,North America,231
+215,Source_A,North America,232
+216,Source_A,North America,233
+217,Source_A,North America,234
+218,Source_A,North America,235
+219,Source_A,North America,236
+220,Source_A,North America,237
+221,Source_A,North America,238
+222,Source_A,North America,239
+223,Source_A,North America,240
+224,Source_A,North America,241
+225,Source_A,North America,242
+226,Source_A,North America,243
+227,Source_A,North America,244
+228,Source_A,North America,245
+229,Source_A,North America,246
+230,Source_A,North America,247
+231,Source_A,North America,248
+232,Source_A,North America,249
+233,Source_A,North America,250
+234,Source_A,North America,251
+235,Source_A,North America,252
+236,Source_A,North America,253
+237,Source_A,North America,254
+238,Source_A,North America,255
+239,Source_A,North America,256
+240,Source_A,North America,257
+241,Source_A,North America,258
+242,Source_A,North America,259
+243,Source_A,North America,260
+244,Source_A,North America,261
+245,Source_A,North America,262
+246,Source_A,North America,263
+247,Source_A,North America,264
+248,Source_A,North America,265
+249,Source_A,North America,266
+250,Source_A,North America,267
+251,Source_A,North America,268
+252,Source_A,North America,269
+253,Source_A,North America,272
+254,Source_A,North America,273
+255,Source_A,North America,274
+256,Source_A,North America,275
+257,Source_A,North America,276
+258,Source_A,North America,277
+259,Source_A,North America,278
+260,Source_A,North America,279
+261,Source_A,North America,280
+262,Source_A,North America,281
+263,Source_A,North America,282
+264,Source_A,North America,283
+265,Source_A,North America,284
+266,Source_A,North America,285
+267,Source_A,North America,286
+268,Source_A,North America,287
+269,Source_A,North America,288
+270,Source_A,North America,289
+271,Source_A,North America,290
+272,Source_A,North America,291
+273,Source_A,North America,293
+274,Source_A,North America,294
+275,Source_A,North America,295
+276,Source_A,North America,296
+277,Source_A,North America,297
+278,Source_A,North America,298
+279,Source_A,North America,299
+280,Source_A,North America,300
+281,Source_A,North America,301
+282,Source_A,North America,302
+283,Source_A,North America,304
+284,Source_A,North America,305
+285,Source_A,North America,306
+286,Source_A,North America,307
+287,Source_A,North America,308
+288,Source_A,North America,309
+289,Source_A,North America,310
+290,Source_A,North America,311
+291,Source_A,North America,312
+292,Source_A,North America,314
+293,Source_A,North America,315
+294,Source_A,North America,316
+295,Source_A,North America,317
+296,Source_A,North America,318
+297,Source_A,North America,320
+298,Source_A,North America,321
+299,Source_A,North America,322
+300,Source_A,North America,323
+301,Source_A,North America,324
+302,Source_A,North America,325
+303,Source_A,North America,327
+304,Source_A,North America,328
+305,Source_A,North America,329
+306,Source_A,North America,330
+307,Source_A,North America,331
+308,Source_A,North America,332
+309,Source_A,North America,334
+310,Source_A,North America,335
+311,Source_A,North America,336
+312,Source_A,North America,337
+313,Source_A,North America,338
+314,Source_A,North America,339
+315,Source_A,North America,340
+316,Source_A,North America,341
+317,Source_A,North America,342
+318,Source_A,North America,343
+319,Source_A,North America,344
+320,Source_A,North America,345
+321,Source_A,North America,346
+322,Source_A,North America,347
+323,Source_A,North America,348
+324,Source_A,North America,349
+325,Source_A,North America,350
+326,Source_A,North America,351
+327,Source_A,North America,352
+328,Source_A,North America,353
+329,Source_A,North America,354
+330,Source_A,North America,355
+331,Source_A,North America,356
+332,Source_A,North America,357
+333,Source_A,North America,358
+334,Source_A,North America,359
+335,Source_A,North America,360
+336,Source_A,North America,361
+337,Source_A,North America,362
+338,Source_A,North America,363
+339,Source_A,North America,364
+340,Source_A,North America,365
+341,Source_A,North America,366
+342,Source_A,North America,367
+343,Source_A,North America,368
+344,Source_A,North America,369
+345,Source_A,North America,370
+346,Source_A,North America,371
+347,Source_A,North America,372
+348,Source_A,North America,373
+349,Source_A,North America,374
+350,Source_A,North America,375
+351,Source_A,North America,376
+352,Source_A,North America,377
+353,Source_A,North America,378
+354,Source_A,North America,379
+355,Source_A,North America,380
+356,Source_A,North America,381
+357,Source_A,North America,382
+358,Source_A,North America,383
+359,Source_A,North America,384
+360,Source_A,North America,385
+361,Source_A,North America,386
+362,Source_A,North America,387
+363,Source_A,North America,388
+364,Source_A,North America,389
+365,Source_A,North America,390
+366,Source_A,North America,391
+367,Source_A,North America,392
+368,Source_A,North America,393
+369,Source_A,North America,394
+370,Source_A,North America,395
+371,Source_A,North America,396
+372,Source_A,North America,397
+373,Source_A,North America,398
+374,Source_A,North America,399
+375,Source_A,North America,401
+376,Source_A,North America,402
+377,Source_A,North America,403
+378,Source_A,North America,404
+379,Source_A,North America,405
+380,Source_A,North America,406
+381,Source_A,North America,407
+382,Source_A,North America,408
+383,Source_A,North America,409
+384,Source_A,North America,410
+385,Source_A,North America,411
+386,Source_A,North America,412
+387,Source_A,North America,413
+388,Source_A,North America,414
+389,Source_A,North America,415
+390,Source_A,North America,416
+391,Source_A,North America,418
+392,Source_A,North America,419
+393,Source_A,North America,420
+394,Source_A,North America,421
+395,Source_A,North America,422
+396,Source_A,North America,423
+397,Source_A,North America,424
+398,Source_A,North America,425
+399,Source_A,North America,426
+400,Source_A,North America,427
+401,Source_A,North America,428
+402,Source_A,North America,429
+403,Source_A,North America,430
+404,Source_A,North America,431
+405,Source_A,North America,432
+406,Source_A,North America,433
+407,Source_A,North America,434
+408,Source_A,North America,435
+409,Source_A,North America,436
+410,Source_A,North America,437
+411,Source_A,North America,438
+412,Source_A,North America,439
+413,Source_A,North America,440
+414,Source_A,North America,441
+415,Source_A,North America,442
+416,Source_A,North America,443
+417,Source_A,North America,444
+418,Source_A,North America,445
+419,Source_A,North America,446
+420,Source_A,North America,447
+421,Source_A,North America,448
+422,Source_A,North America,449
+423,Source_A,North America,450
+424,Source_A,North America,451
+425,Source_A,North America,452
+426,Source_A,North America,453
+427,Source_A,North America,454
+428,Source_A,North America,455
+429,Source_A,North America,456
+430,Source_A,North America,458
+431,Source_A,North America,459
+432,Source_A,North America,460
+433,Source_A,North America,461
+434,Source_A,North America,462
+435,Source_A,North America,463
+436,Source_A,North America,464
+437,Source_A,North America,465
+438,Source_A,North America,466
+439,Source_A,North America,467
+440,Source_A,North America,468
+441,Source_A,North America,469
+442,Source_A,North America,470
+443,Source_A,North America,471
+444,Source_A,North America,472
+445,Source_A,North America,473
+446,Source_A,North America,474
+447,Source_A,North America,475
+448,Source_A,North America,476
+449,Source_A,North America,477
+450,Source_A,North America,478
+451,Source_A,North America,479
+452,Source_A,North America,480
+453,Source_A,North America,481
+454,Source_A,North America,482
+455,Source_A,North America,483
+456,Source_A,North America,484
+457,Source_A,North America,485
+458,Source_A,North America,486
+459,Source_A,North America,487
+460,Source_A,North America,488
+461,Source_A,North America,489
+462,Source_A,North America,490
+463,Source_A,North America,491
+464,Source_A,North America,492
+465,Source_A,North America,493
+466,Source_A,North America,494
+467,Source_A,North America,495
+468,Source_A,North America,496
+469,Source_A,North America,497
+470,Source_A,North America,498
+471,Source_A,North America,499
+472,Source_A,North America,500
+473,Source_A,North America,501
+474,Source_A,North America,502
+475,Source_A,North America,503
+476,Source_A,North America,504
+477,Source_A,North America,505
+478,Source_A,North America,507
+479,Source_A,North America,508
+480,Source_A,North America,509
+481,Source_A,North America,510
+482,Source_A,North America,511
+483,Source_A,North America,512
+484,Source_A,North America,513
+485,Source_A,North America,514
+486,Source_A,North America,515
+487,Source_A,North America,516
+488,Source_A,North America,517
+489,Source_A,North America,518
+490,Source_A,North America,519
+491,Source_A,North America,520
+492,Source_A,North America,521
+493,Source_A,North America,522
+494,Source_A,North America,523
+495,Source_A,North America,525
+496,Source_A,North America,526
+497,Source_A,North America,527
+498,Source_A,North America,528
+499,Source_A,North America,529
+500,Source_A,North America,530
+501,Source_A,North America,531
+502,Source_A,North America,532
+503,Source_A,North America,533
+504,Source_A,North America,534
+505,Source_A,North America,535
+506,Source_A,North America,536
+507,Source_A,North America,537
+508,Source_A,North America,538
+509,Source_A,North America,539
+510,Source_A,North America,540
+511,Source_A,North America,541
+512,Source_A,North America,542
+513,Source_A,North America,543
+514,Source_A,North America,544
+515,Source_A,North America,545
+516,Source_A,North America,546
+517,Source_A,North America,547
+518,Source_A,North America,548
+519,Source_A,North America,549
+520,Source_A,North America,550
+521,Source_A,North America,551
+522,Source_A,North America,552
+523,Source_A,North America,553
+524,Source_A,North America,554
+525,Source_A,North America,555
+526,Source_A,North America,556
+527,Source_A,North America,557
+528,Source_A,North America,558
+529,Source_A,North America,559
+530,Source_A,North America,560
+531,Source_A,North America,561
+532,Source_A,North America,562
+533,Source_A,North America,563
+534,Source_A,North America,564
+535,Source_A,North America,566
+536,Source_A,North America,567
+537,Source_A,North America,568
+538,Source_A,North America,569
+539,Source_A,North America,570
+540,Source_A,North America,571
+541,Source_A,North America,572
+542,Source_A,North America,573
+543,Source_A,North America,575
+544,Source_A,North America,576
+545,Source_A,North America,577
+546,Source_A,North America,578
+547,Source_A,North America,579
+548,Source_A,North America,580
+549,Source_A,North America,581
+550,Source_A,North America,582
+551,Source_A,North America,583
+552,Source_A,North America,585
+553,Source_A,North America,586
+554,Source_A,North America,587
+555,Source_A,North America,588
+556,Source_A,North America,589
+557,Source_A,North America,590
+558,Source_A,North America,591
+559,Source_A,North America,592
+560,Source_A,North America,593
+561,Source_A,North America,594
+562,Source_A,North America,595
+563,Source_A,North America,596
+564,Source_A,North America,597
+565,Source_A,North America,598
+566,Source_A,North America,599
+567,Source_A,North America,600
+568,Source_A,North America,601
+569,Source_A,North America,602
+570,Source_A,North America,603
+571,Source_A,North America,604
+572,Source_A,North America,605
+573,Source_A,North America,606
+574,Source_A,North America,607
+575,Source_A,North America,608
+576,Source_A,North America,609
+577,Source_A,North America,610
+578,Source_A,North America,611
+579,Source_A,North America,612
+580,Source_A,North America,613
+581,Source_A,North America,614
+582,Source_A,North America,615
+583,Source_A,North America,617
+584,Source_A,North America,618
+585,Source_A,North America,619
+586,Source_A,North America,620
+587,Source_A,North America,621
+588,Source_A,North America,622
+589,Source_A,North America,623
+590,Source_A,North America,624
+591,Source_A,North America,625
+592,Source_A,North America,626
+593,Source_A,North America,627
+594,Source_A,North America,628
+595,Source_A,North America,629
+596,Source_A,North America,630
+597,Source_A,North America,631
+598,Source_A,North America,633
+599,Source_A,North America,634
+600,Source_A,North America,635
+601,Source_A,North America,636
+602,Source_A,North America,637
+603,Source_A,North America,638
+604,Source_A,North America,639
+605,Source_A,North America,640
+606,Source_A,North America,641
+607,Source_A,North America,642
+608,Source_A,North America,643
+609,Source_A,North America,644
+610,Source_A,North America,645
+611,Source_A,North America,647
+612,Source_A,North America,648
+613,Source_A,North America,649
+614,Source_A,North America,650
+615,Source_A,North America,651
+616,Source_A,North America,652
+617,Source_A,North America,653
+618,Source_A,North America,655
+619,Source_A,North America,656
+620,Source_A,North America,657
+621,Source_A,North America,658
+622,Source_A,North America,659
+623,Source_A,North America,660
+624,Source_A,North America,661
+625,Source_A,North America,662
+626,Source_A,North America,663
+627,Source_A,North America,664
+628,Source_A,North America,665
+629,Source_A,North America,666
+630,Source_A,North America,667
+631,Source_A,North America,668
+632,Source_A,North America,669
+633,Source_A,North America,670
+634,Source_A,North America,671
+635,Source_A,North America,672
+636,Source_A,North America,673
+637,Source_A,North America,674
+638,Source_A,North America,675
+639,Source_A,North America,676
+640,Source_A,North America,677
+641,Source_A,North America,678
+642,Source_A,North America,679
+643,Source_A,North America,680
+644,Source_A,North America,681
+645,Source_A,North America,682
+646,Source_A,North America,683
+647,Source_A,North America,684
+648,Source_A,North America,685
+649,Source_A,North America,686
+650,Source_A,North America,687
+651,Source_A,North America,688
+652,Source_A,North America,689
+653,Source_A,North America,690
+654,Source_A,North America,691
+655,Source_A,North America,692
+656,Source_A,North America,693
+657,Source_A,North America,695
+658,Source_A,North America,696
+659,Source_A,North America,697
+660,Source_A,North America,698
+661,Source_A,North America,699
+662,Source_A,North America,700
+663,Source_A,North America,701
+664,Source_A,North America,702
+665,Source_A,North America,703
+666,Source_A,North America,704
+667,Source_A,North America,705
+668,Source_A,North America,706
+669,Source_A,North America,707
+670,Source_A,North America,708
+671,Source_A,North America,709
+672,Source_A,North America,710
+673,Source_A,North America,711
+674,Source_A,North America,712
+675,Source_A,North America,713
+676,Source_A,North America,714
+677,Source_A,North America,715
+678,Source_A,North America,716
+679,Source_A,North America,717
+680,Source_A,North America,718
+681,Source_A,North America,719
+682,Source_A,North America,720
+683,Source_A,North America,721
+684,Source_A,North America,722
+685,Source_A,North America,723
+686,Source_A,North America,724
+687,Source_A,North America,725
+688,Source_A,North America,726
+689,Source_A,North America,727
+690,Source_A,North America,728
+691,Source_A,North America,729
+692,Source_A,North America,730
+693,Source_A,North America,731
+694,Source_A,North America,732
+695,Source_A,North America,733
+696,Source_A,North America,734
+697,Source_A,North America,735
+698,Source_A,North America,736
+699,Source_A,North America,737
+700,Source_A,North America,738
+701,Source_A,North America,739
+702,Source_A,North America,740
+703,Source_A,North America,741
+704,Source_A,North America,742
+705,Source_A,North America,743
+706,Source_A,North America,744
+707,Source_A,North America,745
+708,Source_A,North America,746
+709,Source_A,North America,747
+710,Source_A,North America,748
+711,Source_A,North America,749
+712,Source_A,North America,750
+713,Source_A,North America,751
+714,Source_A,North America,752
+715,Source_A,North America,753
+716,Source_A,North America,755
+717,Source_A,North America,756
+718,Source_A,North America,757
+719,Source_A,North America,758
+720,Source_A,North America,759
+721,Source_A,North America,760
+722,Source_A,North America,761
+723,Source_A,North America,762
+724,Source_A,North America,763
+725,Source_A,North America,764
+726,Source_A,North America,765
+727,Source_A,North America,766
+728,Source_A,North America,767
+729,Source_A,North America,768
+730,Source_A,North America,769
+731,Source_A,North America,770
+732,Source_A,North America,771
+733,Source_A,North America,772
+734,Source_A,North America,773
+735,Source_A,North America,774
+736,Source_A,North America,775
+737,Source_A,North America,776
+738,Source_A,North America,777
+739,Source_A,North America,778
+740,Source_A,North America,779
+741,Source_A,North America,780
+742,Source_A,North America,781
+743,Source_A,North America,782
+744,Source_A,North America,783
+745,Source_A,North America,784
+746,Source_A,North America,786
+747,Source_A,North America,787
+748,Source_A,North America,788
+749,Source_A,North America,789
+750,Source_A,North America,790
+751,Source_A,North America,791
+752,Source_A,North America,792
+753,Source_A,North America,793
+754,Source_A,North America,794
+755,Source_A,North America,795
+756,Source_A,North America,796
+757,Source_A,North America,797
+758,Source_A,North America,798
+759,Source_A,North America,799
+760,Source_A,North America,800
+761,Source_B,Europe,MRN-86172
+762,Source_B,Europe,MRN-67407
+763,Source_B,Europe,MRN-18244
+764,Source_B,Europe,MRN-20071
+765,Source_B,Europe,MRN-83978
+766,Source_B,Europe,MRN-75333
+767,Source_B,Europe,MRN-89937
+768,Source_B,Europe,MRN-17809
+769,Source_B,Europe,MRN-78732
+770,Source_B,Europe,MRN-54102
+771,Source_B,Europe,MRN-62853
+772,Source_B,Europe,MRN-97175
+773,Source_B,Europe,MRN-98591
+774,Source_B,Europe,MRN-16766
+775,Source_B,Europe,MRN-28802
+776,Source_B,Europe,MRN-54428
+777,Source_B,Europe,MRN-35203
+778,Source_B,Europe,MRN-23764
+779,Source_B,Europe,MRN-46092
+780,Source_B,Europe,MRN-60910
+781,Source_B,Europe,MRN-29815
+782,Source_B,Europe,MRN-59169
+783,Source_B,Europe,MRN-58668
+784,Source_B,Europe,MRN-34423
+785,Source_B,Europe,MRN-73953
+786,Source_B,Europe,MRN-91693
+787,Source_B,Europe,MRN-18027
+788,Source_B,Europe,MRN-64688
+789,Source_B,Europe,MRN-47655
+790,Source_B,Europe,MRN-75516
+791,Source_B,Europe,MRN-10602
+792,Source_B,Europe,MRN-86139
+793,Source_B,Europe,MRN-30696
+794,Source_B,Europe,MRN-20539
+795,Source_B,Europe,MRN-90656
+796,Source_B,Europe,MRN-76075
+797,Source_B,Europe,MRN-67807
+798,Source_B,Europe,MRN-84880
+799,Source_B,Europe,MRN-27726
+800,Source_B,Europe,MRN-88071
+801,Source_B,Europe,MRN-58618
+802,Source_B,Europe,MRN-38972
+803,Source_B,Europe,MRN-60161
+804,Source_B,Europe,MRN-30218
+805,Source_B,Europe,MRN-70723
+806,Source_B,Europe,MRN-34035
+807,Source_B,Europe,MRN-36791
+808,Source_B,Europe,MRN-20240
+809,Source_B,Europe,MRN-82087
+810,Source_B,Europe,MRN-26982
+811,Source_B,Europe,MRN-83068
+812,Source_B,Europe,MRN-88714
+813,Source_B,Europe,MRN-92169
+814,Source_B,Europe,MRN-54893
+815,Source_B,Europe,MRN-39924
+816,Source_B,Europe,MRN-56487
+817,Source_B,Europe,MRN-23532
+818,Source_B,Europe,MRN-58014
+819,Source_B,Europe,MRN-83891
+820,Source_B,Europe,MRN-12233
+821,Source_B,Europe,MRN-46099
+822,Source_B,Europe,MRN-22309
+823,Source_B,Europe,MRN-97808
+824,Source_B,Europe,MRN-59093
+825,Source_B,Europe,MRN-79779
+826,Source_B,Europe,MRN-90747
+827,Source_B,Europe,MRN-39163
+828,Source_B,Europe,MRN-16094
+829,Source_B,Europe,MRN-37009
+830,Source_B,Europe,MRN-90411
+831,Source_B,Europe,MRN-92507
+832,Source_B,Europe,MRN-58238
+833,Source_B,Europe,MRN-74557
+834,Source_B,Europe,MRN-15934
+835,Source_B,Europe,MRN-11388
+836,Source_B,Europe,MRN-68502
+837,Source_B,Europe,MRN-88232
+838,Source_B,Europe,MRN-25476
+839,Source_B,Europe,MRN-14741
+840,Source_B,Europe,MRN-24085
+841,Source_B,Europe,MRN-69191
+842,Source_B,Europe,MRN-55809
+843,Source_B,Europe,MRN-28804
+844,Source_B,Europe,MRN-51437
+845,Source_B,Europe,MRN-49845
+846,Source_B,Europe,MRN-10409
+847,Source_B,Europe,MRN-24995
+848,Source_B,Europe,MRN-49875
+849,Source_B,Europe,MRN-54326
+850,Source_B,Europe,MRN-79540
+851,Source_B,Europe,MRN-74388
+852,Source_B,Europe,MRN-99886
+853,Source_B,Europe,MRN-82963
+854,Source_B,Europe,MRN-98762
+855,Source_B,Europe,MRN-37297
+856,Source_B,Europe,MRN-63397
+857,Source_B,Europe,MRN-81008
+858,Source_B,Europe,MRN-14896
+859,Source_B,Europe,MRN-14609
+860,Source_B,Europe,MRN-39900
+861,Source_B,Europe,MRN-53437
+862,Source_B,Europe,MRN-71257
+863,Source_B,Europe,MRN-72213
+864,Source_B,Europe,MRN-69607
+865,Source_B,Europe,MRN-63286
+866,Source_B,Europe,MRN-65252
+867,Source_B,Europe,MRN-44413
+868,Source_B,Europe,MRN-14660
+869,Source_B,Europe,MRN-60107
+870,Source_B,Europe,MRN-87466
+871,Source_B,Europe,MRN-55818
+872,Source_B,Europe,MRN-61355
+873,Source_B,Europe,MRN-34412
+874,Source_B,Europe,MRN-66437
+875,Source_B,Europe,MRN-49942
+876,Source_B,Europe,MRN-41426
+877,Source_B,Europe,MRN-40163
+878,Source_B,Europe,MRN-47230
+879,Source_B,Europe,MRN-66631
+880,Source_B,Europe,MRN-28784
+881,Source_B,Europe,MRN-27242
+882,Source_B,Europe,MRN-47033
+883,Source_B,Europe,MRN-67635
+884,Source_B,Europe,MRN-56770
+885,Source_B,Europe,MRN-26286
+886,Source_B,Europe,MRN-93413
+887,Source_B,Europe,MRN-14831
+888,Source_B,Europe,MRN-57461
+889,Source_B,Europe,MRN-44527
+890,Source_B,Europe,MRN-99021
+891,Source_B,Europe,MRN-95711
+892,Source_B,Europe,MRN-82199
+893,Source_B,Europe,MRN-82335
+894,Source_B,Europe,MRN-80860
+895,Source_B,Europe,MRN-17006
+896,Source_B,Europe,MRN-17816
+897,Source_B,Europe,MRN-64674
+898,Source_B,Europe,MRN-48126
+899,Source_B,Europe,MRN-41720
+900,Source_B,Europe,MRN-78440
+901,Source_B,Europe,MRN-89217
+902,Source_B,Europe,MRN-44964
+903,Source_B,Europe,MRN-83563
+904,Source_B,Europe,MRN-32857
+905,Source_B,Europe,MRN-71845
+906,Source_B,Europe,MRN-96767
+907,Source_B,Europe,MRN-55083
+908,Source_B,Europe,MRN-20620
+909,Source_B,Europe,MRN-62584
+910,Source_B,Europe,MRN-66360
+911,Source_B,Europe,MRN-67038
+912,Source_B,Europe,MRN-31465
+913,Source_B,Europe,MRN-26830
+914,Source_B,Europe,MRN-14342
+915,Source_B,Europe,MRN-54163
+916,Source_B,Europe,MRN-99836
+917,Source_B,Europe,MRN-94113
+918,Source_B,Europe,MRN-60429
+919,Source_B,Europe,MRN-73406
+920,Source_B,Europe,MRN-60157
+921,Source_B,Europe,MRN-56086
+922,Source_B,Europe,MRN-95642
+923,Source_B,Europe,MRN-88272
+924,Source_B,Europe,MRN-75254
+925,Source_B,Europe,MRN-12640
+926,Source_B,Europe,MRN-12396
+927,Source_B,Europe,MRN-80556
+928,Source_B,Europe,MRN-60908
+929,Source_B,Europe,MRN-33659
+930,Source_B,Europe,MRN-37299
+931,Source_B,Europe,MRN-46967
+932,Source_B,Europe,MRN-57115
+933,Source_B,Europe,MRN-24820
+934,Source_B,Europe,MRN-17254
+935,Source_B,Europe,MRN-47463
+936,Source_B,Europe,MRN-60125
+937,Source_B,Europe,MRN-45991
+938,Source_B,Europe,MRN-82654
+939,Source_B,Europe,MRN-26544
+940,Source_B,Europe,MRN-11861
+941,Source_B,Europe,MRN-46777
+942,Source_B,Europe,MRN-61597
+943,Source_B,Europe,MRN-61848
+944,Source_B,Europe,MRN-45586
+945,Source_B,Europe,MRN-82493
+946,Source_B,Europe,MRN-50966
+947,Source_B,Europe,MRN-63180
+948,Source_B,Europe,MRN-29534
+949,Source_B,Europe,MRN-68776
+950,Source_B,Europe,MRN-76253
+951,Source_B,Europe,MRN-64648
+952,Source_B,Europe,MRN-95161
+953,Source_B,Europe,MRN-89167
+954,Source_B,Europe,MRN-12718
+955,Source_B,Europe,MRN-52099
+956,Source_B,Europe,MRN-68553
+957,Source_B,Europe,MRN-59908
+958,Source_B,Europe,MRN-16162
+959,Source_B,Europe,MRN-82732
+960,Source_B,Europe,MRN-43232
+961,Source_B,Europe,MRN-75520
+962,Source_B,Europe,MRN-99265
+963,Source_B,Europe,MRN-40985
+964,Source_B,Europe,MRN-90178
+965,Source_B,Europe,MRN-75948
+966,Source_B,Europe,MRN-46624
+967,Source_B,Europe,MRN-52010
+968,Source_B,Europe,MRN-26947
+969,Source_B,Europe,MRN-50984
+970,Source_B,Europe,MRN-87224
+971,Source_B,Europe,MRN-14602
+972,Source_B,Europe,MRN-77289
+973,Source_B,Europe,MRN-70684
+974,Source_B,Europe,MRN-36826
+975,Source_B,Europe,MRN-40304
+976,Source_B,Europe,MRN-18131
+977,Source_B,Europe,MRN-90560
+978,Source_B,Europe,MRN-92001
+979,Source_B,Europe,MRN-57624
+980,Source_B,Europe,MRN-16267
+981,Source_B,Europe,MRN-56653
+982,Source_B,Europe,MRN-16217
+983,Source_B,Europe,MRN-35522
+984,Source_B,Europe,MRN-65054
+985,Source_B,Europe,MRN-23641
+986,Source_B,Europe,MRN-42864
+987,Source_B,Europe,MRN-26076
+988,Source_B,Europe,MRN-94752
+989,Source_B,Europe,MRN-98972
+990,Source_B,Europe,MRN-64328
+991,Source_B,Europe,MRN-20258
+992,Source_B,Europe,MRN-82903
+993,Source_B,Europe,MRN-21167
+994,Source_B,Europe,MRN-27798
+995,Source_B,Europe,MRN-47893
+996,Source_B,Europe,MRN-65626
+997,Source_B,Europe,MRN-33511
+998,Source_B,Europe,MRN-27135
+999,Source_B,Europe,MRN-34536
+1000,Source_B,Europe,MRN-42541
+1001,Source_B,Europe,MRN-93605
+1002,Source_B,Europe,MRN-40257
+1003,Source_B,Europe,MRN-71357
+1004,Source_B,Europe,MRN-81279
+1005,Source_B,Europe,MRN-66507
+1006,Source_B,Europe,MRN-19885
+1007,Source_B,Europe,MRN-80120
+1008,Source_B,Europe,MRN-37537
+1009,Source_B,Europe,MRN-95270
+1010,Source_B,Europe,MRN-68937
+1011,Source_B,Europe,MRN-45635
+1012,Source_B,Europe,MRN-11730
+1013,Source_B,Europe,MRN-42063
+1014,Source_B,Europe,MRN-82386
+1015,Source_B,Europe,MRN-69949
+1016,Source_B,Europe,MRN-53344
+1017,Source_B,Europe,MRN-80644
+1018,Source_B,Europe,MRN-46495
+1019,Source_B,Europe,MRN-62102
+1020,Source_B,Europe,MRN-51338
+1021,Source_B,Europe,MRN-51467
+1022,Source_B,Europe,MRN-33946
+1023,Source_B,Europe,MRN-78707
+1024,Source_B,Europe,MRN-33504
+1025,Source_B,Europe,MRN-85549
+1026,Source_B,Europe,MRN-98593
+1027,Source_B,Europe,MRN-47337
+1028,Source_B,Europe,MRN-76972
+1029,Source_B,Europe,MRN-99119
+1030,Source_B,Europe,MRN-56881
+1031,Source_B,Europe,MRN-41389
+1032,Source_B,Europe,MRN-80077
+1033,Source_B,Europe,MRN-82060
+1034,Source_B,Europe,MRN-61178
+1035,Source_B,Europe,MRN-40036
+1036,Source_B,Europe,MRN-90885
+1037,Source_B,Europe,MRN-53992
+1038,Source_B,Europe,MRN-61638
+1039,Source_B,Europe,MRN-90253
+1040,Source_B,Europe,MRN-94968
+1041,Source_B,Europe,MRN-30966
+1042,Source_B,Europe,MRN-30821
+1043,Source_B,Europe,MRN-28529
+1044,Source_B,Europe,MRN-25852
+1045,Source_B,Europe,MRN-83006
+1046,Source_B,Europe,MRN-38563
+1047,Source_B,Europe,MRN-17457
+1048,Source_B,Europe,MRN-69294
+1049,Source_B,Europe,MRN-87689
+1050,Source_B,Europe,MRN-23688
+1051,Source_B,Europe,MRN-90973
+1052,Source_B,Europe,MRN-50577
+1053,Source_B,Europe,MRN-24835
+1054,Source_B,Europe,MRN-39100
+1055,Source_B,Europe,MRN-22991
+1056,Source_B,Europe,MRN-66846
+1057,Source_B,Europe,MRN-50060
+1058,Source_B,Europe,MRN-71513
+1059,Source_B,Europe,MRN-20515
+1060,Source_B,Europe,MRN-73138
+1061,Source_B,Europe,MRN-92613
+1062,Source_B,Europe,MRN-33857
+1063,Source_B,Europe,MRN-31511
+1064,Source_B,Europe,MRN-41864
+1065,Source_B,Europe,MRN-43708
+1066,Source_B,Europe,MRN-60341
+1067,Source_B,Europe,MRN-92344
+1068,Source_B,Europe,MRN-77386
+1069,Source_B,Europe,MRN-19342
+1070,Source_B,Europe,MRN-83881
+1071,Source_B,Europe,MRN-29477
+1072,Source_B,Europe,MRN-86170
+1073,Source_B,Europe,MRN-95922
+1074,Source_B,Europe,MRN-92632
+1075,Source_B,Europe,MRN-31178
+1076,Source_B,Europe,MRN-73342
+1077,Source_B,Europe,MRN-71765
+1078,Source_B,Europe,MRN-14432
+1079,Source_B,Europe,MRN-62074
+1080,Source_B,Europe,MRN-60245
+1081,Source_B,Europe,MRN-80687
+1082,Source_B,Europe,MRN-90525
+1083,Source_B,Europe,MRN-18853
+1084,Source_B,Europe,MRN-85961
+1085,Source_B,Europe,MRN-45565
+1086,Source_B,Europe,MRN-63325
+1087,Source_B,Europe,MRN-54070
+1088,Source_B,Europe,MRN-13112
+1089,Source_B,Europe,MRN-94244
+1090,Source_B,Europe,MRN-56206
+1091,Source_B,Europe,MRN-19559
+1092,Source_B,Europe,MRN-50641
+1093,Source_B,Europe,MRN-87339
+1094,Source_B,Europe,MRN-25127
+1095,Source_B,Europe,MRN-84855
+1096,Source_B,Europe,MRN-48222
+1097,Source_B,Europe,MRN-55602
+1098,Source_B,Europe,MRN-62084
+1099,Source_B,Europe,MRN-50090
+1100,Source_B,Europe,MRN-47267
+1101,Source_B,Europe,MRN-47587
+1102,Source_B,Europe,MRN-70665
+1103,Source_B,Europe,MRN-29824
+1104,Source_B,Europe,MRN-77846
+1105,Source_B,Europe,MRN-31943
+1106,Source_B,Europe,MRN-43717
+1107,Source_B,Europe,MRN-82135
+1108,Source_B,Europe,MRN-21362
+1109,Source_B,Europe,MRN-89619
+1110,Source_B,Europe,MRN-91553
+1111,Source_B,Europe,MRN-79900
+1112,Source_B,Europe,MRN-26040
+1113,Source_B,Europe,MRN-14619
+1114,Source_B,Europe,MRN-13749
+1115,Source_B,Europe,MRN-49997
+1116,Source_B,Europe,MRN-81295
+1117,Source_B,Europe,MRN-34052
+1118,Source_B,Europe,MRN-61154
+1119,Source_B,Europe,MRN-47239
+1120,Source_B,Europe,MRN-39746
+1121,Source_B,Europe,MRN-18196
+1122,Source_B,Europe,MRN-64143
+1123,Source_B,Europe,MRN-74533
+1124,Source_B,Europe,MRN-59762
+1125,Source_B,Europe,MRN-51597
+1126,Source_B,Europe,MRN-49609
+1127,Source_B,Europe,MRN-13582
+1128,Source_B,Europe,MRN-20907
+1129,Source_B,Europe,MRN-34826
+1130,Source_B,Europe,MRN-32051
+1131,Source_B,Europe,MRN-94927
+1132,Source_B,Europe,MRN-68169
+1133,Source_B,Europe,MRN-89685
+1134,Source_B,Europe,MRN-92608
+1135,Source_B,Europe,MRN-74047
+1136,Source_B,Europe,MRN-66953
+1137,Source_B,Europe,MRN-83065
+1138,Source_B,Europe,MRN-97678
+1139,Source_B,Europe,MRN-75894
+1140,Source_B,Europe,MRN-37040
+1141,Source_B,Europe,MRN-89361
+1142,Source_B,Europe,MRN-26018
+1143,Source_B,Europe,MRN-18443
+1144,Source_B,Europe,MRN-69868
+1145,Source_B,Europe,MRN-13120
+1146,Source_B,Europe,MRN-21701
+1147,Source_B,Europe,MRN-72299
+1148,Source_B,Europe,MRN-63433
+1149,Source_B,Europe,MRN-81059
+1150,Source_B,Europe,MRN-30948
+1151,Source_B,Europe,MRN-13775
+1152,Source_B,Europe,MRN-86473
+1153,Source_B,Europe,MRN-27307
+1154,Source_B,Europe,MRN-36666
+1155,Source_B,Europe,MRN-57210
+1156,Source_B,Europe,MRN-83868
+1157,Source_B,Europe,MRN-20970
+1158,Source_B,Europe,MRN-87489
+1159,Source_B,Europe,MRN-39072
+1160,Source_B,Europe,MRN-57932
+1161,Source_B,Europe,MRN-90924
+1162,Source_B,Europe,MRN-46365
+1163,Source_B,Europe,MRN-84860
+1164,Source_B,Europe,MRN-61127
+1165,Source_B,Europe,MRN-16263
+1166,Source_B,Europe,MRN-10379
+1167,Source_B,Europe,MRN-54129
+1168,Source_B,Europe,MRN-51005
+1169,Source_B,Europe,MRN-56478
+1170,Source_B,Europe,MRN-43679
+1171,Source_B,Europe,MRN-27738
+1172,Source_B,Europe,MRN-56707
+1173,Source_B,Europe,MRN-11812
+1174,Source_B,Europe,MRN-19906
+1175,Source_B,Europe,MRN-51138
+1176,Source_B,Europe,MRN-27176
+1177,Source_B,Europe,MRN-27705
+1178,Source_B,Europe,MRN-87168
+1179,Source_B,Europe,MRN-83831
+1180,Source_B,Europe,MRN-65167
+1181,Source_B,Europe,MRN-55128
+1182,Source_B,Europe,MRN-42619
+1183,Source_B,Europe,MRN-22792
+1184,Source_B,Europe,MRN-52051
+1185,Source_B,Europe,MRN-12994
+1186,Source_B,Europe,MRN-98495
+1187,Source_B,Europe,MRN-67115
+1188,Source_B,Europe,MRN-67501
+1189,Source_B,Europe,MRN-74407
+1190,Source_B,Europe,MRN-53139
+1191,Source_B,Europe,MRN-49027
+1192,Source_B,Europe,MRN-36957
+1193,Source_B,Europe,MRN-43851
+1194,Source_B,Europe,MRN-17588
+1195,Source_B,Europe,MRN-10928
+1196,Source_B,Europe,MRN-42842
+1197,Source_B,Europe,MRN-95771
+1198,Source_B,Europe,MRN-23029
+1199,Source_B,Europe,MRN-41836
+1200,Source_B,Europe,MRN-41610
+1201,Source_B,Europe,MRN-16318
+1202,Source_B,Europe,MRN-45172
+1203,Source_B,Europe,MRN-11147
+1204,Source_B,Europe,MRN-88406
+1205,Source_B,Europe,MRN-88593
+1206,Source_B,Europe,MRN-82724
+1207,Source_B,Europe,MRN-98376
+1208,Source_B,Europe,MRN-27642
+1209,Source_B,Europe,MRN-20745
+1210,Source_B,Europe,MRN-72406
+1211,Source_B,Europe,MRN-49173
+1212,Source_B,Europe,MRN-97663
+1213,Source_B,Europe,MRN-82097
+1214,Source_B,Europe,MRN-68252
+1215,Source_B,Europe,MRN-31512
+1216,Source_B,Europe,MRN-38648
+1217,Source_B,Europe,MRN-31201
+1218,Source_B,Europe,MRN-81781
+1219,Source_B,Europe,MRN-97747
+1220,Source_B,Europe,MRN-10578
+1221,Source_B,Europe,MRN-75526
+1222,Source_B,Europe,MRN-77184
+1223,Source_B,Europe,MRN-34715
+1224,Source_B,Europe,MRN-62011
+1225,Source_B,Europe,MRN-24623
+1226,Source_B,Europe,MRN-18952
+1227,Source_B,Europe,MRN-53405
+1228,Source_B,Europe,MRN-99071
+1229,Source_B,Europe,MRN-33157
+1230,Source_B,Europe,MRN-42546
+1231,Source_B,Europe,MRN-82324
+1232,Source_B,Europe,MRN-39471
+1233,Source_B,Europe,MRN-84756
+1234,Source_B,Europe,MRN-46659
+1235,Source_B,Europe,MRN-82050
+1236,Source_B,Europe,MRN-38091
+1237,Source_B,Europe,MRN-15613
+1238,Source_B,Europe,MRN-39140
+1239,Source_B,Europe,MRN-32865
+1240,Source_B,Europe,MRN-53964
+1241,Source_B,Europe,MRN-85208
+1242,Source_B,Europe,MRN-67275
+1243,Source_B,Europe,MRN-93385
+1244,Source_B,Europe,MRN-11875
+1245,Source_B,Europe,MRN-28969
+1246,Source_B,Europe,MRN-84541
+1247,Source_B,Europe,MRN-17636
+1248,Source_B,Europe,MRN-80298
+1249,Source_B,Europe,MRN-47120
+1250,Source_B,Europe,MRN-29039
+1251,Source_B,Europe,MRN-76828
+1252,Source_B,Europe,MRN-11583
+1253,Source_B,Europe,MRN-48074
+1254,Source_B,Europe,MRN-66826
+1255,Source_B,Europe,MRN-53356
+1256,Source_B,Europe,MRN-38953
+1257,Source_B,Europe,MRN-72773
+1258,Source_B,Europe,MRN-95926
+1259,Source_B,Europe,MRN-98940
+1260,Source_B,Europe,MRN-10040
+1261,Source_B,Europe,MRN-59409
+1262,Source_B,Europe,MRN-23022
+1263,Source_B,Europe,MRN-54060
+1264,Source_B,Europe,MRN-27288
+1265,Source_B,Europe,MRN-20474
+1266,Source_B,Europe,MRN-93091
+1267,Source_B,Europe,MRN-24952
+1268,Source_B,Europe,MRN-29884
+1269,Source_B,Europe,MRN-93175
+1270,Source_B,Europe,MRN-11003
+1271,Source_B,Europe,MRN-17364
+1272,Source_B,Europe,MRN-92963
+1273,Source_B,Europe,MRN-84170
+1274,Source_B,Europe,MRN-58835
+1275,Source_B,Europe,MRN-86389
+1276,Source_B,Europe,MRN-78924
+1277,Source_B,Europe,MRN-70754
+1278,Source_B,Europe,MRN-24324
+1279,Source_B,Europe,MRN-82043
+1280,Source_B,Europe,MRN-75659
+1281,Source_B,Europe,MRN-11105
+1282,Source_B,Europe,MRN-18476
+1283,Source_B,Europe,MRN-97002
+1284,Source_B,Europe,MRN-79755
+1285,Source_B,Europe,MRN-98543
+1286,Source_B,Europe,MRN-82833
+1287,Source_B,Europe,MRN-24909
+1288,Source_B,Europe,MRN-42988
+1289,Source_B,Europe,MRN-35726
+1290,Source_B,Europe,MRN-33500
+1291,Source_B,Europe,MRN-28326
+1292,Source_B,Europe,MRN-54468
+1293,Source_B,Europe,MRN-50955
+1294,Source_B,Europe,MRN-92952
+1295,Source_B,Europe,MRN-82171
+1296,Source_B,Europe,MRN-83434
+1297,Source_B,Europe,MRN-61683
+1298,Source_B,Europe,MRN-55536
+1299,Source_B,Europe,MRN-25632
+1300,Source_B,Europe,MRN-27649
+1301,Source_B,Europe,MRN-15046
+1302,Source_B,Europe,MRN-13491
+1303,Source_B,Europe,MRN-94890
+1304,Source_B,Europe,MRN-29911
+1305,Source_B,Europe,MRN-42631
+1306,Source_B,Europe,MRN-20707
+1307,Source_B,Europe,MRN-83145
+1308,Source_B,Europe,MRN-95952
+1309,Source_B,Europe,MRN-43843
+1310,Source_B,Europe,MRN-46378
+1311,Source_B,Europe,MRN-51211
+1312,Source_B,Europe,MRN-78839
+1313,Source_B,Europe,MRN-74788
+1314,Source_B,Europe,MRN-61883
+1315,Source_B,Europe,MRN-89169
+1316,Source_B,Europe,MRN-19816
+1317,Source_B,Europe,MRN-39011
+1318,Source_B,Europe,MRN-86530
+1319,Source_B,Europe,MRN-19510
+1320,Source_B,Europe,MRN-20600
+1321,Source_B,Europe,MRN-46876
+1322,Source_B,Europe,MRN-89356
+1323,Source_B,Europe,MRN-96428
+1324,Source_B,Europe,MRN-77814
+1325,Source_B,Europe,MRN-54695
+1326,Source_B,Europe,MRN-34371
+1327,Source_B,Europe,MRN-54834
+1328,Source_B,Europe,MRN-17831
+1329,Source_B,Europe,MRN-78816
+1330,Source_B,Europe,MRN-97207
+1331,Source_B,Europe,MRN-34065
+1332,Source_B,Europe,MRN-71829
+1333,Source_B,Europe,MRN-89149
+1334,Source_B,Europe,MRN-95920
+1335,Source_B,Europe,MRN-39558
+1336,Source_B,Europe,MRN-41602
+1337,Source_B,Europe,MRN-57711
+1338,Source_B,Europe,MRN-40117
+1339,Source_B,Europe,MRN-75172
+1340,Source_B,Europe,MRN-23036
+1341,Source_B,Europe,MRN-80873
+1342,Source_B,Europe,MRN-16511
+1343,Source_B,Europe,MRN-27021
+1344,Source_B,Europe,MRN-84260
+1345,Source_B,Europe,MRN-96168
+1346,Source_B,Europe,MRN-35251
+1347,Source_B,Europe,MRN-25280
+1348,Source_B,Europe,MRN-17345
+1349,Source_B,Europe,MRN-85060
+1350,Source_B,Europe,MRN-27162
+1351,Source_B,Europe,MRN-50200
+1352,Source_B,Europe,MRN-20047
+1353,Source_B,Europe,MRN-47866
+1354,Source_B,Europe,MRN-10309
+1355,Source_B,Europe,MRN-24146
+1356,Source_B,Europe,MRN-62840
+1357,Source_B,Europe,MRN-75883
+1358,Source_B,Europe,MRN-15879
+1359,Source_B,Europe,MRN-31722
+1360,Source_B,Europe,MRN-41004
+1361,Source_B,Europe,MRN-75468
+1362,Source_B,Europe,MRN-23690
+1363,Source_B,Europe,MRN-64301
+1364,Source_B,Europe,MRN-14913
+1365,Source_B,Europe,MRN-31886
+1366,Source_B,Europe,MRN-42640
+1367,Source_B,Europe,MRN-71623
+1368,Source_B,Europe,MRN-29493
+1369,Source_B,Europe,MRN-87211
+1370,Source_B,Europe,MRN-13218
+1371,Source_B,Europe,MRN-67305
+1372,Source_B,Europe,MRN-36356
+1373,Source_B,Europe,MRN-58083
+1374,Source_B,Europe,MRN-12816
+1375,Source_B,Europe,MRN-80181
+1376,Source_B,Europe,MRN-21540
+1377,Source_B,Europe,MRN-60485
+1378,Source_B,Europe,MRN-93959
+1379,Source_B,Europe,MRN-25134
+1380,Source_B,Europe,MRN-49930
+1381,Source_B,Europe,MRN-64849
+1382,Source_B,Europe,MRN-57938
+1383,Source_B,Europe,MRN-30889
+1384,Source_B,Europe,MRN-60083
+1385,Source_B,Europe,MRN-76864
+1386,Source_B,Europe,MRN-48481
+1387,Source_B,Europe,MRN-32694
+1388,Source_B,Europe,MRN-36295
+1389,Source_B,Europe,MRN-91645
+1390,Source_B,Europe,MRN-38997
+1391,Source_B,Europe,MRN-12675
+1392,Source_B,Europe,MRN-85381
+1393,Source_B,Europe,MRN-64678
+1394,Source_B,Europe,MRN-57591
+1395,Source_B,Europe,MRN-72391
+1396,Source_B,Europe,MRN-72014
+1397,Source_B,Europe,MRN-54918
+1398,Source_B,Europe,MRN-91368
+1399,Source_B,Europe,MRN-68415
+1400,Source_B,Europe,MRN-50953
+1401,Source_B,Europe,MRN-32795
+1402,Source_B,Europe,MRN-26528
+1403,Source_B,Europe,MRN-82979
+1404,Source_B,Europe,MRN-16573
+1405,Source_B,Europe,MRN-89006
+1406,Source_B,Europe,MRN-92689
+1407,Source_B,Europe,MRN-66124
+1408,Source_B,Europe,MRN-12705
+1409,Source_B,Europe,MRN-28359
+1410,Source_B,Europe,MRN-58773
+1411,Source_B,Europe,MRN-71775
+1412,Source_B,Europe,MRN-80400
+1413,Source_B,Europe,MRN-66861
+1414,Source_B,Europe,MRN-56022
+1415,Source_B,Europe,MRN-82141
+1416,Source_B,Europe,MRN-37744
+1417,Source_B,Europe,MRN-88689
+1418,Source_B,Europe,MRN-26335
+1419,Source_B,Europe,MRN-12194
+1420,Source_B,Europe,MRN-33502
+1421,Source_B,Europe,MRN-15246
+1422,Source_B,Europe,MRN-93666
+1423,Source_B,Europe,MRN-78425
+1424,Source_B,Europe,MRN-60213
+1425,Source_B,Europe,MRN-86494
+1426,Source_B,Europe,MRN-38601
+1427,Source_B,Europe,MRN-66085
+1428,Source_B,Europe,MRN-95821
+1429,Source_B,Europe,MRN-35718
+1430,Source_B,Europe,MRN-66940
+1431,Source_B,Europe,MRN-76703
+1432,Source_B,Europe,MRN-38626
+1433,Source_B,Europe,MRN-35129
+1434,Source_B,Europe,MRN-34858
+1435,Source_B,Europe,MRN-13408
+1436,Source_B,Europe,MRN-85109
+1437,Source_B,Europe,MRN-19439
+1438,Source_B,Europe,MRN-61280
+1439,Source_B,Europe,MRN-82684
+1440,Source_B,Europe,MRN-61068
+1441,Source_B,Europe,MRN-12269
+1442,Source_B,Europe,MRN-33871
+1443,Source_B,Europe,MRN-19441
+1444,Source_B,Europe,MRN-56635
+1445,Source_B,Europe,MRN-39142
+1446,Source_B,Europe,MRN-44648
+1447,Source_B,Europe,MRN-92664
+1448,Source_B,Europe,MRN-90175
+1449,Source_B,Europe,MRN-89145
+1450,Source_B,Europe,MRN-33720
+1451,Source_B,Europe,MRN-65635
+1452,Source_B,Europe,MRN-80623
+1453,Source_B,Europe,MRN-78987
+1454,Source_B,Europe,MRN-89209
+1455,Source_B,Europe,MRN-69142
+1456,Source_B,Europe,MRN-89080
+1457,Source_B,Europe,MRN-53355
+1458,Source_B,Europe,MRN-46529
+1459,Source_B,Europe,MRN-70093
+1460,Source_B,Europe,MRN-66157
+1461,Source_B,Europe,MRN-63026
+1462,Source_B,Europe,MRN-18906
+1463,Source_B,Europe,MRN-41198
+1464,Source_B,Europe,MRN-31937
+1465,Source_B,Europe,MRN-40979
+1466,Source_B,Europe,MRN-20569
+1467,Source_B,Europe,MRN-59324
+1468,Source_B,Europe,MRN-46631
+1469,Source_B,Europe,MRN-95763
+1470,Source_B,Europe,MRN-31682
+1471,Source_B,Europe,MRN-44822
+1472,Source_B,Europe,MRN-81090
+1473,Source_B,Europe,MRN-81265
+1474,Source_B,Europe,MRN-26470
+1475,Source_B,Europe,MRN-18877
+1476,Source_B,Europe,MRN-70237
+1477,Source_B,Europe,MRN-50208
+1478,Source_B,Europe,MRN-40238
+1479,Source_B,Europe,MRN-85642
+1480,Source_B,Europe,MRN-59910
+1481,Source_B,Europe,MRN-19000
+1482,Source_B,Europe,MRN-76080
+1483,Source_B,Europe,MRN-12851
+1484,Source_B,Europe,MRN-45936
+1485,Source_B,Europe,MRN-69146
+1486,Source_B,Europe,MRN-93123
+1487,Source_B,Europe,MRN-30765
+1488,Source_B,Europe,MRN-21103
+1489,Source_B,Europe,MRN-96946
+1490,Source_B,Europe,MRN-61390
+1491,Source_B,Europe,MRN-69697
+1492,Source_B,Europe,MRN-71526
+1493,Source_B,Europe,MRN-42320
+1494,Source_B,Europe,MRN-99527
+1495,Source_B,Europe,MRN-39653
+1496,Source_B,Europe,MRN-76809
+1497,Source_B,Europe,MRN-95355
+1498,Source_B,Europe,MRN-26010
+1499,Source_B,Europe,MRN-17367
+1500,Source_B,Europe,MRN-94956
+1501,Source_B,Europe,MRN-42219
+1502,Source_B,Europe,MRN-87755
+1503,Source_B,Europe,MRN-91454
+1504,Source_B,Europe,MRN-60569
+1505,Source_B,Europe,MRN-62565
+1506,Source_B,Europe,MRN-80014
+1507,Source_B,Europe,MRN-58974
+1508,Source_B,Europe,MRN-20417
+1509,Source_B,Europe,MRN-24443
+1510,Source_B,Europe,MRN-33470
+1511,Source_B,Europe,MRN-82571
+1512,Source_B,Europe,MRN-72625
+1513,Source_B,Europe,MRN-68535
+1514,Source_B,Europe,MRN-70740
+1515,Source_B,Europe,MRN-25373
+1516,Source_B,Europe,MRN-24249
+1517,Source_B,Europe,MRN-73426
+1518,Source_B,Europe,MRN-71514
+1519,Source_B,Europe,MRN-36048
+1520,Source_B,Europe,MRN-96434
+1521,Source_B,Europe,MRN-53806
+1522,Source_B,Europe,MRN-23626
+1523,Source_B,Europe,MRN-90018
+1524,Source_B,Europe,MRN-11516
+1525,Source_B,Europe,MRN-33769
+1526,Source_B,Europe,MRN-71036
+1527,Source_B,Europe,MRN-44943
+1528,Source_B,Europe,MRN-16055
+1529,Source_B,Europe,MRN-28560
+1530,Source_B,Europe,MRN-14206
+1531,Source_B,Europe,MRN-47024
+1532,Source_B,Europe,MRN-64474
+1533,Source_B,Europe,MRN-37592
+1534,Source_B,Europe,MRN-32814
+1535,Source_B,Europe,MRN-42712
+1536,Source_B,Europe,MRN-85349
+1537,Source_B,Europe,MRN-81992
+1538,Source_B,Europe,MRN-93159
+1539,Source_B,Europe,MRN-62821
+1540,Source_B,Europe,MRN-15122
+1541,Source_B,Europe,MRN-58994
+1542,Source_B,Europe,MRN-96669
+1543,Source_B,Europe,MRN-62483
+1544,Source_B,Europe,MRN-74385
+1545,Source_B,Europe,MRN-68271
+1546,Source_B,Europe,MRN-91301
+1547,Source_B,Europe,MRN-64619
+1548,Source_B,Europe,MRN-29747
+1549,Source_B,Europe,MRN-70948
+1550,Source_B,Europe,MRN-36577
+1551,Source_C,Asia,1
+1552,Source_C,Asia,2
+1553,Source_C,Asia,3
+1554,Source_C,Asia,4
+1555,Source_C,Asia,5
+1556,Source_C,Asia,6
+1557,Source_C,Asia,7
+1558,Source_C,Asia,8
+1559,Source_C,Asia,9
+1560,Source_C,Asia,10
+1561,Source_C,Asia,11
+1562,Source_C,Asia,12
+1563,Source_C,Asia,13
+1564,Source_C,Asia,14
+1565,Source_C,Asia,15
+1566,Source_C,Asia,16
+1567,Source_C,Asia,17
+1568,Source_C,Asia,18
+1569,Source_C,Asia,19
+1570,Source_C,Asia,20
+1571,Source_C,Asia,21
+1572,Source_C,Asia,22
+1573,Source_C,Asia,23
+1574,Source_C,Asia,24
+1575,Source_C,Asia,25
+1576,Source_C,Asia,26
+1577,Source_C,Asia,27
+1578,Source_C,Asia,28
+1579,Source_C,Asia,29
+1580,Source_C,Asia,30
+1581,Source_C,Asia,31
+1582,Source_C,Asia,32
+1583,Source_C,Asia,33
+1584,Source_C,Asia,34
+1585,Source_C,Asia,35
+1586,Source_C,Asia,36
+1587,Source_C,Asia,37
+1588,Source_C,Asia,38
+1589,Source_C,Asia,39
+1590,Source_C,Asia,40
+1591,Source_C,Asia,41
+1592,Source_C,Asia,42
+1593,Source_C,Asia,43
+1594,Source_C,Asia,44
+1595,Source_C,Asia,45
+1596,Source_C,Asia,46
+1597,Source_C,Asia,47
+1598,Source_C,Asia,48
+1599,Source_C,Asia,49
+1600,Source_C,Asia,50
+1601,Source_C,Asia,51
+1602,Source_C,Asia,52
+1603,Source_C,Asia,53
+1604,Source_C,Asia,54
+1605,Source_C,Asia,55
+1606,Source_C,Asia,56
+1607,Source_C,Asia,57
+1608,Source_C,Asia,58
+1609,Source_C,Asia,59
+1610,Source_C,Asia,60
+1611,Source_C,Asia,61
+1612,Source_C,Asia,62
+1613,Source_C,Asia,63
+1614,Source_C,Asia,64
+1615,Source_C,Asia,65
+1616,Source_C,Asia,66
+1617,Source_C,Asia,67
+1618,Source_C,Asia,68
+1619,Source_C,Asia,69
+1620,Source_C,Asia,70
+1621,Source_C,Asia,71
+1622,Source_C,Asia,72
+1623,Source_C,Asia,73
+1624,Source_C,Asia,74
+1625,Source_C,Asia,75
+1626,Source_C,Asia,76
+1627,Source_C,Asia,77
+1628,Source_C,Asia,78
+1629,Source_C,Asia,79
+1630,Source_C,Asia,80
+1631,Source_C,Asia,81
+1632,Source_C,Asia,82
+1633,Source_C,Asia,83
+1634,Source_C,Asia,84
+1635,Source_C,Asia,85
+1636,Source_C,Asia,86
+1637,Source_C,Asia,87
+1638,Source_C,Asia,88
+1639,Source_C,Asia,89
+1640,Source_C,Asia,90
+1641,Source_C,Asia,91
+1642,Source_C,Asia,92
+1643,Source_C,Asia,93
+1644,Source_C,Asia,94
+1645,Source_C,Asia,95
+1646,Source_C,Asia,96
+1647,Source_C,Asia,97
+1648,Source_C,Asia,98
+1649,Source_C,Asia,99
+1650,Source_C,Asia,100
+1651,Source_C,Asia,101
+1652,Source_C,Asia,102
+1653,Source_C,Asia,103
+1654,Source_C,Asia,104
+1655,Source_C,Asia,105
+1656,Source_C,Asia,106
+1657,Source_C,Asia,107
+1658,Source_C,Asia,108
+1659,Source_C,Asia,109
+1660,Source_C,Asia,110
+1661,Source_C,Asia,111
+1662,Source_C,Asia,112
+1663,Source_C,Asia,113
+1664,Source_C,Asia,114
+1665,Source_C,Asia,115
+1666,Source_C,Asia,116
+1667,Source_C,Asia,117
+1668,Source_C,Asia,118
+1669,Source_C,Asia,119
+1670,Source_C,Asia,120
+1671,Source_C,Asia,121
+1672,Source_C,Asia,122
+1673,Source_C,Asia,123
+1674,Source_C,Asia,124
+1675,Source_C,Asia,125
+1676,Source_C,Asia,126
+1677,Source_C,Asia,127
+1678,Source_C,Asia,128
+1679,Source_C,Asia,129
+1680,Source_C,Asia,130
+1681,Source_C,Asia,131
+1682,Source_C,Asia,132
+1683,Source_C,Asia,133
+1684,Source_C,Asia,134
+1685,Source_C,Asia,135
+1686,Source_C,Asia,136
+1687,Source_C,Asia,137
+1688,Source_C,Asia,138
+1689,Source_C,Asia,139
+1690,Source_C,Asia,140
+1691,Source_C,Asia,141
+1692,Source_C,Asia,142
+1693,Source_C,Asia,143
+1694,Source_C,Asia,144
+1695,Source_C,Asia,145
+1696,Source_C,Asia,146
+1697,Source_C,Asia,147
+1698,Source_C,Asia,148
+1699,Source_C,Asia,149
+1700,Source_C,Asia,150
+1701,Source_C,Asia,151
+1702,Source_C,Asia,152
+1703,Source_C,Asia,153
+1704,Source_C,Asia,154
+1705,Source_C,Asia,155
+1706,Source_C,Asia,156
+1707,Source_C,Asia,157
+1708,Source_C,Asia,158
+1709,Source_C,Asia,159
+1710,Source_C,Asia,160
+1711,Source_C,Asia,161
+1712,Source_C,Asia,162
+1713,Source_C,Asia,163
+1714,Source_C,Asia,164
+1715,Source_C,Asia,165
+1716,Source_C,Asia,166
+1717,Source_C,Asia,167
+1718,Source_C,Asia,168
+1719,Source_C,Asia,169
+1720,Source_C,Asia,170
+1721,Source_C,Asia,171
+1722,Source_C,Asia,172
+1723,Source_C,Asia,173
+1724,Source_C,Asia,174
+1725,Source_C,Asia,175
+1726,Source_C,Asia,176
+1727,Source_C,Asia,177
+1728,Source_C,Asia,178
+1729,Source_C,Asia,179
+1730,Source_C,Asia,180
+1731,Source_C,Asia,181
+1732,Source_C,Asia,182
+1733,Source_C,Asia,183
+1734,Source_C,Asia,184
+1735,Source_C,Asia,185
+1736,Source_C,Asia,186
+1737,Source_C,Asia,187
+1738,Source_C,Asia,188
+1739,Source_C,Asia,189
+1740,Source_C,Asia,190
+1741,Source_C,Asia,191
+1742,Source_C,Asia,192
+1743,Source_C,Asia,193
+1744,Source_C,Asia,194
+1745,Source_C,Asia,195
+1746,Source_C,Asia,196
+1747,Source_C,Asia,197
+1748,Source_C,Asia,198
+1749,Source_C,Asia,199
+1750,Source_C,Asia,200
+1751,Source_C,Asia,201
+1752,Source_C,Asia,202
+1753,Source_C,Asia,203
+1754,Source_C,Asia,204
+1755,Source_C,Asia,205
+1756,Source_C,Asia,206
+1757,Source_C,Asia,207
+1758,Source_C,Asia,208
+1759,Source_C,Asia,209
+1760,Source_C,Asia,210
+1761,Source_C,Asia,211
+1762,Source_C,Asia,212
+1763,Source_C,Asia,213
+1764,Source_C,Asia,214
+1765,Source_C,Asia,215
+1766,Source_C,Asia,216
+1767,Source_C,Asia,217
+1768,Source_C,Asia,218
+1769,Source_C,Asia,219
+1770,Source_C,Asia,220
+1771,Source_C,Asia,221
+1772,Source_C,Asia,222
+1773,Source_C,Asia,223
+1774,Source_C,Asia,224
+1775,Source_C,Asia,225
+1776,Source_C,Asia,226
+1777,Source_C,Asia,227
+1778,Source_C,Asia,228
+1779,Source_C,Asia,229
+1780,Source_C,Asia,230
+1781,Source_C,Asia,231
+1782,Source_C,Asia,232
+1783,Source_C,Asia,233
+1784,Source_C,Asia,234
+1785,Source_C,Asia,235
+1786,Source_C,Asia,236
+1787,Source_C,Asia,237
+1788,Source_C,Asia,238
+1789,Source_C,Asia,239
+1790,Source_C,Asia,240
+1791,Source_C,Asia,241
+1792,Source_C,Asia,242
+1793,Source_C,Asia,243
+1794,Source_C,Asia,244
+1795,Source_C,Asia,245
+1796,Source_C,Asia,246
+1797,Source_C,Asia,247
+1798,Source_C,Asia,248
+1799,Source_C,Asia,249
+1800,Source_C,Asia,250
+1801,Source_C,Asia,251
+1802,Source_C,Asia,252
+1803,Source_C,Asia,253
+1804,Source_C,Asia,254
+1805,Source_C,Asia,255
+1806,Source_C,Asia,256
+1807,Source_C,Asia,257
+1808,Source_C,Asia,258
+1809,Source_C,Asia,259
+1810,Source_C,Asia,260
+1811,Source_C,Asia,261
+1812,Source_C,Asia,262
+1813,Source_C,Asia,263
+1814,Source_C,Asia,264
+1815,Source_C,Asia,265
+1816,Source_C,Asia,266
+1817,Source_C,Asia,267
+1818,Source_C,Asia,268
+1819,Source_C,Asia,269
+1820,Source_C,Asia,270
+1821,Source_C,Asia,271
+1822,Source_C,Asia,272
+1823,Source_C,Asia,273
+1824,Source_C,Asia,274
+1825,Source_C,Asia,275
+1826,Source_C,Asia,276
+1827,Source_C,Asia,277
+1828,Source_C,Asia,278
+1829,Source_C,Asia,279
+1830,Source_C,Asia,280
+1831,Source_C,Asia,281
+1832,Source_C,Asia,282
+1833,Source_C,Asia,283
+1834,Source_C,Asia,284
+1835,Source_C,Asia,285
+1836,Source_C,Asia,286
+1837,Source_C,Asia,287
+1838,Source_C,Asia,288
+1839,Source_C,Asia,289
+1840,Source_C,Asia,290
+1841,Source_C,Asia,291
+1842,Source_C,Asia,292
+1843,Source_C,Asia,293
+1844,Source_C,Asia,294
+1845,Source_C,Asia,295
+1846,Source_C,Asia,296
+1847,Source_C,Asia,297
+1848,Source_C,Asia,298
+1849,Source_C,Asia,299
+1850,Source_C,Asia,300
+1851,Source_C,Asia,301
+1852,Source_C,Asia,302
+1853,Source_C,Asia,303
+1854,Source_C,Asia,304
+1855,Source_C,Asia,305
+1856,Source_C,Asia,306
+1857,Source_C,Asia,307
+1858,Source_C,Asia,308
+1859,Source_C,Asia,309
+1860,Source_C,Asia,310
+1861,Source_C,Asia,311
+1862,Source_C,Asia,312
+1863,Source_C,Asia,313
+1864,Source_C,Asia,314
+1865,Source_C,Asia,315
+1866,Source_C,Asia,316
+1867,Source_C,Asia,317
+1868,Source_C,Asia,318
+1869,Source_C,Asia,319
+1870,Source_C,Asia,320
+1871,Source_C,Asia,321
+1872,Source_C,Asia,322
+1873,Source_C,Asia,323
+1874,Source_C,Asia,324
+1875,Source_C,Asia,325
+1876,Source_C,Asia,326
+1877,Source_C,Asia,327
+1878,Source_C,Asia,328
+1879,Source_C,Asia,329
+1880,Source_C,Asia,330
+1881,Source_C,Asia,331
+1882,Source_C,Asia,332
+1883,Source_C,Asia,333
+1884,Source_C,Asia,334
+1885,Source_C,Asia,335
+1886,Source_C,Asia,336
+1887,Source_C,Asia,337
+1888,Source_C,Asia,338
+1889,Source_C,Asia,339
+1890,Source_C,Asia,340
+1891,Source_C,Asia,341
+1892,Source_C,Asia,342
+1893,Source_C,Asia,343
+1894,Source_C,Asia,344
+1895,Source_C,Asia,345
+1896,Source_C,Asia,346
+1897,Source_C,Asia,347
+1898,Source_C,Asia,348
+1899,Source_C,Asia,349
+1900,Source_C,Asia,350
+1901,Source_C,Asia,351
+1902,Source_C,Asia,352
+1903,Source_C,Asia,353
+1904,Source_C,Asia,354
+1905,Source_C,Asia,355
+1906,Source_C,Asia,356
+1907,Source_C,Asia,357
+1908,Source_C,Asia,358
+1909,Source_C,Asia,359
+1910,Source_C,Asia,360
+1911,Source_C,Asia,361
+1912,Source_C,Asia,362
+1913,Source_C,Asia,363
+1914,Source_C,Asia,364
+1915,Source_C,Asia,365
+1916,Source_C,Asia,366
+1917,Source_C,Asia,367
+1918,Source_C,Asia,368
+1919,Source_C,Asia,369
+1920,Source_C,Asia,370
+1921,Source_C,Asia,371
+1922,Source_C,Asia,372
+1923,Source_C,Asia,373
+1924,Source_C,Asia,374
+1925,Source_C,Asia,375
+1926,Source_C,Asia,376
+1927,Source_C,Asia,377
+1928,Source_C,Asia,378
+1929,Source_C,Asia,379
+1930,Source_C,Asia,380
+1931,Source_C,Asia,381
+1932,Source_C,Asia,382
+1933,Source_C,Asia,383
+1934,Source_C,Asia,384
+1935,Source_C,Asia,385
+1936,Source_C,Asia,386
+1937,Source_C,Asia,387
+1938,Source_C,Asia,388
+1939,Source_C,Asia,389
+1940,Source_C,Asia,390
+1941,Source_C,Asia,391
+1942,Source_C,Asia,392
+1943,Source_C,Asia,393
+1944,Source_C,Asia,394
+1945,Source_C,Asia,395
+1946,Source_C,Asia,396
+1947,Source_C,Asia,397
+1948,Source_C,Asia,398
+1949,Source_C,Asia,399
+1950,Source_C,Asia,400
+1951,Source_C,Asia,401
+1952,Source_C,Asia,402
+1953,Source_C,Asia,403
+1954,Source_C,Asia,404
+1955,Source_C,Asia,405
+1956,Source_C,Asia,406
+1957,Source_C,Asia,407
+1958,Source_C,Asia,408
+1959,Source_C,Asia,409
+1960,Source_C,Asia,410
+1961,Source_C,Asia,411
+1962,Source_C,Asia,412
+1963,Source_C,Asia,413
+1964,Source_C,Asia,414
+1965,Source_C,Asia,415
+1966,Source_C,Asia,416
+1967,Source_C,Asia,417
+1968,Source_C,Asia,418
+1969,Source_C,Asia,419
+1970,Source_C,Asia,420
+1971,Source_C,Asia,421
+1972,Source_C,Asia,422
+1973,Source_C,Asia,423
+1974,Source_C,Asia,424
+1975,Source_C,Asia,425
+1976,Source_C,Asia,426
+1977,Source_C,Asia,427
+1978,Source_C,Asia,428
+1979,Source_C,Asia,429
+1980,Source_C,Asia,430
+1981,Source_C,Asia,431
+1982,Source_C,Asia,432
+1983,Source_C,Asia,433
+1984,Source_C,Asia,434
+1985,Source_C,Asia,435
+1986,Source_C,Asia,436
+1987,Source_C,Asia,437
+1988,Source_C,Asia,438
+1989,Source_C,Asia,439
+1990,Source_C,Asia,440
+1991,Source_C,Asia,441
+1992,Source_C,Asia,442
+1993,Source_C,Asia,443
+1994,Source_C,Asia,444
+1995,Source_C,Asia,445
+1996,Source_C,Asia,446
+1997,Source_C,Asia,447
+1998,Source_C,Asia,448
+1999,Source_C,Asia,449
+2000,Source_C,Asia,450
+2001,Source_C,Asia,451
+2002,Source_C,Asia,452
+2003,Source_C,Asia,453
+2004,Source_C,Asia,454
+2005,Source_C,Asia,455
+2006,Source_C,Asia,456
+2007,Source_C,Asia,457
+2008,Source_C,Asia,458
+2009,Source_C,Asia,459
+2010,Source_C,Asia,460
+2011,Source_C,Asia,461
+2012,Source_C,Asia,462
+2013,Source_C,Asia,463
+2014,Source_C,Asia,464
+2015,Source_C,Asia,465
+2016,Source_C,Asia,466
+2017,Source_C,Asia,467
+2018,Source_C,Asia,468
+2019,Source_C,Asia,469
+2020,Source_C,Asia,470
+2021,Source_C,Asia,471
+2022,Source_C,Asia,472
+2023,Source_C,Asia,473
+2024,Source_C,Asia,474
+2025,Source_C,Asia,475
+2026,Source_C,Asia,476
+2027,Source_C,Asia,477
+2028,Source_C,Asia,478
+2029,Source_C,Asia,479
+2030,Source_C,Asia,480
+2031,Source_C,Asia,481
+2032,Source_C,Asia,482
+2033,Source_C,Asia,483
+2034,Source_C,Asia,484
+2035,Source_C,Asia,485
+2036,Source_C,Asia,486
+2037,Source_C,Asia,487
+2038,Source_C,Asia,488
+2039,Source_C,Asia,489
+2040,Source_C,Asia,490
+2041,Source_C,Asia,491
+2042,Source_C,Asia,492
+2043,Source_C,Asia,493
+2044,Source_C,Asia,494
+2045,Source_C,Asia,495
+2046,Source_C,Asia,496
+2047,Source_C,Asia,497
+2048,Source_C,Asia,498
+2049,Source_C,Asia,499
+2050,Source_C,Asia,500
+2051,Source_C,Asia,501
+2052,Source_C,Asia,502
+2053,Source_C,Asia,503
+2054,Source_C,Asia,504
+2055,Source_C,Asia,505
+2056,Source_C,Asia,506
+2057,Source_C,Asia,507
+2058,Source_C,Asia,508
+2059,Source_C,Asia,509
+2060,Source_C,Asia,510
+2061,Source_C,Asia,511
+2062,Source_C,Asia,512
+2063,Source_C,Asia,513
+2064,Source_C,Asia,514
+2065,Source_C,Asia,515
+2066,Source_C,Asia,516
+2067,Source_C,Asia,517
+2068,Source_C,Asia,518
+2069,Source_C,Asia,519
+2070,Source_C,Asia,520
+2071,Source_C,Asia,521
+2072,Source_C,Asia,522
+2073,Source_C,Asia,523
+2074,Source_C,Asia,524
+2075,Source_C,Asia,525
+2076,Source_C,Asia,526
+2077,Source_C,Asia,527
+2078,Source_C,Asia,528
+2079,Source_C,Asia,529
+2080,Source_C,Asia,530
+2081,Source_C,Asia,531
+2082,Source_C,Asia,532
+2083,Source_C,Asia,533
+2084,Source_C,Asia,534
+2085,Source_C,Asia,535
+2086,Source_C,Asia,536
+2087,Source_C,Asia,537
+2088,Source_C,Asia,538
+2089,Source_C,Asia,539
+2090,Source_C,Asia,540
+2091,Source_C,Asia,541
+2092,Source_C,Asia,542
+2093,Source_C,Asia,543
+2094,Source_C,Asia,544
+2095,Source_C,Asia,545
+2096,Source_C,Asia,546
+2097,Source_C,Asia,547
+2098,Source_C,Asia,548
+2099,Source_C,Asia,549
+2100,Source_C,Asia,550
+2101,Source_C,Asia,551
+2102,Source_C,Asia,552
+2103,Source_C,Asia,553
+2104,Source_C,Asia,554
+2105,Source_C,Asia,555
+2106,Source_C,Asia,556
+2107,Source_C,Asia,557
+2108,Source_C,Asia,558
+2109,Source_C,Asia,559
+2110,Source_C,Asia,560
+2111,Source_C,Asia,561
+2112,Source_C,Asia,562
+2113,Source_C,Asia,563
+2114,Source_C,Asia,564
+2115,Source_C,Asia,565
+2116,Source_C,Asia,566
+2117,Source_C,Asia,567
+2118,Source_C,Asia,568
+2119,Source_C,Asia,569
+2120,Source_C,Asia,570
+2121,Source_C,Asia,571
+2122,Source_C,Asia,572
+2123,Source_C,Asia,573
+2124,Source_C,Asia,574
+2125,Source_C,Asia,575
+2126,Source_C,Asia,576
+2127,Source_C,Asia,577
+2128,Source_C,Asia,578
+2129,Source_C,Asia,579
+2130,Source_C,Asia,580
+2131,Source_C,Asia,581
+2132,Source_C,Asia,582
+2133,Source_C,Asia,583
+2134,Source_C,Asia,584
+2135,Source_C,Asia,585
+2136,Source_C,Asia,586
+2137,Source_C,Asia,587
+2138,Source_C,Asia,588
+2139,Source_C,Asia,589
+2140,Source_C,Asia,590
+2141,Source_C,Asia,591
+2142,Source_C,Asia,592
+2143,Source_C,Asia,593
+2144,Source_C,Asia,594
+2145,Source_C,Asia,595
+2146,Source_C,Asia,596
+2147,Source_C,Asia,597
+2148,Source_C,Asia,598
+2149,Source_C,Asia,599
+2150,Source_C,Asia,600
+2151,Source_C,Asia,601
+2152,Source_C,Asia,602
+2153,Source_C,Asia,603
+2154,Source_C,Asia,604
+2155,Source_C,Asia,605
+2156,Source_C,Asia,606
+2157,Source_C,Asia,607
+2158,Source_C,Asia,608
+2159,Source_C,Asia,609
+2160,Source_C,Asia,610
+2161,Source_C,Asia,611
+2162,Source_C,Asia,612
+2163,Source_C,Asia,613
+2164,Source_C,Asia,614
+2165,Source_C,Asia,615
+2166,Source_C,Asia,616
+2167,Source_C,Asia,617
+2168,Source_C,Asia,618
+2169,Source_C,Asia,619
+2170,Source_C,Asia,620
+2171,Source_C,Asia,621
+2172,Source_C,Asia,622
+2173,Source_C,Asia,623
+2174,Source_C,Asia,624
+2175,Source_C,Asia,625
+2176,Source_C,Asia,626
+2177,Source_C,Asia,627
+2178,Source_C,Asia,628
+2179,Source_C,Asia,629
+2180,Source_C,Asia,630
+2181,Source_C,Asia,631
+2182,Source_C,Asia,632
+2183,Source_C,Asia,633
+2184,Source_C,Asia,634
+2185,Source_C,Asia,635
+2186,Source_C,Asia,636
+2187,Source_C,Asia,637
+2188,Source_C,Asia,638
+2189,Source_C,Asia,639
+2190,Source_C,Asia,640
+2191,Source_C,Asia,641
+2192,Source_C,Asia,642
+2193,Source_C,Asia,643
+2194,Source_C,Asia,644
+2195,Source_C,Asia,645
+2196,Source_C,Asia,646
+2197,Source_C,Asia,647
+2198,Source_C,Asia,648
+2199,Source_C,Asia,649
+2200,Source_C,Asia,650
+2201,Source_C,Asia,651
+2202,Source_C,Asia,652
+2203,Source_C,Asia,653
+2204,Source_C,Asia,654
+2205,Source_C,Asia,655
+2206,Source_C,Asia,656
+2207,Source_C,Asia,657
+2208,Source_C,Asia,658
+2209,Source_C,Asia,659
+2210,Source_C,Asia,660
+2211,Source_C,Asia,661
+2212,Source_C,Asia,662
+2213,Source_C,Asia,663
+2214,Source_C,Asia,664
+2215,Source_C,Asia,665
+2216,Source_C,Asia,666
+2217,Source_C,Asia,667
+2218,Source_C,Asia,668
+2219,Source_C,Asia,669
+2220,Source_C,Asia,670
+2221,Source_C,Asia,671
+2222,Source_C,Asia,672
+2223,Source_C,Asia,673
+2224,Source_C,Asia,674
+2225,Source_C,Asia,675
+2226,Source_C,Asia,676
+2227,Source_C,Asia,677
+2228,Source_C,Asia,678
+2229,Source_C,Asia,679
+2230,Source_C,Asia,680
+2231,Source_C,Asia,681
+2232,Source_C,Asia,682
+2233,Source_C,Asia,683
+2234,Source_C,Asia,684
+2235,Source_C,Asia,685
+2236,Source_C,Asia,686
+2237,Source_C,Asia,687
+2238,Source_C,Asia,688
+2239,Source_C,Asia,689
+2240,Source_C,Asia,690
+2241,Source_C,Asia,691
+2242,Source_C,Asia,692
+2243,Source_C,Asia,693
+2244,Source_C,Asia,694
+2245,Source_C,Asia,695
+2246,Source_C,Asia,696
+2247,Source_C,Asia,697
+2248,Source_C,Asia,698
+2249,Source_C,Asia,699
+2250,Source_C,Asia,700
+2251,Source_C,Asia,701
+2252,Source_C,Asia,702
+2253,Source_C,Asia,703
+2254,Source_C,Asia,704
+2255,Source_C,Asia,705
+2256,Source_C,Asia,706
+2257,Source_C,Asia,707
+2258,Source_C,Asia,708
+2259,Source_C,Asia,709
+2260,Source_C,Asia,710
+2261,Source_C,Asia,711
+2262,Source_C,Asia,712
+2263,Source_C,Asia,713
+2264,Source_C,Asia,714
+2265,Source_C,Asia,715
+2266,Source_C,Asia,716
+2267,Source_C,Asia,717
+2268,Source_C,Asia,718
+2269,Source_C,Asia,719
+2270,Source_C,Asia,720
+2271,Source_C,Asia,721
+2272,Source_C,Asia,722
+2273,Source_C,Asia,723
+2274,Source_C,Asia,724
+2275,Source_C,Asia,725
+2276,Source_C,Asia,726
+2277,Source_C,Asia,727
+2278,Source_C,Asia,728
+2279,Source_C,Asia,729
+2280,Source_C,Asia,730
+2281,Source_C,Asia,731
+2282,Source_C,Asia,732
+2283,Source_C,Asia,733
+2284,Source_C,Asia,734
+2285,Source_C,Asia,735
+2286,Source_C,Asia,736
+2287,Source_C,Asia,737
+2288,Source_C,Asia,738
+2289,Source_C,Asia,739
+2290,Source_C,Asia,740
+2291,Source_C,Asia,741
+2292,Source_C,Asia,742
+2293,Source_C,Asia,743
+2294,Source_C,Asia,744
+2295,Source_C,Asia,745
+2296,Source_C,Asia,746
+2297,Source_C,Asia,747
+2298,Source_C,Asia,748
+2299,Source_C,Asia,749
+2300,Source_C,Asia,750
+2301,Source_C,Asia,751
+2302,Source_C,Asia,752
+2303,Source_C,Asia,753
+2304,Source_C,Asia,754
+2305,Source_C,Asia,755
+2306,Source_C,Asia,756
+2307,Source_C,Asia,757
+2308,Source_C,Asia,758
+2309,Source_C,Asia,759
+2310,Source_C,Asia,760
+2311,Source_C,Asia,761
+2312,Source_C,Asia,762
+2313,Source_C,Asia,763
+2314,Source_C,Asia,764
+2315,Source_C,Asia,765
+2316,Source_C,Asia,766
+2317,Source_C,Asia,767
+2318,Source_C,Asia,768
+2319,Source_C,Asia,769
+2320,Source_C,Asia,770
+2321,Source_C,Asia,771
+2322,Source_C,Asia,772
+2323,Source_C,Asia,773
+2324,Source_C,Asia,774
+2325,Source_C,Asia,775
+2326,Source_C,Asia,776
+2327,Source_C,Asia,777
+2328,Source_C,Asia,778
+2329,Source_C,Asia,779
+2330,Source_C,Asia,780
+2331,Source_C,Asia,781
+2332,Source_C,Asia,782
+2333,Source_C,Asia,783
+2334,Source_C,Asia,784
+2335,Source_C,Asia,785
+2336,Source_C,Asia,786
+2337,Source_C,Asia,787
+2338,Source_C,Asia,788
+2339,Source_C,Asia,789
+2340,Source_C,Asia,790
+2341,Source_C,Asia,791
+2342,Source_C,Asia,792
+2343,Source_C,Asia,793
+2344,Source_C,Asia,794
+2345,Source_C,Asia,795
+2346,Source_C,Asia,796
+2347,Source_C,Asia,797
+2348,Source_C,Asia,798
+2349,Source_C,Asia,799
+2350,Source_C,Asia,800
+2351,Source_D,South America,1
+2352,Source_D,South America,2
+2353,Source_D,South America,3
+2354,Source_D,South America,4
+2355,Source_D,South America,5
+2356,Source_D,South America,6
+2357,Source_D,South America,7
+2358,Source_D,South America,8
+2359,Source_D,South America,9
+2360,Source_D,South America,10
+2361,Source_D,South America,11
+2362,Source_D,South America,12
+2363,Source_D,South America,13
+2364,Source_D,South America,14
+2365,Source_D,South America,15
+2366,Source_D,South America,16
+2367,Source_D,South America,17
+2368,Source_D,South America,18
+2369,Source_D,South America,19
+2370,Source_D,South America,20
+2371,Source_D,South America,21
+2372,Source_D,South America,22
+2373,Source_D,South America,23
+2374,Source_D,South America,24
+2375,Source_D,South America,25
+2376,Source_D,South America,26
+2377,Source_D,South America,27
+2378,Source_D,South America,28
+2379,Source_D,South America,29
+2380,Source_D,South America,30
+2381,Source_D,South America,31
+2382,Source_D,South America,32
+2383,Source_D,South America,33
+2384,Source_D,South America,34
+2385,Source_D,South America,35
+2386,Source_D,South America,36
+2387,Source_D,South America,37
+2388,Source_D,South America,38
+2389,Source_D,South America,39
+2390,Source_D,South America,40
+2391,Source_D,South America,41
+2392,Source_D,South America,42
+2393,Source_D,South America,43
+2394,Source_D,South America,44
+2395,Source_D,South America,45
+2396,Source_D,South America,46
+2397,Source_D,South America,47
+2398,Source_D,South America,48
+2399,Source_D,South America,49
+2400,Source_D,South America,50
+2401,Source_D,South America,51
+2402,Source_D,South America,52
+2403,Source_D,South America,53
+2404,Source_D,South America,54
+2405,Source_D,South America,55
+2406,Source_D,South America,56
+2407,Source_D,South America,57
+2408,Source_D,South America,58
+2409,Source_D,South America,59
+2410,Source_D,South America,60
+2411,Source_D,South America,61
+2412,Source_D,South America,62
+2413,Source_D,South America,63
+2414,Source_D,South America,64
+2415,Source_D,South America,65
+2416,Source_D,South America,66
+2417,Source_D,South America,67
+2418,Source_D,South America,68
+2419,Source_D,South America,69
+2420,Source_D,South America,70
+2421,Source_D,South America,71
+2422,Source_D,South America,72
+2423,Source_D,South America,73
+2424,Source_D,South America,74
+2425,Source_D,South America,75
+2426,Source_D,South America,76
+2427,Source_D,South America,77
+2428,Source_D,South America,78
+2429,Source_D,South America,79
+2430,Source_D,South America,80
+2431,Source_D,South America,81
+2432,Source_D,South America,82
+2433,Source_D,South America,83
+2434,Source_D,South America,84
+2435,Source_D,South America,85
+2436,Source_D,South America,86
+2437,Source_D,South America,87
+2438,Source_D,South America,88
+2439,Source_D,South America,89
+2440,Source_D,South America,90
+2441,Source_D,South America,91
+2442,Source_D,South America,92
+2443,Source_D,South America,93
+2444,Source_D,South America,94
+2445,Source_D,South America,95
+2446,Source_D,South America,96
+2447,Source_D,South America,97
+2448,Source_D,South America,98
+2449,Source_D,South America,99
+2450,Source_D,South America,100
+2451,Source_D,South America,101
+2452,Source_D,South America,102
+2453,Source_D,South America,103
+2454,Source_D,South America,104
+2455,Source_D,South America,105
+2456,Source_D,South America,106
+2457,Source_D,South America,107
+2458,Source_D,South America,108
+2459,Source_D,South America,109
+2460,Source_D,South America,110
+2461,Source_D,South America,111
+2462,Source_D,South America,112
+2463,Source_D,South America,113
+2464,Source_D,South America,114
+2465,Source_D,South America,115
+2466,Source_D,South America,116
+2467,Source_D,South America,117
+2468,Source_D,South America,118
+2469,Source_D,South America,119
+2470,Source_D,South America,120
+2471,Source_D,South America,121
+2472,Source_D,South America,122
+2473,Source_D,South America,123
+2474,Source_D,South America,124
+2475,Source_D,South America,125
+2476,Source_D,South America,126
+2477,Source_D,South America,127
+2478,Source_D,South America,128
+2479,Source_D,South America,129
+2480,Source_D,South America,130
+2481,Source_D,South America,131
+2482,Source_D,South America,132
+2483,Source_D,South America,133
+2484,Source_D,South America,134
+2485,Source_D,South America,135
+2486,Source_D,South America,136
+2487,Source_D,South America,137
+2488,Source_D,South America,138
+2489,Source_D,South America,139
+2490,Source_D,South America,140
+2491,Source_D,South America,141
+2492,Source_D,South America,142
+2493,Source_D,South America,143
+2494,Source_D,South America,144
+2495,Source_D,South America,145
+2496,Source_D,South America,146
+2497,Source_D,South America,147
+2498,Source_D,South America,148
+2499,Source_D,South America,149
+2500,Source_D,South America,150
+2501,Source_D,South America,151
+2502,Source_D,South America,152
+2503,Source_D,South America,153
+2504,Source_D,South America,154
+2505,Source_D,South America,155
+2506,Source_D,South America,156
+2507,Source_D,South America,157
+2508,Source_D,South America,158
+2509,Source_D,South America,159
+2510,Source_D,South America,160
+2511,Source_D,South America,161
+2512,Source_D,South America,162
+2513,Source_D,South America,163
+2514,Source_D,South America,164
+2515,Source_D,South America,165
+2516,Source_D,South America,166
+2517,Source_D,South America,167
+2518,Source_D,South America,168
+2519,Source_D,South America,169
+2520,Source_D,South America,170
+2521,Source_D,South America,171
+2522,Source_D,South America,172
+2523,Source_D,South America,173
+2524,Source_D,South America,174
+2525,Source_D,South America,175
+2526,Source_D,South America,176
+2527,Source_D,South America,177
+2528,Source_D,South America,178
+2529,Source_D,South America,179
+2530,Source_D,South America,180
+2531,Source_D,South America,181
+2532,Source_D,South America,182
+2533,Source_D,South America,183
+2534,Source_D,South America,184
+2535,Source_D,South America,185
+2536,Source_D,South America,186
+2537,Source_D,South America,187
+2538,Source_D,South America,188
+2539,Source_D,South America,189
+2540,Source_D,South America,190
+2541,Source_D,South America,191
+2542,Source_D,South America,192
+2543,Source_D,South America,193
+2544,Source_D,South America,194
+2545,Source_D,South America,195
+2546,Source_D,South America,196
+2547,Source_D,South America,197
+2548,Source_D,South America,198
+2549,Source_D,South America,199
+2550,Source_D,South America,200
+2551,Source_D,South America,201
+2552,Source_D,South America,202
+2553,Source_D,South America,203
+2554,Source_D,South America,204
+2555,Source_D,South America,205
+2556,Source_D,South America,206
+2557,Source_D,South America,207
+2558,Source_D,South America,208
+2559,Source_D,South America,209
+2560,Source_D,South America,210
+2561,Source_D,South America,211
+2562,Source_D,South America,212
+2563,Source_D,South America,213
+2564,Source_D,South America,214
+2565,Source_D,South America,215
+2566,Source_D,South America,216
+2567,Source_D,South America,217
+2568,Source_D,South America,218
+2569,Source_D,South America,219
+2570,Source_D,South America,220
+2571,Source_D,South America,221
+2572,Source_D,South America,222
+2573,Source_D,South America,223
+2574,Source_D,South America,224
+2575,Source_D,South America,225
+2576,Source_D,South America,226
+2577,Source_D,South America,227
+2578,Source_D,South America,228
+2579,Source_D,South America,229
+2580,Source_D,South America,230
+2581,Source_D,South America,231
+2582,Source_D,South America,232
+2583,Source_D,South America,233
+2584,Source_D,South America,234
+2585,Source_D,South America,235
+2586,Source_D,South America,236
+2587,Source_D,South America,237
+2588,Source_D,South America,238
+2589,Source_D,South America,239
+2590,Source_D,South America,240
+2591,Source_D,South America,241
+2592,Source_D,South America,242
+2593,Source_D,South America,243
+2594,Source_D,South America,244
+2595,Source_D,South America,245
+2596,Source_D,South America,246
+2597,Source_D,South America,247
+2598,Source_D,South America,248
+2599,Source_D,South America,249
+2600,Source_D,South America,250
+2601,Source_D,South America,251
+2602,Source_D,South America,252
+2603,Source_D,South America,253
+2604,Source_D,South America,254
+2605,Source_D,South America,255
+2606,Source_D,South America,256
+2607,Source_D,South America,257
+2608,Source_D,South America,258
+2609,Source_D,South America,259
+2610,Source_D,South America,260
+2611,Source_D,South America,261
+2612,Source_D,South America,262
+2613,Source_D,South America,263
+2614,Source_D,South America,264
+2615,Source_D,South America,265
+2616,Source_D,South America,266
+2617,Source_D,South America,267
+2618,Source_D,South America,268
+2619,Source_D,South America,269
+2620,Source_D,South America,270
+2621,Source_D,South America,271
+2622,Source_D,South America,272
+2623,Source_D,South America,273
+2624,Source_D,South America,274
+2625,Source_D,South America,275
+2626,Source_D,South America,276
+2627,Source_D,South America,277
+2628,Source_D,South America,278
+2629,Source_D,South America,279
+2630,Source_D,South America,280
+2631,Source_D,South America,281
+2632,Source_D,South America,282
+2633,Source_D,South America,283
+2634,Source_D,South America,284
+2635,Source_D,South America,285
+2636,Source_D,South America,286
+2637,Source_D,South America,287
+2638,Source_D,South America,288
+2639,Source_D,South America,289
+2640,Source_D,South America,290
+2641,Source_D,South America,291
+2642,Source_D,South America,292
+2643,Source_D,South America,293
+2644,Source_D,South America,294
+2645,Source_D,South America,295
+2646,Source_D,South America,296
+2647,Source_D,South America,297
+2648,Source_D,South America,298
+2649,Source_D,South America,299
+2650,Source_D,South America,300
+2651,Source_D,South America,301
+2652,Source_D,South America,302
+2653,Source_D,South America,303
+2654,Source_D,South America,304
+2655,Source_D,South America,305
+2656,Source_D,South America,306
+2657,Source_D,South America,307
+2658,Source_D,South America,308
+2659,Source_D,South America,309
+2660,Source_D,South America,310
+2661,Source_D,South America,311
+2662,Source_D,South America,312
+2663,Source_D,South America,313
+2664,Source_D,South America,314
+2665,Source_D,South America,315
+2666,Source_D,South America,316
+2667,Source_D,South America,317
+2668,Source_D,South America,318
+2669,Source_D,South America,319
+2670,Source_D,South America,320
+2671,Source_D,South America,321
+2672,Source_D,South America,322
+2673,Source_D,South America,323
+2674,Source_D,South America,324
+2675,Source_D,South America,325
+2676,Source_D,South America,326
+2677,Source_D,South America,327
+2678,Source_D,South America,328
+2679,Source_D,South America,329
+2680,Source_D,South America,330
+2681,Source_D,South America,331
+2682,Source_D,South America,332
+2683,Source_D,South America,333
+2684,Source_D,South America,334
+2685,Source_D,South America,335
+2686,Source_D,South America,336
+2687,Source_D,South America,337
+2688,Source_D,South America,338
+2689,Source_D,South America,339
+2690,Source_D,South America,340
+2691,Source_D,South America,341
+2692,Source_D,South America,342
+2693,Source_D,South America,343
+2694,Source_D,South America,344
+2695,Source_D,South America,345
+2696,Source_D,South America,346
+2697,Source_D,South America,347
+2698,Source_D,South America,348
+2699,Source_D,South America,349
+2700,Source_D,South America,350
+2701,Source_D,South America,351
+2702,Source_D,South America,352
+2703,Source_D,South America,353
+2704,Source_D,South America,354
+2705,Source_D,South America,355
+2706,Source_D,South America,356
+2707,Source_D,South America,357
+2708,Source_D,South America,358
+2709,Source_D,South America,359
+2710,Source_D,South America,360
+2711,Source_D,South America,361
+2712,Source_D,South America,362
+2713,Source_D,South America,363
+2714,Source_D,South America,364
+2715,Source_D,South America,365
+2716,Source_D,South America,366
+2717,Source_D,South America,367
+2718,Source_D,South America,368
+2719,Source_D,South America,369
+2720,Source_D,South America,370
+2721,Source_D,South America,371
+2722,Source_D,South America,372
+2723,Source_D,South America,373
+2724,Source_D,South America,374
+2725,Source_D,South America,375
+2726,Source_D,South America,376
+2727,Source_D,South America,377
+2728,Source_D,South America,378
+2729,Source_D,South America,379
+2730,Source_D,South America,380
+2731,Source_D,South America,381
+2732,Source_D,South America,382
+2733,Source_D,South America,383
+2734,Source_D,South America,384
+2735,Source_D,South America,385
+2736,Source_D,South America,386
+2737,Source_D,South America,387
+2738,Source_D,South America,388
+2739,Source_D,South America,389
+2740,Source_D,South America,390
+2741,Source_D,South America,391
+2742,Source_D,South America,392
+2743,Source_D,South America,393
+2744,Source_D,South America,394
+2745,Source_D,South America,395
+2746,Source_D,South America,396
+2747,Source_D,South America,397
+2748,Source_D,South America,398
+2749,Source_D,South America,399
+2750,Source_D,South America,400
+2751,Source_D,South America,401
+2752,Source_D,South America,402
+2753,Source_D,South America,403
+2754,Source_D,South America,404
+2755,Source_D,South America,405
+2756,Source_D,South America,406
+2757,Source_D,South America,407
+2758,Source_D,South America,408
+2759,Source_D,South America,409
+2760,Source_D,South America,410
+2761,Source_D,South America,411
+2762,Source_D,South America,412
+2763,Source_D,South America,413
+2764,Source_D,South America,414
+2765,Source_D,South America,415
+2766,Source_D,South America,416
+2767,Source_D,South America,417
+2768,Source_D,South America,418
+2769,Source_D,South America,419
+2770,Source_D,South America,420
+2771,Source_D,South America,421
+2772,Source_D,South America,422
+2773,Source_D,South America,423
+2774,Source_D,South America,424
+2775,Source_D,South America,425
+2776,Source_D,South America,426
+2777,Source_D,South America,427
+2778,Source_D,South America,428
+2779,Source_D,South America,429
+2780,Source_D,South America,430
+2781,Source_D,South America,431
+2782,Source_D,South America,432
+2783,Source_D,South America,433
+2784,Source_D,South America,434
+2785,Source_D,South America,435
+2786,Source_D,South America,436
+2787,Source_D,South America,437
+2788,Source_D,South America,438
+2789,Source_D,South America,439
+2790,Source_D,South America,440
+2791,Source_D,South America,441
+2792,Source_D,South America,442
+2793,Source_D,South America,443
+2794,Source_D,South America,444
+2795,Source_D,South America,445
+2796,Source_D,South America,446
+2797,Source_D,South America,447
+2798,Source_D,South America,448
+2799,Source_D,South America,449
+2800,Source_D,South America,450
+2801,Source_D,South America,451
+2802,Source_D,South America,452
+2803,Source_D,South America,453
+2804,Source_D,South America,454
+2805,Source_D,South America,455
+2806,Source_D,South America,456
+2807,Source_D,South America,457
+2808,Source_D,South America,458
+2809,Source_D,South America,459
+2810,Source_D,South America,460
+2811,Source_D,South America,461
+2812,Source_D,South America,462
+2813,Source_D,South America,463
+2814,Source_D,South America,464
+2815,Source_D,South America,465
+2816,Source_D,South America,466
+2817,Source_D,South America,467
+2818,Source_D,South America,468
+2819,Source_D,South America,469
+2820,Source_D,South America,470
+2821,Source_D,South America,471
+2822,Source_D,South America,472
+2823,Source_D,South America,473
+2824,Source_D,South America,474
+2825,Source_D,South America,475
+2826,Source_D,South America,476
+2827,Source_D,South America,477
+2828,Source_D,South America,478
+2829,Source_D,South America,479
+2830,Source_D,South America,480
+2831,Source_D,South America,481
+2832,Source_D,South America,482
+2833,Source_D,South America,483
+2834,Source_D,South America,484
+2835,Source_D,South America,485
+2836,Source_D,South America,486
+2837,Source_D,South America,487
+2838,Source_D,South America,488
+2839,Source_D,South America,489
+2840,Source_D,South America,490
+2841,Source_D,South America,491
+2842,Source_D,South America,492
+2843,Source_D,South America,493
+2844,Source_D,South America,494
+2845,Source_D,South America,495
+2846,Source_D,South America,496
+2847,Source_D,South America,497
+2848,Source_D,South America,498
+2849,Source_D,South America,499
+2850,Source_D,South America,500
+2851,Source_D,South America,501
+2852,Source_D,South America,502
+2853,Source_D,South America,503
+2854,Source_D,South America,504
+2855,Source_D,South America,505
+2856,Source_D,South America,506
+2857,Source_D,South America,507
+2858,Source_D,South America,508
+2859,Source_D,South America,509
+2860,Source_D,South America,510
+2861,Source_D,South America,511
+2862,Source_D,South America,512
+2863,Source_D,South America,513
+2864,Source_D,South America,514
+2865,Source_D,South America,515
+2866,Source_D,South America,516
+2867,Source_D,South America,517
+2868,Source_D,South America,518
+2869,Source_D,South America,519
+2870,Source_D,South America,520
+2871,Source_D,South America,521
+2872,Source_D,South America,522
+2873,Source_D,South America,523
+2874,Source_D,South America,524
+2875,Source_D,South America,525
+2876,Source_D,South America,526
+2877,Source_D,South America,527
+2878,Source_D,South America,528
+2879,Source_D,South America,529
+2880,Source_D,South America,530
+2881,Source_D,South America,531
+2882,Source_D,South America,532
+2883,Source_D,South America,533
+2884,Source_D,South America,534
+2885,Source_D,South America,535
+2886,Source_D,South America,536
+2887,Source_D,South America,537
+2888,Source_D,South America,538
+2889,Source_D,South America,539
+2890,Source_D,South America,540
+2891,Source_D,South America,541
+2892,Source_D,South America,542
+2893,Source_D,South America,543
+2894,Source_D,South America,544
+2895,Source_D,South America,545
+2896,Source_D,South America,546
+2897,Source_D,South America,547
+2898,Source_D,South America,548
+2899,Source_D,South America,549
+2900,Source_D,South America,550
+2901,Source_D,South America,551
+2902,Source_D,South America,552
+2903,Source_D,South America,553
+2904,Source_D,South America,554
+2905,Source_D,South America,555
+2906,Source_D,South America,556
+2907,Source_D,South America,557
+2908,Source_D,South America,558
+2909,Source_D,South America,559
+2910,Source_D,South America,560
+2911,Source_D,South America,561
+2912,Source_D,South America,562
+2913,Source_D,South America,563
+2914,Source_D,South America,564
+2915,Source_D,South America,565
+2916,Source_D,South America,566
+2917,Source_D,South America,567
+2918,Source_D,South America,568
+2919,Source_D,South America,569
+2920,Source_D,South America,570
+2921,Source_D,South America,571
+2922,Source_D,South America,572
+2923,Source_D,South America,573
+2924,Source_D,South America,574
+2925,Source_D,South America,575
+2926,Source_D,South America,576
+2927,Source_D,South America,577
+2928,Source_D,South America,578
+2929,Source_D,South America,579
+2930,Source_D,South America,580
+2931,Source_D,South America,581
+2932,Source_D,South America,582
+2933,Source_D,South America,583
+2934,Source_D,South America,584
+2935,Source_D,South America,585
+2936,Source_D,South America,586
+2937,Source_D,South America,587
+2938,Source_D,South America,588
+2939,Source_D,South America,589
+2940,Source_D,South America,590
+2941,Source_D,South America,591
+2942,Source_D,South America,592
+2943,Source_D,South America,593
+2944,Source_D,South America,594
+2945,Source_D,South America,595
+2946,Source_D,South America,596
+2947,Source_D,South America,597
+2948,Source_D,South America,598
+2949,Source_D,South America,599
+2950,Source_D,South America,600
+2951,Source_D,South America,601
+2952,Source_D,South America,602
+2953,Source_D,South America,603
+2954,Source_D,South America,604
+2955,Source_D,South America,605
+2956,Source_D,South America,606
+2957,Source_D,South America,607
+2958,Source_D,South America,608
+2959,Source_D,South America,609
+2960,Source_D,South America,610
+2961,Source_D,South America,611
+2962,Source_D,South America,612
+2963,Source_D,South America,613
+2964,Source_D,South America,614
+2965,Source_D,South America,615
+2966,Source_D,South America,616
+2967,Source_D,South America,617
+2968,Source_D,South America,618
+2969,Source_D,South America,619
+2970,Source_D,South America,620
+2971,Source_D,South America,621
+2972,Source_D,South America,622
+2973,Source_D,South America,623
+2974,Source_D,South America,624
+2975,Source_D,South America,625
+2976,Source_D,South America,626
+2977,Source_D,South America,627
+2978,Source_D,South America,628
+2979,Source_D,South America,629
+2980,Source_D,South America,630
+2981,Source_D,South America,631
+2982,Source_D,South America,632
+2983,Source_D,South America,633
+2984,Source_D,South America,634
+2985,Source_D,South America,635
+2986,Source_D,South America,636
+2987,Source_D,South America,637
+2988,Source_D,South America,638
+2989,Source_D,South America,639
+2990,Source_D,South America,640
+2991,Source_D,South America,641
+2992,Source_D,South America,642
+2993,Source_D,South America,643
+2994,Source_D,South America,644
+2995,Source_D,South America,645
+2996,Source_D,South America,646
+2997,Source_D,South America,647
+2998,Source_D,South America,648
+2999,Source_D,South America,649
+3000,Source_D,South America,650
+3001,Source_D,South America,651
+3002,Source_D,South America,652
+3003,Source_D,South America,653
+3004,Source_D,South America,654
+3005,Source_D,South America,655
+3006,Source_D,South America,656
+3007,Source_D,South America,657
+3008,Source_D,South America,658
+3009,Source_D,South America,659
+3010,Source_D,South America,660
+3011,Source_D,South America,661
+3012,Source_D,South America,662
+3013,Source_D,South America,663
+3014,Source_D,South America,664
+3015,Source_D,South America,665
+3016,Source_D,South America,666
+3017,Source_D,South America,667
+3018,Source_D,South America,668
+3019,Source_D,South America,669
+3020,Source_D,South America,670
+3021,Source_D,South America,671
+3022,Source_D,South America,672
+3023,Source_D,South America,673
+3024,Source_D,South America,674
+3025,Source_D,South America,675
+3026,Source_D,South America,676
+3027,Source_D,South America,677
+3028,Source_D,South America,678
+3029,Source_D,South America,679
+3030,Source_D,South America,680
+3031,Source_D,South America,681
+3032,Source_D,South America,682
+3033,Source_D,South America,683
+3034,Source_D,South America,684
+3035,Source_D,South America,685
+3036,Source_D,South America,686
+3037,Source_D,South America,687
+3038,Source_D,South America,688
+3039,Source_D,South America,689
+3040,Source_D,South America,690
+3041,Source_D,South America,691
+3042,Source_D,South America,692
+3043,Source_D,South America,693
+3044,Source_D,South America,694
+3045,Source_D,South America,695
+3046,Source_D,South America,696
+3047,Source_D,South America,697
+3048,Source_D,South America,698
+3049,Source_D,South America,699
+3050,Source_D,South America,700
+3051,Source_D,South America,701
+3052,Source_D,South America,702
+3053,Source_D,South America,703
+3054,Source_D,South America,704
+3055,Source_D,South America,705
+3056,Source_D,South America,706
+3057,Source_D,South America,707
+3058,Source_D,South America,708
+3059,Source_D,South America,709
+3060,Source_D,South America,710
+3061,Source_D,South America,711
+3062,Source_D,South America,712
+3063,Source_D,South America,713
+3064,Source_D,South America,714
+3065,Source_D,South America,715
+3066,Source_D,South America,716
+3067,Source_D,South America,717
+3068,Source_D,South America,718
+3069,Source_D,South America,719
+3070,Source_D,South America,720
+3071,Source_D,South America,721
+3072,Source_D,South America,722
+3073,Source_D,South America,723
+3074,Source_D,South America,724
+3075,Source_D,South America,725
+3076,Source_D,South America,726
+3077,Source_D,South America,727
+3078,Source_D,South America,728
+3079,Source_D,South America,729
+3080,Source_D,South America,730
+3081,Source_D,South America,731
+3082,Source_D,South America,732
+3083,Source_D,South America,733
+3084,Source_D,South America,734
+3085,Source_D,South America,735
+3086,Source_D,South America,736
+3087,Source_D,South America,737
+3088,Source_D,South America,738
+3089,Source_D,South America,739
+3090,Source_D,South America,740
+3091,Source_D,South America,741
+3092,Source_D,South America,742
+3093,Source_D,South America,743
+3094,Source_D,South America,744
+3095,Source_D,South America,745
+3096,Source_D,South America,746
+3097,Source_D,South America,747
+3098,Source_D,South America,748
+3099,Source_D,South America,749
+3100,Source_D,South America,750
+3101,Source_D,South America,751
+3102,Source_D,South America,752
+3103,Source_D,South America,753
+3104,Source_D,South America,754
+3105,Source_D,South America,755
+3106,Source_D,South America,756
+3107,Source_D,South America,757
+3108,Source_D,South America,758
+3109,Source_D,South America,759
+3110,Source_D,South America,760
+3111,Source_D,South America,761
+3112,Source_D,South America,762
+3113,Source_D,South America,763
+3114,Source_D,South America,764
+3115,Source_D,South America,765
+3116,Source_D,South America,766
+3117,Source_D,South America,767
+3118,Source_D,South America,768
+3119,Source_D,South America,769
+3120,Source_D,South America,770
+3121,Source_D,South America,771
+3122,Source_D,South America,772
+3123,Source_D,South America,773
+3124,Source_D,South America,774
+3125,Source_D,South America,775
+3126,Source_D,South America,776
+3127,Source_D,South America,777
+3128,Source_D,South America,778
+3129,Source_D,South America,779
+3130,Source_D,South America,780
+3131,Source_D,South America,781
+3132,Source_D,South America,782
+3133,Source_D,South America,783
+3134,Source_D,South America,784
+3135,Source_D,South America,785
+3136,Source_D,South America,786
+3137,Source_D,South America,787
+3138,Source_D,South America,788
+3139,Source_D,South America,789
+3140,Source_D,South America,790
+3141,Source_D,South America,791
+3142,Source_D,South America,792
+3143,Source_D,South America,793
+3144,Source_D,South America,794
+3145,Source_D,South America,795
+3146,Source_D,South America,796
+3147,Source_D,South America,797
+3148,Source_D,South America,798
+3149,Source_D,South America,799
+3150,Source_D,South America,800

@@ -1,0 +1,285 @@
+examination_id,order_id,examination_date_time,radiology_technician,report.findings,report.conclusion,_source,_table,_source_row,_time_basis
+1,1,2026-09-07T21:00:00,Tech_1,Normal,No acute intervention required.,C,radiology_examination,1,LOCAL_ZONE_UNKNOWN
+2,2,2026-07-05T06:00:00,Tech_5,Clear lungs,No acute intervention required.,C,radiology_examination,2,LOCAL_ZONE_UNKNOWN
+3,3,2026-05-01T15:00:00,Tech_10,Clear lungs,No acute intervention required.,C,radiology_examination,3,LOCAL_ZONE_UNKNOWN
+4,4,2026-08-12T13:00:00,Tech_7,Mild opacity,No acute intervention required.,C,radiology_examination,4,LOCAL_ZONE_UNKNOWN
+5,5,2026-07-27T00:00:00,Tech_5,Mild opacity,No acute intervention required.,C,radiology_examination,5,LOCAL_ZONE_UNKNOWN
+6,6,2026-01-12T20:00:00,Tech_3,Clear lungs,No acute intervention required.,C,radiology_examination,6,LOCAL_ZONE_UNKNOWN
+7,7,2026-08-26T19:00:00,Tech_6,Mild opacity,No acute intervention required.,C,radiology_examination,7,LOCAL_ZONE_UNKNOWN
+8,8,2026-02-09T10:00:00,Tech_1,Mild opacity,No acute intervention required.,C,radiology_examination,8,LOCAL_ZONE_UNKNOWN
+9,9,2026-05-08T18:00:00,Tech_2,Mild opacity,No acute intervention required.,C,radiology_examination,9,LOCAL_ZONE_UNKNOWN
+10,10,2026-05-10T06:00:00,Tech_3,Normal,No acute intervention required.,C,radiology_examination,10,LOCAL_ZONE_UNKNOWN
+11,11,2026-06-01T16:00:00,Tech_4,Mild opacity,No acute intervention required.,C,radiology_examination,11,LOCAL_ZONE_UNKNOWN
+12,12,2026-07-24T21:00:00,Tech_4,Mild opacity,No acute intervention required.,C,radiology_examination,12,LOCAL_ZONE_UNKNOWN
+13,13,2026-02-22T14:00:00,Tech_7,Clear lungs,No acute intervention required.,C,radiology_examination,13,LOCAL_ZONE_UNKNOWN
+14,14,2026-06-08T00:00:00,Tech_10,Mild opacity,No acute intervention required.,C,radiology_examination,14,LOCAL_ZONE_UNKNOWN
+15,15,2026-03-15T22:00:00,Tech_1,Mild opacity,No acute intervention required.,C,radiology_examination,15,LOCAL_ZONE_UNKNOWN
+16,16,2026-06-13T16:00:00,Tech_2,Normal,No acute intervention required.,C,radiology_examination,16,LOCAL_ZONE_UNKNOWN
+18,18,2026-02-07T10:00:00,Tech_2,Normal,No acute intervention required.,C,radiology_examination,18,LOCAL_ZONE_UNKNOWN
+19,19,2026-05-21T08:00:00,Tech_2,Mild opacity,No acute intervention required.,C,radiology_examination,19,LOCAL_ZONE_UNKNOWN
+20,20,2026-04-19T17:00:00,Tech_1,Mild opacity,No acute intervention required.,C,radiology_examination,20,LOCAL_ZONE_UNKNOWN
+21,21,2026-02-21T22:00:00,Tech_1,Normal,No acute intervention required.,C,radiology_examination,21,LOCAL_ZONE_UNKNOWN
+22,22,2026-08-14T05:00:00,Tech_10,Normal,No acute intervention required.,C,radiology_examination,22,LOCAL_ZONE_UNKNOWN
+23,23,2026-05-28T13:00:00,Tech_1,Mild opacity,No acute intervention required.,C,radiology_examination,23,LOCAL_ZONE_UNKNOWN
+24,24,2026-02-27T15:00:00,Tech_9,Clear lungs,No acute intervention required.,C,radiology_examination,24,LOCAL_ZONE_UNKNOWN
+25,25,2026-07-06T01:00:00,Tech_6,Clear lungs,No acute intervention required.,C,radiology_examination,25,LOCAL_ZONE_UNKNOWN
+26,26,2026-05-29T11:00:00,Tech_7,Clear lungs,No acute intervention required.,C,radiology_examination,26,LOCAL_ZONE_UNKNOWN
+27,27,2026-01-20T05:00:00,Tech_1,Clear lungs,No acute intervention required.,C,radiology_examination,27,LOCAL_ZONE_UNKNOWN
+28,28,2026-07-06T14:00:00,Tech_1,Clear lungs,No acute intervention required.,C,radiology_examination,28,LOCAL_ZONE_UNKNOWN
+29,29,2026-04-20T20:00:00,Tech_9,Normal,No acute intervention required.,C,radiology_examination,29,LOCAL_ZONE_UNKNOWN
+30,30,2026-02-12T07:00:00,Tech_5,Mild opacity,No acute intervention required.,C,radiology_examination,30,LOCAL_ZONE_UNKNOWN
+31,31,2026-02-20T00:00:00,Tech_6,Normal,No acute intervention required.,C,radiology_examination,31,LOCAL_ZONE_UNKNOWN
+32,32,2026-07-05T15:00:00,Tech_1,Normal,No acute intervention required.,C,radiology_examination,32,LOCAL_ZONE_UNKNOWN
+33,33,2026-02-17T04:00:00,Tech_10,Clear lungs,No acute intervention required.,C,radiology_examination,33,LOCAL_ZONE_UNKNOWN
+34,34,2026-01-06T16:00:00,Tech_3,Clear lungs,No acute intervention required.,C,radiology_examination,34,LOCAL_ZONE_UNKNOWN
+35,35,2026-02-24T01:00:00,Tech_2,Clear lungs,No acute intervention required.,C,radiology_examination,35,LOCAL_ZONE_UNKNOWN
+36,36,2026-06-23T23:00:00,Tech_1,Normal,No acute intervention required.,C,radiology_examination,36,LOCAL_ZONE_UNKNOWN
+37,37,2026-02-18T23:00:00,Tech_6,Normal,No acute intervention required.,C,radiology_examination,37,LOCAL_ZONE_UNKNOWN
+38,38,2026-04-25T16:00:00,Tech_4,Normal,No acute intervention required.,C,radiology_examination,38,LOCAL_ZONE_UNKNOWN
+39,39,2026-03-09T21:00:00,Tech_9,Mild opacity,No acute intervention required.,C,radiology_examination,39,LOCAL_ZONE_UNKNOWN
+40,40,2026-02-20T06:00:00,Tech_5,Clear lungs,No acute intervention required.,C,radiology_examination,40,LOCAL_ZONE_UNKNOWN
+41,41,2026-05-09T14:00:00,Tech_3,Clear lungs,No acute intervention required.,C,radiology_examination,41,LOCAL_ZONE_UNKNOWN
+42,42,2026-02-23T07:00:00,Tech_3,Mild opacity,No acute intervention required.,C,radiology_examination,42,LOCAL_ZONE_UNKNOWN
+43,43,2026-08-24T15:00:00,Tech_5,Mild opacity,No acute intervention required.,C,radiology_examination,43,LOCAL_ZONE_UNKNOWN
+44,44,2026-02-23T20:00:00,Tech_4,Mild opacity,No acute intervention required.,C,radiology_examination,44,LOCAL_ZONE_UNKNOWN
+45,45,2026-02-26T22:00:00,Tech_3,Mild opacity,No acute intervention required.,C,radiology_examination,45,LOCAL_ZONE_UNKNOWN
+46,46,2026-02-17T16:00:00,Tech_9,Mild opacity,No acute intervention required.,C,radiology_examination,46,LOCAL_ZONE_UNKNOWN
+47,47,2026-03-07T08:00:00,Tech_1,Mild opacity,No acute intervention required.,C,radiology_examination,47,LOCAL_ZONE_UNKNOWN
+48,48,2026-03-12T07:00:00,Tech_5,Clear lungs,No acute intervention required.,C,radiology_examination,48,LOCAL_ZONE_UNKNOWN
+49,49,2026-01-22T23:00:00,Tech_7,,,C,radiology_examination,49,LOCAL_ZONE_UNKNOWN
+50,50,2026-03-09T23:00:00,Tech_3,Mild opacity,No acute intervention required.,C,radiology_examination,50,LOCAL_ZONE_UNKNOWN
+51,51,2026-04-24T20:00:00,Tech_5,Clear lungs,No acute intervention required.,C,radiology_examination,51,LOCAL_ZONE_UNKNOWN
+52,52,2026-04-22T02:00:00,Tech_3,Mild opacity,No acute intervention required.,C,radiology_examination,52,LOCAL_ZONE_UNKNOWN
+53,53,2026-02-10T20:00:00,Tech_8,Normal,No acute intervention required.,C,radiology_examination,53,LOCAL_ZONE_UNKNOWN
+54,54,2026-06-06T02:00:00,Tech_5,Mild opacity,No acute intervention required.,C,radiology_examination,54,LOCAL_ZONE_UNKNOWN
+55,55,2026-05-26T10:00:00,Tech_5,Mild opacity,No acute intervention required.,C,radiology_examination,55,LOCAL_ZONE_UNKNOWN
+56,56,2026-06-15T15:00:00,Tech_1,Clear lungs,No acute intervention required.,C,radiology_examination,56,LOCAL_ZONE_UNKNOWN
+57,57,2026-08-29T04:00:00,Tech_4,,,C,radiology_examination,57,LOCAL_ZONE_UNKNOWN
+58,58,2026-06-10T08:00:00,Tech_10,Mild opacity,No acute intervention required.,C,radiology_examination,58,LOCAL_ZONE_UNKNOWN
+59,59,2026-07-23T21:00:00,Tech_6,Normal,No acute intervention required.,C,radiology_examination,59,LOCAL_ZONE_UNKNOWN
+60,60,2026-05-31T18:00:00,Tech_9,Normal,No acute intervention required.,C,radiology_examination,60,LOCAL_ZONE_UNKNOWN
+61,61,2026-01-11T16:00:00,Tech_8,Clear lungs,No acute intervention required.,C,radiology_examination,61,LOCAL_ZONE_UNKNOWN
+62,62,2026-08-31T05:00:00,Tech_8,Mild opacity,No acute intervention required.,C,radiology_examination,62,LOCAL_ZONE_UNKNOWN
+63,63,2026-01-25T02:00:00,Tech_1,Mild opacity,No acute intervention required.,C,radiology_examination,63,LOCAL_ZONE_UNKNOWN
+64,64,2026-09-02T18:00:00,Tech_4,Mild opacity,No acute intervention required.,C,radiology_examination,64,LOCAL_ZONE_UNKNOWN
+65,65,2026-05-19T00:00:00,Tech_3,Normal,No acute intervention required.,C,radiology_examination,65,LOCAL_ZONE_UNKNOWN
+66,66,2026-03-09T23:00:00,Tech_1,Clear lungs,No acute intervention required.,C,radiology_examination,66,LOCAL_ZONE_UNKNOWN
+67,67,2026-03-06T14:00:00,Tech_5,Mild opacity,No acute intervention required.,C,radiology_examination,67,LOCAL_ZONE_UNKNOWN
+68,68,2026-05-22T03:00:00,Tech_6,Normal,No acute intervention required.,C,radiology_examination,68,LOCAL_ZONE_UNKNOWN
+69,69,2026-04-24T04:00:00,Tech_4,Mild opacity,No acute intervention required.,C,radiology_examination,69,LOCAL_ZONE_UNKNOWN
+70,70,2026-04-29T10:00:00,Tech_7,Mild opacity,No acute intervention required.,C,radiology_examination,70,LOCAL_ZONE_UNKNOWN
+71,71,2026-05-04T17:00:00,Tech_3,Clear lungs,No acute intervention required.,C,radiology_examination,71,LOCAL_ZONE_UNKNOWN
+72,72,2026-05-15T09:00:00,Tech_7,Normal,No acute intervention required.,C,radiology_examination,72,LOCAL_ZONE_UNKNOWN
+73,73,2026-06-23T23:00:00,Tech_10,Normal,No acute intervention required.,C,radiology_examination,73,LOCAL_ZONE_UNKNOWN
+74,74,2026-02-20T00:00:00,Tech_3,Normal,No acute intervention required.,C,radiology_examination,74,LOCAL_ZONE_UNKNOWN
+75,75,2026-06-28T02:00:00,Tech_2,Clear lungs,No acute intervention required.,C,radiology_examination,75,LOCAL_ZONE_UNKNOWN
+76,76,2026-06-23T22:00:00,Tech_8,Mild opacity,No acute intervention required.,C,radiology_examination,76,LOCAL_ZONE_UNKNOWN
+77,77,2026-05-29T22:00:00,Tech_1,Mild opacity,No acute intervention required.,C,radiology_examination,77,LOCAL_ZONE_UNKNOWN
+78,78,2026-02-26T16:00:00,Tech_5,Normal,No acute intervention required.,C,radiology_examination,78,LOCAL_ZONE_UNKNOWN
+79,79,2026-06-24T04:00:00,Tech_1,Mild opacity,No acute intervention required.,C,radiology_examination,79,LOCAL_ZONE_UNKNOWN
+80,80,2026-01-29T23:00:00,Tech_4,Normal,No acute intervention required.,C,radiology_examination,80,LOCAL_ZONE_UNKNOWN
+81,81,2026-08-06T02:00:00,Tech_3,,,C,radiology_examination,81,LOCAL_ZONE_UNKNOWN
+82,82,2026-01-10T12:00:00,Tech_3,Normal,No acute intervention required.,C,radiology_examination,82,LOCAL_ZONE_UNKNOWN
+83,83,2026-04-02T03:00:00,Tech_1,Clear lungs,No acute intervention required.,C,radiology_examination,83,LOCAL_ZONE_UNKNOWN
+84,84,2026-01-18T06:00:00,Tech_5,Mild opacity,No acute intervention required.,C,radiology_examination,84,LOCAL_ZONE_UNKNOWN
+85,85,2026-01-07T18:00:00,Tech_8,Mild opacity,No acute intervention required.,C,radiology_examination,85,LOCAL_ZONE_UNKNOWN
+86,86,2026-02-10T06:00:00,Tech_4,Normal,No acute intervention required.,C,radiology_examination,86,LOCAL_ZONE_UNKNOWN
+87,87,2026-05-19T07:00:00,Tech_10,Clear lungs,No acute intervention required.,C,radiology_examination,87,LOCAL_ZONE_UNKNOWN
+88,88,2026-07-03T20:00:00,Tech_3,Clear lungs,No acute intervention required.,C,radiology_examination,88,LOCAL_ZONE_UNKNOWN
+89,89,2026-02-09T02:00:00,Tech_7,Clear lungs,No acute intervention required.,C,radiology_examination,89,LOCAL_ZONE_UNKNOWN
+90,90,2026-02-21T21:00:00,Tech_10,,,C,radiology_examination,90,LOCAL_ZONE_UNKNOWN
+91,91,2026-08-31T03:00:00,Tech_8,Normal,No acute intervention required.,C,radiology_examination,91,LOCAL_ZONE_UNKNOWN
+92,92,2026-04-05T16:00:00,Tech_7,Clear lungs,No acute intervention required.,C,radiology_examination,92,LOCAL_ZONE_UNKNOWN
+93,93,2026-02-19T20:00:00,Tech_7,Clear lungs,No acute intervention required.,C,radiology_examination,93,LOCAL_ZONE_UNKNOWN
+94,94,2026-05-08T23:00:00,Tech_6,Clear lungs,No acute intervention required.,C,radiology_examination,94,LOCAL_ZONE_UNKNOWN
+95,95,2026-08-24T15:00:00,Tech_3,Normal,No acute intervention required.,C,radiology_examination,95,LOCAL_ZONE_UNKNOWN
+96,96,2026-06-16T23:00:00,Tech_8,Mild opacity,No acute intervention required.,C,radiology_examination,96,LOCAL_ZONE_UNKNOWN
+97,97,2026-05-13T08:00:00,Tech_3,Mild opacity,No acute intervention required.,C,radiology_examination,97,LOCAL_ZONE_UNKNOWN
+98,98,2026-03-14T17:00:00,Tech_2,Normal,No acute intervention required.,C,radiology_examination,98,LOCAL_ZONE_UNKNOWN
+99,99,2026-02-20T10:00:00,Tech_10,Mild opacity,No acute intervention required.,C,radiology_examination,99,LOCAL_ZONE_UNKNOWN
+100,100,2026-02-04T15:00:00,Tech_1,Normal,No acute intervention required.,C,radiology_examination,100,LOCAL_ZONE_UNKNOWN
+101,101,2026-07-19T00:00:00,Tech_2,Normal,No acute intervention required.,C,radiology_examination,101,LOCAL_ZONE_UNKNOWN
+102,102,2026-04-09T06:00:00,Tech_10,Normal,No acute intervention required.,C,radiology_examination,102,LOCAL_ZONE_UNKNOWN
+103,103,2026-03-18T07:00:00,Tech_1,Mild opacity,No acute intervention required.,C,radiology_examination,103,LOCAL_ZONE_UNKNOWN
+104,104,2026-08-13T02:00:00,Tech_1,Mild opacity,No acute intervention required.,C,radiology_examination,104,LOCAL_ZONE_UNKNOWN
+105,105,2026-09-03T11:00:00,Tech_2,Normal,No acute intervention required.,C,radiology_examination,105,LOCAL_ZONE_UNKNOWN
+106,106,2026-05-12T20:00:00,Tech_5,Normal,No acute intervention required.,C,radiology_examination,106,LOCAL_ZONE_UNKNOWN
+107,107,2026-04-15T23:00:00,Tech_7,Clear lungs,No acute intervention required.,C,radiology_examination,107,LOCAL_ZONE_UNKNOWN
+108,108,2026-05-12T21:00:00,Tech_2,Mild opacity,No acute intervention required.,C,radiology_examination,108,LOCAL_ZONE_UNKNOWN
+109,109,2026-08-12T18:00:00,Tech_6,Clear lungs,No acute intervention required.,C,radiology_examination,109,LOCAL_ZONE_UNKNOWN
+110,110,2026-05-25T00:00:00,Tech_2,Mild opacity,No acute intervention required.,C,radiology_examination,110,LOCAL_ZONE_UNKNOWN
+111,111,2026-03-15T17:00:00,Tech_7,Clear lungs,No acute intervention required.,C,radiology_examination,111,LOCAL_ZONE_UNKNOWN
+112,112,2026-02-26T02:00:00,Tech_6,Clear lungs,No acute intervention required.,C,radiology_examination,112,LOCAL_ZONE_UNKNOWN
+113,113,2026-08-20T22:00:00,Tech_4,Normal,No acute intervention required.,C,radiology_examination,113,LOCAL_ZONE_UNKNOWN
+114,114,2026-06-12T04:00:00,Tech_5,Normal,No acute intervention required.,C,radiology_examination,114,LOCAL_ZONE_UNKNOWN
+115,115,2026-05-31T09:00:00,Tech_3,Normal,No acute intervention required.,C,radiology_examination,115,LOCAL_ZONE_UNKNOWN
+116,116,2026-02-21T06:00:00,Tech_7,Normal,No acute intervention required.,C,radiology_examination,116,LOCAL_ZONE_UNKNOWN
+117,117,2026-06-10T23:00:00,Tech_2,Mild opacity,No acute intervention required.,C,radiology_examination,117,LOCAL_ZONE_UNKNOWN
+118,118,2026-08-09T06:00:00,Tech_5,Clear lungs,No acute intervention required.,C,radiology_examination,118,LOCAL_ZONE_UNKNOWN
+119,119,2026-02-05T18:00:00,Tech_2,Clear lungs,No acute intervention required.,C,radiology_examination,119,LOCAL_ZONE_UNKNOWN
+120,120,2026-08-18T13:00:00,Tech_7,Mild opacity,No acute intervention required.,C,radiology_examination,120,LOCAL_ZONE_UNKNOWN
+121,121,2026-08-23T16:00:00,Tech_2,Normal,No acute intervention required.,C,radiology_examination,121,LOCAL_ZONE_UNKNOWN
+122,122,2026-01-01T12:00:00,Tech_7,Clear lungs,No acute intervention required.,C,radiology_examination,122,LOCAL_ZONE_UNKNOWN
+123,123,2026-05-19T23:00:00,Tech_4,Normal,No acute intervention required.,C,radiology_examination,123,LOCAL_ZONE_UNKNOWN
+124,124,2026-08-09T17:00:00,Tech_2,Mild opacity,No acute intervention required.,C,radiology_examination,124,LOCAL_ZONE_UNKNOWN
+125,125,2026-03-15T01:00:00,Tech_2,Normal,No acute intervention required.,C,radiology_examination,125,LOCAL_ZONE_UNKNOWN
+126,126,2026-03-05T01:00:00,Tech_7,Clear lungs,No acute intervention required.,C,radiology_examination,126,LOCAL_ZONE_UNKNOWN
+127,127,2026-06-30T21:00:00,Tech_7,Mild opacity,No acute intervention required.,C,radiology_examination,127,LOCAL_ZONE_UNKNOWN
+128,128,2026-03-24T21:00:00,Tech_6,Clear lungs,No acute intervention required.,C,radiology_examination,128,LOCAL_ZONE_UNKNOWN
+129,129,2026-04-20T06:00:00,Tech_2,Normal,No acute intervention required.,C,radiology_examination,129,LOCAL_ZONE_UNKNOWN
+130,130,2026-04-06T20:00:00,Tech_7,Normal,No acute intervention required.,C,radiology_examination,130,LOCAL_ZONE_UNKNOWN
+131,131,2026-05-05T02:00:00,Tech_1,Clear lungs,No acute intervention required.,C,radiology_examination,131,LOCAL_ZONE_UNKNOWN
+133,133,2026-01-10T21:00:00,Tech_1,Normal,No acute intervention required.,C,radiology_examination,133,LOCAL_ZONE_UNKNOWN
+134,134,2026-09-08T08:00:00,Tech_1,Mild opacity,No acute intervention required.,C,radiology_examination,134,LOCAL_ZONE_UNKNOWN
+135,135,2026-06-21T15:00:00,Tech_5,Clear lungs,No acute intervention required.,C,radiology_examination,135,LOCAL_ZONE_UNKNOWN
+136,136,2026-04-27T02:00:00,Tech_5,Mild opacity,No acute intervention required.,C,radiology_examination,136,LOCAL_ZONE_UNKNOWN
+137,137,2026-04-01T09:00:00,Tech_1,Mild opacity,No acute intervention required.,C,radiology_examination,137,LOCAL_ZONE_UNKNOWN
+138,138,2026-09-07T08:00:00,Tech_2,Mild opacity,No acute intervention required.,C,radiology_examination,138,LOCAL_ZONE_UNKNOWN
+139,139,2026-05-31T02:00:00,Tech_1,Clear lungs,No acute intervention required.,C,radiology_examination,139,LOCAL_ZONE_UNKNOWN
+140,140,2026-05-31T18:00:00,Tech_1,,,C,radiology_examination,140,LOCAL_ZONE_UNKNOWN
+141,141,2026-03-16T02:00:00,Tech_10,Mild opacity,No acute intervention required.,C,radiology_examination,141,LOCAL_ZONE_UNKNOWN
+142,142,2026-06-14T11:00:00,Tech_1,Mild opacity,No acute intervention required.,C,radiology_examination,142,LOCAL_ZONE_UNKNOWN
+143,143,2026-07-08T20:00:00,Tech_8,Clear lungs,No acute intervention required.,C,radiology_examination,143,LOCAL_ZONE_UNKNOWN
+144,144,2026-02-25T23:00:00,Tech_7,Clear lungs,No acute intervention required.,C,radiology_examination,144,LOCAL_ZONE_UNKNOWN
+145,145,2026-05-05T17:00:00,Tech_10,Normal,No acute intervention required.,C,radiology_examination,145,LOCAL_ZONE_UNKNOWN
+146,146,2026-01-12T20:00:00,Tech_2,Clear lungs,No acute intervention required.,C,radiology_examination,146,LOCAL_ZONE_UNKNOWN
+147,147,2026-08-23T19:00:00,Tech_3,Normal,No acute intervention required.,C,radiology_examination,147,LOCAL_ZONE_UNKNOWN
+148,148,2026-02-21T08:00:00,Tech_10,Normal,No acute intervention required.,C,radiology_examination,148,LOCAL_ZONE_UNKNOWN
+149,149,2026-09-04T13:00:00,Tech_1,Clear lungs,No acute intervention required.,C,radiology_examination,149,LOCAL_ZONE_UNKNOWN
+150,150,2026-01-24T19:00:00,Tech_8,Normal,No acute intervention required.,C,radiology_examination,150,LOCAL_ZONE_UNKNOWN
+151,151,2026-03-27T17:00:00,Tech_1,Clear lungs,No acute intervention required.,C,radiology_examination,151,LOCAL_ZONE_UNKNOWN
+152,152,2026-02-15T04:00:00,Tech_3,Mild opacity,No acute intervention required.,C,radiology_examination,152,LOCAL_ZONE_UNKNOWN
+153,153,2026-06-16T15:00:00,Tech_3,Clear lungs,No acute intervention required.,C,radiology_examination,153,LOCAL_ZONE_UNKNOWN
+154,154,2026-01-08T06:00:00,Tech_6,Normal,No acute intervention required.,C,radiology_examination,154,LOCAL_ZONE_UNKNOWN
+155,155,2026-04-17T12:00:00,Tech_6,Normal,No acute intervention required.,C,radiology_examination,155,LOCAL_ZONE_UNKNOWN
+156,156,2026-07-16T03:00:00,Tech_1,Mild opacity,No acute intervention required.,C,radiology_examination,156,LOCAL_ZONE_UNKNOWN
+157,157,2026-05-26T03:00:00,Tech_2,Normal,No acute intervention required.,C,radiology_examination,157,LOCAL_ZONE_UNKNOWN
+158,158,2026-03-04T01:00:00,Tech_4,Clear lungs,No acute intervention required.,C,radiology_examination,158,LOCAL_ZONE_UNKNOWN
+159,159,2026-04-17T23:00:00,Tech_6,Normal,No acute intervention required.,C,radiology_examination,159,LOCAL_ZONE_UNKNOWN
+160,160,2026-03-01T21:00:00,Tech_5,Normal,No acute intervention required.,C,radiology_examination,160,LOCAL_ZONE_UNKNOWN
+161,161,2026-03-21T05:00:00,Tech_9,Mild opacity,No acute intervention required.,C,radiology_examination,161,LOCAL_ZONE_UNKNOWN
+162,162,2026-08-07T06:00:00,Tech_6,,,C,radiology_examination,162,LOCAL_ZONE_UNKNOWN
+164,164,2026-05-01T17:00:00,Tech_1,Clear lungs,No acute intervention required.,C,radiology_examination,164,LOCAL_ZONE_UNKNOWN
+165,165,2026-09-01T02:00:00,Tech_2,Mild opacity,No acute intervention required.,C,radiology_examination,165,LOCAL_ZONE_UNKNOWN
+166,166,2026-05-19T21:00:00,Tech_7,,,C,radiology_examination,166,LOCAL_ZONE_UNKNOWN
+167,167,2026-03-06T22:00:00,Tech_7,Normal,No acute intervention required.,C,radiology_examination,167,LOCAL_ZONE_UNKNOWN
+168,168,2026-06-17T21:00:00,Tech_7,Normal,No acute intervention required.,C,radiology_examination,168,LOCAL_ZONE_UNKNOWN
+169,169,2026-07-24T07:00:00,Tech_10,Normal,No acute intervention required.,C,radiology_examination,169,LOCAL_ZONE_UNKNOWN
+170,170,2026-04-15T17:00:00,Tech_6,Clear lungs,No acute intervention required.,C,radiology_examination,170,LOCAL_ZONE_UNKNOWN
+171,171,2026-08-19T20:00:00,Tech_5,,,C,radiology_examination,171,LOCAL_ZONE_UNKNOWN
+172,172,2026-03-23T01:00:00,Tech_4,Normal,No acute intervention required.,C,radiology_examination,172,LOCAL_ZONE_UNKNOWN
+173,173,2026-04-21T03:00:00,Tech_7,Normal,No acute intervention required.,C,radiology_examination,173,LOCAL_ZONE_UNKNOWN
+174,174,2026-03-12T08:00:00,Tech_4,Mild opacity,No acute intervention required.,C,radiology_examination,174,LOCAL_ZONE_UNKNOWN
+175,175,2026-05-04T15:00:00,Tech_6,Mild opacity,No acute intervention required.,C,radiology_examination,175,LOCAL_ZONE_UNKNOWN
+176,176,2026-04-03T14:00:00,Tech_5,Normal,No acute intervention required.,C,radiology_examination,176,LOCAL_ZONE_UNKNOWN
+177,177,2026-08-15T19:00:00,Tech_1,Mild opacity,No acute intervention required.,C,radiology_examination,177,LOCAL_ZONE_UNKNOWN
+178,178,2026-01-13T00:00:00,Tech_4,Mild opacity,No acute intervention required.,C,radiology_examination,178,LOCAL_ZONE_UNKNOWN
+179,179,2026-08-10T17:00:00,Tech_7,Normal,No acute intervention required.,C,radiology_examination,179,LOCAL_ZONE_UNKNOWN
+180,180,2026-04-08T07:00:00,Tech_4,Clear lungs,No acute intervention required.,C,radiology_examination,180,LOCAL_ZONE_UNKNOWN
+181,181,2026-02-18T11:00:00,Tech_8,Normal,No acute intervention required.,C,radiology_examination,181,LOCAL_ZONE_UNKNOWN
+182,182,2026-06-28T15:00:00,Tech_6,Clear lungs,No acute intervention required.,C,radiology_examination,182,LOCAL_ZONE_UNKNOWN
+183,183,2026-08-28T08:00:00,Tech_10,Mild opacity,No acute intervention required.,C,radiology_examination,183,LOCAL_ZONE_UNKNOWN
+184,184,2026-02-25T04:00:00,Tech_9,Clear lungs,No acute intervention required.,C,radiology_examination,184,LOCAL_ZONE_UNKNOWN
+185,185,2026-02-01T05:00:00,Tech_9,Normal,No acute intervention required.,C,radiology_examination,185,LOCAL_ZONE_UNKNOWN
+186,186,2026-08-13T04:00:00,Tech_5,Mild opacity,No acute intervention required.,C,radiology_examination,186,LOCAL_ZONE_UNKNOWN
+187,187,2026-08-22T06:00:00,Tech_2,Clear lungs,No acute intervention required.,C,radiology_examination,187,LOCAL_ZONE_UNKNOWN
+188,188,2026-03-04T06:00:00,Tech_7,Normal,No acute intervention required.,C,radiology_examination,188,LOCAL_ZONE_UNKNOWN
+189,189,2026-08-05T13:00:00,Tech_4,Mild opacity,No acute intervention required.,C,radiology_examination,189,LOCAL_ZONE_UNKNOWN
+190,190,2026-08-22T10:00:00,Tech_3,Mild opacity,No acute intervention required.,C,radiology_examination,190,LOCAL_ZONE_UNKNOWN
+191,191,2026-05-12T13:00:00,Tech_1,Clear lungs,No acute intervention required.,C,radiology_examination,191,LOCAL_ZONE_UNKNOWN
+192,192,2026-07-18T08:00:00,Tech_7,Normal,No acute intervention required.,C,radiology_examination,192,LOCAL_ZONE_UNKNOWN
+193,193,2026-05-24T02:00:00,Tech_7,Normal,No acute intervention required.,C,radiology_examination,193,LOCAL_ZONE_UNKNOWN
+194,194,2026-04-08T20:00:00,Tech_7,Clear lungs,No acute intervention required.,C,radiology_examination,194,LOCAL_ZONE_UNKNOWN
+195,195,2026-04-20T03:00:00,Tech_7,Clear lungs,No acute intervention required.,C,radiology_examination,195,LOCAL_ZONE_UNKNOWN
+196,196,2026-03-21T00:00:00,Tech_4,Clear lungs,No acute intervention required.,C,radiology_examination,196,LOCAL_ZONE_UNKNOWN
+197,197,2026-07-27T06:00:00,Tech_8,Normal,No acute intervention required.,C,radiology_examination,197,LOCAL_ZONE_UNKNOWN
+198,198,2026-02-20T06:00:00,Tech_5,Mild opacity,No acute intervention required.,C,radiology_examination,198,LOCAL_ZONE_UNKNOWN
+199,199,2026-03-30T10:00:00,Tech_6,Clear lungs,No acute intervention required.,C,radiology_examination,199,LOCAL_ZONE_UNKNOWN
+200,200,2026-04-12T06:00:00,Tech_8,Clear lungs,No acute intervention required.,C,radiology_examination,200,LOCAL_ZONE_UNKNOWN
+201,201,2026-07-05T05:00:00,Tech_6,Normal,No acute intervention required.,C,radiology_examination,201,LOCAL_ZONE_UNKNOWN
+202,202,2026-08-28T22:00:00,Tech_10,Clear lungs,No acute intervention required.,C,radiology_examination,202,LOCAL_ZONE_UNKNOWN
+203,203,2026-03-27T01:00:00,Tech_10,Clear lungs,No acute intervention required.,C,radiology_examination,203,LOCAL_ZONE_UNKNOWN
+204,204,2026-05-13T07:00:00,Tech_9,Clear lungs,No acute intervention required.,C,radiology_examination,204,LOCAL_ZONE_UNKNOWN
+206,206,2026-07-10T02:00:00,Tech_3,Mild opacity,No acute intervention required.,C,radiology_examination,206,LOCAL_ZONE_UNKNOWN
+207,207,2026-02-27T04:00:00,Tech_8,Clear lungs,No acute intervention required.,C,radiology_examination,207,LOCAL_ZONE_UNKNOWN
+208,208,2026-03-06T18:00:00,Tech_10,Clear lungs,No acute intervention required.,C,radiology_examination,208,LOCAL_ZONE_UNKNOWN
+209,209,2026-03-05T21:00:00,Tech_7,Normal,No acute intervention required.,C,radiology_examination,209,LOCAL_ZONE_UNKNOWN
+210,210,2026-01-18T04:00:00,Tech_1,Clear lungs,No acute intervention required.,C,radiology_examination,210,LOCAL_ZONE_UNKNOWN
+211,211,2026-02-03T07:00:00,Tech_5,Clear lungs,No acute intervention required.,C,radiology_examination,211,LOCAL_ZONE_UNKNOWN
+212,212,2026-02-02T20:00:00,Tech_4,Clear lungs,No acute intervention required.,C,radiology_examination,212,LOCAL_ZONE_UNKNOWN
+213,213,2026-03-01T15:00:00,Tech_10,Mild opacity,No acute intervention required.,C,radiology_examination,213,LOCAL_ZONE_UNKNOWN
+214,214,2026-06-10T11:00:00,Tech_7,Normal,No acute intervention required.,C,radiology_examination,214,LOCAL_ZONE_UNKNOWN
+216,216,2026-07-22T04:00:00,Tech_6,Mild opacity,No acute intervention required.,C,radiology_examination,216,LOCAL_ZONE_UNKNOWN
+217,217,2026-04-28T17:00:00,Tech_3,Clear lungs,No acute intervention required.,C,radiology_examination,217,LOCAL_ZONE_UNKNOWN
+218,218,2026-08-02T20:00:00,Tech_4,Normal,No acute intervention required.,C,radiology_examination,218,LOCAL_ZONE_UNKNOWN
+219,219,2026-04-25T19:00:00,Tech_10,Mild opacity,No acute intervention required.,C,radiology_examination,219,LOCAL_ZONE_UNKNOWN
+220,220,2026-07-19T00:00:00,Tech_8,Normal,No acute intervention required.,C,radiology_examination,220,LOCAL_ZONE_UNKNOWN
+221,221,2026-01-24T09:00:00,Tech_3,Clear lungs,No acute intervention required.,C,radiology_examination,221,LOCAL_ZONE_UNKNOWN
+222,222,2026-07-14T05:00:00,Tech_4,Normal,No acute intervention required.,C,radiology_examination,222,LOCAL_ZONE_UNKNOWN
+223,223,2026-03-21T19:00:00,Tech_4,Mild opacity,No acute intervention required.,C,radiology_examination,223,LOCAL_ZONE_UNKNOWN
+224,224,2026-08-18T01:00:00,Tech_10,Normal,No acute intervention required.,C,radiology_examination,224,LOCAL_ZONE_UNKNOWN
+225,225,2026-06-18T13:00:00,Tech_10,Clear lungs,No acute intervention required.,C,radiology_examination,225,LOCAL_ZONE_UNKNOWN
+226,226,2026-08-12T16:00:00,Tech_5,Normal,No acute intervention required.,C,radiology_examination,226,LOCAL_ZONE_UNKNOWN
+227,227,2026-07-14T03:00:00,Tech_5,Mild opacity,No acute intervention required.,C,radiology_examination,227,LOCAL_ZONE_UNKNOWN
+228,228,2026-02-19T10:00:00,Tech_5,Mild opacity,No acute intervention required.,C,radiology_examination,228,LOCAL_ZONE_UNKNOWN
+229,229,2026-09-02T11:00:00,Tech_7,Clear lungs,No acute intervention required.,C,radiology_examination,229,LOCAL_ZONE_UNKNOWN
+230,230,2026-04-30T08:00:00,Tech_1,,,C,radiology_examination,230,LOCAL_ZONE_UNKNOWN
+231,231,2026-03-28T15:00:00,Tech_1,Normal,No acute intervention required.,C,radiology_examination,231,LOCAL_ZONE_UNKNOWN
+232,232,2026-02-13T22:00:00,Tech_6,Clear lungs,No acute intervention required.,C,radiology_examination,232,LOCAL_ZONE_UNKNOWN
+233,233,2026-06-05T11:00:00,Tech_2,Clear lungs,No acute intervention required.,C,radiology_examination,233,LOCAL_ZONE_UNKNOWN
+234,234,2026-08-05T19:00:00,Tech_5,Mild opacity,No acute intervention required.,C,radiology_examination,234,LOCAL_ZONE_UNKNOWN
+235,235,2026-04-20T21:00:00,Tech_3,Mild opacity,No acute intervention required.,C,radiology_examination,235,LOCAL_ZONE_UNKNOWN
+236,236,2026-03-22T13:00:00,Tech_10,Clear lungs,No acute intervention required.,C,radiology_examination,236,LOCAL_ZONE_UNKNOWN
+237,237,2026-08-18T23:00:00,Tech_8,Mild opacity,No acute intervention required.,C,radiology_examination,237,LOCAL_ZONE_UNKNOWN
+238,238,2026-09-08T08:00:00,Tech_7,Mild opacity,No acute intervention required.,C,radiology_examination,238,LOCAL_ZONE_UNKNOWN
+239,239,2026-02-12T01:00:00,Tech_5,Normal,No acute intervention required.,C,radiology_examination,239,LOCAL_ZONE_UNKNOWN
+240,240,2026-06-28T07:00:00,Tech_4,Normal,No acute intervention required.,C,radiology_examination,240,LOCAL_ZONE_UNKNOWN
+241,241,2026-01-04T19:00:00,Tech_10,Normal,No acute intervention required.,C,radiology_examination,241,LOCAL_ZONE_UNKNOWN
+242,242,2026-01-29T19:00:00,Tech_3,Normal,No acute intervention required.,C,radiology_examination,242,LOCAL_ZONE_UNKNOWN
+243,243,2026-01-18T18:00:00,Tech_1,Clear lungs,No acute intervention required.,C,radiology_examination,243,LOCAL_ZONE_UNKNOWN
+244,244,2026-08-01T20:00:00,Tech_3,Mild opacity,No acute intervention required.,C,radiology_examination,244,LOCAL_ZONE_UNKNOWN
+245,245,2026-01-05T01:00:00,Tech_2,Normal,No acute intervention required.,C,radiology_examination,245,LOCAL_ZONE_UNKNOWN
+246,246,2026-04-07T06:00:00,Tech_3,Mild opacity,No acute intervention required.,C,radiology_examination,246,LOCAL_ZONE_UNKNOWN
+247,247,2026-06-14T17:00:00,Tech_8,Mild opacity,No acute intervention required.,C,radiology_examination,247,LOCAL_ZONE_UNKNOWN
+248,248,2026-08-25T19:00:00,Tech_2,Mild opacity,No acute intervention required.,C,radiology_examination,248,LOCAL_ZONE_UNKNOWN
+249,249,2026-02-17T16:00:00,Tech_6,Normal,No acute intervention required.,C,radiology_examination,249,LOCAL_ZONE_UNKNOWN
+250,250,2026-07-20T03:00:00,Tech_5,Normal,No acute intervention required.,C,radiology_examination,250,LOCAL_ZONE_UNKNOWN
+251,251,2026-08-10T22:00:00,Tech_8,Mild opacity,No acute intervention required.,C,radiology_examination,251,LOCAL_ZONE_UNKNOWN
+252,252,2026-02-09T20:00:00,Tech_8,Normal,No acute intervention required.,C,radiology_examination,252,LOCAL_ZONE_UNKNOWN
+253,253,2026-05-13T12:00:00,Tech_5,Clear lungs,No acute intervention required.,C,radiology_examination,253,LOCAL_ZONE_UNKNOWN
+254,254,2026-01-29T01:00:00,Tech_7,Clear lungs,No acute intervention required.,C,radiology_examination,254,LOCAL_ZONE_UNKNOWN
+255,255,2026-01-13T09:00:00,Tech_5,Normal,No acute intervention required.,C,radiology_examination,255,LOCAL_ZONE_UNKNOWN
+256,256,2026-01-20T17:00:00,Tech_6,Clear lungs,No acute intervention required.,C,radiology_examination,256,LOCAL_ZONE_UNKNOWN
+257,257,2026-07-24T05:00:00,Tech_9,Mild opacity,No acute intervention required.,C,radiology_examination,257,LOCAL_ZONE_UNKNOWN
+258,258,2026-07-30T11:00:00,Tech_3,Clear lungs,No acute intervention required.,C,radiology_examination,258,LOCAL_ZONE_UNKNOWN
+259,259,2026-03-20T06:00:00,Tech_10,Mild opacity,No acute intervention required.,C,radiology_examination,259,LOCAL_ZONE_UNKNOWN
+260,260,2026-04-23T05:00:00,Tech_5,Mild opacity,No acute intervention required.,C,radiology_examination,260,LOCAL_ZONE_UNKNOWN
+261,261,2026-07-04T17:00:00,Tech_5,Normal,No acute intervention required.,C,radiology_examination,261,LOCAL_ZONE_UNKNOWN
+262,262,2026-07-28T08:00:00,Tech_10,Clear lungs,No acute intervention required.,C,radiology_examination,262,LOCAL_ZONE_UNKNOWN
+263,263,2026-05-16T11:00:00,Tech_6,Mild opacity,No acute intervention required.,C,radiology_examination,263,LOCAL_ZONE_UNKNOWN
+264,264,2026-01-18T01:00:00,Tech_9,Clear lungs,No acute intervention required.,C,radiology_examination,264,LOCAL_ZONE_UNKNOWN
+265,265,2026-03-28T18:00:00,Tech_7,Clear lungs,No acute intervention required.,C,radiology_examination,265,LOCAL_ZONE_UNKNOWN
+266,266,2026-07-07T21:00:00,Tech_6,Clear lungs,No acute intervention required.,C,radiology_examination,266,LOCAL_ZONE_UNKNOWN
+267,267,2026-07-07T06:00:00,Tech_6,Clear lungs,No acute intervention required.,C,radiology_examination,267,LOCAL_ZONE_UNKNOWN
+268,268,2026-06-20T08:00:00,Tech_10,Normal,No acute intervention required.,C,radiology_examination,268,LOCAL_ZONE_UNKNOWN
+270,270,2026-07-24T21:00:00,Tech_8,Mild opacity,No acute intervention required.,C,radiology_examination,270,LOCAL_ZONE_UNKNOWN
+271,271,2026-01-21T15:00:00,Tech_9,Mild opacity,No acute intervention required.,C,radiology_examination,271,LOCAL_ZONE_UNKNOWN
+272,272,2026-04-16T17:00:00,Tech_4,Mild opacity,No acute intervention required.,C,radiology_examination,272,LOCAL_ZONE_UNKNOWN
+273,273,2026-02-28T08:00:00,Tech_3,Mild opacity,No acute intervention required.,C,radiology_examination,273,LOCAL_ZONE_UNKNOWN
+274,274,2026-06-07T05:00:00,Tech_10,Clear lungs,No acute intervention required.,C,radiology_examination,274,LOCAL_ZONE_UNKNOWN
+275,275,2026-05-16T16:00:00,Tech_4,Mild opacity,No acute intervention required.,C,radiology_examination,275,LOCAL_ZONE_UNKNOWN
+276,276,2026-03-09T23:00:00,Tech_8,Clear lungs,No acute intervention required.,C,radiology_examination,276,LOCAL_ZONE_UNKNOWN
+277,277,2026-02-26T03:00:00,Tech_5,Clear lungs,No acute intervention required.,C,radiology_examination,277,LOCAL_ZONE_UNKNOWN
+278,278,2026-05-02T15:00:00,Tech_1,Mild opacity,No acute intervention required.,C,radiology_examination,278,LOCAL_ZONE_UNKNOWN
+279,279,2026-08-12T06:00:00,Tech_3,Clear lungs,No acute intervention required.,C,radiology_examination,279,LOCAL_ZONE_UNKNOWN
+280,280,2026-08-10T04:00:00,Tech_10,Clear lungs,No acute intervention required.,C,radiology_examination,280,LOCAL_ZONE_UNKNOWN
+281,281,2026-02-15T05:00:00,Tech_10,Clear lungs,No acute intervention required.,C,radiology_examination,281,LOCAL_ZONE_UNKNOWN
+282,282,2026-02-08T22:00:00,Tech_6,Mild opacity,No acute intervention required.,C,radiology_examination,282,LOCAL_ZONE_UNKNOWN
+283,283,2026-03-02T18:00:00,Tech_6,Mild opacity,No acute intervention required.,C,radiology_examination,283,LOCAL_ZONE_UNKNOWN
+284,284,2026-03-14T12:00:00,Tech_1,Normal,No acute intervention required.,C,radiology_examination,284,LOCAL_ZONE_UNKNOWN
+285,285,2026-07-24T04:00:00,Tech_6,Clear lungs,No acute intervention required.,C,radiology_examination,285,LOCAL_ZONE_UNKNOWN
+286,286,2026-01-26T16:00:00,Tech_6,Mild opacity,No acute intervention required.,C,radiology_examination,286,LOCAL_ZONE_UNKNOWN
+287,287,2026-04-30T05:00:00,Tech_2,Normal,No acute intervention required.,C,radiology_examination,287,LOCAL_ZONE_UNKNOWN
+288,288,2026-07-06T00:00:00,Tech_1,Clear lungs,No acute intervention required.,C,radiology_examination,288,LOCAL_ZONE_UNKNOWN
+289,289,2026-05-29T15:00:00,Tech_1,Normal,No acute intervention required.,C,radiology_examination,289,LOCAL_ZONE_UNKNOWN
+290,290,2026-01-05T03:00:00,Tech_2,Clear lungs,No acute intervention required.,C,radiology_examination,290,LOCAL_ZONE_UNKNOWN

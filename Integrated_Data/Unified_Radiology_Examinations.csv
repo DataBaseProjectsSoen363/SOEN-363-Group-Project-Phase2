@@ -1,0 +1,819 @@
+examination_type,examination_date_time,body_area_examined,referring_physician_id,radiology_technician,examination_status,medical_images,source_system,contrast_used,findings_text,radiologist_conclusion,report.findings,report.conclusion,global_examination_id,global_order_id
+MRI Brain,2026-07-22T21:45:00,Head,6,Tech D. Tremblay,PENDING,DICOM-3779,Source_A,,,,,,1,1
+Chest X-Ray,2026-07-12T04:15:00,Chest,8,Tech C. Smith,PENDING,DICOM-7195,Source_A,,,,,,2,2
+CT Scan - Chest,2026-04-08T17:15:00,Chest,6,Tech D. Tremblay,IN_PROGRESS,DICOM-8399,Source_A,,,,,,3,3
+Chest X-Ray,2026-06-06T13:30:00,Chest,9,Tech D. Tremblay,IN_PROGRESS,DICOM-9111,Source_A,,,,,,4,4
+Abdominal Ultrasound,2026-08-13T13:45:00,Abdomen,13,Tech D. Tremblay,FINALIZED,DICOM-1200,Source_A,,,,,,5,5
+Abdominal Ultrasound,2026-05-05T14:30:00,Abdomen,4,Tech D. Tremblay,FINALIZED,DICOM-3555,Source_A,,,,,,6,6
+Abdominal Ultrasound,2026-08-26T00:45:00,Abdomen,12,Tech D. Tremblay,IN_PROGRESS,DICOM-8890,Source_A,,,,,,7,8
+MRI Brain,2026-08-04T14:45:00,Head,2,Tech A. Roy,FINALIZED,DICOM-3181,Source_A,,,,,,8,9
+Abdominal Ultrasound,2026-01-24T06:45:00,Abdomen,4,Tech D. Tremblay,IN_PROGRESS,DICOM-5411,Source_A,,,,,,9,10
+CT Scan - Chest,2026-09-02T08:00:00,Chest,9,Tech D. Tremblay,IN_PROGRESS,DICOM-6297,Source_A,,,,,,10,11
+CT Scan - Chest,2026-07-08T08:15:00,Chest,12,Tech A. Roy,IN_PROGRESS,DICOM-5998,Source_A,,,,,,11,12
+Abdominal Ultrasound,2026-04-20T11:30:00,Abdomen,11,Tech B. Gagnon,IN_PROGRESS,DICOM-6570,Source_A,,,,,,12,13
+Chest X-Ray,2026-07-18T09:45:00,Chest,15,Tech A. Roy,FINALIZED,DICOM-5494,Source_A,,,,,,13,14
+Abdominal Ultrasound,2026-07-31T09:00:00,Abdomen,8,Tech C. Smith,PENDING,DICOM-2213,Source_A,,,,,,14,15
+Chest X-Ray,2026-04-03T06:00:00,Chest,8,Tech B. Gagnon,IN_PROGRESS,,Source_A,,,,,,15,16
+MRI Brain,2026-04-04T12:15:00,Head,4,Tech C. Smith,PENDING,DICOM-9608,Source_A,,,,,,16,17
+CT Scan - Chest,2026-03-15T12:30:00,Chest,9,Tech D. Tremblay,PENDING,DICOM-9226,Source_A,,,,,,17,18
+MRI Brain,2026-01-09T05:45:00,Head,7,Tech C. Smith,FINALIZED,DICOM-9123,Source_A,,,,,,18,19
+Abdominal Ultrasound,2026-05-27T22:00:00,Abdomen,12,Tech D. Tremblay,PENDING,DICOM-5239,Source_A,,,,,,19,20
+Abdominal Ultrasound,2026-02-01T22:15:00,Abdomen,14,Tech A. Roy,IN_PROGRESS,DICOM-9888,Source_A,,,,,,20,21
+Chest X-Ray,2026-09-07T03:15:00,,4,Tech A. Roy,FINALIZED,DICOM-2137,Source_A,,,,,,21,22
+Abdominal Ultrasound,2026-07-31T02:00:00,Abdomen,4,Tech D. Tremblay,FINALIZED,DICOM-3522,Source_A,,,,,,22,23
+MRI Brain,2026-01-07T21:15:00,Head,9,Tech D. Tremblay,FINALIZED,DICOM-5929,Source_A,,,,,,23,24
+CT Scan - Chest,2026-07-31T14:00:00,Chest,10,Tech C. Smith,PENDING,DICOM-7259,Source_A,,,,,,24,25
+MRI Brain,2026-01-31T18:30:00,Head,10,Tech C. Smith,PENDING,DICOM-9355,Source_A,,,,,,25,26
+Abdominal Ultrasound,2026-02-20T14:45:00,Abdomen,8,Tech A. Roy,FINALIZED,DICOM-4756,Source_A,,,,,,26,27
+CT Scan - Chest,2026-08-16T23:15:00,Chest,15,Tech C. Smith,IN_PROGRESS,DICOM-5161,Source_A,,,,,,27,28
+CT Scan - Chest,2026-02-08T02:00:00,Chest,1,Tech D. Tremblay,PENDING,DICOM-2032,Source_A,,,,,,28,29
+MRI Brain,2026-05-05T07:30:00,Head,9,Tech C. Smith,PENDING,DICOM-2367,Source_A,,,,,,29,30
+MRI Brain,2026-01-08T20:15:00,Head,8,Tech A. Roy,FINALIZED,DICOM-3819,Source_A,,,,,,30,31
+MRI Brain,2026-04-18T19:00:00,Head,5,Tech A. Roy,IN_PROGRESS,DICOM-4237,Source_A,,,,,,31,32
+MRI Brain,2026-09-08T02:00:00,Head,5,Tech B. Gagnon,PENDING,DICOM-5680,Source_A,,,,,,32,33
+CT Scan - Chest,2026-07-04T08:45:00,,13,Tech A. Roy,PENDING,DICOM-5759,Source_A,,,,,,33,34
+MRI Brain,2026-07-16T01:30:00,Head,12,Tech C. Smith,IN_PROGRESS,DICOM-3967,Source_A,,,,,,34,35
+CT Scan - Chest,2026-08-01T18:15:00,Chest,13,Tech C. Smith,IN_PROGRESS,DICOM-1555,Source_A,,,,,,35,36
+Abdominal Ultrasound,2026-07-20T23:00:00,Abdomen,4,Tech D. Tremblay,FINALIZED,DICOM-1301,Source_A,,,,,,36,37
+Abdominal Ultrasound,2026-04-07T22:30:00,Abdomen,13,Tech D. Tremblay,PENDING,DICOM-7033,Source_A,,,,,,37,38
+CT Scan - Chest,2026-02-13T07:45:00,Chest,14,Tech D. Tremblay,PENDING,DICOM-4166,Source_A,,,,,,38,39
+Chest X-Ray,2026-02-08T19:00:00,Chest,7,Tech B. Gagnon,PENDING,DICOM-2545,Source_A,,,,,,39,40
+Chest X-Ray,2026-01-15T18:15:00,Chest,10,Tech B. Gagnon,PENDING,DICOM-1928,Source_A,,,,,,40,41
+MRI Brain,2026-06-17T15:45:00,Head,2,Tech A. Roy,IN_PROGRESS,DICOM-5592,Source_A,,,,,,41,42
+Chest X-Ray,2026-08-17T21:00:00,Chest,1,Tech B. Gagnon,IN_PROGRESS,DICOM-3335,Source_A,,,,,,42,43
+Chest X-Ray,2026-05-03T03:45:00,Chest,2,Tech B. Gagnon,PENDING,DICOM-2674,Source_A,,,,,,43,44
+Chest X-Ray,2026-01-22T17:45:00,Chest,13,Tech B. Gagnon,PENDING,DICOM-2042,Source_A,,,,,,44,45
+MRI Brain,2026-07-06T03:00:00,Head,4,Tech D. Tremblay,FINALIZED,DICOM-6812,Source_A,,,,,,45,46
+Chest X-Ray,2026-01-08T15:00:00,Chest,11,Tech D. Tremblay,PENDING,DICOM-7473,Source_A,,,,,,46,47
+MRI Brain,2026-01-12T12:15:00,Head,12,Tech D. Tremblay,IN_PROGRESS,DICOM-6147,Source_A,,,,,,47,48
+Abdominal Ultrasound,2026-04-19T07:45:00,Abdomen,10,Tech B. Gagnon,PENDING,DICOM-8155,Source_A,,,,,,48,49
+MRI Brain,2026-04-26T05:15:00,Head,8,Tech A. Roy,PENDING,DICOM-8185,Source_A,,,,,,49,50
+MRI Brain,2026-05-30T03:45:00,Head,15,Tech B. Gagnon,IN_PROGRESS,DICOM-3464,Source_A,,,,,,50,51
+MRI Brain,2026-08-21T00:15:00,Head,1,Tech C. Smith,FINALIZED,,Source_A,,,,,,51,52
+CT Scan - Chest,2026-07-04T10:15:00,Chest,1,Tech A. Roy,IN_PROGRESS,DICOM-4565,Source_A,,,,,,52,53
+CT Scan - Chest,2026-08-28T15:15:00,Chest,13,Tech A. Roy,PENDING,DICOM-2033,Source_A,,,,,,53,54
+Abdominal Ultrasound,2026-02-27T08:30:00,Abdomen,8,Tech C. Smith,IN_PROGRESS,DICOM-1526,Source_A,,,,,,54,55
+CT Scan - Chest,2026-01-03T22:30:00,Chest,5,Tech D. Tremblay,FINALIZED,DICOM-1051,Source_A,,,,,,55,56
+Abdominal Ultrasound,2026-04-25T15:45:00,Abdomen,13,Tech B. Gagnon,PENDING,DICOM-5765,Source_A,,,,,,56,57
+MRI Brain,2026-08-31T15:15:00,Head,12,Tech C. Smith,FINALIZED,DICOM-7126,Source_A,,,,,,57,58
+CT Scan - Chest,2026-01-27T09:30:00,Chest,6,Tech D. Tremblay,IN_PROGRESS,DICOM-8754,Source_A,,,,,,58,59
+MRI Brain,2026-05-26T13:15:00,Head,11,Tech A. Roy,IN_PROGRESS,DICOM-1545,Source_A,,,,,,59,60
+Chest X-Ray,2026-06-13T14:00:00,Chest,12,Tech B. Gagnon,PENDING,DICOM-5615,Source_A,,,,,,60,61
+MRI Brain,2026-03-13T17:15:00,Head,6,Tech A. Roy,IN_PROGRESS,DICOM-3726,Source_A,,,,,,61,62
+MRI Brain,2026-01-10T15:45:00,Head,10,Tech D. Tremblay,FINALIZED,DICOM-5099,Source_A,,,,,,62,63
+CT Scan - Chest,2026-01-27T14:45:00,Chest,7,Tech C. Smith,IN_PROGRESS,DICOM-5611,Source_A,,,,,,63,64
+Abdominal Ultrasound,2026-02-13T11:00:00,Abdomen,3,Tech C. Smith,IN_PROGRESS,DICOM-9040,Source_A,,,,,,64,65
+Chest X-Ray,2026-06-20T12:15:00,Chest,3,Tech B. Gagnon,FINALIZED,DICOM-2052,Source_A,,,,,,65,66
+MRI Brain,2026-04-18T09:00:00,Head,1,Tech C. Smith,FINALIZED,DICOM-4392,Source_A,,,,,,66,67
+MRI Brain,2026-06-25T10:30:00,Head,9,Tech C. Smith,PENDING,DICOM-7873,Source_A,,,,,,67,68
+Abdominal Ultrasound,2026-06-15T20:15:00,Abdomen,15,Tech B. Gagnon,PENDING,DICOM-1647,Source_A,,,,,,68,69
+MRI Brain,2026-08-05T14:00:00,Head,1,Tech C. Smith,PENDING,DICOM-4935,Source_A,,,,,,69,70
+MRI Brain,2026-07-12T08:00:00,Head,2,Tech A. Roy,PENDING,DICOM-5876,Source_A,,,,,,70,71
+Abdominal Ultrasound,2026-07-30T05:15:00,Abdomen,6,Tech D. Tremblay,IN_PROGRESS,DICOM-6691,Source_A,,,,,,71,72
+CT Scan - Chest,2026-01-07T17:45:00,Chest,11,Tech A. Roy,PENDING,DICOM-6579,Source_A,,,,,,72,73
+MRI Brain,2026-08-19T15:45:00,Head,2,Tech A. Roy,FINALIZED,DICOM-4546,Source_A,,,,,,73,74
+CT Scan - Chest,2026-01-08T17:45:00,Chest,15,Tech C. Smith,FINALIZED,DICOM-7125,Source_A,,,,,,74,75
+CT Scan - Chest,2026-01-28T14:45:00,Chest,10,Tech B. Gagnon,FINALIZED,DICOM-8879,Source_A,,,,,,75,76
+CT Scan - Chest,2026-01-12T23:30:00,Chest,12,Tech D. Tremblay,IN_PROGRESS,DICOM-1292,Source_A,,,,,,76,77
+CT Scan - Chest,2026-06-04T02:15:00,,3,Tech B. Gagnon,IN_PROGRESS,DICOM-2804,Source_A,,,,,,77,78
+Chest X-Ray,2026-06-23T15:00:00,Chest,14,Tech B. Gagnon,PENDING,DICOM-3385,Source_A,,,,,,78,79
+Chest X-Ray,2026-02-16T15:15:00,Chest,6,Tech A. Roy,PENDING,DICOM-9715,Source_A,,,,,,79,80
+Chest X-Ray,2026-04-25T13:00:00,Chest,13,Tech C. Smith,IN_PROGRESS,DICOM-6702,Source_A,,,,,,80,81
+CT Scan - Chest,2026-06-19T22:15:00,Chest,8,Tech C. Smith,PENDING,DICOM-8728,Source_A,,,,,,81,82
+Chest X-Ray,2026-04-07T18:45:00,Chest,8,Tech D. Tremblay,IN_PROGRESS,,Source_A,,,,,,82,83
+CT Scan - Chest,2026-01-13T06:00:00,Chest,7,Tech A. Roy,IN_PROGRESS,DICOM-1980,Source_A,,,,,,83,84
+CT Scan - Chest,2026-07-20T21:45:00,Chest,8,Tech A. Roy,PENDING,DICOM-3493,Source_A,,,,,,84,85
+Abdominal Ultrasound,2026-07-06T23:30:00,Abdomen,4,Tech C. Smith,IN_PROGRESS,DICOM-4273,Source_A,,,,,,85,86
+Chest X-Ray,2026-09-09T07:00:00,Chest,4,Tech A. Roy,PENDING,DICOM-4855,Source_A,,,,,,86,87
+Chest X-Ray,2026-07-10T06:30:00,Chest,3,Tech A. Roy,PENDING,DICOM-7482,Source_A,,,,,,87,88
+MRI Brain,2026-03-23T02:30:00,Head,1,Tech B. Gagnon,IN_PROGRESS,DICOM-8035,Source_A,,,,,,88,89
+Abdominal Ultrasound,2026-07-03T06:15:00,Abdomen,2,Tech B. Gagnon,FINALIZED,DICOM-9728,Source_A,,,,,,89,90
+MRI Brain,2026-06-28T23:45:00,Head,4,Tech B. Gagnon,FINALIZED,DICOM-7519,Source_A,,,,,,90,91
+MRI Brain,2026-04-08T14:00:00,Head,10,Tech D. Tremblay,FINALIZED,DICOM-9474,Source_A,,,,,,91,92
+Abdominal Ultrasound,2026-08-10T03:45:00,,5,Tech D. Tremblay,PENDING,DICOM-4712,Source_A,,,,,,92,93
+Chest X-Ray,2026-05-15T06:00:00,,5,Tech C. Smith,IN_PROGRESS,DICOM-1839,Source_A,,,,,,93,94
+Chest X-Ray,2026-02-03T07:15:00,Chest,1,Tech D. Tremblay,FINALIZED,DICOM-8346,Source_A,,,,,,94,95
+Chest X-Ray,2026-02-01T06:30:00,Chest,6,Tech C. Smith,PENDING,DICOM-3992,Source_A,,,,,,95,96
+CT Scan - Chest,2026-05-24T19:00:00,Chest,8,Tech C. Smith,FINALIZED,DICOM-2546,Source_A,,,,,,96,97
+Abdominal Ultrasound,2026-09-02T01:30:00,Abdomen,12,Tech C. Smith,PENDING,DICOM-5890,Source_A,,,,,,97,98
+CT Scan - Chest,2026-03-30T17:45:00,Chest,2,Tech C. Smith,PENDING,DICOM-8653,Source_A,,,,,,98,99
+CT Scan - Chest,2026-05-28T01:30:00,Chest,4,Tech C. Smith,FINALIZED,DICOM-8107,Source_A,,,,,,99,100
+Chest X-Ray,2026-03-22T02:45:00,Chest,4,Tech B. Gagnon,FINALIZED,DICOM-3656,Source_A,,,,,,100,101
+Abdominal Ultrasound,2026-02-21T09:45:00,Abdomen,10,Tech A. Roy,IN_PROGRESS,DICOM-3235,Source_A,,,,,,101,102
+Chest X-Ray,2026-07-08T22:15:00,Chest,5,Tech A. Roy,IN_PROGRESS,DICOM-8337,Source_A,,,,,,102,103
+Abdominal Ultrasound,2026-07-21T15:30:00,Abdomen,2,Tech A. Roy,PENDING,DICOM-3854,Source_A,,,,,,103,104
+MRI Brain,2026-03-23T20:30:00,Head,13,Tech C. Smith,IN_PROGRESS,,Source_A,,,,,,104,105
+Chest X-Ray,2026-03-18T16:45:00,Chest,13,Tech B. Gagnon,FINALIZED,DICOM-8659,Source_A,,,,,,105,106
+Abdominal Ultrasound,2026-06-04T04:45:00,Abdomen,11,Tech D. Tremblay,IN_PROGRESS,DICOM-9650,Source_A,,,,,,106,107
+Abdominal Ultrasound,2026-05-20T01:30:00,Abdomen,14,Tech D. Tremblay,FINALIZED,DICOM-6869,Source_A,,,,,,107,108
+Chest X-Ray,2026-03-27T18:15:00,Chest,13,Tech C. Smith,PENDING,DICOM-9321,Source_A,,,,,,108,109
+MRI Brain,2026-08-12T01:30:00,Head,11,Tech C. Smith,FINALIZED,DICOM-6820,Source_A,,,,,,109,110
+MRI Brain,2026-02-15T18:15:00,Head,15,Tech B. Gagnon,FINALIZED,DICOM-7156,Source_A,,,,,,110,111
+Abdominal Ultrasound,2026-07-17T19:30:00,Abdomen,13,Tech A. Roy,IN_PROGRESS,DICOM-7125,Source_A,,,,,,111,112
+MRI Brain,2026-08-31T05:45:00,Head,3,Tech C. Smith,FINALIZED,DICOM-2602,Source_A,,,,,,112,113
+Abdominal Ultrasound,2026-08-09T15:00:00,Abdomen,11,Tech B. Gagnon,PENDING,DICOM-6962,Source_A,,,,,,113,114
+MRI Brain,2026-05-19T08:00:00,Head,13,Tech C. Smith,FINALIZED,DICOM-4322,Source_A,,,,,,114,115
+CT Scan - Chest,2026-06-01T08:30:00,Chest,6,Tech B. Gagnon,PENDING,DICOM-6750,Source_A,,,,,,115,116
+MRI Brain,2026-03-10T07:00:00,Head,1,Tech A. Roy,IN_PROGRESS,DICOM-5411,Source_A,,,,,,116,117
+Abdominal Ultrasound,2026-01-27T07:45:00,Abdomen,13,Tech A. Roy,PENDING,DICOM-6270,Source_A,,,,,,117,118
+CT Scan - Chest,2026-08-17T22:00:00,Chest,6,Tech A. Roy,PENDING,DICOM-5262,Source_A,,,,,,118,119
+CT Scan - Chest,2026-02-27T07:45:00,Chest,14,Tech B. Gagnon,FINALIZED,,Source_A,,,,,,119,120
+CT Scan - Chest,2026-06-27T09:30:00,,14,Tech A. Roy,PENDING,DICOM-6994,Source_A,,,,,,120,121
+CT Scan - Chest,2026-05-17T10:15:00,Chest,10,Tech B. Gagnon,FINALIZED,DICOM-7195,Source_A,,,,,,121,122
+Chest X-Ray,2026-05-14T21:30:00,Chest,9,Tech B. Gagnon,IN_PROGRESS,DICOM-5673,Source_A,,,,,,122,123
+MRI Brain,2026-06-21T12:15:00,Head,2,Tech A. Roy,IN_PROGRESS,DICOM-3797,Source_A,,,,,,123,124
+MRI Brain,2026-05-19T18:00:00,Head,4,Tech C. Smith,FINALIZED,DICOM-6690,Source_A,,,,,,124,125
+Chest X-Ray,2026-01-12T09:00:00,Chest,4,Tech C. Smith,PENDING,DICOM-6821,Source_A,,,,,,125,126
+CT Scan - Chest,2026-02-02T00:15:00,Chest,10,Tech C. Smith,FINALIZED,DICOM-3147,Source_A,,,,,,126,127
+Chest X-Ray,2026-05-27T01:15:00,Chest,13,Tech A. Roy,IN_PROGRESS,DICOM-3097,Source_A,,,,,,127,128
+CT Scan - Chest,2026-01-29T00:00:00,Chest,7,Tech D. Tremblay,IN_PROGRESS,DICOM-4861,Source_A,,,,,,128,129
+Abdominal Ultrasound,2026-08-11T04:45:00,Abdomen,3,Tech D. Tremblay,IN_PROGRESS,DICOM-4645,Source_A,,,,,,129,130
+Chest X-Ray,2026-07-05T13:00:00,Chest,2,Tech B. Gagnon,IN_PROGRESS,DICOM-9750,Source_A,,,,,,130,131
+CT Scan - Chest,2026-01-26T05:30:00,Chest,7,Tech C. Smith,FINALIZED,DICOM-6158,Source_A,,,,,,131,132
+Chest X-Ray,2026-07-21T06:00:00,Chest,7,Tech C. Smith,IN_PROGRESS,DICOM-9338,Source_A,,,,,,132,133
+CT Scan - Chest,2026-01-28T13:00:00,Chest,3,Tech D. Tremblay,IN_PROGRESS,DICOM-5662,Source_A,,,,,,133,134
+Chest X-Ray,2026-07-16T00:15:00,Chest,14,Tech A. Roy,FINALIZED,DICOM-8151,Source_A,,,,,,134,135
+Chest X-Ray,2026-05-27T07:45:00,Chest,11,Tech D. Tremblay,FINALIZED,DICOM-6409,Source_A,,,,,,135,136
+CT Scan - Chest,2026-06-13T23:00:00,Chest,13,Tech C. Smith,IN_PROGRESS,DICOM-7839,Source_A,,,,,,136,137
+MRI Brain,2026-06-03T22:15:00,Head,2,Tech A. Roy,FINALIZED,DICOM-8418,Source_A,,,,,,137,138
+MRI Brain,2026-08-17T08:30:00,Head,9,Tech A. Roy,PENDING,DICOM-9101,Source_A,,,,,,138,139
+CT Scan - Chest,2026-01-19T03:15:00,Chest,3,Tech C. Smith,PENDING,DICOM-2727,Source_A,,,,,,139,140
+MRI Brain,2026-07-08T23:00:00,Head,1,Tech A. Roy,PENDING,DICOM-1657,Source_A,,,,,,140,141
+CT Scan - Chest,2026-04-12T04:15:00,Chest,5,Tech A. Roy,PENDING,DICOM-4190,Source_A,,,,,,141,142
+Abdominal Ultrasound,2026-07-15T02:30:00,Abdomen,13,Tech A. Roy,IN_PROGRESS,DICOM-8912,Source_A,,,,,,142,143
+Abdominal Ultrasound,2026-08-15T04:45:00,Abdomen,12,Tech D. Tremblay,FINALIZED,DICOM-8115,Source_A,,,,,,143,144
+MRI Brain,2026-03-30T08:15:00,Head,10,Tech A. Roy,PENDING,DICOM-4867,Source_A,,,,,,144,145
+Chest X-Ray,2026-07-27T16:00:00,Chest,3,Tech D. Tremblay,FINALIZED,DICOM-2440,Source_A,,,,,,145,146
+Abdominal Ultrasound,2026-05-12T21:15:00,Abdomen,10,Tech D. Tremblay,FINALIZED,DICOM-2171,Source_A,,,,,,146,147
+Abdominal Ultrasound,2026-05-09T00:45:00,Abdomen,3,Tech B. Gagnon,IN_PROGRESS,DICOM-3500,Source_A,,,,,,147,148
+CT Scan - Chest,2026-05-30T16:45:00,Chest,15,Tech D. Tremblay,PENDING,DICOM-2909,Source_A,,,,,,148,149
+Chest X-Ray,2026-02-15T07:45:00,Chest,8,Tech D. Tremblay,IN_PROGRESS,DICOM-5947,Source_A,,,,,,149,150
+MRI Brain,2026-06-08T02:30:00,Head,8,Tech C. Smith,PENDING,DICOM-5514,Source_A,,,,,,150,151
+Chest X-Ray,2026-01-02T07:45:00,Chest,14,Tech D. Tremblay,FINALIZED,DICOM-7408,Source_A,,,,,,151,152
+MRI Brain,2026-04-17T09:45:00,Head,10,Tech D. Tremblay,PENDING,DICOM-5088,Source_A,,,,,,152,153
+MRI Brain,2026-07-15T10:45:00,Head,13,Tech C. Smith,IN_PROGRESS,DICOM-2534,Source_A,,,,,,153,154
+MRI Brain,2026-07-22T00:00:00,Head,11,Tech D. Tremblay,IN_PROGRESS,DICOM-6060,Source_A,,,,,,154,155
+CT Scan - Chest,2026-03-30T01:15:00,,5,Tech D. Tremblay,PENDING,DICOM-1249,Source_A,,,,,,155,156
+Chest X-Ray,2026-05-03T22:45:00,Chest,15,Tech A. Roy,PENDING,DICOM-6641,Source_A,,,,,,156,157
+CT Scan - Chest,2026-08-29T13:15:00,Chest,9,Tech B. Gagnon,IN_PROGRESS,DICOM-8671,Source_A,,,,,,157,158
+Chest X-Ray,2026-07-29T09:00:00,Chest,2,Tech A. Roy,IN_PROGRESS,DICOM-8793,Source_A,,,,,,158,159
+Abdominal Ultrasound,2026-02-14T19:00:00,Abdomen,6,Tech A. Roy,FINALIZED,DICOM-1580,Source_A,,,,,,159,160
+MRI Brain,2026-08-22T01:30:00,Head,5,Tech D. Tremblay,PENDING,DICOM-7741,Source_A,,,,,,160,161
+Abdominal Ultrasound,2026-02-07T19:30:00,Abdomen,1,Tech B. Gagnon,PENDING,DICOM-3110,Source_A,,,,,,161,162
+Abdominal Ultrasound,2026-06-04T21:15:00,Abdomen,9,Tech A. Roy,FINALIZED,DICOM-2178,Source_A,,,,,,162,163
+CT Scan - Chest,2026-01-09T10:45:00,Chest,14,Tech C. Smith,IN_PROGRESS,DICOM-8029,Source_A,,,,,,163,164
+CT Scan - Chest,2026-04-30T21:45:00,Chest,9,Tech B. Gagnon,IN_PROGRESS,DICOM-5757,Source_A,,,,,,164,165
+Abdominal Ultrasound,2026-08-19T22:00:00,Abdomen,9,Tech B. Gagnon,IN_PROGRESS,DICOM-6213,Source_A,,,,,,165,166
+Chest X-Ray,2026-05-30T11:00:00,Chest,13,Tech B. Gagnon,IN_PROGRESS,DICOM-3099,Source_A,,,,,,166,167
+MRI Brain,2026-01-01T16:15:00,Head,9,Tech A. Roy,FINALIZED,DICOM-6551,Source_A,,,,,,167,168
+Chest X-Ray,2026-07-14T03:45:00,Chest,10,Tech A. Roy,FINALIZED,DICOM-7532,Source_A,,,,,,168,169
+CT Scan - Chest,2026-04-26T14:30:00,Chest,13,Tech D. Tremblay,FINALIZED,DICOM-3423,Source_A,,,,,,169,170
+Chest X-Ray,2026-07-27T03:45:00,Chest,12,Tech D. Tremblay,IN_PROGRESS,DICOM-9106,Source_A,,,,,,170,171
+CT Scan - Chest,2026-06-28T18:45:00,Chest,10,Tech C. Smith,IN_PROGRESS,DICOM-7007,Source_A,,,,,,171,172
+CT Scan - Chest,2026-05-25T19:00:00,Chest,14,Tech A. Roy,PENDING,DICOM-9247,Source_A,,,,,,172,173
+Abdominal Ultrasound,2026-01-23T18:30:00,Abdomen,13,Tech A. Roy,PENDING,DICOM-2496,Source_A,,,,,,173,174
+CT Scan - Chest,2026-01-05T16:45:00,Chest,7,Tech B. Gagnon,IN_PROGRESS,,Source_A,,,,,,174,175
+MRI Brain,2026-04-23T03:45:00,Head,12,Tech A. Roy,PENDING,DICOM-5202,Source_A,,,,,,175,176
+MRI Brain,2026-08-04T11:30:00,Head,8,Tech D. Tremblay,FINALIZED,DICOM-1329,Source_A,,,,,,176,177
+CT Scan - Chest,2026-03-13T00:15:00,Chest,15,Tech D. Tremblay,IN_PROGRESS,DICOM-4986,Source_A,,,,,,177,178
+Abdominal Ultrasound,2026-04-27T17:00:00,Abdomen,4,Tech A. Roy,PENDING,DICOM-9556,Source_A,,,,,,178,180
+Chest X-Ray,2026-07-07T03:30:00,Chest,5,Tech C. Smith,PENDING,DICOM-6370,Source_A,,,,,,179,181
+Abdominal Ultrasound,2026-04-17T04:00:00,Abdomen,14,Tech D. Tremblay,IN_PROGRESS,DICOM-8783,Source_A,,,,,,180,182
+Chest X-Ray,2026-04-15T00:15:00,Chest,1,Tech B. Gagnon,PENDING,DICOM-4755,Source_A,,,,,,181,183
+MRI Brain,2026-07-03T03:30:00,Head,3,Tech B. Gagnon,PENDING,DICOM-7057,Source_A,,,,,,182,184
+CT Scan - Chest,2026-03-18T12:45:00,Chest,4,Tech A. Roy,PENDING,DICOM-3278,Source_A,,,,,,183,185
+Abdominal Ultrasound,2026-06-10T02:45:00,Abdomen,6,Tech C. Smith,IN_PROGRESS,DICOM-6388,Source_A,,,,,,184,186
+CT Scan - Chest,2026-03-31T13:15:00,Chest,11,Tech C. Smith,IN_PROGRESS,DICOM-2557,Source_A,,,,,,185,187
+MRI Brain,2026-07-11T21:45:00,Head,12,Tech A. Roy,FINALIZED,,Source_A,,,,,,186,188
+Abdominal Ultrasound,2026-03-27T07:00:00,Abdomen,7,Tech D. Tremblay,IN_PROGRESS,DICOM-6173,Source_A,,,,,,187,189
+CT Scan - Chest,2026-05-18T09:45:00,Chest,15,Tech D. Tremblay,PENDING,DICOM-1317,Source_A,,,,,,188,190
+CT Scan - Chest,2026-07-21T18:00:00,Chest,15,Tech A. Roy,PENDING,DICOM-7711,Source_A,,,,,,189,191
+Chest X-Ray,2026-01-10T09:45:00,Chest,12,Tech A. Roy,PENDING,DICOM-3320,Source_A,,,,,,190,192
+Abdominal Ultrasound,2026-05-20T01:45:00,Abdomen,3,Tech D. Tremblay,PENDING,DICOM-6980,Source_A,,,,,,191,193
+CT Scan - Chest,2026-02-17T01:45:00,Chest,3,Tech A. Roy,FINALIZED,DICOM-1072,Source_A,,,,,,192,194
+MRI Brain,2026-04-03T01:45:00,Head,14,Tech D. Tremblay,FINALIZED,DICOM-6267,Source_A,,,,,,193,195
+CT Scan - Chest,2026-03-08T12:45:00,,5,Tech D. Tremblay,IN_PROGRESS,DICOM-2357,Source_A,,,,,,194,196
+Abdominal Ultrasound,2026-03-08T22:45:00,,3,Tech B. Gagnon,FINALIZED,DICOM-2873,Source_A,,,,,,195,197
+Chest X-Ray,2026-03-02T12:45:00,,8,Tech B. Gagnon,PENDING,DICOM-1312,Source_A,,,,,,196,198
+Chest X-Ray,2026-08-28T01:30:00,Chest,1,Tech C. Smith,FINALIZED,,Source_A,,,,,,197,199
+CT Scan - Chest,2026-08-20T23:00:00,Chest,12,Tech A. Roy,FINALIZED,DICOM-4929,Source_A,,,,,,198,200
+Chest X-Ray,2026-04-18T02:45:00,Chest,7,Tech C. Smith,FINALIZED,DICOM-4669,Source_A,,,,,,199,201
+CT Scan - Chest,2026-02-23T19:45:00,Chest,11,Tech B. Gagnon,PENDING,DICOM-9852,Source_A,,,,,,200,202
+CT Scan - Chest,2026-08-15T15:45:00,Chest,8,Tech C. Smith,FINALIZED,DICOM-3091,Source_A,,,,,,201,203
+CT Scan - Chest,2026-03-28T13:30:00,Chest,9,Tech C. Smith,FINALIZED,DICOM-4868,Source_A,,,,,,202,204
+MRI Brain,2026-08-08T11:00:00,Head,14,Tech D. Tremblay,IN_PROGRESS,DICOM-2065,Source_A,,,,,,203,205
+Abdominal Ultrasound,2026-06-17T03:45:00,Abdomen,13,Tech C. Smith,PENDING,DICOM-7084,Source_A,,,,,,204,206
+Chest X-Ray,2026-08-05T15:30:00,Chest,6,Tech C. Smith,FINALIZED,DICOM-2037,Source_A,,,,,,205,207
+Abdominal Ultrasound,2026-05-11T03:45:00,Abdomen,12,Tech B. Gagnon,IN_PROGRESS,DICOM-9430,Source_A,,,,,,206,208
+Abdominal Ultrasound,2026-07-23T20:45:00,Abdomen,13,Tech D. Tremblay,FINALIZED,DICOM-5293,Source_A,,,,,,207,209
+CT Scan - Chest,2026-06-09T09:00:00,Chest,4,Tech B. Gagnon,IN_PROGRESS,DICOM-7615,Source_A,,,,,,208,210
+Chest X-Ray,2026-02-08T14:15:00,Chest,2,Tech D. Tremblay,IN_PROGRESS,DICOM-3648,Source_A,,,,,,209,211
+MRI Brain,2026-07-03T11:15:00,Head,11,Tech A. Roy,IN_PROGRESS,DICOM-2254,Source_A,,,,,,210,212
+Chest X-Ray,2026-04-03T20:45:00,Chest,3,Tech C. Smith,FINALIZED,DICOM-5511,Source_A,,,,,,211,213
+CT Scan - Chest,2026-07-22T12:15:00,Chest,12,Tech B. Gagnon,FINALIZED,DICOM-9422,Source_A,,,,,,212,214
+MRI Brain,2026-08-04T12:15:00,Head,10,Tech C. Smith,FINALIZED,DICOM-3629,Source_A,,,,,,213,215
+MRI Brain,2026-04-21T12:45:00,Head,5,Tech A. Roy,IN_PROGRESS,DICOM-6152,Source_A,,,,,,214,216
+CT Scan - Chest,2026-05-08T04:15:00,Chest,12,Tech A. Roy,FINALIZED,DICOM-3877,Source_A,,,,,,215,217
+MRI Brain,2026-04-17T21:45:00,Head,13,Tech D. Tremblay,FINALIZED,DICOM-6295,Source_A,,,,,,216,218
+CT Scan - Chest,2026-01-11T23:45:00,Chest,8,Tech C. Smith,PENDING,DICOM-2368,Source_A,,,,,,217,219
+MRI Brain,2026-01-06T14:30:00,Head,2,Tech B. Gagnon,PENDING,DICOM-4799,Source_A,,,,,,218,220
+Abdominal Ultrasound,2026-01-10T12:30:00,Abdomen,14,Tech C. Smith,PENDING,DICOM-1052,Source_A,,,,,,219,221
+Chest X-Ray,2026-04-17T13:00:00,Chest,6,Tech B. Gagnon,IN_PROGRESS,DICOM-1581,Source_A,,,,,,220,222
+MRI Brain,2026-01-09T05:30:00,Head,9,Tech C. Smith,PENDING,DICOM-3983,Source_A,,,,,,221,223
+MRI Brain,2026-06-13T14:00:00,Head,3,Tech A. Roy,FINALIZED,DICOM-8426,Source_A,,,,,,222,224
+MRI Brain,2026-04-17T09:45:00,Head,11,Tech A. Roy,IN_PROGRESS,DICOM-2799,Source_A,,,,,,223,225
+MRI Brain,2026-06-26T13:00:00,Head,8,Tech A. Roy,IN_PROGRESS,DICOM-3707,Source_A,,,,,,224,226
+Abdominal Ultrasound,2026-07-24T22:00:00,Abdomen,8,Tech B. Gagnon,IN_PROGRESS,DICOM-2033,Source_A,,,,,,225,227
+CT Scan - Chest,2026-09-05T06:45:00,Chest,14,Tech A. Roy,PENDING,DICOM-9315,Source_A,,,,,,226,228
+MRI Brain,2026-07-07T08:15:00,Head,4,Tech A. Roy,IN_PROGRESS,DICOM-1277,Source_A,,,,,,227,229
+Abdominal Ultrasound,2026-01-22T22:45:00,Abdomen,5,Tech C. Smith,PENDING,DICOM-9017,Source_A,,,,,,228,230
+CT Scan - Chest,2026-08-04T22:15:00,Chest,14,Tech C. Smith,PENDING,DICOM-5612,Source_A,,,,,,229,231
+MRI Brain,2026-08-14T00:00:00,Head,5,Tech A. Roy,IN_PROGRESS,DICOM-2898,Source_A,,,,,,230,232
+Abdominal Ultrasound,2026-02-18T20:30:00,Abdomen,4,Tech A. Roy,IN_PROGRESS,DICOM-2981,Source_A,,,,,,231,233
+Chest X-Ray,2026-03-13T07:45:00,Chest,8,Tech D. Tremblay,FINALIZED,DICOM-6980,Source_A,,,,,,232,234
+CT Scan - Chest,2026-08-21T00:30:00,Chest,14,Tech D. Tremblay,PENDING,DICOM-9197,Source_A,,,,,,233,235
+Chest X-Ray,2026-09-08T02:30:00,Chest,14,Tech D. Tremblay,PENDING,DICOM-6273,Source_A,,,,,,234,236
+,2026-07-16T04:00:00,,,Tech C. Bernard,,,Source_B,True,,,,,235,237
+,2026-05-22T19:00:00,,,Tech C. Bernard,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,236,238
+,2026-06-12T17:00:00,,,Tech C. Bernard,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,237,239
+,2026-05-30T13:00:00,,,Tech C. Bernard,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,238,240
+,2026-03-27T14:00:00,,,Tech A. Dupont,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,239,241
+,2026-04-09T10:00:00,,,Tech B. Martin,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,240,242
+,2026-01-10T17:00:00,,,Tech C. Bernard,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,241,243
+,2026-07-16T10:00:00,,,Tech A. Dupont,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,242,244
+,2026-06-09T07:00:00,,,Tech A. Dupont,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,243,245
+,2026-02-07T23:00:00,,,Tech C. Bernard,,,Source_B,False,,,,,244,246
+,2026-04-03T21:00:00,,,Tech B. Martin,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,245,247
+,2026-08-01T07:00:00,,,Tech C. Bernard,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,246,248
+,2026-02-25T10:00:00,,,Tech C. Bernard,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,247,249
+,2026-06-22T01:00:00,,,Tech A. Dupont,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,248,250
+,2026-06-11T04:00:00,,,Tech C. Bernard,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,249,251
+,2026-08-01T00:00:00,,,Tech B. Martin,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,250,252
+,2026-08-30T13:00:00,,,Tech C. Bernard,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,251,253
+,2026-06-03T14:00:00,,,Tech B. Martin,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,252,254
+,2026-07-22T21:00:00,,,Tech C. Bernard,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,253,255
+,2026-02-17T19:00:00,,,Tech A. Dupont,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,254,256
+,2026-07-16T07:00:00,,,Tech B. Martin,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,255,257
+,2026-03-16T03:00:00,,,Tech C. Bernard,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,256,258
+,2026-07-21T16:00:00,,,Tech A. Dupont,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,257,259
+,2026-03-24T15:00:00,,,Tech A. Dupont,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,258,260
+,2026-05-16T06:00:00,,,Tech C. Bernard,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,259,261
+,2026-02-03T10:00:00,,,Tech A. Dupont,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,260,262
+,2026-03-06T23:00:00,,,Tech B. Martin,,,Source_B,False,,,,,261,263
+,2026-02-17T13:00:00,,,Tech B. Martin,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,262,264
+,2026-01-20T12:00:00,,,Tech C. Bernard,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,263,265
+,2026-03-12T01:00:00,,,Tech B. Martin,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,264,266
+,2026-08-26T07:00:00,,,Tech B. Martin,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,265,267
+,2026-03-27T08:00:00,,,Tech C. Bernard,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,266,268
+,2026-07-16T18:00:00,,,Tech C. Bernard,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,267,269
+,2026-02-18T02:00:00,,,Tech B. Martin,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,268,270
+,2026-07-27T11:00:00,,,Tech C. Bernard,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,269,271
+,2026-03-06T02:00:00,,,Tech B. Martin,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,270,272
+,2026-02-19T22:00:00,,,Tech C. Bernard,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,271,273
+,2026-06-08T01:00:00,,,Tech B. Martin,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,272,274
+,2026-05-23T08:00:00,,,Tech A. Dupont,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,273,275
+,2026-08-04T08:00:00,,,Tech C. Bernard,,,Source_B,True,,,,,274,276
+,2026-04-09T13:00:00,,,Tech A. Dupont,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,275,277
+,2026-07-28T16:00:00,,,Tech A. Dupont,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,276,278
+,2026-02-07T22:00:00,,,Tech A. Dupont,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,277,279
+,2026-04-28T08:00:00,,,Tech C. Bernard,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,278,280
+,2026-04-25T20:00:00,,,Tech C. Bernard,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,279,281
+,2026-04-12T07:00:00,,,Tech B. Martin,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,280,282
+,2026-08-27T03:00:00,,,Tech B. Martin,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,281,283
+,2026-06-21T04:00:00,,,Tech C. Bernard,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,282,284
+,2026-07-14T05:00:00,,,Tech A. Dupont,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,283,285
+,2026-02-16T03:00:00,,,Tech A. Dupont,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,284,286
+,2026-05-20T15:00:00,,,Tech C. Bernard,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,285,287
+,2026-06-30T22:00:00,,,Tech B. Martin,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,286,288
+,2026-03-18T07:00:00,,,Tech C. Bernard,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,287,289
+,2026-07-18T12:00:00,,,Tech A. Dupont,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,288,290
+,2026-07-20T08:00:00,,,Tech B. Martin,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,289,291
+,2026-07-03T18:00:00,,,Tech A. Dupont,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,290,292
+,2026-08-14T12:00:00,,,Tech C. Bernard,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,291,293
+,2026-03-10T16:00:00,,,Tech A. Dupont,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,292,294
+,2026-05-28T13:00:00,,,Tech A. Dupont,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,293,295
+,2026-08-04T14:00:00,,,Tech C. Bernard,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,294,296
+,2026-03-08T19:00:00,,,Tech B. Martin,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,295,297
+,2026-05-25T00:00:00,,,Tech A. Dupont,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,296,300
+,2026-01-11T09:00:00,,,Tech B. Martin,,,Source_B,False,,,,,297,302
+,2026-07-01T00:00:00,,,Tech B. Martin,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,298,303
+,2026-07-08T06:00:00,,,Tech B. Martin,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,299,304
+,2026-05-03T17:00:00,,,Tech C. Bernard,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,300,305
+,2026-04-27T14:00:00,,,Tech B. Martin,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,301,306
+,2026-08-27T15:00:00,,,Tech B. Martin,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,302,307
+,2026-06-14T10:00:00,,,Tech B. Martin,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,303,308
+,2026-05-27T04:00:00,,,Tech A. Dupont,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,304,309
+,2026-01-22T04:00:00,,,Tech A. Dupont,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,305,310
+,2026-09-01T14:00:00,,,Tech A. Dupont,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,306,311
+,2026-02-06T23:00:00,,,Tech A. Dupont,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,307,312
+,2026-06-05T15:00:00,,,Tech B. Martin,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,308,313
+,2026-05-27T03:00:00,,,Tech A. Dupont,,,Source_B,False,,,,,309,314
+,2026-02-02T12:00:00,,,Tech B. Martin,,,Source_B,True,,,,,310,315
+,2026-01-16T04:00:00,,,Tech B. Martin,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,311,316
+,2026-01-18T03:00:00,,,Tech C. Bernard,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,312,317
+,2026-05-25T09:00:00,,,Tech A. Dupont,,,Source_B,True,,,,,313,318
+,2026-05-28T16:00:00,,,Tech C. Bernard,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,314,319
+,2026-02-05T08:00:00,,,Tech C. Bernard,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,315,320
+,2026-05-09T02:00:00,,,Tech A. Dupont,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,316,321
+,2026-06-03T07:00:00,,,Tech C. Bernard,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,317,322
+,2026-03-14T09:00:00,,,Tech B. Martin,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,318,323
+,2026-07-17T19:00:00,,,Tech A. Dupont,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,319,324
+,2026-05-03T16:00:00,,,Tech C. Bernard,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,320,325
+,2026-09-08T09:00:00,,,Tech C. Bernard,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,321,326
+,2026-06-15T03:00:00,,,Tech A. Dupont,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,322,327
+,2026-07-10T17:00:00,,,Tech C. Bernard,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,323,328
+,2026-05-04T04:00:00,,,Tech B. Martin,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,324,329
+,2026-08-22T01:00:00,,,Tech B. Martin,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,325,330
+,2026-05-11T11:00:00,,,Tech B. Martin,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,326,331
+,2026-08-22T16:00:00,,,Tech A. Dupont,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,327,332
+,2026-03-19T00:00:00,,,Tech C. Bernard,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,328,333
+,2026-04-19T01:00:00,,,Tech A. Dupont,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,329,334
+,2026-03-09T14:00:00,,,Tech B. Martin,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,330,335
+,2026-08-24T17:00:00,,,Tech B. Martin,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,331,336
+,2026-05-04T09:00:00,,,Tech B. Martin,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,332,337
+,2026-01-15T14:00:00,,,Tech B. Martin,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,333,338
+,2026-09-01T19:00:00,,,Tech B. Martin,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,334,339
+,2026-01-26T08:00:00,,,Tech B. Martin,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,335,340
+,2026-08-06T07:00:00,,,Tech A. Dupont,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,336,341
+,2026-07-15T19:00:00,,,Tech A. Dupont,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,337,342
+,2026-04-17T13:00:00,,,Tech B. Martin,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,338,343
+,2026-07-18T14:00:00,,,Tech B. Martin,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,339,344
+,2026-02-09T08:00:00,,,Tech A. Dupont,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,340,345
+,2026-02-15T10:00:00,,,Tech C. Bernard,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,341,346
+,2026-08-07T08:00:00,,,Tech B. Martin,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,342,347
+,2026-07-22T13:00:00,,,Tech C. Bernard,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,343,348
+,2026-01-20T13:00:00,,,Tech C. Bernard,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,344,349
+,2026-07-26T22:00:00,,,Tech B. Martin,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,345,350
+,2026-07-22T22:00:00,,,Tech C. Bernard,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,346,351
+,2026-01-11T03:00:00,,,Tech C. Bernard,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,347,352
+,2026-01-16T14:00:00,,,Tech B. Martin,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,348,353
+,2026-05-05T04:00:00,,,Tech A. Dupont,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,349,354
+,2026-06-02T04:00:00,,,Tech C. Bernard,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,350,355
+,2026-05-29T00:00:00,,,Tech C. Bernard,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,351,356
+,2026-01-27T08:00:00,,,Tech B. Martin,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,352,357
+,2026-05-11T11:00:00,,,Tech B. Martin,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,353,358
+,2026-09-05T15:00:00,,,Tech A. Dupont,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,354,359
+,2026-05-19T20:00:00,,,Tech A. Dupont,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,355,360
+,2026-07-21T08:00:00,,,Tech B. Martin,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,356,361
+,2026-01-02T14:00:00,,,Tech A. Dupont,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,357,362
+,2026-05-21T11:00:00,,,Tech C. Bernard,,,Source_B,True,,,,,358,363
+,2026-04-28T14:00:00,,,Tech B. Martin,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,359,364
+,2026-08-29T20:00:00,,,Tech C. Bernard,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,360,365
+,2026-02-24T16:00:00,,,Tech B. Martin,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,361,366
+,2026-07-22T18:00:00,,,Tech B. Martin,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,362,367
+,2026-01-23T21:00:00,,,Tech B. Martin,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,363,368
+,2026-03-14T03:00:00,,,Tech A. Dupont,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,364,369
+,2026-07-04T11:00:00,,,Tech C. Bernard,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,365,370
+,2026-05-23T19:00:00,,,Tech A. Dupont,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,366,371
+,2026-05-28T16:00:00,,,Tech A. Dupont,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,367,372
+,2026-03-17T13:00:00,,,Tech A. Dupont,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,368,373
+,2026-09-02T23:00:00,,,Tech C. Bernard,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,369,374
+,2026-06-27T17:00:00,,,Tech B. Martin,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,370,375
+,2026-02-24T12:00:00,,,Tech A. Dupont,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,371,376
+,2026-06-27T18:00:00,,,Tech A. Dupont,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,372,377
+,2026-06-26T07:00:00,,,Tech C. Bernard,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,373,378
+,2026-04-19T07:00:00,,,Tech A. Dupont,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,374,379
+,2026-08-19T22:00:00,,,Tech C. Bernard,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,375,380
+,2026-05-21T01:00:00,,,Tech B. Martin,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,376,381
+,2026-05-09T07:00:00,,,Tech A. Dupont,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,377,382
+,2026-02-23T17:00:00,,,Tech A. Dupont,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,378,383
+,2026-02-13T14:00:00,,,Tech A. Dupont,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,379,384
+,2026-04-03T20:00:00,,,Tech A. Dupont,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,380,385
+,2026-04-02T22:00:00,,,Tech B. Martin,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,381,386
+,2026-06-30T00:00:00,,,Tech A. Dupont,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,382,387
+,2026-07-28T16:00:00,,,Tech C. Bernard,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,383,388
+,2026-06-29T09:00:00,,,Tech C. Bernard,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,384,389
+,2026-02-27T15:00:00,,,Tech C. Bernard,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,385,390
+,2026-07-07T15:00:00,,,Tech B. Martin,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,386,391
+,2026-07-04T16:00:00,,,Tech B. Martin,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,387,392
+,2026-05-23T23:00:00,,,Tech B. Martin,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,388,393
+,2026-02-04T15:00:00,,,Tech C. Bernard,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,389,394
+,2026-04-08T20:00:00,,,Tech A. Dupont,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,390,395
+,2026-02-28T02:00:00,,,Tech C. Bernard,,,Source_B,False,,,,,391,396
+,2026-04-18T11:00:00,,,Tech C. Bernard,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,392,397
+,2026-03-13T22:00:00,,,Tech B. Martin,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,393,398
+,2026-01-25T04:00:00,,,Tech A. Dupont,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,394,399
+,2026-08-29T06:00:00,,,Tech A. Dupont,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,395,401
+,2026-01-23T21:00:00,,,Tech B. Martin,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,396,402
+,2026-06-07T05:00:00,,,Tech A. Dupont,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,397,403
+,2026-04-06T17:00:00,,,Tech C. Bernard,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,398,404
+,2026-09-06T22:00:00,,,Tech A. Dupont,,,Source_B,False,,,,,399,405
+,2026-07-26T18:00:00,,,Tech B. Martin,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,400,406
+,2026-06-22T09:00:00,,,Tech A. Dupont,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,401,407
+,2026-01-02T10:00:00,,,Tech A. Dupont,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,402,408
+,2026-06-01T08:00:00,,,Tech A. Dupont,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,403,409
+,2026-04-06T03:00:00,,,Tech B. Martin,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,404,410
+,2026-02-14T19:00:00,,,Tech B. Martin,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,405,411
+,2026-07-22T18:00:00,,,Tech C. Bernard,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,406,412
+,2026-05-30T07:00:00,,,Tech B. Martin,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,407,413
+,2026-05-24T13:00:00,,,Tech B. Martin,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,408,414
+,2026-03-24T14:00:00,,,Tech A. Dupont,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,409,415
+,2026-06-29T11:00:00,,,Tech B. Martin,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,410,416
+,2026-07-09T13:00:00,,,Tech A. Dupont,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,411,417
+,2026-09-01T15:00:00,,,Tech C. Bernard,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,412,418
+,2026-04-27T23:00:00,,,Tech B. Martin,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,413,419
+,2026-07-13T03:00:00,,,Tech A. Dupont,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,414,420
+,2026-08-20T18:00:00,,,Tech A. Dupont,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,415,421
+,2026-06-07T09:00:00,,,Tech C. Bernard,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,416,422
+,2026-02-06T13:00:00,,,Tech A. Dupont,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,417,423
+,2026-06-26T23:00:00,,,Tech B. Martin,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,418,424
+,2026-04-17T19:00:00,,,Tech B. Martin,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,419,425
+,2026-07-29T18:00:00,,,Tech B. Martin,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,420,426
+,2026-07-24T12:00:00,,,Tech A. Dupont,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,421,427
+,2026-01-12T13:00:00,,,Tech B. Martin,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,422,428
+,2026-02-11T14:00:00,,,Tech A. Dupont,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,423,429
+,2026-02-26T01:00:00,,,Tech C. Bernard,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,424,430
+,2026-06-02T11:00:00,,,Tech B. Martin,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,425,431
+,2026-05-09T04:00:00,,,Tech A. Dupont,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,426,432
+,2026-08-17T18:00:00,,,Tech B. Martin,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,427,433
+,2026-06-27T11:00:00,,,Tech A. Dupont,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,428,434
+,2026-03-15T19:00:00,,,Tech A. Dupont,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,429,435
+,2026-07-09T15:00:00,,,Tech A. Dupont,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,430,436
+,2026-02-02T10:00:00,,,Tech C. Bernard,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,431,437
+,2026-02-08T11:00:00,,,Tech A. Dupont,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,432,438
+,2026-03-08T04:00:00,,,Tech B. Martin,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,433,439
+,2026-02-20T10:00:00,,,Tech C. Bernard,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,434,440
+,2026-04-30T11:00:00,,,Tech C. Bernard,,,Source_B,True,,,,,435,441
+,2026-03-18T04:00:00,,,Tech A. Dupont,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,436,442
+,2026-05-26T17:00:00,,,Tech A. Dupont,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,437,443
+,2026-03-27T10:00:00,,,Tech C. Bernard,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,438,444
+,2026-08-28T11:00:00,,,Tech B. Martin,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,439,445
+,2026-07-30T01:00:00,,,Tech C. Bernard,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,440,446
+,2026-03-29T17:00:00,,,Tech B. Martin,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,441,447
+,2026-05-19T12:00:00,,,Tech A. Dupont,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,442,448
+,2026-03-29T11:00:00,,,Tech A. Dupont,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,443,449
+,2026-01-16T17:00:00,,,Tech C. Bernard,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,444,450
+,2026-05-18T01:00:00,,,Tech C. Bernard,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,445,451
+,2026-01-31T01:00:00,,,Tech A. Dupont,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,446,452
+,2026-02-23T16:00:00,,,Tech A. Dupont,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,447,453
+,2026-04-13T23:00:00,,,Tech B. Martin,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,448,454
+,2026-03-28T05:00:00,,,Tech B. Martin,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,449,455
+,2026-03-19T13:00:00,,,Tech A. Dupont,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,450,456
+,2026-07-21T19:00:00,,,Tech B. Martin,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,451,457
+,2026-06-27T02:00:00,,,Tech C. Bernard,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,452,458
+,2026-06-13T13:00:00,,,Tech C. Bernard,,,Source_B,False,,,,,453,459
+,2026-02-02T15:00:00,,,Tech C. Bernard,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,454,460
+,2026-09-05T09:00:00,,,Tech B. Martin,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,455,461
+,2026-02-17T20:00:00,,,Tech A. Dupont,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,456,462
+,2026-04-04T18:00:00,,,Tech B. Martin,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,457,463
+,2026-05-27T05:00:00,,,Tech A. Dupont,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,458,464
+,2026-05-13T06:00:00,,,Tech A. Dupont,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,459,465
+,2026-05-31T02:00:00,,,Tech A. Dupont,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,460,466
+,2026-03-08T12:00:00,,,Tech C. Bernard,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,461,468
+,2026-03-24T23:00:00,,,Tech A. Dupont,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,462,469
+,2026-09-04T12:00:00,,,Tech C. Bernard,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,463,470
+,2026-03-21T01:00:00,,,Tech A. Dupont,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,464,471
+,2026-03-17T06:00:00,,,Tech A. Dupont,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,465,472
+,2026-04-30T15:00:00,,,Tech A. Dupont,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,466,473
+,2026-02-16T13:00:00,,,Tech A. Dupont,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,467,474
+,2026-02-17T06:00:00,,,Tech A. Dupont,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,468,475
+,2026-06-27T03:00:00,,,Tech B. Martin,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,469,476
+,2026-08-26T06:00:00,,,Tech B. Martin,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,470,477
+,2026-05-28T03:00:00,,,Tech C. Bernard,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,471,478
+,2026-06-23T21:00:00,,,Tech B. Martin,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,472,479
+,2026-05-11T18:00:00,,,Tech B. Martin,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,473,480
+,2026-05-26T07:00:00,,,Tech A. Dupont,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,474,481
+,2026-01-13T01:00:00,,,Tech A. Dupont,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,475,482
+,2026-04-30T03:00:00,,,Tech B. Martin,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,476,483
+,2026-03-02T12:00:00,,,Tech B. Martin,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,477,484
+,2026-03-28T09:00:00,,,Tech A. Dupont,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,478,485
+,2026-04-13T19:00:00,,,Tech B. Martin,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,479,486
+,2026-03-25T18:00:00,,,Tech C. Bernard,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,480,487
+,2026-08-04T19:00:00,,,Tech A. Dupont,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,481,488
+,2026-02-05T06:00:00,,,Tech C. Bernard,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,482,489
+,2026-01-25T11:00:00,,,Tech A. Dupont,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,483,490
+,2026-06-18T05:00:00,,,Tech C. Bernard,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,484,491
+,2026-04-18T21:00:00,,,Tech C. Bernard,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,485,492
+,2026-02-14T20:00:00,,,Tech B. Martin,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,486,493
+,2026-02-15T18:00:00,,,Tech B. Martin,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,487,494
+,2026-07-16T08:00:00,,,Tech A. Dupont,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,488,495
+,2026-06-14T09:00:00,,,Tech C. Bernard,,,Source_B,True,,,,,489,496
+,2026-05-18T02:00:00,,,Tech C. Bernard,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,490,497
+,2026-06-22T23:00:00,,,Tech B. Martin,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,491,498
+,2026-04-01T13:00:00,,,Tech C. Bernard,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,492,499
+,2026-04-02T06:00:00,,,Tech A. Dupont,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,493,500
+,2026-07-29T16:00:00,,,Tech C. Bernard,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,494,501
+,2026-04-03T00:00:00,,,Tech B. Martin,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,495,502
+,2026-06-24T08:00:00,,,Tech A. Dupont,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,496,503
+,2026-04-21T10:00:00,,,Tech A. Dupont,,,Source_B,False,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,497,504
+,2026-05-05T23:00:00,,,Tech C. Bernard,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,498,505
+,2026-07-29T16:00:00,,,Tech B. Martin,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,499,506
+,2026-08-14T19:00:00,,,Tech B. Martin,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,500,507
+,2026-01-12T04:00:00,,,Tech A. Dupont,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,501,508
+,2026-03-22T18:00:00,,,Tech B. Martin,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,502,509
+,2026-01-19T08:00:00,,,Tech B. Martin,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,503,510
+,2026-08-09T16:00:00,,,Tech A. Dupont,,,Source_B,True,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,504,511
+,2026-04-13T03:00:00,,,Tech A. Dupont,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,505,513
+,2026-04-18T13:00:00,,,Tech A. Dupont,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,506,514
+,2026-08-24T08:00:00,,,Tech A. Dupont,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,507,515
+,2026-01-28T00:00:00,,,Tech A. Dupont,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,508,516
+,2026-02-18T14:00:00,,,Tech C. Bernard,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,509,517
+,2026-06-13T23:00:00,,,Tech B. Martin,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,510,518
+,2026-03-22T21:00:00,,,Tech A. Dupont,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,511,519
+,2026-08-31T20:00:00,,,Tech A. Dupont,,,Source_B,True,Aucune anomalie détectée.,Normal.,,,512,520
+,2026-09-08T11:00:00,,,Tech C. Bernard,,,Source_B,False,,,,,513,521
+,2026-06-12T06:00:00,,,Tech A. Dupont,,,Source_B,True,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,514,522
+,2026-04-09T12:00:00,,,Tech C. Bernard,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,515,523
+,2026-01-16T09:00:00,,,Tech A. Dupont,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,516,524
+,2026-03-06T20:00:00,,,Tech C. Bernard,,,Source_B,False,Pas d'épanchement pleural.,Corrélation clinique recommandée.,,,517,525
+,2026-06-22T23:00:00,,,Tech A. Dupont,,,Source_B,False,Fracture non déplacée visible.,Corrélation clinique recommandée.,,,518,526
+,2026-01-05T18:00:00,,,Tech C. Bernard,,,Source_B,False,Aucune anomalie détectée.,Normal.,,,519,527
+,2026-07-01T20:00:00,,,Tech C. Bernard,,,Source_B,True,Légère opacité au lobe inférieur droit.,Corrélation clinique recommandée.,,,520,528
+,2026-09-07T21:00:00,,,Tech_1,,,Source_C,,,,Normal,No acute intervention required.,521,529
+,2026-07-05T06:00:00,,,Tech_5,,,Source_C,,,,Clear lungs,No acute intervention required.,522,530
+,2026-05-01T15:00:00,,,Tech_10,,,Source_C,,,,Clear lungs,No acute intervention required.,523,531
+,2026-08-12T13:00:00,,,Tech_7,,,Source_C,,,,Mild opacity,No acute intervention required.,524,532
+,2026-07-27T00:00:00,,,Tech_5,,,Source_C,,,,Mild opacity,No acute intervention required.,525,533
+,2026-01-12T20:00:00,,,Tech_3,,,Source_C,,,,Clear lungs,No acute intervention required.,526,534
+,2026-08-26T19:00:00,,,Tech_6,,,Source_C,,,,Mild opacity,No acute intervention required.,527,535
+,2026-02-09T10:00:00,,,Tech_1,,,Source_C,,,,Mild opacity,No acute intervention required.,528,536
+,2026-05-08T18:00:00,,,Tech_2,,,Source_C,,,,Mild opacity,No acute intervention required.,529,537
+,2026-05-10T06:00:00,,,Tech_3,,,Source_C,,,,Normal,No acute intervention required.,530,538
+,2026-06-01T16:00:00,,,Tech_4,,,Source_C,,,,Mild opacity,No acute intervention required.,531,539
+,2026-07-24T21:00:00,,,Tech_4,,,Source_C,,,,Mild opacity,No acute intervention required.,532,540
+,2026-02-22T14:00:00,,,Tech_7,,,Source_C,,,,Clear lungs,No acute intervention required.,533,541
+,2026-06-08T00:00:00,,,Tech_10,,,Source_C,,,,Mild opacity,No acute intervention required.,534,542
+,2026-03-15T22:00:00,,,Tech_1,,,Source_C,,,,Mild opacity,No acute intervention required.,535,543
+,2026-06-13T16:00:00,,,Tech_2,,,Source_C,,,,Normal,No acute intervention required.,536,544
+,2026-02-07T10:00:00,,,Tech_2,,,Source_C,,,,Normal,No acute intervention required.,537,545
+,2026-05-21T08:00:00,,,Tech_2,,,Source_C,,,,Mild opacity,No acute intervention required.,538,546
+,2026-04-19T17:00:00,,,Tech_1,,,Source_C,,,,Mild opacity,No acute intervention required.,539,547
+,2026-02-21T22:00:00,,,Tech_1,,,Source_C,,,,Normal,No acute intervention required.,540,548
+,2026-08-14T05:00:00,,,Tech_10,,,Source_C,,,,Normal,No acute intervention required.,541,549
+,2026-05-28T13:00:00,,,Tech_1,,,Source_C,,,,Mild opacity,No acute intervention required.,542,550
+,2026-02-27T15:00:00,,,Tech_9,,,Source_C,,,,Clear lungs,No acute intervention required.,543,551
+,2026-07-06T01:00:00,,,Tech_6,,,Source_C,,,,Clear lungs,No acute intervention required.,544,552
+,2026-05-29T11:00:00,,,Tech_7,,,Source_C,,,,Clear lungs,No acute intervention required.,545,553
+,2026-01-20T05:00:00,,,Tech_1,,,Source_C,,,,Clear lungs,No acute intervention required.,546,554
+,2026-07-06T14:00:00,,,Tech_1,,,Source_C,,,,Clear lungs,No acute intervention required.,547,555
+,2026-04-20T20:00:00,,,Tech_9,,,Source_C,,,,Normal,No acute intervention required.,548,556
+,2026-02-12T07:00:00,,,Tech_5,,,Source_C,,,,Mild opacity,No acute intervention required.,549,557
+,2026-02-20T00:00:00,,,Tech_6,,,Source_C,,,,Normal,No acute intervention required.,550,558
+,2026-07-05T15:00:00,,,Tech_1,,,Source_C,,,,Normal,No acute intervention required.,551,559
+,2026-02-17T04:00:00,,,Tech_10,,,Source_C,,,,Clear lungs,No acute intervention required.,552,560
+,2026-01-06T16:00:00,,,Tech_3,,,Source_C,,,,Clear lungs,No acute intervention required.,553,561
+,2026-02-24T01:00:00,,,Tech_2,,,Source_C,,,,Clear lungs,No acute intervention required.,554,562
+,2026-06-23T23:00:00,,,Tech_1,,,Source_C,,,,Normal,No acute intervention required.,555,563
+,2026-02-18T23:00:00,,,Tech_6,,,Source_C,,,,Normal,No acute intervention required.,556,564
+,2026-04-25T16:00:00,,,Tech_4,,,Source_C,,,,Normal,No acute intervention required.,557,565
+,2026-03-09T21:00:00,,,Tech_9,,,Source_C,,,,Mild opacity,No acute intervention required.,558,566
+,2026-02-20T06:00:00,,,Tech_5,,,Source_C,,,,Clear lungs,No acute intervention required.,559,567
+,2026-05-09T14:00:00,,,Tech_3,,,Source_C,,,,Clear lungs,No acute intervention required.,560,568
+,2026-02-23T07:00:00,,,Tech_3,,,Source_C,,,,Mild opacity,No acute intervention required.,561,569
+,2026-08-24T15:00:00,,,Tech_5,,,Source_C,,,,Mild opacity,No acute intervention required.,562,570
+,2026-02-23T20:00:00,,,Tech_4,,,Source_C,,,,Mild opacity,No acute intervention required.,563,571
+,2026-02-26T22:00:00,,,Tech_3,,,Source_C,,,,Mild opacity,No acute intervention required.,564,572
+,2026-02-17T16:00:00,,,Tech_9,,,Source_C,,,,Mild opacity,No acute intervention required.,565,573
+,2026-03-07T08:00:00,,,Tech_1,,,Source_C,,,,Mild opacity,No acute intervention required.,566,574
+,2026-03-12T07:00:00,,,Tech_5,,,Source_C,,,,Clear lungs,No acute intervention required.,567,575
+,2026-01-22T23:00:00,,,Tech_7,,,Source_C,,,,,,568,576
+,2026-03-09T23:00:00,,,Tech_3,,,Source_C,,,,Mild opacity,No acute intervention required.,569,577
+,2026-04-24T20:00:00,,,Tech_5,,,Source_C,,,,Clear lungs,No acute intervention required.,570,578
+,2026-04-22T02:00:00,,,Tech_3,,,Source_C,,,,Mild opacity,No acute intervention required.,571,579
+,2026-02-10T20:00:00,,,Tech_8,,,Source_C,,,,Normal,No acute intervention required.,572,580
+,2026-06-06T02:00:00,,,Tech_5,,,Source_C,,,,Mild opacity,No acute intervention required.,573,581
+,2026-05-26T10:00:00,,,Tech_5,,,Source_C,,,,Mild opacity,No acute intervention required.,574,582
+,2026-06-15T15:00:00,,,Tech_1,,,Source_C,,,,Clear lungs,No acute intervention required.,575,583
+,2026-08-29T04:00:00,,,Tech_4,,,Source_C,,,,,,576,584
+,2026-06-10T08:00:00,,,Tech_10,,,Source_C,,,,Mild opacity,No acute intervention required.,577,585
+,2026-07-23T21:00:00,,,Tech_6,,,Source_C,,,,Normal,No acute intervention required.,578,586
+,2026-05-31T18:00:00,,,Tech_9,,,Source_C,,,,Normal,No acute intervention required.,579,587
+,2026-01-11T16:00:00,,,Tech_8,,,Source_C,,,,Clear lungs,No acute intervention required.,580,588
+,2026-08-31T05:00:00,,,Tech_8,,,Source_C,,,,Mild opacity,No acute intervention required.,581,589
+,2026-01-25T02:00:00,,,Tech_1,,,Source_C,,,,Mild opacity,No acute intervention required.,582,590
+,2026-09-02T18:00:00,,,Tech_4,,,Source_C,,,,Mild opacity,No acute intervention required.,583,591
+,2026-05-19T00:00:00,,,Tech_3,,,Source_C,,,,Normal,No acute intervention required.,584,592
+,2026-03-09T23:00:00,,,Tech_1,,,Source_C,,,,Clear lungs,No acute intervention required.,585,593
+,2026-03-06T14:00:00,,,Tech_5,,,Source_C,,,,Mild opacity,No acute intervention required.,586,594
+,2026-05-22T03:00:00,,,Tech_6,,,Source_C,,,,Normal,No acute intervention required.,587,595
+,2026-04-24T04:00:00,,,Tech_4,,,Source_C,,,,Mild opacity,No acute intervention required.,588,596
+,2026-04-29T10:00:00,,,Tech_7,,,Source_C,,,,Mild opacity,No acute intervention required.,589,597
+,2026-05-04T17:00:00,,,Tech_3,,,Source_C,,,,Clear lungs,No acute intervention required.,590,598
+,2026-05-15T09:00:00,,,Tech_7,,,Source_C,,,,Normal,No acute intervention required.,591,599
+,2026-06-23T23:00:00,,,Tech_10,,,Source_C,,,,Normal,No acute intervention required.,592,600
+,2026-02-20T00:00:00,,,Tech_3,,,Source_C,,,,Normal,No acute intervention required.,593,601
+,2026-06-28T02:00:00,,,Tech_2,,,Source_C,,,,Clear lungs,No acute intervention required.,594,602
+,2026-06-23T22:00:00,,,Tech_8,,,Source_C,,,,Mild opacity,No acute intervention required.,595,603
+,2026-05-29T22:00:00,,,Tech_1,,,Source_C,,,,Mild opacity,No acute intervention required.,596,604
+,2026-02-26T16:00:00,,,Tech_5,,,Source_C,,,,Normal,No acute intervention required.,597,605
+,2026-06-24T04:00:00,,,Tech_1,,,Source_C,,,,Mild opacity,No acute intervention required.,598,606
+,2026-01-29T23:00:00,,,Tech_4,,,Source_C,,,,Normal,No acute intervention required.,599,607
+,2026-08-06T02:00:00,,,Tech_3,,,Source_C,,,,,,600,608
+,2026-01-10T12:00:00,,,Tech_3,,,Source_C,,,,Normal,No acute intervention required.,601,609
+,2026-04-02T03:00:00,,,Tech_1,,,Source_C,,,,Clear lungs,No acute intervention required.,602,610
+,2026-01-18T06:00:00,,,Tech_5,,,Source_C,,,,Mild opacity,No acute intervention required.,603,611
+,2026-01-07T18:00:00,,,Tech_8,,,Source_C,,,,Mild opacity,No acute intervention required.,604,612
+,2026-02-10T06:00:00,,,Tech_4,,,Source_C,,,,Normal,No acute intervention required.,605,613
+,2026-05-19T07:00:00,,,Tech_10,,,Source_C,,,,Clear lungs,No acute intervention required.,606,614
+,2026-07-03T20:00:00,,,Tech_3,,,Source_C,,,,Clear lungs,No acute intervention required.,607,615
+,2026-02-09T02:00:00,,,Tech_7,,,Source_C,,,,Clear lungs,No acute intervention required.,608,616
+,2026-02-21T21:00:00,,,Tech_10,,,Source_C,,,,,,609,617
+,2026-08-31T03:00:00,,,Tech_8,,,Source_C,,,,Normal,No acute intervention required.,610,618
+,2026-04-05T16:00:00,,,Tech_7,,,Source_C,,,,Clear lungs,No acute intervention required.,611,619
+,2026-02-19T20:00:00,,,Tech_7,,,Source_C,,,,Clear lungs,No acute intervention required.,612,620
+,2026-05-08T23:00:00,,,Tech_6,,,Source_C,,,,Clear lungs,No acute intervention required.,613,621
+,2026-08-24T15:00:00,,,Tech_3,,,Source_C,,,,Normal,No acute intervention required.,614,622
+,2026-06-16T23:00:00,,,Tech_8,,,Source_C,,,,Mild opacity,No acute intervention required.,615,623
+,2026-05-13T08:00:00,,,Tech_3,,,Source_C,,,,Mild opacity,No acute intervention required.,616,624
+,2026-03-14T17:00:00,,,Tech_2,,,Source_C,,,,Normal,No acute intervention required.,617,625
+,2026-02-20T10:00:00,,,Tech_10,,,Source_C,,,,Mild opacity,No acute intervention required.,618,626
+,2026-02-04T15:00:00,,,Tech_1,,,Source_C,,,,Normal,No acute intervention required.,619,627
+,2026-07-19T00:00:00,,,Tech_2,,,Source_C,,,,Normal,No acute intervention required.,620,628
+,2026-04-09T06:00:00,,,Tech_10,,,Source_C,,,,Normal,No acute intervention required.,621,629
+,2026-03-18T07:00:00,,,Tech_1,,,Source_C,,,,Mild opacity,No acute intervention required.,622,630
+,2026-08-13T02:00:00,,,Tech_1,,,Source_C,,,,Mild opacity,No acute intervention required.,623,631
+,2026-09-03T11:00:00,,,Tech_2,,,Source_C,,,,Normal,No acute intervention required.,624,632
+,2026-05-12T20:00:00,,,Tech_5,,,Source_C,,,,Normal,No acute intervention required.,625,633
+,2026-04-15T23:00:00,,,Tech_7,,,Source_C,,,,Clear lungs,No acute intervention required.,626,634
+,2026-05-12T21:00:00,,,Tech_2,,,Source_C,,,,Mild opacity,No acute intervention required.,627,635
+,2026-08-12T18:00:00,,,Tech_6,,,Source_C,,,,Clear lungs,No acute intervention required.,628,636
+,2026-05-25T00:00:00,,,Tech_2,,,Source_C,,,,Mild opacity,No acute intervention required.,629,637
+,2026-03-15T17:00:00,,,Tech_7,,,Source_C,,,,Clear lungs,No acute intervention required.,630,638
+,2026-02-26T02:00:00,,,Tech_6,,,Source_C,,,,Clear lungs,No acute intervention required.,631,639
+,2026-08-20T22:00:00,,,Tech_4,,,Source_C,,,,Normal,No acute intervention required.,632,640
+,2026-06-12T04:00:00,,,Tech_5,,,Source_C,,,,Normal,No acute intervention required.,633,641
+,2026-05-31T09:00:00,,,Tech_3,,,Source_C,,,,Normal,No acute intervention required.,634,642
+,2026-02-21T06:00:00,,,Tech_7,,,Source_C,,,,Normal,No acute intervention required.,635,643
+,2026-06-10T23:00:00,,,Tech_2,,,Source_C,,,,Mild opacity,No acute intervention required.,636,644
+,2026-08-09T06:00:00,,,Tech_5,,,Source_C,,,,Clear lungs,No acute intervention required.,637,645
+,2026-02-05T18:00:00,,,Tech_2,,,Source_C,,,,Clear lungs,No acute intervention required.,638,646
+,2026-08-18T13:00:00,,,Tech_7,,,Source_C,,,,Mild opacity,No acute intervention required.,639,647
+,2026-08-23T16:00:00,,,Tech_2,,,Source_C,,,,Normal,No acute intervention required.,640,648
+,2026-01-01T12:00:00,,,Tech_7,,,Source_C,,,,Clear lungs,No acute intervention required.,641,649
+,2026-05-19T23:00:00,,,Tech_4,,,Source_C,,,,Normal,No acute intervention required.,642,650
+,2026-08-09T17:00:00,,,Tech_2,,,Source_C,,,,Mild opacity,No acute intervention required.,643,651
+,2026-03-15T01:00:00,,,Tech_2,,,Source_C,,,,Normal,No acute intervention required.,644,652
+,2026-03-05T01:00:00,,,Tech_7,,,Source_C,,,,Clear lungs,No acute intervention required.,645,653
+,2026-06-30T21:00:00,,,Tech_7,,,Source_C,,,,Mild opacity,No acute intervention required.,646,654
+,2026-03-24T21:00:00,,,Tech_6,,,Source_C,,,,Clear lungs,No acute intervention required.,647,655
+,2026-04-20T06:00:00,,,Tech_2,,,Source_C,,,,Normal,No acute intervention required.,648,656
+,2026-04-06T20:00:00,,,Tech_7,,,Source_C,,,,Normal,No acute intervention required.,649,657
+,2026-05-05T02:00:00,,,Tech_1,,,Source_C,,,,Clear lungs,No acute intervention required.,650,658
+,2026-01-10T21:00:00,,,Tech_1,,,Source_C,,,,Normal,No acute intervention required.,651,659
+,2026-09-08T08:00:00,,,Tech_1,,,Source_C,,,,Mild opacity,No acute intervention required.,652,660
+,2026-06-21T15:00:00,,,Tech_5,,,Source_C,,,,Clear lungs,No acute intervention required.,653,661
+,2026-04-27T02:00:00,,,Tech_5,,,Source_C,,,,Mild opacity,No acute intervention required.,654,662
+,2026-04-01T09:00:00,,,Tech_1,,,Source_C,,,,Mild opacity,No acute intervention required.,655,663
+,2026-09-07T08:00:00,,,Tech_2,,,Source_C,,,,Mild opacity,No acute intervention required.,656,664
+,2026-05-31T02:00:00,,,Tech_1,,,Source_C,,,,Clear lungs,No acute intervention required.,657,665
+,2026-05-31T18:00:00,,,Tech_1,,,Source_C,,,,,,658,666
+,2026-03-16T02:00:00,,,Tech_10,,,Source_C,,,,Mild opacity,No acute intervention required.,659,667
+,2026-06-14T11:00:00,,,Tech_1,,,Source_C,,,,Mild opacity,No acute intervention required.,660,668
+,2026-07-08T20:00:00,,,Tech_8,,,Source_C,,,,Clear lungs,No acute intervention required.,661,669
+,2026-02-25T23:00:00,,,Tech_7,,,Source_C,,,,Clear lungs,No acute intervention required.,662,670
+,2026-05-05T17:00:00,,,Tech_10,,,Source_C,,,,Normal,No acute intervention required.,663,671
+,2026-01-12T20:00:00,,,Tech_2,,,Source_C,,,,Clear lungs,No acute intervention required.,664,672
+,2026-08-23T19:00:00,,,Tech_3,,,Source_C,,,,Normal,No acute intervention required.,665,673
+,2026-02-21T08:00:00,,,Tech_10,,,Source_C,,,,Normal,No acute intervention required.,666,674
+,2026-09-04T13:00:00,,,Tech_1,,,Source_C,,,,Clear lungs,No acute intervention required.,667,675
+,2026-01-24T19:00:00,,,Tech_8,,,Source_C,,,,Normal,No acute intervention required.,668,676
+,2026-03-27T17:00:00,,,Tech_1,,,Source_C,,,,Clear lungs,No acute intervention required.,669,677
+,2026-02-15T04:00:00,,,Tech_3,,,Source_C,,,,Mild opacity,No acute intervention required.,670,678
+,2026-06-16T15:00:00,,,Tech_3,,,Source_C,,,,Clear lungs,No acute intervention required.,671,679
+,2026-01-08T06:00:00,,,Tech_6,,,Source_C,,,,Normal,No acute intervention required.,672,680
+,2026-04-17T12:00:00,,,Tech_6,,,Source_C,,,,Normal,No acute intervention required.,673,681
+,2026-07-16T03:00:00,,,Tech_1,,,Source_C,,,,Mild opacity,No acute intervention required.,674,682
+,2026-05-26T03:00:00,,,Tech_2,,,Source_C,,,,Normal,No acute intervention required.,675,683
+,2026-03-04T01:00:00,,,Tech_4,,,Source_C,,,,Clear lungs,No acute intervention required.,676,684
+,2026-04-17T23:00:00,,,Tech_6,,,Source_C,,,,Normal,No acute intervention required.,677,685
+,2026-03-01T21:00:00,,,Tech_5,,,Source_C,,,,Normal,No acute intervention required.,678,686
+,2026-03-21T05:00:00,,,Tech_9,,,Source_C,,,,Mild opacity,No acute intervention required.,679,687
+,2026-08-07T06:00:00,,,Tech_6,,,Source_C,,,,,,680,688
+,2026-05-01T17:00:00,,,Tech_1,,,Source_C,,,,Clear lungs,No acute intervention required.,681,689
+,2026-09-01T02:00:00,,,Tech_2,,,Source_C,,,,Mild opacity,No acute intervention required.,682,690
+,2026-05-19T21:00:00,,,Tech_7,,,Source_C,,,,,,683,691
+,2026-03-06T22:00:00,,,Tech_7,,,Source_C,,,,Normal,No acute intervention required.,684,692
+,2026-06-17T21:00:00,,,Tech_7,,,Source_C,,,,Normal,No acute intervention required.,685,693
+,2026-07-24T07:00:00,,,Tech_10,,,Source_C,,,,Normal,No acute intervention required.,686,694
+,2026-04-15T17:00:00,,,Tech_6,,,Source_C,,,,Clear lungs,No acute intervention required.,687,695
+,2026-08-19T20:00:00,,,Tech_5,,,Source_C,,,,,,688,696
+,2026-03-23T01:00:00,,,Tech_4,,,Source_C,,,,Normal,No acute intervention required.,689,697
+,2026-04-21T03:00:00,,,Tech_7,,,Source_C,,,,Normal,No acute intervention required.,690,698
+,2026-03-12T08:00:00,,,Tech_4,,,Source_C,,,,Mild opacity,No acute intervention required.,691,699
+,2026-05-04T15:00:00,,,Tech_6,,,Source_C,,,,Mild opacity,No acute intervention required.,692,700
+,2026-04-03T14:00:00,,,Tech_5,,,Source_C,,,,Normal,No acute intervention required.,693,701
+,2026-08-15T19:00:00,,,Tech_1,,,Source_C,,,,Mild opacity,No acute intervention required.,694,702
+,2026-01-13T00:00:00,,,Tech_4,,,Source_C,,,,Mild opacity,No acute intervention required.,695,703
+,2026-08-10T17:00:00,,,Tech_7,,,Source_C,,,,Normal,No acute intervention required.,696,704
+,2026-04-08T07:00:00,,,Tech_4,,,Source_C,,,,Clear lungs,No acute intervention required.,697,705
+,2026-02-18T11:00:00,,,Tech_8,,,Source_C,,,,Normal,No acute intervention required.,698,706
+,2026-06-28T15:00:00,,,Tech_6,,,Source_C,,,,Clear lungs,No acute intervention required.,699,707
+,2026-08-28T08:00:00,,,Tech_10,,,Source_C,,,,Mild opacity,No acute intervention required.,700,708
+,2026-02-25T04:00:00,,,Tech_9,,,Source_C,,,,Clear lungs,No acute intervention required.,701,709
+,2026-02-01T05:00:00,,,Tech_9,,,Source_C,,,,Normal,No acute intervention required.,702,710
+,2026-08-13T04:00:00,,,Tech_5,,,Source_C,,,,Mild opacity,No acute intervention required.,703,711
+,2026-08-22T06:00:00,,,Tech_2,,,Source_C,,,,Clear lungs,No acute intervention required.,704,712
+,2026-03-04T06:00:00,,,Tech_7,,,Source_C,,,,Normal,No acute intervention required.,705,713
+,2026-08-05T13:00:00,,,Tech_4,,,Source_C,,,,Mild opacity,No acute intervention required.,706,714
+,2026-08-22T10:00:00,,,Tech_3,,,Source_C,,,,Mild opacity,No acute intervention required.,707,715
+,2026-05-12T13:00:00,,,Tech_1,,,Source_C,,,,Clear lungs,No acute intervention required.,708,716
+,2026-07-18T08:00:00,,,Tech_7,,,Source_C,,,,Normal,No acute intervention required.,709,717
+,2026-05-24T02:00:00,,,Tech_7,,,Source_C,,,,Normal,No acute intervention required.,710,718
+,2026-04-08T20:00:00,,,Tech_7,,,Source_C,,,,Clear lungs,No acute intervention required.,711,719
+,2026-04-20T03:00:00,,,Tech_7,,,Source_C,,,,Clear lungs,No acute intervention required.,712,720
+,2026-03-21T00:00:00,,,Tech_4,,,Source_C,,,,Clear lungs,No acute intervention required.,713,721
+,2026-07-27T06:00:00,,,Tech_8,,,Source_C,,,,Normal,No acute intervention required.,714,722
+,2026-02-20T06:00:00,,,Tech_5,,,Source_C,,,,Mild opacity,No acute intervention required.,715,723
+,2026-03-30T10:00:00,,,Tech_6,,,Source_C,,,,Clear lungs,No acute intervention required.,716,724
+,2026-04-12T06:00:00,,,Tech_8,,,Source_C,,,,Clear lungs,No acute intervention required.,717,725
+,2026-07-05T05:00:00,,,Tech_6,,,Source_C,,,,Normal,No acute intervention required.,718,726
+,2026-08-28T22:00:00,,,Tech_10,,,Source_C,,,,Clear lungs,No acute intervention required.,719,727
+,2026-03-27T01:00:00,,,Tech_10,,,Source_C,,,,Clear lungs,No acute intervention required.,720,728
+,2026-05-13T07:00:00,,,Tech_9,,,Source_C,,,,Clear lungs,No acute intervention required.,721,729
+,2026-07-10T02:00:00,,,Tech_3,,,Source_C,,,,Mild opacity,No acute intervention required.,722,730
+,2026-02-27T04:00:00,,,Tech_8,,,Source_C,,,,Clear lungs,No acute intervention required.,723,731
+,2026-03-06T18:00:00,,,Tech_10,,,Source_C,,,,Clear lungs,No acute intervention required.,724,732
+,2026-03-05T21:00:00,,,Tech_7,,,Source_C,,,,Normal,No acute intervention required.,725,733
+,2026-01-18T04:00:00,,,Tech_1,,,Source_C,,,,Clear lungs,No acute intervention required.,726,734
+,2026-02-03T07:00:00,,,Tech_5,,,Source_C,,,,Clear lungs,No acute intervention required.,727,735
+,2026-02-02T20:00:00,,,Tech_4,,,Source_C,,,,Clear lungs,No acute intervention required.,728,736
+,2026-03-01T15:00:00,,,Tech_10,,,Source_C,,,,Mild opacity,No acute intervention required.,729,737
+,2026-06-10T11:00:00,,,Tech_7,,,Source_C,,,,Normal,No acute intervention required.,730,738
+,2026-07-22T04:00:00,,,Tech_6,,,Source_C,,,,Mild opacity,No acute intervention required.,731,739
+,2026-04-28T17:00:00,,,Tech_3,,,Source_C,,,,Clear lungs,No acute intervention required.,732,740
+,2026-08-02T20:00:00,,,Tech_4,,,Source_C,,,,Normal,No acute intervention required.,733,741
+,2026-04-25T19:00:00,,,Tech_10,,,Source_C,,,,Mild opacity,No acute intervention required.,734,742
+,2026-07-19T00:00:00,,,Tech_8,,,Source_C,,,,Normal,No acute intervention required.,735,743
+,2026-01-24T09:00:00,,,Tech_3,,,Source_C,,,,Clear lungs,No acute intervention required.,736,744
+,2026-07-14T05:00:00,,,Tech_4,,,Source_C,,,,Normal,No acute intervention required.,737,745
+,2026-03-21T19:00:00,,,Tech_4,,,Source_C,,,,Mild opacity,No acute intervention required.,738,746
+,2026-08-18T01:00:00,,,Tech_10,,,Source_C,,,,Normal,No acute intervention required.,739,747
+,2026-06-18T13:00:00,,,Tech_10,,,Source_C,,,,Clear lungs,No acute intervention required.,740,748
+,2026-08-12T16:00:00,,,Tech_5,,,Source_C,,,,Normal,No acute intervention required.,741,749
+,2026-07-14T03:00:00,,,Tech_5,,,Source_C,,,,Mild opacity,No acute intervention required.,742,750
+,2026-02-19T10:00:00,,,Tech_5,,,Source_C,,,,Mild opacity,No acute intervention required.,743,751
+,2026-09-02T11:00:00,,,Tech_7,,,Source_C,,,,Clear lungs,No acute intervention required.,744,752
+,2026-04-30T08:00:00,,,Tech_1,,,Source_C,,,,,,745,753
+,2026-03-28T15:00:00,,,Tech_1,,,Source_C,,,,Normal,No acute intervention required.,746,754
+,2026-02-13T22:00:00,,,Tech_6,,,Source_C,,,,Clear lungs,No acute intervention required.,747,755
+,2026-06-05T11:00:00,,,Tech_2,,,Source_C,,,,Clear lungs,No acute intervention required.,748,756
+,2026-08-05T19:00:00,,,Tech_5,,,Source_C,,,,Mild opacity,No acute intervention required.,749,757
+,2026-04-20T21:00:00,,,Tech_3,,,Source_C,,,,Mild opacity,No acute intervention required.,750,758
+,2026-03-22T13:00:00,,,Tech_10,,,Source_C,,,,Clear lungs,No acute intervention required.,751,759
+,2026-08-18T23:00:00,,,Tech_8,,,Source_C,,,,Mild opacity,No acute intervention required.,752,760
+,2026-09-08T08:00:00,,,Tech_7,,,Source_C,,,,Mild opacity,No acute intervention required.,753,761
+,2026-02-12T01:00:00,,,Tech_5,,,Source_C,,,,Normal,No acute intervention required.,754,762
+,2026-06-28T07:00:00,,,Tech_4,,,Source_C,,,,Normal,No acute intervention required.,755,763
+,2026-01-04T19:00:00,,,Tech_10,,,Source_C,,,,Normal,No acute intervention required.,756,764
+,2026-01-29T19:00:00,,,Tech_3,,,Source_C,,,,Normal,No acute intervention required.,757,765
+,2026-01-18T18:00:00,,,Tech_1,,,Source_C,,,,Clear lungs,No acute intervention required.,758,766
+,2026-08-01T20:00:00,,,Tech_3,,,Source_C,,,,Mild opacity,No acute intervention required.,759,767
+,2026-01-05T01:00:00,,,Tech_2,,,Source_C,,,,Normal,No acute intervention required.,760,768
+,2026-04-07T06:00:00,,,Tech_3,,,Source_C,,,,Mild opacity,No acute intervention required.,761,769
+,2026-06-14T17:00:00,,,Tech_8,,,Source_C,,,,Mild opacity,No acute intervention required.,762,770
+,2026-08-25T19:00:00,,,Tech_2,,,Source_C,,,,Mild opacity,No acute intervention required.,763,771
+,2026-02-17T16:00:00,,,Tech_6,,,Source_C,,,,Normal,No acute intervention required.,764,772
+,2026-07-20T03:00:00,,,Tech_5,,,Source_C,,,,Normal,No acute intervention required.,765,773
+,2026-08-10T22:00:00,,,Tech_8,,,Source_C,,,,Mild opacity,No acute intervention required.,766,774
+,2026-02-09T20:00:00,,,Tech_8,,,Source_C,,,,Normal,No acute intervention required.,767,775
+,2026-05-13T12:00:00,,,Tech_5,,,Source_C,,,,Clear lungs,No acute intervention required.,768,776
+,2026-01-29T01:00:00,,,Tech_7,,,Source_C,,,,Clear lungs,No acute intervention required.,769,777
+,2026-01-13T09:00:00,,,Tech_5,,,Source_C,,,,Normal,No acute intervention required.,770,778
+,2026-01-20T17:00:00,,,Tech_6,,,Source_C,,,,Clear lungs,No acute intervention required.,771,779
+,2026-07-24T05:00:00,,,Tech_9,,,Source_C,,,,Mild opacity,No acute intervention required.,772,780
+,2026-07-30T11:00:00,,,Tech_3,,,Source_C,,,,Clear lungs,No acute intervention required.,773,781
+,2026-03-20T06:00:00,,,Tech_10,,,Source_C,,,,Mild opacity,No acute intervention required.,774,782
+,2026-04-23T05:00:00,,,Tech_5,,,Source_C,,,,Mild opacity,No acute intervention required.,775,783
+,2026-07-04T17:00:00,,,Tech_5,,,Source_C,,,,Normal,No acute intervention required.,776,784
+,2026-07-28T08:00:00,,,Tech_10,,,Source_C,,,,Clear lungs,No acute intervention required.,777,785
+,2026-05-16T11:00:00,,,Tech_6,,,Source_C,,,,Mild opacity,No acute intervention required.,778,786
+,2026-01-18T01:00:00,,,Tech_9,,,Source_C,,,,Clear lungs,No acute intervention required.,779,787
+,2026-03-28T18:00:00,,,Tech_7,,,Source_C,,,,Clear lungs,No acute intervention required.,780,788
+,2026-07-07T21:00:00,,,Tech_6,,,Source_C,,,,Clear lungs,No acute intervention required.,781,789
+,2026-07-07T06:00:00,,,Tech_6,,,Source_C,,,,Clear lungs,No acute intervention required.,782,790
+,2026-06-20T08:00:00,,,Tech_10,,,Source_C,,,,Normal,No acute intervention required.,783,791
+,2026-07-24T21:00:00,,,Tech_8,,,Source_C,,,,Mild opacity,No acute intervention required.,784,792
+,2026-01-21T15:00:00,,,Tech_9,,,Source_C,,,,Mild opacity,No acute intervention required.,785,793
+,2026-04-16T17:00:00,,,Tech_4,,,Source_C,,,,Mild opacity,No acute intervention required.,786,794
+,2026-02-28T08:00:00,,,Tech_3,,,Source_C,,,,Mild opacity,No acute intervention required.,787,795
+,2026-06-07T05:00:00,,,Tech_10,,,Source_C,,,,Clear lungs,No acute intervention required.,788,796
+,2026-05-16T16:00:00,,,Tech_4,,,Source_C,,,,Mild opacity,No acute intervention required.,789,797
+,2026-03-09T23:00:00,,,Tech_8,,,Source_C,,,,Clear lungs,No acute intervention required.,790,798
+,2026-02-26T03:00:00,,,Tech_5,,,Source_C,,,,Clear lungs,No acute intervention required.,791,799
+,2026-05-02T15:00:00,,,Tech_1,,,Source_C,,,,Mild opacity,No acute intervention required.,792,800
+,2026-08-12T06:00:00,,,Tech_3,,,Source_C,,,,Clear lungs,No acute intervention required.,793,801
+,2026-08-10T04:00:00,,,Tech_10,,,Source_C,,,,Clear lungs,No acute intervention required.,794,802
+,2026-02-15T05:00:00,,,Tech_10,,,Source_C,,,,Clear lungs,No acute intervention required.,795,803
+,2026-02-08T22:00:00,,,Tech_6,,,Source_C,,,,Mild opacity,No acute intervention required.,796,804
+,2026-03-02T18:00:00,,,Tech_6,,,Source_C,,,,Mild opacity,No acute intervention required.,797,805
+,2026-03-14T12:00:00,,,Tech_1,,,Source_C,,,,Normal,No acute intervention required.,798,806
+,2026-07-24T04:00:00,,,Tech_6,,,Source_C,,,,Clear lungs,No acute intervention required.,799,807
+,2026-01-26T16:00:00,,,Tech_6,,,Source_C,,,,Mild opacity,No acute intervention required.,800,808
+,2026-04-30T05:00:00,,,Tech_2,,,Source_C,,,,Normal,No acute intervention required.,801,809
+,2026-07-06T00:00:00,,,Tech_1,,,Source_C,,,,Clear lungs,No acute intervention required.,802,810
+,2026-05-29T15:00:00,,,Tech_1,,,Source_C,,,,Normal,No acute intervention required.,803,811
+,2026-01-05T03:00:00,,,Tech_2,,,Source_C,,,,Clear lungs,No acute intervention required.,804,812
+,2026-07-16T09:00:00Z,,,Tech_2,,,Source_D,,,,Normal,No acute findings.,805,813
+,2026-08-21T05:00:00Z,,,Tech_9,,,Source_D,,,,Normal,No acute findings.,806,814
+,2026-03-02T14:00:00Z,,,Tech_5,,,Source_D,,,,Normal,No acute findings.,807,815
+,2026-07-31T05:00:00Z,,,Tech_10,,,Source_D,,,,Normal,No acute findings.,808,816
+,2026-03-04T12:00:00Z,,,Tech_5,,,Source_D,,,,Mild opacity,No acute findings.,809,817
+,2026-02-28T10:00:00Z,,,Tech_1,,,Source_D,,,,Mild opacity,No acute findings.,810,818
+,2026-01-21T03:00:00Z,,,Tech_2,,,Source_D,,,,Clear,No acute findings.,811,819
+,2026-02-17T10:00:00Z,,,Tech_1,,,Source_D,,,,Mild opacity,No acute findings.,812,820
+,2026-09-03T03:00:00Z,,,Tech_10,,,Source_D,,,,Mild opacity,No acute findings.,813,821
+,2026-04-25T07:00:00Z,,,Tech_6,,,Source_D,,,,Clear,No acute findings.,814,822
+,2026-04-24T03:00:00Z,,,Tech_4,,,Source_D,,,,Mild opacity,No acute findings.,815,823
+,2026-06-06T09:00:00Z,,,Tech_2,,,Source_D,,,,Clear,No acute findings.,816,824
+,2026-01-14T07:00:00Z,,,Tech_6,,,Source_D,,,,Mild opacity,No acute findings.,817,825
+,2026-06-17T10:00:00Z,,,Tech_8,,,Source_D,,,,Mild opacity,No acute findings.,818,826

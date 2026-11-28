@@ -1,0 +1,1048 @@
+triage_id,admission_id,nurse_id,blood_pressure,heart_rate,respiratory_rate,body_temperature,oxygen_saturation,pain_level,reported_symptoms,known_allergies,current_medications,triage_priority_level,_source,_table,_source_row,triage_scheme,_time_basis,bp_systolic,bp_diastolic
+1,1,18,106/64,76,18,36.5,96,9,Fever,None,None,ROUTINE,A,triage_assessment,1,LOCAL_A,LOCAL_ZONE_UNKNOWN,106,64
+2,2,17,138/85,106,18,37.5,97,2,Shortness of Breath,Sulfa drugs,Atorvastatin,ROUTINE,A,triage_assessment,2,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,85
+3,3,18,119/86,108,13,36.6,95,4,Shortness of Breath,None,Atorvastatin,STAT,A,triage_assessment,3,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,86
+5,5,25,117/88,108,17,37.7,98,6,Abdominal Pain,Penicillin,None,URGENT,A,triage_assessment,5,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,88
+6,6,19,105/78,98,19,36.3,94,7,Shortness of Breath,Sulfa drugs,Metformin,ROUTINE,A,triage_assessment,6,LOCAL_A,LOCAL_ZONE_UNKNOWN,105,78
+7,7,23,100/64,65,22,37.7,94,7,Shortness of Breath,None,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,7,LOCAL_A,LOCAL_ZONE_UNKNOWN,100,64
+8,8,17,117/79,100,14,36.1,100,3,Fever,None,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,8,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,79
+9,9,18,120/78,61,19,36.2,100,7,Shortness of Breath,Latex,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,9,LOCAL_A,LOCAL_ZONE_UNKNOWN,120,78
+10,10,18,124/84,108,14,36.6,94,6,Abdominal Pain,Peanuts,None,ROUTINE,A,triage_assessment,10,LOCAL_A,LOCAL_ZONE_UNKNOWN,124,84
+11,11,20,109/64,101,19,37.3,98,4,Dizziness,Sulfa drugs,Lisinopril,STAT,A,triage_assessment,11,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,64
+12,12,25,126/66,90,22,38.1,97,7,Dizziness,Latex,Atorvastatin,URGENT,A,triage_assessment,12,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,66
+14,14,21,109/75,103,18,38.3,97,8,Dizziness,Peanuts,Atorvastatin,STAT,A,triage_assessment,14,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,75
+15,15,23,131/68,60,17,37.9,94,4,Dizziness,Sulfa drugs,Lisinopril,URGENT,A,triage_assessment,15,LOCAL_A,LOCAL_ZONE_UNKNOWN,131,68
+16,16,25,100/75,97,12,37.9,98,8,Dizziness,None,Metformin,ROUTINE,A,triage_assessment,16,LOCAL_A,LOCAL_ZONE_UNKNOWN,100,75
+18,18,16,131/64,95,16,38.1,97,3,Shortness of Breath,None,Aspirin,URGENT,A,triage_assessment,18,LOCAL_A,LOCAL_ZONE_UNKNOWN,131,64
+19,19,19,132/65,75,20,38.1,94,3,Chest Discomfort,Sulfa drugs,None,STAT,A,triage_assessment,19,LOCAL_A,LOCAL_ZONE_UNKNOWN,132,65
+20,20,25,107/80,62,22,37.9,92,1,Shortness of Breath,Sulfa drugs,Metoprolol,ROUTINE,A,triage_assessment,20,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,80
+21,21,20,139/83,70,16,36.3,97,5,Fever,Peanuts,Aspirin,URGENT,A,triage_assessment,21,LOCAL_A,LOCAL_ZONE_UNKNOWN,139,83
+22,22,18,132/88,93,16,36.6,98,2,Dizziness,Latex,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,22,LOCAL_A,LOCAL_ZONE_UNKNOWN,132,88
+24,24,16,102/79,105,18,36.3,94,1,Abdominal Pain,Peanuts,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,24,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,79
+25,25,18,101/69,96,15,38.1,96,10,Fever,Penicillin,None,STAT,A,triage_assessment,25,LOCAL_A,LOCAL_ZONE_UNKNOWN,101,69
+26,26,17,119/76,108,18,37.5,93,1,Chest Discomfort,Penicillin,Lisinopril,ROUTINE,A,triage_assessment,26,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,76
+27,27,20,123/86,71,17,37.4,99,3,Dizziness,Sulfa drugs,None,ROUTINE,A,triage_assessment,27,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,86
+28,28,22,123/69,81,16,37.5,96,0,Fever,Sulfa drugs,Atorvastatin,STAT,A,triage_assessment,28,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,69
+29,29,24,111/85,69,18,37.2,95,3,Chest Discomfort,Latex,Aspirin,ROUTINE,A,triage_assessment,29,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,85
+30,30,22,126/69,66,12,36.1,92,5,Abdominal Pain,Penicillin,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,30,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,69
+31,31,20,104/82,84,14,37.0,98,1,Abdominal Pain,None,Aspirin,STAT,A,triage_assessment,31,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,82
+32,32,19,102/77,104,12,37.2,96,6,Chest Discomfort,Sulfa drugs,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,32,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,77
+33,33,24,121/67,92,13,38.1,100,2,Shortness of Breath,Latex,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,33,LOCAL_A,LOCAL_ZONE_UNKNOWN,121,67
+34,34,22,122/64,108,16,36.7,96,6,Fever,Peanuts,Lisinopril,URGENT,A,triage_assessment,34,LOCAL_A,LOCAL_ZONE_UNKNOWN,122,64
+35,35,24,120/73,103,19,37.1,94,3,Fever,Latex,Metoprolol,URGENT,A,triage_assessment,35,LOCAL_A,LOCAL_ZONE_UNKNOWN,120,73
+36,36,25,114/68,110,14,38.5,97,7,Dizziness,Sulfa drugs,None,ROUTINE,A,triage_assessment,36,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,68
+37,37,24,103/73,63,14,38.0,100,10,Chest Discomfort,Sulfa drugs,Lisinopril,STAT,A,triage_assessment,37,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,73
+38,38,23,108/71,100,21,37.5,92,8,Chest Discomfort,None,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,38,LOCAL_A,LOCAL_ZONE_UNKNOWN,108,71
+40,40,24,138/60,64,13,37.5,97,6,Shortness of Breath,Penicillin,Atorvastatin,ROUTINE,A,triage_assessment,40,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,60
+41,41,20,103/74,77,16,37.2,99,5,Dizziness,Latex,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,41,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,74
+43,43,19,116/75,90,13,36.3,96,7,Shortness of Breath,Latex,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,43,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,75
+44,44,18,109/89,72,16,37.8,97,3,Abdominal Pain,Penicillin,None,STAT,A,triage_assessment,44,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,89
+45,45,20,104/76,65,20,36.4,99,2,Chest Discomfort,None,Metformin,ROUTINE,A,triage_assessment,45,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,76
+47,47,24,115/82,83,17,37.2,93,9,Abdominal Pain,Peanuts,Metoprolol,STAT,A,triage_assessment,47,LOCAL_A,LOCAL_ZONE_UNKNOWN,115,82
+48,48,17,125/76,87,14,36.4,93,8,Abdominal Pain,Latex,Atorvastatin,URGENT,A,triage_assessment,48,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,76
+49,49,21,109/70,72,17,38.1,95,7,Abdominal Pain,None,Atorvastatin,URGENT,A,triage_assessment,49,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,70
+50,50,23,104/61,70,18,36.5,93,2,Shortness of Breath,Sulfa drugs,Atorvastatin,STAT,A,triage_assessment,50,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,61
+52,52,24,123/86,77,13,38.3,98,2,Chest Discomfort,Peanuts,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,52,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,86
+53,53,23,137/67,72,22,36.7,93,9,Dizziness,Peanuts,Metformin,STAT,A,triage_assessment,53,LOCAL_A,LOCAL_ZONE_UNKNOWN,137,67
+54,54,18,125/68,71,21,37.4,94,0,Shortness of Breath,None,None,STAT,A,triage_assessment,54,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,68
+55,55,25,122/77,103,12,38.2,95,8,Shortness of Breath,None,Metformin,STAT,A,triage_assessment,55,LOCAL_A,LOCAL_ZONE_UNKNOWN,122,77
+58,58,24,112/76,97,12,37.2,95,7,Dizziness,Penicillin,Metoprolol,STAT,A,triage_assessment,58,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,76
+59,59,25,100/75,89,14,38.3,92,8,Chest Discomfort,Sulfa drugs,Metoprolol,ROUTINE,A,triage_assessment,59,LOCAL_A,LOCAL_ZONE_UNKNOWN,100,75
+62,62,16,108/84,100,14,37.4,93,3,Fever,None,None,ROUTINE,A,triage_assessment,62,LOCAL_A,LOCAL_ZONE_UNKNOWN,108,84
+63,63,21,132/74,80,21,36.5,94,6,Abdominal Pain,Penicillin,Metoprolol,STAT,A,triage_assessment,63,LOCAL_A,LOCAL_ZONE_UNKNOWN,132,74
+64,64,25,119/80,107,15,36.4,95,7,Abdominal Pain,Latex,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,64,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,80
+65,65,19,135/65,63,22,36.3,95,2,Fever,Sulfa drugs,None,URGENT,A,triage_assessment,65,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,65
+66,66,24,131/90,87,12,37.8,99,10,Abdominal Pain,Sulfa drugs,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,66,LOCAL_A,LOCAL_ZONE_UNKNOWN,131,90
+67,67,18,125/82,90,21,37.9,98,3,Dizziness,Sulfa drugs,Metformin,URGENT,A,triage_assessment,67,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,82
+68,68,25,101/79,109,22,37.7,100,3,Dizziness,None,Atorvastatin,URGENT,A,triage_assessment,68,LOCAL_A,LOCAL_ZONE_UNKNOWN,101,79
+69,69,22,126/86,105,21,36.2,98,2,Shortness of Breath,Latex,Metformin,URGENT,A,triage_assessment,69,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,86
+71,71,21,103/84,77,14,37.1,98,2,Chest Discomfort,Penicillin,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,71,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,84
+72,72,24,139/77,96,21,38.2,96,0,Dizziness,Penicillin,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,72,LOCAL_A,LOCAL_ZONE_UNKNOWN,139,77
+74,74,24,139/70,97,22,36.9,95,8,Dizziness,Sulfa drugs,Lisinopril,ROUTINE,A,triage_assessment,74,LOCAL_A,LOCAL_ZONE_UNKNOWN,139,70
+75,75,21,102/77,100,15,36.3,97,1,Abdominal Pain,Sulfa drugs,Lisinopril,ROUTINE,A,triage_assessment,75,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,77
+76,76,25,114/73,96,16,37.7,97,4,Shortness of Breath,None,Atorvastatin,URGENT,A,triage_assessment,76,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,73
+77,77,22,115/88,87,21,37.6,99,5,Fever,Peanuts,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,77,LOCAL_A,LOCAL_ZONE_UNKNOWN,115,88
+78,78,16,125/83,66,15,38.0,95,8,Dizziness,Peanuts,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,78,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,83
+80,80,23,109/81,99,17,36.9,100,10,Fever,Penicillin,Lisinopril,STAT,A,triage_assessment,80,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,81
+81,81,23,114/79,70,17,36.3,97,9,Fever,Penicillin,Aspirin,URGENT,A,triage_assessment,81,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,79
+82,82,16,105/70,71,20,38.0,94,4,Abdominal Pain,Latex,Aspirin,STAT,A,triage_assessment,82,LOCAL_A,LOCAL_ZONE_UNKNOWN,105,70
+84,84,18,132/61,103,12,37.7,94,10,Fever,Sulfa drugs,Metoprolol,STAT,A,triage_assessment,84,LOCAL_A,LOCAL_ZONE_UNKNOWN,132,61
+85,85,22,110/66,83,20,37.9,98,9,Chest Discomfort,Latex,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,85,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,66
+86,86,22,110/64,70,14,36.5,99,9,Dizziness,Latex,Lisinopril,URGENT,A,triage_assessment,86,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,64
+87,87,18,113/65,95,19,37.1,98,8,Abdominal Pain,Sulfa drugs,Metoprolol,URGENT,A,triage_assessment,87,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,65
+88,88,24,119/77,83,17,36.9,92,3,Chest Discomfort,Peanuts,Atorvastatin,ROUTINE,A,triage_assessment,88,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,77
+89,89,16,114/79,73,13,38.3,99,10,Chest Discomfort,Peanuts,Metoprolol,STAT,A,triage_assessment,89,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,79
+90,90,16,103/82,103,22,36.3,94,6,Chest Discomfort,Penicillin,Metformin,URGENT,A,triage_assessment,90,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,82
+91,91,17,119/83,85,21,38.5,95,6,Abdominal Pain,Penicillin,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,91,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,83
+92,92,16,114/87,79,15,37.6,95,1,Fever,Latex,Lisinopril,ROUTINE,A,triage_assessment,92,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,87
+93,93,23,115/79,85,15,38.4,96,5,Dizziness,Latex,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,93,LOCAL_A,LOCAL_ZONE_UNKNOWN,115,79
+94,94,18,131/76,71,13,37.2,95,3,Chest Discomfort,Latex,Aspirin,STAT,A,triage_assessment,94,LOCAL_A,LOCAL_ZONE_UNKNOWN,131,76
+95,95,19,109/88,62,15,38.0,100,2,Fever,Penicillin,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,95,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,88
+96,96,23,115/70,81,22,37.2,95,6,Chest Discomfort,None,Atorvastatin,URGENT,A,triage_assessment,96,LOCAL_A,LOCAL_ZONE_UNKNOWN,115,70
+97,97,18,121/80,75,15,37.7,92,7,Chest Discomfort,Peanuts,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,97,LOCAL_A,LOCAL_ZONE_UNKNOWN,121,80
+98,98,22,130/78,108,20,37.0,99,8,Fever,Penicillin,Atorvastatin,ROUTINE,A,triage_assessment,98,LOCAL_A,LOCAL_ZONE_UNKNOWN,130,78
+99,99,18,113/84,91,20,38.1,100,1,Abdominal Pain,Penicillin,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,99,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,84
+100,100,22,118/79,104,17,38.3,98,0,Abdominal Pain,Peanuts,Atorvastatin,STAT,A,triage_assessment,100,LOCAL_A,LOCAL_ZONE_UNKNOWN,118,79
+101,101,18,108/69,61,21,37.4,97,1,Shortness of Breath,Latex,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,101,LOCAL_A,LOCAL_ZONE_UNKNOWN,108,69
+104,104,16,139/62,100,19,37.9,99,8,Shortness of Breath,Latex,Atorvastatin,STAT,A,triage_assessment,104,LOCAL_A,LOCAL_ZONE_UNKNOWN,139,62
+107,107,24,127/67,73,15,36.7,92,7,Fever,None,None,STAT,A,triage_assessment,107,LOCAL_A,LOCAL_ZONE_UNKNOWN,127,67
+108,108,23,116/89,108,17,36.7,97,7,Chest Discomfort,None,Lisinopril,STAT,A,triage_assessment,108,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,89
+109,109,,129/68,106,12,36.6,93,2,Abdominal Pain,None,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,109,LOCAL_A,LOCAL_ZONE_UNKNOWN,129,68
+111,111,22,126/66,108,17,36.3,97,8,Shortness of Breath,Penicillin,Metformin,STAT,A,triage_assessment,111,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,66
+112,112,17,119/86,75,15,37.3,94,10,Dizziness,Penicillin,Metoprolol,URGENT,A,triage_assessment,112,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,86
+113,113,20,108/76,82,16,36.1,94,0,Abdominal Pain,Penicillin,None,URGENT,A,triage_assessment,113,LOCAL_A,LOCAL_ZONE_UNKNOWN,108,76
+116,116,19,117/72,83,16,37.7,92,1,Dizziness,Sulfa drugs,Atorvastatin,ROUTINE,A,triage_assessment,116,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,72
+117,117,25,140/83,107,14,37.5,99,10,Shortness of Breath,Penicillin,Metformin,ROUTINE,A,triage_assessment,117,LOCAL_A,LOCAL_ZONE_UNKNOWN,140,83
+118,118,21,133/66,88,22,37.3,98,9,Abdominal Pain,Penicillin,Metformin,STAT,A,triage_assessment,118,LOCAL_A,LOCAL_ZONE_UNKNOWN,133,66
+119,119,20,114/69,84,17,37.5,99,6,Dizziness,Sulfa drugs,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,119,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,69
+120,120,19,112/73,107,16,38.3,95,8,Chest Discomfort,Sulfa drugs,Aspirin,STAT,A,triage_assessment,120,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,73
+121,121,19,116/84,100,21,36.4,92,7,Abdominal Pain,Penicillin,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,121,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,84
+122,122,22,111/88,97,22,37.5,93,10,Abdominal Pain,Sulfa drugs,Metformin,URGENT,A,triage_assessment,122,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,88
+124,124,16,114/73,91,19,36.6,92,4,Abdominal Pain,Sulfa drugs,None,URGENT,A,triage_assessment,124,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,73
+125,125,21,124/65,73,13,36.4,99,6,Abdominal Pain,Penicillin,Lisinopril,ROUTINE,A,triage_assessment,125,LOCAL_A,LOCAL_ZONE_UNKNOWN,124,65
+127,127,24,105/86,91,14,37.7,98,3,Abdominal Pain,Peanuts,None,URGENT,A,triage_assessment,127,LOCAL_A,LOCAL_ZONE_UNKNOWN,105,86
+128,128,18,120/65,60,15,38.3,94,5,Chest Discomfort,Peanuts,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,128,LOCAL_A,LOCAL_ZONE_UNKNOWN,120,65
+129,129,23,138/78,79,21,37.6,95,3,Shortness of Breath,Penicillin,Aspirin,ROUTINE,A,triage_assessment,129,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,78
+131,131,18,134/69,109,13,36.5,99,7,Dizziness,Peanuts,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,131,LOCAL_A,LOCAL_ZONE_UNKNOWN,134,69
+133,133,21,102/79,83,14,36.6,92,10,Abdominal Pain,Peanuts,Aspirin,STAT,A,triage_assessment,133,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,79
+134,134,23,102/77,103,20,38.0,97,6,Abdominal Pain,Latex,Atorvastatin,URGENT,A,triage_assessment,134,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,77
+135,135,22,129/71,61,22,36.2,95,9,Dizziness,Sulfa drugs,None,URGENT,A,triage_assessment,135,LOCAL_A,LOCAL_ZONE_UNKNOWN,129,71
+136,136,20,109/90,85,13,38.2,97,3,Chest Discomfort,Peanuts,Metformin,STAT,A,triage_assessment,136,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,90
+137,137,25,104/64,88,13,37.3,97,9,Chest Discomfort,None,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,137,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,64
+138,138,20,139/71,84,12,37.4,100,2,Chest Discomfort,Peanuts,Atorvastatin,STAT,A,triage_assessment,138,LOCAL_A,LOCAL_ZONE_UNKNOWN,139,71
+139,139,21,136/68,89,13,36.1,93,1,Fever,Latex,Lisinopril,STAT,A,triage_assessment,139,LOCAL_A,LOCAL_ZONE_UNKNOWN,136,68
+140,140,16,133/73,88,15,38.3,97,6,Abdominal Pain,Latex,Aspirin,ROUTINE,A,triage_assessment,140,LOCAL_A,LOCAL_ZONE_UNKNOWN,133,73
+141,141,18,105/64,104,16,36.5,98,7,Fever,Peanuts,Metformin,URGENT,A,triage_assessment,141,LOCAL_A,LOCAL_ZONE_UNKNOWN,105,64
+142,142,23,113/84,72,12,38.1,96,9,Chest Discomfort,Peanuts,Metformin,URGENT,A,triage_assessment,142,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,84
+143,143,18,107/67,98,14,37.2,93,5,Chest Discomfort,Sulfa drugs,Aspirin,STAT,A,triage_assessment,143,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,67
+144,144,24,121/75,69,19,37.4,92,4,Shortness of Breath,Peanuts,Lisinopril,URGENT,A,triage_assessment,144,LOCAL_A,LOCAL_ZONE_UNKNOWN,121,75
+145,145,25,102/71,64,20,36.5,96,3,Dizziness,None,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,145,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,71
+146,146,16,126/69,78,15,37.6,94,8,Abdominal Pain,None,Aspirin,URGENT,A,triage_assessment,146,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,69
+147,147,22,117/80,93,12,37.9,93,10,Fever,None,None,URGENT,A,triage_assessment,147,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,80
+148,148,25,102/68,105,19,38.0,98,0,Chest Discomfort,Latex,Aspirin,URGENT,A,triage_assessment,148,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,68
+149,149,22,124/85,78,17,36.8,100,2,Chest Discomfort,Sulfa drugs,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,149,LOCAL_A,LOCAL_ZONE_UNKNOWN,124,85
+150,150,21,106/82,108,19,38.1,95,9,Shortness of Breath,Peanuts,Aspirin,STAT,A,triage_assessment,150,LOCAL_A,LOCAL_ZONE_UNKNOWN,106,82
+151,151,17,128/65,90,13,36.7,95,5,Abdominal Pain,Penicillin,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,151,LOCAL_A,LOCAL_ZONE_UNKNOWN,128,65
+152,152,20,133/70,92,17,36.7,92,3,Shortness of Breath,Sulfa drugs,None,STAT,A,triage_assessment,152,LOCAL_A,LOCAL_ZONE_UNKNOWN,133,70
+153,153,21,111/72,85,19,38.3,100,5,Fever,Peanuts,Atorvastatin,ROUTINE,A,triage_assessment,153,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,72
+154,154,23,103/84,61,17,38.0,99,7,Chest Discomfort,None,Metoprolol,STAT,A,triage_assessment,154,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,84
+155,155,16,126/68,89,15,37.2,96,5,Abdominal Pain,Penicillin,Aspirin,URGENT,A,triage_assessment,155,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,68
+156,156,17,117/89,64,15,38.2,95,9,Dizziness,None,None,ROUTINE,A,triage_assessment,156,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,89
+157,157,17,113/74,85,22,37.6,100,9,Chest Discomfort,Penicillin,Metformin,STAT,A,triage_assessment,157,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,74
+159,159,20,122/63,105,14,37.2,97,5,Chest Discomfort,Peanuts,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,159,LOCAL_A,LOCAL_ZONE_UNKNOWN,122,63
+161,161,23,126/65,103,15,37.1,93,2,Fever,Latex,Aspirin,STAT,A,triage_assessment,161,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,65
+162,162,16,131/64,86,22,37.0,97,10,Dizziness,Latex,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,162,LOCAL_A,LOCAL_ZONE_UNKNOWN,131,64
+163,163,21,111/68,89,19,37.9,95,6,Abdominal Pain,None,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,163,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,68
+164,164,18,111/78,104,19,37.0,94,4,Fever,Latex,Atorvastatin,STAT,A,triage_assessment,164,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,78
+165,165,20,119/73,98,22,36.3,96,8,Abdominal Pain,Penicillin,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,165,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,73
+166,166,25,103/62,109,20,37.0,96,2,Chest Discomfort,Sulfa drugs,Aspirin,URGENT,A,triage_assessment,166,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,62
+167,167,20,128/82,89,13,36.6,94,8,Fever,Latex,Metoprolol,ROUTINE,A,triage_assessment,167,LOCAL_A,LOCAL_ZONE_UNKNOWN,128,82
+168,168,21,126/65,61,16,38.3,95,3,Fever,Peanuts,Metoprolol,ROUTINE,A,triage_assessment,168,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,65
+169,169,20,140/72,69,13,37.9,92,4,Chest Discomfort,None,Metoprolol,URGENT,A,triage_assessment,169,LOCAL_A,LOCAL_ZONE_UNKNOWN,140,72
+170,170,16,114/89,75,19,38.2,99,9,Fever,Latex,None,STAT,A,triage_assessment,170,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,89
+171,171,21,136/73,88,18,36.4,94,0,Abdominal Pain,Latex,Aspirin,ROUTINE,A,triage_assessment,171,LOCAL_A,LOCAL_ZONE_UNKNOWN,136,73
+172,172,22,112/84,74,18,36.9,100,2,Abdominal Pain,Sulfa drugs,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,172,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,84
+173,173,17,107/67,77,21,36.2,98,6,Dizziness,Penicillin,Metoprolol,ROUTINE,A,triage_assessment,173,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,67
+174,174,23,140/84,91,17,38.4,96,4,Fever,None,Atorvastatin,URGENT,A,triage_assessment,174,LOCAL_A,LOCAL_ZONE_UNKNOWN,140,84
+175,175,25,137/62,108,14,38.1,100,0,Shortness of Breath,Penicillin,Metformin,STAT,A,triage_assessment,175,LOCAL_A,LOCAL_ZONE_UNKNOWN,137,62
+176,176,22,112/89,75,20,38.1,96,3,Chest Discomfort,Penicillin,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,176,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,89
+177,177,19,126/70,86,21,36.5,100,4,Fever,Peanuts,Atorvastatin,STAT,A,triage_assessment,177,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,70
+178,178,23,106/74,65,12,37.3,99,7,Shortness of Breath,None,None,URGENT,A,triage_assessment,178,LOCAL_A,LOCAL_ZONE_UNKNOWN,106,74
+179,179,25,101/60,91,14,37.9,100,10,Shortness of Breath,Penicillin,Atorvastatin,STAT,A,triage_assessment,179,LOCAL_A,LOCAL_ZONE_UNKNOWN,101,60
+180,180,21,127/65,70,19,37.2,95,5,Chest Discomfort,None,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,180,LOCAL_A,LOCAL_ZONE_UNKNOWN,127,65
+181,181,24,109/89,91,17,36.6,94,10,Abdominal Pain,Penicillin,Lisinopril,ROUTINE,A,triage_assessment,181,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,89
+182,182,25,115/64,104,20,37.6,94,2,Shortness of Breath,Latex,Atorvastatin,URGENT,A,triage_assessment,182,LOCAL_A,LOCAL_ZONE_UNKNOWN,115,64
+183,183,16,115/71,95,18,36.3,98,3,Shortness of Breath,Latex,Lisinopril,STAT,A,triage_assessment,183,LOCAL_A,LOCAL_ZONE_UNKNOWN,115,71
+185,185,20,112/88,84,14,37.7,92,0,Chest Discomfort,Sulfa drugs,Metformin,URGENT,A,triage_assessment,185,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,88
+186,186,16,101/81,78,14,37.5,95,8,Chest Discomfort,Latex,Metformin,ROUTINE,A,triage_assessment,186,LOCAL_A,LOCAL_ZONE_UNKNOWN,101,81
+187,187,16,126/68,106,19,36.1,93,2,Dizziness,Latex,Metoprolol,ROUTINE,A,triage_assessment,187,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,68
+188,188,19,133/85,74,22,37.9,98,5,Shortness of Breath,Peanuts,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,188,LOCAL_A,LOCAL_ZONE_UNKNOWN,133,85
+189,189,16,111/83,66,16,37.7,95,10,Dizziness,Penicillin,Atorvastatin,URGENT,A,triage_assessment,189,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,83
+190,190,22,130/73,81,18,37.2,95,10,Abdominal Pain,Peanuts,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,190,LOCAL_A,LOCAL_ZONE_UNKNOWN,130,73
+191,191,20,134/85,84,14,37.8,97,2,Fever,Latex,Metoprolol,ROUTINE,A,triage_assessment,191,LOCAL_A,LOCAL_ZONE_UNKNOWN,134,85
+192,192,18,107/82,105,15,37.5,100,10,Chest Discomfort,Penicillin,Atorvastatin,ROUTINE,A,triage_assessment,192,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,82
+193,193,17,128/67,101,12,38.1,100,4,Chest Discomfort,Penicillin,Aspirin,URGENT,A,triage_assessment,193,LOCAL_A,LOCAL_ZONE_UNKNOWN,128,67
+194,194,21,123/90,107,17,37.0,97,2,Shortness of Breath,Peanuts,Aspirin,STAT,A,triage_assessment,194,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,90
+195,195,,122/67,81,12,37.6,92,0,Shortness of Breath,Peanuts,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,195,LOCAL_A,LOCAL_ZONE_UNKNOWN,122,67
+196,196,20,113/82,62,19,36.9,100,0,Dizziness,Latex,Metformin,URGENT,A,triage_assessment,196,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,82
+197,197,,116/61,100,21,38.2,92,9,Dizziness,Peanuts,Metoprolol,STAT,A,triage_assessment,197,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,61
+199,199,23,130/61,107,14,37.2,96,7,Chest Discomfort,None,Lisinopril,STAT,A,triage_assessment,199,LOCAL_A,LOCAL_ZONE_UNKNOWN,130,61
+200,200,24,138/77,88,20,36.9,99,3,Dizziness,Sulfa drugs,Metoprolol,URGENT,A,triage_assessment,200,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,77
+201,201,19,107/60,78,12,36.3,94,6,Abdominal Pain,None,Metoprolol,URGENT,A,triage_assessment,201,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,60
+203,203,22,137/61,73,21,37.0,97,8,Dizziness,None,Lisinopril,STAT,A,triage_assessment,203,LOCAL_A,LOCAL_ZONE_UNKNOWN,137,61
+204,204,20,140/71,83,16,36.5,92,9,Abdominal Pain,Sulfa drugs,Metformin,ROUTINE,A,triage_assessment,204,LOCAL_A,LOCAL_ZONE_UNKNOWN,140,71
+205,205,20,128/63,81,20,38.5,96,0,Chest Discomfort,Penicillin,None,ROUTINE,A,triage_assessment,205,LOCAL_A,LOCAL_ZONE_UNKNOWN,128,63
+206,206,20,103/85,82,19,38.4,92,2,Chest Discomfort,None,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,206,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,85
+207,207,19,122/81,61,20,36.9,100,6,Abdominal Pain,Peanuts,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,207,LOCAL_A,LOCAL_ZONE_UNKNOWN,122,81
+208,208,22,126/69,81,13,37.3,100,10,Dizziness,None,Metoprolol,STAT,A,triage_assessment,208,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,69
+209,209,24,101/75,74,20,36.6,97,7,Fever,Latex,Lisinopril,ROUTINE,A,triage_assessment,209,LOCAL_A,LOCAL_ZONE_UNKNOWN,101,75
+210,210,25,119/80,88,20,36.3,100,2,Dizziness,Peanuts,Atorvastatin,URGENT,A,triage_assessment,210,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,80
+211,211,20,118/87,62,12,37.9,97,9,Dizziness,Peanuts,None,URGENT,A,triage_assessment,211,LOCAL_A,LOCAL_ZONE_UNKNOWN,118,87
+212,212,19,117/70,65,12,36.8,96,5,Abdominal Pain,None,Lisinopril,STAT,A,triage_assessment,212,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,70
+214,214,22,105/66,66,22,37.2,93,1,Shortness of Breath,None,Metformin,STAT,A,triage_assessment,214,LOCAL_A,LOCAL_ZONE_UNKNOWN,105,66
+215,215,23,101/79,108,20,38.2,94,2,Fever,Sulfa drugs,Aspirin,ROUTINE,A,triage_assessment,215,LOCAL_A,LOCAL_ZONE_UNKNOWN,101,79
+216,216,,117/83,85,19,36.9,94,9,Shortness of Breath,None,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,216,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,83
+217,217,25,120/69,79,19,36.0,99,4,Abdominal Pain,Sulfa drugs,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,217,LOCAL_A,LOCAL_ZONE_UNKNOWN,120,69
+220,220,16,138/85,85,16,37.5,98,7,Fever,None,Lisinopril,STAT,A,triage_assessment,220,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,85
+222,222,20,138/62,80,21,37.9,98,5,Shortness of Breath,Penicillin,Metoprolol,STAT,A,triage_assessment,222,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,62
+223,223,22,132/82,64,12,36.8,92,9,Fever,Sulfa drugs,Atorvastatin,ROUTINE,A,triage_assessment,223,LOCAL_A,LOCAL_ZONE_UNKNOWN,132,82
+224,224,21,112/86,68,17,38.3,92,0,Dizziness,Penicillin,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,224,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,86
+225,225,16,113/85,109,12,38.2,100,9,Shortness of Breath,Penicillin,Lisinopril,URGENT,A,triage_assessment,225,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,85
+226,226,16,106/84,101,12,38.0,95,0,Chest Discomfort,Penicillin,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,226,LOCAL_A,LOCAL_ZONE_UNKNOWN,106,84
+227,227,19,128/78,91,12,37.2,97,7,Abdominal Pain,None,Aspirin,STAT,A,triage_assessment,227,LOCAL_A,LOCAL_ZONE_UNKNOWN,128,78
+228,228,24,119/86,93,16,37.5,99,2,Fever,Sulfa drugs,Atorvastatin,ROUTINE,A,triage_assessment,228,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,86
+229,229,24,135/61,93,12,38.1,97,2,Shortness of Breath,Sulfa drugs,Metoprolol,STAT,A,triage_assessment,229,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,61
+230,230,24,115/62,89,15,38.0,99,1,Abdominal Pain,None,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,230,LOCAL_A,LOCAL_ZONE_UNKNOWN,115,62
+231,231,18,111/79,95,16,36.7,100,3,Fever,Latex,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,231,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,79
+232,232,17,138/81,110,22,36.9,96,10,Chest Discomfort,Latex,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,232,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,81
+233,233,24,134/77,98,21,37.9,92,9,Shortness of Breath,Penicillin,Lisinopril,STAT,A,triage_assessment,233,LOCAL_A,LOCAL_ZONE_UNKNOWN,134,77
+234,234,20,138/82,101,17,38.2,95,9,Shortness of Breath,None,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,234,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,82
+235,235,18,114/61,71,16,37.4,100,6,Chest Discomfort,Latex,Metformin,STAT,A,triage_assessment,235,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,61
+236,236,21,112/83,100,20,36.7,98,10,Fever,Peanuts,Metformin,ROUTINE,A,triage_assessment,236,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,83
+237,237,16,138/87,90,22,37.7,96,7,Abdominal Pain,Penicillin,Aspirin,STAT,A,triage_assessment,237,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,87
+238,238,22,110/68,101,18,36.0,99,0,Shortness of Breath,None,Aspirin,ROUTINE,A,triage_assessment,238,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,68
+239,239,24,116/83,93,12,38.2,95,3,Abdominal Pain,Sulfa drugs,Lisinopril,URGENT,A,triage_assessment,239,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,83
+240,240,24,116/65,86,19,38.2,98,3,Fever,Sulfa drugs,Atorvastatin,STAT,A,triage_assessment,240,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,65
+241,241,24,118/81,110,18,38.0,98,6,Fever,Penicillin,Metformin,URGENT,A,triage_assessment,241,LOCAL_A,LOCAL_ZONE_UNKNOWN,118,81
+243,243,21,137/83,75,16,38.0,93,8,Shortness of Breath,Sulfa drugs,Atorvastatin,URGENT,A,triage_assessment,243,LOCAL_A,LOCAL_ZONE_UNKNOWN,137,83
+244,244,24,105/64,106,14,37.5,95,8,Chest Discomfort,None,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,244,LOCAL_A,LOCAL_ZONE_UNKNOWN,105,64
+246,246,16,132/78,63,17,38.5,99,8,Shortness of Breath,Penicillin,Aspirin,ROUTINE,A,triage_assessment,246,LOCAL_A,LOCAL_ZONE_UNKNOWN,132,78
+247,247,21,109/71,68,21,37.9,100,6,Chest Discomfort,Peanuts,Aspirin,ROUTINE,A,triage_assessment,247,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,71
+248,248,23,101/86,76,18,38.0,95,9,Chest Discomfort,Penicillin,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,248,LOCAL_A,LOCAL_ZONE_UNKNOWN,101,86
+249,249,25,140/83,60,13,38.2,96,4,Chest Discomfort,None,Aspirin,STAT,A,triage_assessment,249,LOCAL_A,LOCAL_ZONE_UNKNOWN,140,83
+250,250,16,122/68,60,18,37.9,94,4,Chest Discomfort,Peanuts,Metoprolol,ROUTINE,A,triage_assessment,250,LOCAL_A,LOCAL_ZONE_UNKNOWN,122,68
+251,251,20,116/74,91,22,37.8,100,3,Abdominal Pain,None,Lisinopril,URGENT,A,triage_assessment,251,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,74
+252,252,21,116/69,81,19,38.4,99,0,Abdominal Pain,Peanuts,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,252,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,69
+253,253,23,122/68,87,17,36.8,93,5,Dizziness,Latex,Aspirin,STAT,A,triage_assessment,253,LOCAL_A,LOCAL_ZONE_UNKNOWN,122,68
+254,254,22,120/85,109,15,38.3,92,3,Abdominal Pain,Sulfa drugs,None,ROUTINE,A,triage_assessment,254,LOCAL_A,LOCAL_ZONE_UNKNOWN,120,85
+255,255,19,126/89,67,18,37.8,100,10,Shortness of Breath,Penicillin,Aspirin,URGENT,A,triage_assessment,255,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,89
+256,256,16,125/87,62,15,36.4,95,6,Dizziness,None,Aspirin,STAT,A,triage_assessment,256,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,87
+257,257,20,107/90,86,12,36.9,100,6,Dizziness,Sulfa drugs,None,URGENT,A,triage_assessment,257,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,90
+258,258,22,136/88,71,22,37.9,94,0,Dizziness,Sulfa drugs,None,STAT,A,triage_assessment,258,LOCAL_A,LOCAL_ZONE_UNKNOWN,136,88
+259,259,20,136/72,86,17,36.0,99,7,Shortness of Breath,Peanuts,Metoprolol,ROUTINE,A,triage_assessment,259,LOCAL_A,LOCAL_ZONE_UNKNOWN,136,72
+260,260,22,128/61,75,17,38.3,100,3,Chest Discomfort,None,Lisinopril,STAT,A,triage_assessment,260,LOCAL_A,LOCAL_ZONE_UNKNOWN,128,61
+262,262,20,111/90,78,12,37.7,100,6,Shortness of Breath,Sulfa drugs,Atorvastatin,URGENT,A,triage_assessment,262,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,90
+263,263,21,124/69,90,20,38.0,94,1,Dizziness,None,Metformin,ROUTINE,A,triage_assessment,263,LOCAL_A,LOCAL_ZONE_UNKNOWN,124,69
+264,264,18,130/69,102,15,36.4,99,2,Shortness of Breath,None,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,264,LOCAL_A,LOCAL_ZONE_UNKNOWN,130,69
+265,265,16,103/71,107,15,37.7,98,4,Fever,Sulfa drugs,Metformin,ROUTINE,A,triage_assessment,265,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,71
+266,266,25,111/80,78,20,36.7,94,0,Shortness of Breath,Latex,Metformin,ROUTINE,A,triage_assessment,266,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,80
+267,267,18,131/80,85,13,36.6,95,5,Dizziness,Penicillin,Atorvastatin,STAT,A,triage_assessment,267,LOCAL_A,LOCAL_ZONE_UNKNOWN,131,80
+268,268,22,106/74,88,19,38.2,98,4,Fever,Peanuts,Atorvastatin,ROUTINE,A,triage_assessment,268,LOCAL_A,LOCAL_ZONE_UNKNOWN,106,74
+270,270,24,127/81,71,20,37.8,94,7,Chest Discomfort,Latex,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,270,LOCAL_A,LOCAL_ZONE_UNKNOWN,127,81
+271,271,17,113/67,105,21,38.2,92,2,Shortness of Breath,Sulfa drugs,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,271,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,67
+272,272,,108/81,73,22,37.4,99,4,Abdominal Pain,Peanuts,Atorvastatin,URGENT,A,triage_assessment,272,LOCAL_A,LOCAL_ZONE_UNKNOWN,108,81
+273,273,25,138/64,98,20,37.6,98,10,Chest Discomfort,Peanuts,Atorvastatin,ROUTINE,A,triage_assessment,273,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,64
+274,274,18,138/75,70,21,36.8,99,0,Chest Discomfort,Sulfa drugs,Metformin,URGENT,A,triage_assessment,274,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,75
+275,275,25,132/81,109,21,36.2,96,2,Fever,Latex,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,275,LOCAL_A,LOCAL_ZONE_UNKNOWN,132,81
+276,276,17,127/69,76,20,36.9,94,8,Shortness of Breath,Peanuts,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,276,LOCAL_A,LOCAL_ZONE_UNKNOWN,127,69
+277,277,20,130/70,103,17,36.0,99,8,Fever,Latex,Lisinopril,ROUTINE,A,triage_assessment,277,LOCAL_A,LOCAL_ZONE_UNKNOWN,130,70
+278,278,23,101/63,93,22,36.8,92,3,Abdominal Pain,Sulfa drugs,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,278,LOCAL_A,LOCAL_ZONE_UNKNOWN,101,63
+279,279,17,109/78,62,15,37.0,95,6,Fever,None,Metoprolol,URGENT,A,triage_assessment,279,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,78
+280,280,23,120/61,77,18,36.4,93,7,Chest Discomfort,Penicillin,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,280,LOCAL_A,LOCAL_ZONE_UNKNOWN,120,61
+281,281,24,123/76,72,18,37.0,98,0,Dizziness,Peanuts,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,281,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,76
+282,282,24,128/74,60,22,37.8,92,9,Shortness of Breath,Peanuts,None,URGENT,A,triage_assessment,282,LOCAL_A,LOCAL_ZONE_UNKNOWN,128,74
+283,283,19,126/71,99,21,36.2,94,9,Shortness of Breath,Peanuts,None,STAT,A,triage_assessment,283,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,71
+284,284,20,115/70,97,22,36.7,97,4,Shortness of Breath,None,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,284,LOCAL_A,LOCAL_ZONE_UNKNOWN,115,70
+286,286,20,116/89,107,18,37.7,92,8,Dizziness,Latex,Lisinopril,URGENT,A,triage_assessment,286,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,89
+287,287,20,132/78,61,17,36.3,97,1,Dizziness,None,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,287,LOCAL_A,LOCAL_ZONE_UNKNOWN,132,78
+288,288,19,130/87,99,19,36.1,97,6,Chest Discomfort,Penicillin,None,URGENT,A,triage_assessment,288,LOCAL_A,LOCAL_ZONE_UNKNOWN,130,87
+290,290,21,125/65,88,17,36.0,99,5,Fever,Peanuts,None,URGENT,A,triage_assessment,290,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,65
+291,291,21,120/65,107,21,36.8,92,5,Dizziness,Latex,Lisinopril,ROUTINE,A,triage_assessment,291,LOCAL_A,LOCAL_ZONE_UNKNOWN,120,65
+292,292,18,123/90,67,22,36.6,97,0,Abdominal Pain,Peanuts,Atorvastatin,ROUTINE,A,triage_assessment,292,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,90
+294,294,17,122/62,90,22,36.4,99,3,Fever,Peanuts,Lisinopril,ROUTINE,A,triage_assessment,294,LOCAL_A,LOCAL_ZONE_UNKNOWN,122,62
+295,295,25,101/65,68,14,37.1,94,3,Fever,None,Aspirin,STAT,A,triage_assessment,295,LOCAL_A,LOCAL_ZONE_UNKNOWN,101,65
+297,297,24,128/89,64,14,37.1,94,4,Shortness of Breath,Latex,Metformin,STAT,A,triage_assessment,297,LOCAL_A,LOCAL_ZONE_UNKNOWN,128,89
+298,298,20,123/84,95,18,38.1,100,1,Chest Discomfort,Peanuts,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,298,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,84
+299,299,16,119/78,74,22,37.2,96,1,Shortness of Breath,None,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,299,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,78
+300,300,16,135/85,92,13,36.6,97,1,Chest Discomfort,Sulfa drugs,Atorvastatin,ROUTINE,A,triage_assessment,300,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,85
+301,301,20,100/71,66,18,36.2,95,10,Chest Discomfort,Latex,None,ROUTINE,A,triage_assessment,301,LOCAL_A,LOCAL_ZONE_UNKNOWN,100,71
+302,302,17,108/62,78,12,37.8,94,10,Dizziness,Peanuts,Aspirin,ROUTINE,A,triage_assessment,302,LOCAL_A,LOCAL_ZONE_UNKNOWN,108,62
+303,303,16,138/75,85,13,36.5,100,10,Chest Discomfort,Penicillin,Metformin,ROUTINE,A,triage_assessment,303,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,75
+304,304,24,116/63,94,22,36.4,99,2,Abdominal Pain,Latex,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,304,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,63
+305,305,16,116/75,77,14,37.3,100,6,Shortness of Breath,Sulfa drugs,Lisinopril,ROUTINE,A,triage_assessment,305,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,75
+306,306,21,133/72,98,14,37.3,94,2,Dizziness,Penicillin,None,URGENT,A,triage_assessment,306,LOCAL_A,LOCAL_ZONE_UNKNOWN,133,72
+307,307,20,107/87,90,21,37.0,92,2,Chest Discomfort,Peanuts,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,307,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,87
+309,309,17,117/66,67,22,36.7,99,2,Shortness of Breath,Latex,Metoprolol,ROUTINE,A,triage_assessment,309,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,66
+310,310,17,138/84,68,20,37.9,100,6,Dizziness,Latex,Lisinopril,STAT,A,triage_assessment,310,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,84
+311,311,19,104/78,75,12,37.2,94,4,Fever,Penicillin,Atorvastatin,URGENT,A,triage_assessment,311,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,78
+313,313,16,124/88,78,13,37.7,95,9,Abdominal Pain,None,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,313,LOCAL_A,LOCAL_ZONE_UNKNOWN,124,88
+314,314,17,106/69,89,21,36.1,93,7,Chest Discomfort,Peanuts,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,314,LOCAL_A,LOCAL_ZONE_UNKNOWN,106,69
+315,315,21,121/64,87,12,36.8,95,1,Shortness of Breath,Latex,None,URGENT,A,triage_assessment,315,LOCAL_A,LOCAL_ZONE_UNKNOWN,121,64
+317,317,25,107/69,87,20,36.8,92,3,Chest Discomfort,None,Metoprolol,ROUTINE,A,triage_assessment,317,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,69
+319,319,25,136/70,96,20,38.2,96,6,Fever,Sulfa drugs,Atorvastatin,URGENT,A,triage_assessment,319,LOCAL_A,LOCAL_ZONE_UNKNOWN,136,70
+320,320,21,101/64,98,13,36.2,99,3,Fever,None,Metformin,URGENT,A,triage_assessment,320,LOCAL_A,LOCAL_ZONE_UNKNOWN,101,64
+321,321,16,128/81,92,12,36.1,92,1,Shortness of Breath,Sulfa drugs,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,321,LOCAL_A,LOCAL_ZONE_UNKNOWN,128,81
+322,322,18,129/86,66,21,36.1,96,6,Fever,Latex,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,322,LOCAL_A,LOCAL_ZONE_UNKNOWN,129,86
+323,323,18,104/63,63,19,37.5,98,1,Chest Discomfort,Sulfa drugs,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,323,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,63
+324,324,19,127/85,89,16,36.2,93,4,Abdominal Pain,Sulfa drugs,Aspirin,STAT,A,triage_assessment,324,LOCAL_A,LOCAL_ZONE_UNKNOWN,127,85
+325,325,19,129/84,79,13,38.5,99,9,Dizziness,Penicillin,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,325,LOCAL_A,LOCAL_ZONE_UNKNOWN,129,84
+326,326,19,120/66,84,22,36.2,92,8,Shortness of Breath,Sulfa drugs,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,326,LOCAL_A,LOCAL_ZONE_UNKNOWN,120,66
+327,327,19,119/85,98,21,37.5,94,1,Abdominal Pain,Latex,Lisinopril,ROUTINE,A,triage_assessment,327,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,85
+328,328,17,124/71,83,19,37.7,99,6,Fever,Sulfa drugs,Atorvastatin,ROUTINE,A,triage_assessment,328,LOCAL_A,LOCAL_ZONE_UNKNOWN,124,71
+329,329,19,138/75,95,14,36.5,97,4,Chest Discomfort,Sulfa drugs,Aspirin,ROUTINE,A,triage_assessment,329,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,75
+330,330,20,104/79,107,18,37.2,98,2,Dizziness,Peanuts,Atorvastatin,ROUTINE,A,triage_assessment,330,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,79
+331,331,18,118/75,72,14,37.0,99,0,Shortness of Breath,Latex,Atorvastatin,STAT,A,triage_assessment,331,LOCAL_A,LOCAL_ZONE_UNKNOWN,118,75
+332,332,23,138/89,83,12,38.1,94,9,Abdominal Pain,Peanuts,None,STAT,A,triage_assessment,332,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,89
+334,334,19,104/70,69,18,37.4,94,0,Abdominal Pain,Sulfa drugs,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,334,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,70
+335,335,20,113/86,66,16,36.3,94,0,Fever,Peanuts,Metoprolol,ROUTINE,A,triage_assessment,335,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,86
+336,336,23,128/67,108,14,36.4,95,4,Abdominal Pain,Latex,Aspirin,URGENT,A,triage_assessment,336,LOCAL_A,LOCAL_ZONE_UNKNOWN,128,67
+337,337,25,134/87,84,19,36.2,100,4,Dizziness,Peanuts,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,337,LOCAL_A,LOCAL_ZONE_UNKNOWN,134,87
+338,338,16,117/64,106,12,37.2,94,9,Fever,Sulfa drugs,None,STAT,A,triage_assessment,338,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,64
+339,339,18,109/89,62,22,37.6,99,4,Dizziness,Peanuts,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,339,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,89
+340,340,17,139/78,75,12,36.8,96,1,Abdominal Pain,Sulfa drugs,Lisinopril,ROUTINE,A,triage_assessment,340,LOCAL_A,LOCAL_ZONE_UNKNOWN,139,78
+341,341,24,136/72,109,19,37.6,100,6,Abdominal Pain,Sulfa drugs,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,341,LOCAL_A,LOCAL_ZONE_UNKNOWN,136,72
+342,342,24,112/63,105,13,36.3,100,10,Fever,None,Atorvastatin,ROUTINE,A,triage_assessment,342,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,63
+344,344,23,110/90,86,21,38.3,97,9,Abdominal Pain,None,Lisinopril,URGENT,A,triage_assessment,344,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,90
+346,346,19,124/80,63,16,36.4,95,10,Chest Discomfort,Latex,Lisinopril,URGENT,A,triage_assessment,346,LOCAL_A,LOCAL_ZONE_UNKNOWN,124,80
+347,347,18,129/75,85,14,36.1,99,6,Fever,Sulfa drugs,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,347,LOCAL_A,LOCAL_ZONE_UNKNOWN,129,75
+348,348,18,136/64,94,15,36.1,99,6,Abdominal Pain,None,Metformin,STAT,A,triage_assessment,348,LOCAL_A,LOCAL_ZONE_UNKNOWN,136,64
+349,349,19,129/75,77,12,37.0,100,7,Abdominal Pain,None,Atorvastatin,URGENT,A,triage_assessment,349,LOCAL_A,LOCAL_ZONE_UNKNOWN,129,75
+350,350,16,106/63,75,14,36.2,93,6,Dizziness,Peanuts,Lisinopril,STAT,A,triage_assessment,350,LOCAL_A,LOCAL_ZONE_UNKNOWN,106,63
+351,351,21,122/76,86,12,36.1,92,10,Dizziness,Peanuts,Metoprolol,URGENT,A,triage_assessment,351,LOCAL_A,LOCAL_ZONE_UNKNOWN,122,76
+353,353,20,115/73,73,16,37.7,96,5,Dizziness,Penicillin,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,353,LOCAL_A,LOCAL_ZONE_UNKNOWN,115,73
+354,354,21,107/68,89,21,37.7,100,1,Dizziness,Peanuts,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,354,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,68
+355,355,18,121/65,108,19,37.7,95,6,Shortness of Breath,Penicillin,None,STAT,A,triage_assessment,355,LOCAL_A,LOCAL_ZONE_UNKNOWN,121,65
+356,356,25,125/76,62,19,37.9,97,8,Dizziness,Penicillin,Aspirin,STAT,A,triage_assessment,356,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,76
+357,357,20,138/90,74,13,37.5,97,9,Chest Discomfort,Peanuts,Lisinopril,ROUTINE,A,triage_assessment,357,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,90
+358,358,22,137/66,100,19,38.4,96,4,Shortness of Breath,Latex,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,358,LOCAL_A,LOCAL_ZONE_UNKNOWN,137,66
+359,359,23,140/80,109,22,37.5,96,6,Abdominal Pain,Sulfa drugs,Aspirin,STAT,A,triage_assessment,359,LOCAL_A,LOCAL_ZONE_UNKNOWN,140,80
+360,360,21,119/90,87,14,36.9,98,5,Abdominal Pain,Sulfa drugs,None,ROUTINE,A,triage_assessment,360,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,90
+361,361,18,132/76,91,19,36.3,97,6,Fever,Latex,Atorvastatin,ROUTINE,A,triage_assessment,361,LOCAL_A,LOCAL_ZONE_UNKNOWN,132,76
+362,362,20,100/63,98,20,37.7,100,7,Shortness of Breath,Sulfa drugs,Atorvastatin,STAT,A,triage_assessment,362,LOCAL_A,LOCAL_ZONE_UNKNOWN,100,63
+363,363,23,105/75,70,16,36.7,96,8,Fever,Penicillin,Lisinopril,ROUTINE,A,triage_assessment,363,LOCAL_A,LOCAL_ZONE_UNKNOWN,105,75
+364,364,20,102/76,105,16,37.5,94,10,Dizziness,Penicillin,Metformin,STAT,A,triage_assessment,364,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,76
+365,365,17,136/71,65,14,37.7,92,5,Chest Discomfort,Penicillin,Metformin,ROUTINE,A,triage_assessment,365,LOCAL_A,LOCAL_ZONE_UNKNOWN,136,71
+366,366,24,105/64,79,12,36.9,95,0,Abdominal Pain,Peanuts,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,366,LOCAL_A,LOCAL_ZONE_UNKNOWN,105,64
+367,367,18,114/73,63,17,36.3,92,4,Chest Discomfort,Sulfa drugs,Metformin,ROUTINE,A,triage_assessment,367,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,73
+368,368,19,128/86,107,18,36.1,98,4,Dizziness,Sulfa drugs,Aspirin,ROUTINE,A,triage_assessment,368,LOCAL_A,LOCAL_ZONE_UNKNOWN,128,86
+369,369,23,128/62,81,18,37.8,95,5,Shortness of Breath,Peanuts,None,ROUTINE,A,triage_assessment,369,LOCAL_A,LOCAL_ZONE_UNKNOWN,128,62
+370,370,23,119/60,87,19,37.7,92,7,Fever,None,None,STAT,A,triage_assessment,370,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,60
+372,372,20,119/83,108,14,37.9,94,9,Fever,None,Aspirin,URGENT,A,triage_assessment,372,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,83
+373,373,25,116/85,88,12,38.1,99,0,Dizziness,Peanuts,Lisinopril,ROUTINE,A,triage_assessment,373,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,85
+374,374,,107/89,77,17,38.4,92,4,Dizziness,Latex,Lisinopril,ROUTINE,A,triage_assessment,374,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,89
+375,375,24,135/89,66,18,37.8,99,5,Chest Discomfort,Latex,Lisinopril,ROUTINE,A,triage_assessment,375,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,89
+376,376,22,114/70,87,19,37.0,97,2,Fever,None,Aspirin,ROUTINE,A,triage_assessment,376,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,70
+377,377,20,124/70,103,22,36.4,94,1,Chest Discomfort,Sulfa drugs,Metformin,ROUTINE,A,triage_assessment,377,LOCAL_A,LOCAL_ZONE_UNKNOWN,124,70
+378,378,22,120/87,61,17,37.1,92,8,Chest Discomfort,Peanuts,Metoprolol,ROUTINE,A,triage_assessment,378,LOCAL_A,LOCAL_ZONE_UNKNOWN,120,87
+379,379,22,120/84,99,20,38.1,97,3,Fever,Sulfa drugs,None,STAT,A,triage_assessment,379,LOCAL_A,LOCAL_ZONE_UNKNOWN,120,84
+381,381,25,107/64,91,15,36.5,92,3,Dizziness,Sulfa drugs,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,381,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,64
+382,382,25,140/61,64,14,38.4,97,1,Chest Discomfort,None,Metformin,STAT,A,triage_assessment,382,LOCAL_A,LOCAL_ZONE_UNKNOWN,140,61
+383,383,23,139/84,82,14,37.2,96,9,Abdominal Pain,Peanuts,Metformin,STAT,A,triage_assessment,383,LOCAL_A,LOCAL_ZONE_UNKNOWN,139,84
+384,384,16,135/89,67,18,37.8,96,7,Fever,Latex,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,384,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,89
+385,385,16,127/71,99,22,38.3,95,2,Dizziness,Peanuts,Aspirin,STAT,A,triage_assessment,385,LOCAL_A,LOCAL_ZONE_UNKNOWN,127,71
+386,386,16,116/89,81,21,36.4,92,1,Abdominal Pain,Penicillin,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,386,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,89
+387,387,20,106/83,71,16,36.6,94,1,Dizziness,None,Aspirin,URGENT,A,triage_assessment,387,LOCAL_A,LOCAL_ZONE_UNKNOWN,106,83
+388,388,19,128/77,89,21,38.0,97,7,Dizziness,Peanuts,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,388,LOCAL_A,LOCAL_ZONE_UNKNOWN,128,77
+389,389,19,122/74,69,13,38.5,95,10,Chest Discomfort,Latex,Metformin,ROUTINE,A,triage_assessment,389,LOCAL_A,LOCAL_ZONE_UNKNOWN,122,74
+390,390,22,104/81,95,17,37.1,92,1,Dizziness,Sulfa drugs,Atorvastatin,URGENT,A,triage_assessment,390,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,81
+391,391,20,134/85,73,15,38.5,99,1,Dizziness,Latex,Metoprolol,STAT,A,triage_assessment,391,LOCAL_A,LOCAL_ZONE_UNKNOWN,134,85
+392,392,19,133/73,63,17,38.4,98,10,Abdominal Pain,Latex,Aspirin,ROUTINE,A,triage_assessment,392,LOCAL_A,LOCAL_ZONE_UNKNOWN,133,73
+393,393,17,113/65,69,15,37.3,96,10,Fever,None,None,STAT,A,triage_assessment,393,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,65
+394,394,18,126/90,74,13,36.2,95,8,Fever,None,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,394,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,90
+395,395,17,112/63,60,15,37.4,94,10,Dizziness,None,None,STAT,A,triage_assessment,395,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,63
+397,397,20,120/74,83,15,37.5,99,1,Dizziness,Sulfa drugs,Lisinopril,STAT,A,triage_assessment,397,LOCAL_A,LOCAL_ZONE_UNKNOWN,120,74
+398,398,21,116/66,84,16,36.5,92,5,Fever,None,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,398,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,66
+399,399,21,128/84,101,17,38.0,99,9,Fever,None,Metformin,STAT,A,triage_assessment,399,LOCAL_A,LOCAL_ZONE_UNKNOWN,128,84
+400,400,24,132/69,104,21,36.8,97,6,Chest Discomfort,Penicillin,Metoprolol,STAT,A,triage_assessment,400,LOCAL_A,LOCAL_ZONE_UNKNOWN,132,69
+401,401,18,114/69,89,19,38.4,93,1,Fever,Sulfa drugs,None,STAT,A,triage_assessment,401,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,69
+402,402,21,117/81,83,20,38.0,99,1,Fever,Peanuts,Aspirin,URGENT,A,triage_assessment,402,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,81
+403,403,21,107/71,110,19,36.8,92,0,Fever,None,Aspirin,STAT,A,triage_assessment,403,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,71
+404,404,21,138/90,63,15,36.0,99,6,Shortness of Breath,Peanuts,Metoprolol,STAT,A,triage_assessment,404,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,90
+406,406,20,134/89,109,21,36.5,96,9,Chest Discomfort,Latex,Metoprolol,URGENT,A,triage_assessment,406,LOCAL_A,LOCAL_ZONE_UNKNOWN,134,89
+407,407,18,113/89,86,22,36.8,95,1,Dizziness,None,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,407,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,89
+410,410,25,140/65,61,16,36.2,100,8,Chest Discomfort,Sulfa drugs,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,410,LOCAL_A,LOCAL_ZONE_UNKNOWN,140,65
+411,411,17,135/77,94,22,36.3,99,5,Abdominal Pain,Sulfa drugs,Atorvastatin,ROUTINE,A,triage_assessment,411,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,77
+412,412,19,138/84,66,18,37.1,97,9,Chest Discomfort,Penicillin,Atorvastatin,ROUTINE,A,triage_assessment,412,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,84
+413,413,20,103/75,80,15,36.8,98,9,Shortness of Breath,Peanuts,Metoprolol,ROUTINE,A,triage_assessment,413,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,75
+414,414,16,133/89,68,17,37.9,94,1,Fever,None,Aspirin,URGENT,A,triage_assessment,414,LOCAL_A,LOCAL_ZONE_UNKNOWN,133,89
+415,415,25,134/64,107,15,37.7,92,7,Dizziness,Peanuts,Lisinopril,ROUTINE,A,triage_assessment,415,LOCAL_A,LOCAL_ZONE_UNKNOWN,134,64
+416,416,,137/81,104,22,37.8,99,5,Fever,Sulfa drugs,Metformin,URGENT,A,triage_assessment,416,LOCAL_A,LOCAL_ZONE_UNKNOWN,137,81
+417,417,22,122/81,93,15,37.3,94,6,Fever,Peanuts,Atorvastatin,ROUTINE,A,triage_assessment,417,LOCAL_A,LOCAL_ZONE_UNKNOWN,122,81
+418,418,24,120/84,92,14,37.8,98,6,Abdominal Pain,Peanuts,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,418,LOCAL_A,LOCAL_ZONE_UNKNOWN,120,84
+419,419,18,111/77,73,22,36.3,93,3,Fever,Penicillin,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,419,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,77
+420,420,17,140/62,78,17,37.0,97,10,Chest Discomfort,Peanuts,Metoprolol,ROUTINE,A,triage_assessment,420,LOCAL_A,LOCAL_ZONE_UNKNOWN,140,62
+421,421,19,125/76,84,12,37.2,95,6,Abdominal Pain,None,None,STAT,A,triage_assessment,421,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,76
+422,422,21,114/64,85,13,36.7,97,10,Abdominal Pain,Penicillin,None,STAT,A,triage_assessment,422,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,64
+423,423,24,134/80,108,18,37.3,97,10,Chest Discomfort,Peanuts,None,ROUTINE,A,triage_assessment,423,LOCAL_A,LOCAL_ZONE_UNKNOWN,134,80
+424,424,25,101/77,100,18,36.9,100,8,Shortness of Breath,None,None,ROUTINE,A,triage_assessment,424,LOCAL_A,LOCAL_ZONE_UNKNOWN,101,77
+425,425,16,138/73,78,22,37.1,97,3,Abdominal Pain,Peanuts,Metformin,URGENT,A,triage_assessment,425,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,73
+426,426,20,106/65,108,12,37.5,98,6,Shortness of Breath,Sulfa drugs,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,426,LOCAL_A,LOCAL_ZONE_UNKNOWN,106,65
+428,428,20,135/87,75,21,38.0,99,6,Fever,Peanuts,Atorvastatin,URGENT,A,triage_assessment,428,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,87
+429,429,19,121/87,72,12,38.3,98,8,Shortness of Breath,None,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,429,LOCAL_A,LOCAL_ZONE_UNKNOWN,121,87
+430,430,21,136/62,69,19,36.6,98,4,Dizziness,None,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,430,LOCAL_A,LOCAL_ZONE_UNKNOWN,136,62
+431,431,21,135/60,90,15,37.6,92,8,Abdominal Pain,Sulfa drugs,Metformin,ROUTINE,A,triage_assessment,431,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,60
+432,432,18,125/74,63,22,36.7,96,5,Shortness of Breath,Penicillin,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,432,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,74
+434,434,22,132/90,104,15,38.0,96,7,Fever,Peanuts,Atorvastatin,URGENT,A,triage_assessment,434,LOCAL_A,LOCAL_ZONE_UNKNOWN,132,90
+435,435,16,106/62,92,12,37.4,98,10,Chest Discomfort,None,Aspirin,STAT,A,triage_assessment,435,LOCAL_A,LOCAL_ZONE_UNKNOWN,106,62
+436,436,24,109/74,101,16,38.0,94,10,Dizziness,None,Atorvastatin,STAT,A,triage_assessment,436,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,74
+437,437,25,102/90,96,16,37.4,92,6,Dizziness,Peanuts,Atorvastatin,URGENT,A,triage_assessment,437,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,90
+438,438,19,100/67,69,17,37.4,92,6,Abdominal Pain,None,Lisinopril,URGENT,A,triage_assessment,438,LOCAL_A,LOCAL_ZONE_UNKNOWN,100,67
+439,439,20,123/83,101,12,37.9,95,9,Chest Discomfort,Latex,Metformin,URGENT,A,triage_assessment,439,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,83
+440,440,17,115/61,81,20,36.4,92,2,Shortness of Breath,Peanuts,Atorvastatin,ROUTINE,A,triage_assessment,440,LOCAL_A,LOCAL_ZONE_UNKNOWN,115,61
+441,441,24,138/76,104,20,38.5,93,0,Chest Discomfort,Peanuts,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,441,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,76
+442,442,19,115/65,71,13,37.6,96,7,Dizziness,None,Atorvastatin,ROUTINE,A,triage_assessment,442,LOCAL_A,LOCAL_ZONE_UNKNOWN,115,65
+443,443,16,107/71,68,18,36.9,98,8,Fever,Sulfa drugs,Metformin,ROUTINE,A,triage_assessment,443,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,71
+444,444,18,140/61,106,15,37.8,92,5,Shortness of Breath,Penicillin,Metformin,ROUTINE,A,triage_assessment,444,LOCAL_A,LOCAL_ZONE_UNKNOWN,140,61
+445,445,25,134/75,109,16,36.1,96,1,Shortness of Breath,None,Atorvastatin,URGENT,A,triage_assessment,445,LOCAL_A,LOCAL_ZONE_UNKNOWN,134,75
+446,446,17,123/67,73,18,36.7,92,9,Chest Discomfort,None,None,URGENT,A,triage_assessment,446,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,67
+447,447,24,108/83,64,19,37.1,98,1,Shortness of Breath,None,None,STAT,A,triage_assessment,447,LOCAL_A,LOCAL_ZONE_UNKNOWN,108,83
+448,448,20,106/86,76,13,37.1,96,9,Fever,Latex,Metformin,URGENT,A,triage_assessment,448,LOCAL_A,LOCAL_ZONE_UNKNOWN,106,86
+449,449,24,103/66,93,19,37.3,100,6,Abdominal Pain,None,Lisinopril,ROUTINE,A,triage_assessment,449,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,66
+450,450,21,131/80,103,15,37.2,95,5,Dizziness,Penicillin,Metoprolol,URGENT,A,triage_assessment,450,LOCAL_A,LOCAL_ZONE_UNKNOWN,131,80
+451,451,24,125/85,85,22,36.8,94,7,Shortness of Breath,Penicillin,Metformin,STAT,A,triage_assessment,451,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,85
+452,452,20,111/64,78,18,38.4,96,7,Shortness of Breath,None,None,STAT,A,triage_assessment,452,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,64
+453,453,19,111/60,100,21,36.8,95,4,Chest Discomfort,Sulfa drugs,Lisinopril,ROUTINE,A,triage_assessment,453,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,60
+454,454,18,137/84,86,19,37.9,95,6,Dizziness,Latex,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,454,LOCAL_A,LOCAL_ZONE_UNKNOWN,137,84
+455,455,24,103/71,82,21,37.9,97,2,Dizziness,Latex,Atorvastatin,URGENT,A,triage_assessment,455,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,71
+456,456,19,137/63,107,20,38.0,95,10,Chest Discomfort,Latex,Metformin,STAT,A,triage_assessment,456,LOCAL_A,LOCAL_ZONE_UNKNOWN,137,63
+457,457,17,136/89,80,17,36.1,94,2,Chest Discomfort,Penicillin,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,457,LOCAL_A,LOCAL_ZONE_UNKNOWN,136,89
+459,459,16,102/66,82,15,36.4,96,4,Abdominal Pain,Penicillin,None,URGENT,A,triage_assessment,459,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,66
+460,460,25,140/61,95,13,37.1,95,9,Shortness of Breath,Penicillin,Metoprolol,STAT,A,triage_assessment,460,LOCAL_A,LOCAL_ZONE_UNKNOWN,140,61
+461,461,17,136/73,72,13,38.3,99,2,Shortness of Breath,Peanuts,Metformin,ROUTINE,A,triage_assessment,461,LOCAL_A,LOCAL_ZONE_UNKNOWN,136,73
+463,463,25,101/77,100,14,38.3,99,10,Abdominal Pain,Penicillin,Metformin,URGENT,A,triage_assessment,463,LOCAL_A,LOCAL_ZONE_UNKNOWN,101,77
+466,466,24,130/71,68,15,38.5,94,7,Dizziness,Sulfa drugs,Metoprolol,STAT,A,triage_assessment,466,LOCAL_A,LOCAL_ZONE_UNKNOWN,130,71
+467,467,24,112/74,75,15,36.4,99,10,Abdominal Pain,None,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,467,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,74
+468,468,16,114/78,99,18,37.1,96,2,Shortness of Breath,Latex,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,468,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,78
+469,469,24,109/60,81,22,37.2,99,7,Abdominal Pain,None,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,469,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,60
+470,470,20,130/79,65,18,36.5,94,0,Dizziness,Sulfa drugs,Metoprolol,ROUTINE,A,triage_assessment,470,LOCAL_A,LOCAL_ZONE_UNKNOWN,130,79
+471,471,19,111/85,102,15,36.2,100,10,Chest Discomfort,Peanuts,Metformin,STAT,A,triage_assessment,471,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,85
+472,472,24,112/75,89,21,36.9,97,7,Chest Discomfort,Peanuts,None,STAT,A,triage_assessment,472,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,75
+477,477,20,109/81,80,17,37.9,93,4,Abdominal Pain,Sulfa drugs,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,477,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,81
+478,478,20,131/80,66,18,38.5,92,9,Dizziness,None,None,ROUTINE,A,triage_assessment,478,LOCAL_A,LOCAL_ZONE_UNKNOWN,131,80
+480,480,18,109/60,99,12,37.3,100,3,Fever,Peanuts,Atorvastatin,ROUTINE,A,triage_assessment,480,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,60
+481,481,25,133/90,64,13,37.8,96,6,Chest Discomfort,Latex,Aspirin,STAT,A,triage_assessment,481,LOCAL_A,LOCAL_ZONE_UNKNOWN,133,90
+482,482,22,118/63,60,16,37.3,98,7,Dizziness,Sulfa drugs,Lisinopril,URGENT,A,triage_assessment,482,LOCAL_A,LOCAL_ZONE_UNKNOWN,118,63
+483,483,19,140/84,98,19,36.6,94,6,Abdominal Pain,Peanuts,None,URGENT,A,triage_assessment,483,LOCAL_A,LOCAL_ZONE_UNKNOWN,140,84
+484,484,21,119/74,90,22,38.1,92,4,Dizziness,Peanuts,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,484,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,74
+486,486,16,124/76,93,16,38.3,98,1,Abdominal Pain,Penicillin,Aspirin,URGENT,A,triage_assessment,486,LOCAL_A,LOCAL_ZONE_UNKNOWN,124,76
+487,487,22,102/86,108,18,38.4,96,2,Fever,Peanuts,Atorvastatin,ROUTINE,A,triage_assessment,487,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,86
+488,488,19,136/76,88,14,36.8,97,0,Shortness of Breath,Peanuts,Atorvastatin,STAT,A,triage_assessment,488,LOCAL_A,LOCAL_ZONE_UNKNOWN,136,76
+489,489,18,128/60,67,20,37.3,96,4,Dizziness,Penicillin,Aspirin,STAT,A,triage_assessment,489,LOCAL_A,LOCAL_ZONE_UNKNOWN,128,60
+490,490,22,126/82,90,16,36.5,97,1,Dizziness,Penicillin,Metoprolol,ROUTINE,A,triage_assessment,490,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,82
+491,491,24,126/80,98,20,36.0,92,2,Chest Discomfort,Sulfa drugs,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,491,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,80
+492,492,24,103/67,91,22,36.7,94,2,Chest Discomfort,Latex,Aspirin,URGENT,A,triage_assessment,492,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,67
+494,494,20,113/79,97,18,37.3,97,5,Dizziness,Peanuts,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,494,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,79
+495,495,21,117/85,93,12,36.6,94,6,Fever,None,Metformin,ROUTINE,A,triage_assessment,495,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,85
+496,496,18,125/61,107,19,38.4,100,2,Abdominal Pain,Peanuts,Atorvastatin,STAT,A,triage_assessment,496,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,61
+497,497,17,122/87,67,15,36.8,94,10,Abdominal Pain,Peanuts,None,URGENT,A,triage_assessment,497,LOCAL_A,LOCAL_ZONE_UNKNOWN,122,87
+499,499,19,119/76,100,13,36.3,93,8,Shortness of Breath,Latex,Metoprolol,ROUTINE,A,triage_assessment,499,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,76
+500,500,,137/67,91,12,38.5,92,0,Fever,Peanuts,None,STAT,A,triage_assessment,500,LOCAL_A,LOCAL_ZONE_UNKNOWN,137,67
+501,501,25,102/76,103,17,36.9,96,10,Dizziness,Penicillin,None,ROUTINE,A,triage_assessment,501,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,76
+502,502,21,110/87,85,22,37.1,100,9,Chest Discomfort,Penicillin,Metoprolol,ROUTINE,A,triage_assessment,502,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,87
+503,503,23,101/89,76,19,37.3,96,5,Chest Discomfort,None,Metoprolol,STAT,A,triage_assessment,503,LOCAL_A,LOCAL_ZONE_UNKNOWN,101,89
+504,504,16,117/61,72,13,38.3,98,7,Shortness of Breath,Peanuts,Aspirin,ROUTINE,A,triage_assessment,504,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,61
+505,505,22,126/85,91,21,37.7,95,10,Abdominal Pain,Peanuts,Lisinopril,ROUTINE,A,triage_assessment,505,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,85
+506,506,23,131/60,69,20,37.6,92,1,Fever,Penicillin,Metoprolol,STAT,A,triage_assessment,506,LOCAL_A,LOCAL_ZONE_UNKNOWN,131,60
+507,507,23,135/85,80,15,37.3,92,6,Dizziness,Sulfa drugs,Aspirin,STAT,A,triage_assessment,507,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,85
+508,508,23,129/79,109,22,37.9,100,3,Shortness of Breath,Penicillin,Atorvastatin,ROUTINE,A,triage_assessment,508,LOCAL_A,LOCAL_ZONE_UNKNOWN,129,79
+509,509,25,129/88,62,12,37.2,100,9,Chest Discomfort,None,Metformin,ROUTINE,A,triage_assessment,509,LOCAL_A,LOCAL_ZONE_UNKNOWN,129,88
+510,510,16,129/72,97,19,38.0,94,5,Abdominal Pain,Peanuts,None,STAT,A,triage_assessment,510,LOCAL_A,LOCAL_ZONE_UNKNOWN,129,72
+511,511,25,134/82,107,13,37.4,92,2,Fever,Penicillin,None,ROUTINE,A,triage_assessment,511,LOCAL_A,LOCAL_ZONE_UNKNOWN,134,82
+512,512,16,116/72,60,12,38.0,96,0,Fever,None,None,ROUTINE,A,triage_assessment,512,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,72
+513,513,21,114/69,70,21,37.7,92,10,Shortness of Breath,Sulfa drugs,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,513,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,69
+514,514,19,121/73,106,14,36.0,93,10,Chest Discomfort,None,Aspirin,URGENT,A,triage_assessment,514,LOCAL_A,LOCAL_ZONE_UNKNOWN,121,73
+515,515,,114/64,99,19,37.7,94,2,Fever,Latex,Lisinopril,STAT,A,triage_assessment,515,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,64
+516,516,25,135/64,90,14,38.0,98,4,Dizziness,Penicillin,Lisinopril,URGENT,A,triage_assessment,516,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,64
+517,517,16,119/65,98,22,38.3,99,4,Abdominal Pain,Sulfa drugs,Metoprolol,STAT,A,triage_assessment,517,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,65
+518,518,23,129/84,71,22,37.1,94,8,Abdominal Pain,Penicillin,Lisinopril,STAT,A,triage_assessment,518,LOCAL_A,LOCAL_ZONE_UNKNOWN,129,84
+519,519,22,129/63,67,16,37.2,94,6,Chest Discomfort,Peanuts,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,519,LOCAL_A,LOCAL_ZONE_UNKNOWN,129,63
+520,520,22,100/82,98,16,37.7,92,0,Fever,Sulfa drugs,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,520,LOCAL_A,LOCAL_ZONE_UNKNOWN,100,82
+521,521,18,139/78,62,18,36.3,99,9,Chest Discomfort,Sulfa drugs,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,521,LOCAL_A,LOCAL_ZONE_UNKNOWN,139,78
+522,522,17,113/80,89,13,37.5,92,5,Chest Discomfort,Latex,Aspirin,STAT,A,triage_assessment,522,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,80
+523,523,18,105/76,63,16,37.6,99,0,Dizziness,Peanuts,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,523,LOCAL_A,LOCAL_ZONE_UNKNOWN,105,76
+524,524,18,131/79,64,13,36.8,98,8,Abdominal Pain,None,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,524,LOCAL_A,LOCAL_ZONE_UNKNOWN,131,79
+525,525,18,111/75,71,13,37.9,99,7,Abdominal Pain,Latex,None,ROUTINE,A,triage_assessment,525,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,75
+526,526,19,123/73,103,19,37.8,100,3,Dizziness,Latex,Metformin,ROUTINE,A,triage_assessment,526,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,73
+527,527,23,108/76,64,14,36.3,95,0,Shortness of Breath,Penicillin,Lisinopril,ROUTINE,A,triage_assessment,527,LOCAL_A,LOCAL_ZONE_UNKNOWN,108,76
+528,528,22,107/75,75,13,36.1,97,2,Abdominal Pain,Peanuts,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,528,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,75
+529,529,19,100/86,103,20,36.9,100,6,Shortness of Breath,Latex,Metformin,URGENT,A,triage_assessment,529,LOCAL_A,LOCAL_ZONE_UNKNOWN,100,86
+530,530,24,107/86,74,22,38.0,99,9,Abdominal Pain,Peanuts,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,530,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,86
+531,531,19,134/88,88,18,38.1,92,3,Fever,Peanuts,None,STAT,A,triage_assessment,531,LOCAL_A,LOCAL_ZONE_UNKNOWN,134,88
+532,532,18,113/61,108,12,36.9,92,6,Dizziness,Sulfa drugs,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,532,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,61
+533,533,21,132/84,100,13,37.2,93,10,Dizziness,Latex,Lisinopril,ROUTINE,A,triage_assessment,533,LOCAL_A,LOCAL_ZONE_UNKNOWN,132,84
+535,535,23,123/63,70,13,37.5,95,6,Chest Discomfort,Sulfa drugs,None,ROUTINE,A,triage_assessment,535,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,63
+537,537,24,123/65,77,22,36.3,94,5,Fever,Peanuts,Aspirin,ROUTINE,A,triage_assessment,537,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,65
+538,538,18,102/78,73,21,37.8,92,10,Dizziness,Sulfa drugs,None,ROUTINE,A,triage_assessment,538,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,78
+540,540,17,117/71,101,20,37.5,93,3,Fever,Peanuts,Metformin,ROUTINE,A,triage_assessment,540,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,71
+542,542,18,129/64,87,21,36.2,92,0,Fever,Latex,Atorvastatin,STAT,A,triage_assessment,542,LOCAL_A,LOCAL_ZONE_UNKNOWN,129,64
+543,543,20,110/88,61,18,36.8,95,1,Fever,Latex,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,543,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,88
+544,544,24,137/61,92,19,36.7,98,0,Dizziness,Peanuts,Metformin,ROUTINE,A,triage_assessment,544,LOCAL_A,LOCAL_ZONE_UNKNOWN,137,61
+545,545,24,114/82,77,22,36.9,97,6,Abdominal Pain,Latex,Lisinopril,STAT,A,triage_assessment,545,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,82
+546,546,19,119/62,107,18,38.4,100,10,Dizziness,Peanuts,Metoprolol,URGENT,A,triage_assessment,546,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,62
+547,547,23,100/80,76,15,36.7,94,6,Shortness of Breath,Peanuts,Atorvastatin,STAT,A,triage_assessment,547,LOCAL_A,LOCAL_ZONE_UNKNOWN,100,80
+548,548,20,120/61,76,12,36.0,92,5,Fever,Latex,Metformin,ROUTINE,A,triage_assessment,548,LOCAL_A,LOCAL_ZONE_UNKNOWN,120,61
+549,549,20,118/76,66,22,36.9,100,4,Shortness of Breath,Peanuts,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,549,LOCAL_A,LOCAL_ZONE_UNKNOWN,118,76
+550,550,,135/76,95,17,36.5,99,7,Dizziness,Latex,Aspirin,URGENT,A,triage_assessment,550,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,76
+551,551,16,133/88,82,12,37.3,92,4,Fever,Peanuts,Lisinopril,STAT,A,triage_assessment,551,LOCAL_A,LOCAL_ZONE_UNKNOWN,133,88
+552,552,25,116/76,72,17,36.5,97,4,Shortness of Breath,None,Aspirin,ROUTINE,A,triage_assessment,552,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,76
+553,553,24,102/67,67,16,37.3,94,9,Dizziness,Latex,Metformin,STAT,A,triage_assessment,553,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,67
+555,555,17,125/64,82,18,37.9,92,5,Shortness of Breath,Latex,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,555,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,64
+556,556,17,140/76,95,13,36.7,92,7,Shortness of Breath,None,Metformin,ROUTINE,A,triage_assessment,556,LOCAL_A,LOCAL_ZONE_UNKNOWN,140,76
+557,557,16,109/80,89,22,37.0,92,5,Dizziness,Sulfa drugs,Lisinopril,URGENT,A,triage_assessment,557,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,80
+558,558,21,113/83,101,18,38.1,96,5,Abdominal Pain,Sulfa drugs,Metformin,STAT,A,triage_assessment,558,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,83
+559,559,23,137/63,68,22,37.2,97,3,Chest Discomfort,Sulfa drugs,Metoprolol,STAT,A,triage_assessment,559,LOCAL_A,LOCAL_ZONE_UNKNOWN,137,63
+560,560,20,102/80,75,13,38.1,99,8,Abdominal Pain,Sulfa drugs,Metformin,ROUTINE,A,triage_assessment,560,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,80
+562,562,16,128/60,74,13,36.6,100,10,Chest Discomfort,Latex,Aspirin,URGENT,A,triage_assessment,562,LOCAL_A,LOCAL_ZONE_UNKNOWN,128,60
+563,563,16,113/66,93,14,38.4,96,1,Fever,None,Atorvastatin,URGENT,A,triage_assessment,563,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,66
+564,564,19,103/80,98,21,36.2,92,10,Chest Discomfort,Latex,Atorvastatin,URGENT,A,triage_assessment,564,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,80
+566,566,16,107/82,108,12,37.9,100,1,Fever,Penicillin,Aspirin,URGENT,A,triage_assessment,566,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,82
+567,567,21,121/71,107,18,36.5,93,2,Shortness of Breath,Sulfa drugs,Atorvastatin,URGENT,A,triage_assessment,567,LOCAL_A,LOCAL_ZONE_UNKNOWN,121,71
+568,568,21,100/68,87,15,37.5,98,5,Dizziness,Latex,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,568,LOCAL_A,LOCAL_ZONE_UNKNOWN,100,68
+569,569,23,122/61,108,16,37.6,99,6,Chest Discomfort,Penicillin,Metformin,ROUTINE,A,triage_assessment,569,LOCAL_A,LOCAL_ZONE_UNKNOWN,122,61
+570,570,22,137/83,92,17,36.2,97,8,Chest Discomfort,Peanuts,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,570,LOCAL_A,LOCAL_ZONE_UNKNOWN,137,83
+571,571,25,136/69,109,22,36.7,94,6,Dizziness,Peanuts,Metoprolol,URGENT,A,triage_assessment,571,LOCAL_A,LOCAL_ZONE_UNKNOWN,136,69
+572,572,,104/65,110,21,36.6,100,3,Chest Discomfort,Sulfa drugs,None,URGENT,A,triage_assessment,572,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,65
+573,573,20,134/72,98,22,38.3,98,2,Abdominal Pain,Sulfa drugs,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,573,LOCAL_A,LOCAL_ZONE_UNKNOWN,134,72
+575,575,23,115/64,90,17,38.2,100,1,Shortness of Breath,Latex,Metoprolol,ROUTINE,A,triage_assessment,575,LOCAL_A,LOCAL_ZONE_UNKNOWN,115,64
+576,576,19,140/88,103,12,38.4,94,10,Shortness of Breath,None,None,URGENT,A,triage_assessment,576,LOCAL_A,LOCAL_ZONE_UNKNOWN,140,88
+577,577,24,139/69,84,20,37.3,93,1,Shortness of Breath,Penicillin,Lisinopril,ROUTINE,A,triage_assessment,577,LOCAL_A,LOCAL_ZONE_UNKNOWN,139,69
+578,578,21,109/75,67,13,36.6,98,2,Dizziness,Penicillin,Aspirin,ROUTINE,A,triage_assessment,578,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,75
+579,579,25,117/68,91,15,37.2,93,4,Shortness of Breath,Penicillin,Atorvastatin,URGENT,A,triage_assessment,579,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,68
+580,580,22,137/88,75,22,36.1,97,3,Shortness of Breath,Sulfa drugs,Atorvastatin,STAT,A,triage_assessment,580,LOCAL_A,LOCAL_ZONE_UNKNOWN,137,88
+581,581,24,112/69,79,18,37.8,92,3,Chest Discomfort,Penicillin,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,581,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,69
+582,582,16,108/89,99,16,37.2,92,3,Shortness of Breath,Peanuts,Aspirin,URGENT,A,triage_assessment,582,LOCAL_A,LOCAL_ZONE_UNKNOWN,108,89
+583,583,16,116/64,78,16,37.9,94,4,Dizziness,Sulfa drugs,Metoprolol,STAT,A,triage_assessment,583,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,64
+584,584,22,100/79,96,15,36.9,94,5,Shortness of Breath,Latex,None,URGENT,A,triage_assessment,584,LOCAL_A,LOCAL_ZONE_UNKNOWN,100,79
+585,585,16,133/82,88,14,37.6,95,10,Chest Discomfort,Penicillin,Metformin,STAT,A,triage_assessment,585,LOCAL_A,LOCAL_ZONE_UNKNOWN,133,82
+586,586,20,131/72,73,18,36.4,93,5,Fever,None,None,STAT,A,triage_assessment,586,LOCAL_A,LOCAL_ZONE_UNKNOWN,131,72
+587,587,17,115/77,97,17,38.1,100,5,Abdominal Pain,Peanuts,Atorvastatin,ROUTINE,A,triage_assessment,587,LOCAL_A,LOCAL_ZONE_UNKNOWN,115,77
+588,588,20,101/63,79,13,36.5,99,4,Dizziness,Penicillin,Metformin,ROUTINE,A,triage_assessment,588,LOCAL_A,LOCAL_ZONE_UNKNOWN,101,63
+589,589,19,104/63,100,12,37.1,95,10,Shortness of Breath,Sulfa drugs,Metoprolol,URGENT,A,triage_assessment,589,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,63
+590,590,16,113/80,101,18,37.7,96,9,Shortness of Breath,Penicillin,Atorvastatin,URGENT,A,triage_assessment,590,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,80
+591,591,23,138/77,87,17,36.1,93,6,Shortness of Breath,Latex,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,591,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,77
+592,592,,113/67,71,15,36.7,94,10,Chest Discomfort,None,Lisinopril,STAT,A,triage_assessment,592,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,67
+593,593,21,105/72,96,19,36.2,98,4,Fever,Penicillin,Aspirin,ROUTINE,A,triage_assessment,593,LOCAL_A,LOCAL_ZONE_UNKNOWN,105,72
+594,594,17,121/76,90,19,37.2,98,10,Dizziness,None,Aspirin,STAT,A,triage_assessment,594,LOCAL_A,LOCAL_ZONE_UNKNOWN,121,76
+596,596,22,135/60,65,12,36.9,100,9,Chest Discomfort,Penicillin,Metformin,ROUTINE,A,triage_assessment,596,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,60
+597,597,24,100/88,110,15,36.8,99,3,Chest Discomfort,Peanuts,Aspirin,STAT,A,triage_assessment,597,LOCAL_A,LOCAL_ZONE_UNKNOWN,100,88
+598,598,21,135/81,103,13,36.8,94,0,Shortness of Breath,Latex,Aspirin,STAT,A,triage_assessment,598,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,81
+599,599,25,109/74,68,20,37.5,100,5,Abdominal Pain,Sulfa drugs,None,URGENT,A,triage_assessment,599,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,74
+600,600,23,124/62,85,13,36.0,99,3,Shortness of Breath,Peanuts,Metformin,STAT,A,triage_assessment,600,LOCAL_A,LOCAL_ZONE_UNKNOWN,124,62
+601,601,25,112/68,109,14,36.9,93,5,Dizziness,Latex,Aspirin,URGENT,A,triage_assessment,601,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,68
+602,602,22,101/87,79,16,37.0,96,8,Abdominal Pain,Sulfa drugs,Aspirin,STAT,A,triage_assessment,602,LOCAL_A,LOCAL_ZONE_UNKNOWN,101,87
+603,603,16,122/86,78,19,37.3,99,1,Fever,Sulfa drugs,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,603,LOCAL_A,LOCAL_ZONE_UNKNOWN,122,86
+604,604,22,119/81,90,21,37.4,96,3,Shortness of Breath,Penicillin,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,604,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,81
+605,605,19,109/72,62,17,36.8,96,2,Fever,Peanuts,Metoprolol,URGENT,A,triage_assessment,605,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,72
+606,606,19,137/81,109,13,37.0,93,4,Abdominal Pain,Latex,Lisinopril,STAT,A,triage_assessment,606,LOCAL_A,LOCAL_ZONE_UNKNOWN,137,81
+607,607,19,111/78,60,18,37.1,93,4,Abdominal Pain,Latex,None,ROUTINE,A,triage_assessment,607,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,78
+608,608,18,108/86,100,12,36.9,98,4,Shortness of Breath,None,Atorvastatin,STAT,A,triage_assessment,608,LOCAL_A,LOCAL_ZONE_UNKNOWN,108,86
+609,609,16,107/75,88,17,37.6,96,9,Chest Discomfort,None,Lisinopril,ROUTINE,A,triage_assessment,609,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,75
+610,610,25,125/84,73,14,36.7,98,1,Chest Discomfort,None,Metoprolol,STAT,A,triage_assessment,610,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,84
+611,611,22,100/88,94,19,38.1,100,2,Abdominal Pain,Peanuts,Atorvastatin,ROUTINE,A,triage_assessment,611,LOCAL_A,LOCAL_ZONE_UNKNOWN,100,88
+612,612,16,134/69,102,16,38.1,92,5,Abdominal Pain,Latex,Metformin,STAT,A,triage_assessment,612,LOCAL_A,LOCAL_ZONE_UNKNOWN,134,69
+613,613,25,117/70,77,21,37.5,94,10,Chest Discomfort,Latex,None,ROUTINE,A,triage_assessment,613,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,70
+615,615,19,105/67,80,18,37.0,100,5,Dizziness,Latex,Metoprolol,ROUTINE,A,triage_assessment,615,LOCAL_A,LOCAL_ZONE_UNKNOWN,105,67
+616,616,21,121/66,79,16,37.2,92,10,Dizziness,Sulfa drugs,Aspirin,STAT,A,triage_assessment,616,LOCAL_A,LOCAL_ZONE_UNKNOWN,121,66
+617,617,19,113/68,106,20,38.5,93,9,Chest Discomfort,Sulfa drugs,None,STAT,A,triage_assessment,617,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,68
+618,618,22,123/83,99,18,36.8,94,4,Dizziness,Peanuts,Metoprolol,ROUTINE,A,triage_assessment,618,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,83
+619,619,16,134/88,70,19,37.7,92,0,Abdominal Pain,Peanuts,Lisinopril,STAT,A,triage_assessment,619,LOCAL_A,LOCAL_ZONE_UNKNOWN,134,88
+620,620,24,102/62,71,19,37.5,95,10,Fever,Peanuts,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,620,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,62
+621,621,24,116/75,72,18,38.2,93,9,Fever,None,Metoprolol,STAT,A,triage_assessment,621,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,75
+623,623,21,116/76,82,16,37.2,98,3,Shortness of Breath,Peanuts,Lisinopril,STAT,A,triage_assessment,623,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,76
+624,624,20,127/79,100,20,37.3,96,4,Chest Discomfort,Latex,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,624,LOCAL_A,LOCAL_ZONE_UNKNOWN,127,79
+625,625,25,123/81,109,15,38.1,94,9,Chest Discomfort,Sulfa drugs,Aspirin,ROUTINE,A,triage_assessment,625,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,81
+626,626,19,108/68,94,17,36.1,93,6,Abdominal Pain,None,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,626,LOCAL_A,LOCAL_ZONE_UNKNOWN,108,68
+627,627,24,131/83,78,18,37.2,99,4,Abdominal Pain,Peanuts,Aspirin,URGENT,A,triage_assessment,627,LOCAL_A,LOCAL_ZONE_UNKNOWN,131,83
+628,628,16,120/72,104,14,37.8,98,2,Shortness of Breath,None,Lisinopril,ROUTINE,A,triage_assessment,628,LOCAL_A,LOCAL_ZONE_UNKNOWN,120,72
+629,629,18,105/79,70,12,36.8,92,9,Chest Discomfort,None,Aspirin,STAT,A,triage_assessment,629,LOCAL_A,LOCAL_ZONE_UNKNOWN,105,79
+631,631,23,120/87,76,20,38.3,100,5,Shortness of Breath,Penicillin,Metformin,URGENT,A,triage_assessment,631,LOCAL_A,LOCAL_ZONE_UNKNOWN,120,87
+632,632,16,118/83,93,21,38.5,94,9,Fever,Latex,Metoprolol,ROUTINE,A,triage_assessment,632,LOCAL_A,LOCAL_ZONE_UNKNOWN,118,83
+633,633,17,118/71,77,14,37.8,98,9,Shortness of Breath,None,Aspirin,STAT,A,triage_assessment,633,LOCAL_A,LOCAL_ZONE_UNKNOWN,118,71
+634,634,21,133/72,81,21,37.1,98,8,Fever,Latex,Aspirin,ROUTINE,A,triage_assessment,634,LOCAL_A,LOCAL_ZONE_UNKNOWN,133,72
+636,636,18,128/90,99,22,36.3,92,10,Abdominal Pain,Latex,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,636,LOCAL_A,LOCAL_ZONE_UNKNOWN,128,90
+637,637,22,116/67,109,18,37.0,99,6,Fever,Peanuts,Atorvastatin,ROUTINE,A,triage_assessment,637,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,67
+638,638,20,139/69,91,19,37.1,93,10,Chest Discomfort,None,Aspirin,ROUTINE,A,triage_assessment,638,LOCAL_A,LOCAL_ZONE_UNKNOWN,139,69
+639,639,18,130/86,72,20,36.1,99,4,Fever,Sulfa drugs,None,URGENT,A,triage_assessment,639,LOCAL_A,LOCAL_ZONE_UNKNOWN,130,86
+640,640,21,136/64,90,19,36.7,98,7,Abdominal Pain,Penicillin,Atorvastatin,STAT,A,triage_assessment,640,LOCAL_A,LOCAL_ZONE_UNKNOWN,136,64
+642,642,23,119/61,92,19,36.2,93,3,Dizziness,Penicillin,Metformin,STAT,A,triage_assessment,642,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,61
+643,643,19,111/64,86,17,37.3,93,1,Abdominal Pain,Peanuts,None,URGENT,A,triage_assessment,643,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,64
+644,644,16,120/71,109,21,36.3,95,0,Shortness of Breath,Peanuts,Aspirin,STAT,A,triage_assessment,644,LOCAL_A,LOCAL_ZONE_UNKNOWN,120,71
+645,645,20,111/70,60,12,38.2,99,8,Abdominal Pain,None,None,STAT,A,triage_assessment,645,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,70
+646,646,24,124/65,77,12,37.5,96,5,Shortness of Breath,Latex,Aspirin,STAT,A,triage_assessment,646,LOCAL_A,LOCAL_ZONE_UNKNOWN,124,65
+647,647,25,110/67,80,14,38.1,93,9,Shortness of Breath,None,Lisinopril,URGENT,A,triage_assessment,647,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,67
+648,648,19,102/75,82,14,37.3,97,3,Abdominal Pain,Penicillin,Atorvastatin,URGENT,A,triage_assessment,648,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,75
+649,649,22,126/73,81,15,36.4,92,7,Fever,Penicillin,Aspirin,ROUTINE,A,triage_assessment,649,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,73
+650,650,20,138/73,63,16,37.6,96,4,Shortness of Breath,Latex,Metformin,STAT,A,triage_assessment,650,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,73
+651,651,20,120/76,60,14,36.8,95,9,Dizziness,Sulfa drugs,Lisinopril,STAT,A,triage_assessment,651,LOCAL_A,LOCAL_ZONE_UNKNOWN,120,76
+652,652,21,107/73,88,16,37.5,98,10,Chest Discomfort,Latex,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,652,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,73
+653,653,20,104/90,97,18,36.3,93,2,Shortness of Breath,Peanuts,Aspirin,ROUTINE,A,triage_assessment,653,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,90
+654,654,21,112/72,69,21,36.8,96,10,Fever,None,Metformin,URGENT,A,triage_assessment,654,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,72
+655,655,18,119/81,80,13,36.6,96,8,Shortness of Breath,Latex,None,ROUTINE,A,triage_assessment,655,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,81
+656,656,24,139/89,78,12,38.0,93,9,Shortness of Breath,Penicillin,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,656,LOCAL_A,LOCAL_ZONE_UNKNOWN,139,89
+657,657,20,106/82,71,15,38.3,93,5,Chest Discomfort,Peanuts,Lisinopril,URGENT,A,triage_assessment,657,LOCAL_A,LOCAL_ZONE_UNKNOWN,106,82
+659,659,16,122/78,98,13,37.1,98,9,Dizziness,Peanuts,Atorvastatin,STAT,A,triage_assessment,659,LOCAL_A,LOCAL_ZONE_UNKNOWN,122,78
+660,660,23,113/89,85,13,38.1,98,3,Fever,Penicillin,Atorvastatin,URGENT,A,triage_assessment,660,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,89
+662,662,24,135/66,103,21,37.6,94,0,Chest Discomfort,Peanuts,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,662,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,66
+663,663,21,139/71,91,17,36.5,99,8,Chest Discomfort,Sulfa drugs,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,663,LOCAL_A,LOCAL_ZONE_UNKNOWN,139,71
+664,664,16,113/85,100,14,36.4,93,6,Dizziness,Penicillin,Metoprolol,URGENT,A,triage_assessment,664,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,85
+665,665,20,104/85,85,21,36.0,95,7,Shortness of Breath,Peanuts,Metformin,STAT,A,triage_assessment,665,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,85
+666,666,23,118/82,109,15,37.1,93,10,Dizziness,None,Lisinopril,URGENT,A,triage_assessment,666,LOCAL_A,LOCAL_ZONE_UNKNOWN,118,82
+667,667,22,109/80,65,18,36.3,92,2,Chest Discomfort,Penicillin,Aspirin,URGENT,A,triage_assessment,667,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,80
+668,668,19,126/74,102,20,36.9,99,2,Dizziness,None,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,668,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,74
+669,669,25,117/69,98,16,36.3,93,4,Chest Discomfort,Peanuts,None,ROUTINE,A,triage_assessment,669,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,69
+670,670,22,126/80,101,13,37.0,94,4,Chest Discomfort,None,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,670,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,80
+671,671,22,112/74,63,16,37.7,92,1,Shortness of Breath,Sulfa drugs,Metformin,ROUTINE,A,triage_assessment,671,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,74
+672,672,25,137/83,106,16,36.6,100,9,Chest Discomfort,None,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,672,LOCAL_A,LOCAL_ZONE_UNKNOWN,137,83
+673,673,19,138/61,98,13,36.3,93,0,Abdominal Pain,None,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,673,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,61
+674,674,21,121/77,80,12,37.1,96,5,Dizziness,Penicillin,Lisinopril,URGENT,A,triage_assessment,674,LOCAL_A,LOCAL_ZONE_UNKNOWN,121,77
+675,675,21,126/63,62,12,36.9,100,9,Abdominal Pain,Penicillin,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,675,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,63
+676,676,24,122/61,106,13,36.6,94,6,Dizziness,None,Aspirin,ROUTINE,A,triage_assessment,676,LOCAL_A,LOCAL_ZONE_UNKNOWN,122,61
+677,677,20,112/60,66,14,38.5,95,7,Fever,Peanuts,Lisinopril,STAT,A,triage_assessment,677,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,60
+679,679,25,100/76,84,14,36.4,99,8,Dizziness,None,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,679,LOCAL_A,LOCAL_ZONE_UNKNOWN,100,76
+680,680,19,135/87,90,17,36.4,98,7,Fever,None,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,680,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,87
+681,681,22,124/75,99,13,38.0,96,8,Shortness of Breath,Peanuts,None,URGENT,A,triage_assessment,681,LOCAL_A,LOCAL_ZONE_UNKNOWN,124,75
+682,682,21,108/64,106,18,37.9,99,1,Fever,Peanuts,None,URGENT,A,triage_assessment,682,LOCAL_A,LOCAL_ZONE_UNKNOWN,108,64
+684,684,25,116/79,98,15,37.2,95,4,Fever,Penicillin,Metformin,STAT,A,triage_assessment,684,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,79
+685,685,18,113/71,103,15,37.1,92,2,Chest Discomfort,None,Atorvastatin,URGENT,A,triage_assessment,685,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,71
+686,686,18,135/81,100,17,37.6,96,5,Chest Discomfort,Sulfa drugs,Atorvastatin,STAT,A,triage_assessment,686,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,81
+687,687,18,109/85,70,12,36.8,94,2,Chest Discomfort,Latex,Aspirin,URGENT,A,triage_assessment,687,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,85
+689,689,24,103/78,96,21,37.1,99,1,Dizziness,None,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,689,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,78
+691,691,19,135/67,88,17,36.7,94,7,Chest Discomfort,Peanuts,Aspirin,URGENT,A,triage_assessment,691,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,67
+692,692,22,133/74,68,16,36.0,99,2,Dizziness,Penicillin,Metoprolol,ROUTINE,A,triage_assessment,692,LOCAL_A,LOCAL_ZONE_UNKNOWN,133,74
+693,693,22,126/64,107,16,36.5,93,5,Fever,Penicillin,Metformin,ROUTINE,A,triage_assessment,693,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,64
+694,694,16,129/86,70,15,36.7,93,2,Fever,Peanuts,Metformin,URGENT,A,triage_assessment,694,LOCAL_A,LOCAL_ZONE_UNKNOWN,129,86
+695,695,21,138/81,84,22,37.5,97,2,Abdominal Pain,None,None,STAT,A,triage_assessment,695,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,81
+696,696,21,102/71,67,16,38.0,95,9,Abdominal Pain,Sulfa drugs,Metformin,STAT,A,triage_assessment,696,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,71
+697,697,22,107/87,94,19,36.8,94,5,Abdominal Pain,Latex,Atorvastatin,URGENT,A,triage_assessment,697,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,87
+698,698,16,110/67,84,16,37.9,96,8,Dizziness,Penicillin,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,698,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,67
+699,699,22,103/71,106,20,37.4,92,6,Chest Discomfort,Penicillin,Lisinopril,STAT,A,triage_assessment,699,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,71
+700,700,21,111/85,105,18,38.4,93,10,Shortness of Breath,None,Atorvastatin,STAT,A,triage_assessment,700,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,85
+702,702,16,125/83,65,12,38.3,97,7,Dizziness,Penicillin,Atorvastatin,ROUTINE,A,triage_assessment,702,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,83
+704,704,16,134/67,66,14,36.3,99,0,Dizziness,None,Metformin,STAT,A,triage_assessment,704,LOCAL_A,LOCAL_ZONE_UNKNOWN,134,67
+705,705,25,114/71,67,20,36.7,99,5,Fever,Penicillin,None,ROUTINE,A,triage_assessment,705,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,71
+707,707,16,126/61,104,21,37.7,97,1,Shortness of Breath,None,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,707,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,61
+709,709,21,131/84,78,12,37.0,99,5,Dizziness,Penicillin,Metformin,STAT,A,triage_assessment,709,LOCAL_A,LOCAL_ZONE_UNKNOWN,131,84
+710,710,20,112/78,93,13,38.0,100,7,Shortness of Breath,Sulfa drugs,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,710,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,78
+712,712,25,116/86,108,17,38.3,92,5,Shortness of Breath,Latex,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,712,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,86
+713,713,24,133/60,90,17,38.2,93,6,Abdominal Pain,Sulfa drugs,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,713,LOCAL_A,LOCAL_ZONE_UNKNOWN,133,60
+714,714,23,132/87,97,20,36.5,93,5,Shortness of Breath,Latex,Aspirin,STAT,A,triage_assessment,714,LOCAL_A,LOCAL_ZONE_UNKNOWN,132,87
+715,715,24,107/71,65,15,36.5,92,10,Chest Discomfort,Sulfa drugs,None,ROUTINE,A,triage_assessment,715,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,71
+716,716,20,139/76,70,20,37.2,100,5,Dizziness,Peanuts,None,URGENT,A,triage_assessment,716,LOCAL_A,LOCAL_ZONE_UNKNOWN,139,76
+717,717,25,112/74,86,15,38.4,95,7,Chest Discomfort,Penicillin,Metoprolol,URGENT,A,triage_assessment,717,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,74
+718,718,19,116/85,97,13,37.3,97,6,Abdominal Pain,Latex,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,718,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,85
+719,719,19,125/78,80,21,36.3,94,6,Abdominal Pain,Sulfa drugs,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,719,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,78
+720,720,19,122/73,80,22,36.0,94,3,Abdominal Pain,Peanuts,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,720,LOCAL_A,LOCAL_ZONE_UNKNOWN,122,73
+721,721,22,123/86,96,21,36.8,99,6,Dizziness,Sulfa drugs,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,721,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,86
+722,722,17,113/72,83,18,37.8,95,10,Shortness of Breath,Latex,Metoprolol,ROUTINE,A,triage_assessment,722,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,72
+723,723,17,123/63,95,16,38.3,93,7,Shortness of Breath,Penicillin,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,723,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,63
+724,724,17,106/66,108,20,37.3,92,4,Abdominal Pain,Latex,None,URGENT,A,triage_assessment,724,LOCAL_A,LOCAL_ZONE_UNKNOWN,106,66
+725,725,21,103/70,106,17,36.7,98,0,Abdominal Pain,Latex,Metoprolol,URGENT,A,triage_assessment,725,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,70
+726,726,16,134/66,70,22,37.8,95,2,Dizziness,Penicillin,Lisinopril,ROUTINE,A,triage_assessment,726,LOCAL_A,LOCAL_ZONE_UNKNOWN,134,66
+727,727,24,133/61,71,13,38.2,95,9,Abdominal Pain,Sulfa drugs,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,727,LOCAL_A,LOCAL_ZONE_UNKNOWN,133,61
+728,728,22,107/86,110,15,36.1,95,3,Fever,Sulfa drugs,Lisinopril,ROUTINE,A,triage_assessment,728,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,86
+729,729,17,114/90,94,20,36.5,93,2,Shortness of Breath,Sulfa drugs,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,729,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,90
+730,730,23,138/78,97,19,38.5,98,9,Dizziness,Sulfa drugs,Lisinopril,URGENT,A,triage_assessment,730,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,78
+731,731,20,104/66,107,22,38.4,99,8,Shortness of Breath,Latex,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,731,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,66
+733,733,21,101/84,66,12,36.8,97,8,Fever,None,Lisinopril,STAT,A,triage_assessment,733,LOCAL_A,LOCAL_ZONE_UNKNOWN,101,84
+734,734,24,111/82,64,17,36.5,98,1,Dizziness,Penicillin,Aspirin,URGENT,A,triage_assessment,734,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,82
+735,735,25,122/76,100,20,37.0,98,0,Fever,Sulfa drugs,Aspirin,URGENT,A,triage_assessment,735,LOCAL_A,LOCAL_ZONE_UNKNOWN,122,76
+736,736,25,135/87,67,20,37.8,94,5,Chest Discomfort,Peanuts,Lisinopril,URGENT,A,triage_assessment,736,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,87
+738,738,21,120/69,88,20,36.3,99,5,Chest Discomfort,None,Metformin,ROUTINE,A,triage_assessment,738,LOCAL_A,LOCAL_ZONE_UNKNOWN,120,69
+739,739,22,102/66,110,22,37.7,96,10,Shortness of Breath,None,Lisinopril,ROUTINE,A,triage_assessment,739,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,66
+740,740,21,100/83,82,14,36.8,100,2,Dizziness,Peanuts,Metformin,STAT,A,triage_assessment,740,LOCAL_A,LOCAL_ZONE_UNKNOWN,100,83
+741,741,19,139/65,63,15,36.8,98,9,Fever,Latex,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,741,LOCAL_A,LOCAL_ZONE_UNKNOWN,139,65
+742,742,,138/71,84,20,36.2,94,7,Abdominal Pain,Penicillin,Atorvastatin,STAT,A,triage_assessment,742,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,71
+743,743,16,128/63,72,17,38.3,92,4,Shortness of Breath,Penicillin,Lisinopril,URGENT,A,triage_assessment,743,LOCAL_A,LOCAL_ZONE_UNKNOWN,128,63
+744,744,17,117/62,91,14,37.1,98,1,Shortness of Breath,Latex,Atorvastatin,STAT,A,triage_assessment,744,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,62
+746,746,23,113/66,81,18,36.2,94,3,Chest Discomfort,Sulfa drugs,Atorvastatin,URGENT,A,triage_assessment,746,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,66
+749,749,,107/65,68,21,37.9,95,8,Fever,Peanuts,Metoprolol,ROUTINE,A,triage_assessment,749,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,65
+751,751,18,101/77,70,14,37.9,92,7,Shortness of Breath,None,Aspirin,STAT,A,triage_assessment,751,LOCAL_A,LOCAL_ZONE_UNKNOWN,101,77
+752,752,,138/88,65,21,36.6,93,5,Abdominal Pain,Penicillin,Metformin,ROUTINE,A,triage_assessment,752,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,88
+753,753,17,110/70,108,12,37.4,94,3,Abdominal Pain,Sulfa drugs,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,753,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,70
+754,754,17,131/82,109,16,36.1,97,5,Dizziness,Penicillin,Metformin,ROUTINE,A,triage_assessment,754,LOCAL_A,LOCAL_ZONE_UNKNOWN,131,82
+755,755,17,123/81,97,19,37.3,95,4,Shortness of Breath,Penicillin,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,755,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,81
+756,756,24,105/89,61,19,38.0,97,2,Shortness of Breath,Peanuts,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,756,LOCAL_A,LOCAL_ZONE_UNKNOWN,105,89
+757,757,16,139/89,105,16,36.1,98,4,Abdominal Pain,Penicillin,None,URGENT,A,triage_assessment,757,LOCAL_A,LOCAL_ZONE_UNKNOWN,139,89
+758,758,23,138/63,85,20,38.4,93,8,Abdominal Pain,Penicillin,Aspirin,URGENT,A,triage_assessment,758,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,63
+759,759,25,138/67,66,13,37.0,98,6,Chest Discomfort,Peanuts,Atorvastatin,URGENT,A,triage_assessment,759,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,67
+760,760,21,103/70,78,21,38.0,97,10,Shortness of Breath,Latex,None,URGENT,A,triage_assessment,760,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,70
+761,761,24,107/75,71,19,36.5,95,10,Shortness of Breath,Penicillin,None,URGENT,A,triage_assessment,761,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,75
+762,762,19,114/71,65,19,38.4,92,5,Shortness of Breath,Latex,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,762,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,71
+763,763,25,133/70,103,20,37.8,95,3,Chest Discomfort,Peanuts,Metoprolol,STAT,A,triage_assessment,763,LOCAL_A,LOCAL_ZONE_UNKNOWN,133,70
+764,764,17,104/69,62,19,37.3,92,7,Chest Discomfort,Peanuts,Lisinopril,URGENT,A,triage_assessment,764,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,69
+765,765,21,106/65,99,12,38.4,92,5,Dizziness,Sulfa drugs,Atorvastatin,URGENT,A,triage_assessment,765,LOCAL_A,LOCAL_ZONE_UNKNOWN,106,65
+767,767,21,135/68,101,13,37.2,96,5,Chest Discomfort,Peanuts,Metoprolol,ROUTINE,A,triage_assessment,767,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,68
+768,768,23,124/67,85,13,37.8,98,8,Chest Discomfort,Peanuts,None,STAT,A,triage_assessment,768,LOCAL_A,LOCAL_ZONE_UNKNOWN,124,67
+769,769,19,135/75,86,15,36.6,96,10,Shortness of Breath,Peanuts,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,769,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,75
+770,770,16,124/80,102,12,37.0,93,9,Dizziness,None,Metformin,URGENT,A,triage_assessment,770,LOCAL_A,LOCAL_ZONE_UNKNOWN,124,80
+771,771,24,106/76,73,15,36.8,92,8,Chest Discomfort,Penicillin,Metoprolol,ROUTINE,A,triage_assessment,771,LOCAL_A,LOCAL_ZONE_UNKNOWN,106,76
+772,772,25,137/69,67,20,36.2,95,8,Chest Discomfort,Latex,Lisinopril,STAT,A,triage_assessment,772,LOCAL_A,LOCAL_ZONE_UNKNOWN,137,69
+773,773,24,118/88,89,20,38.4,93,6,Chest Discomfort,Latex,Aspirin,ROUTINE,A,triage_assessment,773,LOCAL_A,LOCAL_ZONE_UNKNOWN,118,88
+774,774,19,129/65,77,21,37.2,93,0,Dizziness,Sulfa drugs,None,STAT,A,triage_assessment,774,LOCAL_A,LOCAL_ZONE_UNKNOWN,129,65
+775,775,21,131/78,86,12,37.7,92,2,Chest Discomfort,Sulfa drugs,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,775,LOCAL_A,LOCAL_ZONE_UNKNOWN,131,78
+776,776,23,104/72,64,13,36.9,92,6,Shortness of Breath,Penicillin,Metoprolol,STAT,A,triage_assessment,776,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,72
+777,777,24,140/87,60,19,37.9,100,0,Abdominal Pain,Penicillin,Atorvastatin,ROUTINE,A,triage_assessment,777,LOCAL_A,LOCAL_ZONE_UNKNOWN,140,87
+778,778,23,110/75,65,21,36.6,98,6,Dizziness,Peanuts,Aspirin,URGENT,A,triage_assessment,778,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,75
+779,779,19,108/64,83,20,38.5,100,6,Dizziness,None,Metformin,ROUTINE,A,triage_assessment,779,LOCAL_A,LOCAL_ZONE_UNKNOWN,108,64
+780,780,23,107/60,73,20,36.4,96,3,Fever,Latex,None,STAT,A,triage_assessment,780,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,60
+781,781,22,103/82,80,21,36.1,98,2,Shortness of Breath,Sulfa drugs,Metoprolol,URGENT,A,triage_assessment,781,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,82
+782,782,21,111/90,76,16,38.0,94,2,Chest Discomfort,Penicillin,None,URGENT,A,triage_assessment,782,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,90
+783,783,16,111/87,72,16,38.2,93,3,Dizziness,Latex,Atorvastatin,STAT,A,triage_assessment,783,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,87
+784,784,23,105/83,94,21,37.0,100,7,Fever,Peanuts,Metformin,STAT,A,triage_assessment,784,LOCAL_A,LOCAL_ZONE_UNKNOWN,105,83
+785,785,24,118/62,64,18,37.0,95,5,Abdominal Pain,Latex,Lisinopril,URGENT,A,triage_assessment,785,LOCAL_A,LOCAL_ZONE_UNKNOWN,118,62
+786,786,24,109/73,104,13,37.8,100,0,Chest Discomfort,Latex,None,URGENT,A,triage_assessment,786,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,73
+788,788,17,119/85,75,21,36.8,99,2,Dizziness,Penicillin,Metoprolol,URGENT,A,triage_assessment,788,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,85
+789,789,21,110/72,94,15,36.1,98,4,Dizziness,Peanuts,Aspirin,ROUTINE,A,triage_assessment,789,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,72
+791,791,22,125/65,108,17,37.1,99,5,Shortness of Breath,Penicillin,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,791,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,65
+792,792,17,109/60,108,12,38.0,97,3,Dizziness,Peanuts,Metformin,ROUTINE,A,triage_assessment,792,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,60
+793,793,23,127/75,76,22,38.3,99,8,Chest Discomfort,Latex,Metformin,URGENT,A,triage_assessment,793,LOCAL_A,LOCAL_ZONE_UNKNOWN,127,75
+794,794,18,123/78,62,12,37.4,98,5,Chest Discomfort,Sulfa drugs,Metformin,STAT,A,triage_assessment,794,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,78
+795,795,22,109/62,108,18,37.6,93,5,Abdominal Pain,Peanuts,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,795,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,62
+797,797,19,131/89,98,18,38.2,93,7,Fever,Penicillin,None,STAT,A,triage_assessment,797,LOCAL_A,LOCAL_ZONE_UNKNOWN,131,89
+798,798,22,136/73,77,19,38.3,97,5,Chest Discomfort,Penicillin,Metformin,URGENT,A,triage_assessment,798,LOCAL_A,LOCAL_ZONE_UNKNOWN,136,73
+799,799,24,110/60,105,15,38.0,92,6,Abdominal Pain,Latex,Metoprolol,STAT,A,triage_assessment,799,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,60
+801,801,21,107/65,106,19,36.4,94,8,Abdominal Pain,Peanuts,Atorvastatin,ROUTINE,A,triage_assessment,801,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,65
+802,802,19,110/75,103,16,37.4,94,4,Shortness of Breath,None,Aspirin,ROUTINE,A,triage_assessment,802,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,75
+803,803,20,125/64,93,14,37.0,99,1,Abdominal Pain,Peanuts,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,803,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,64
+804,804,16,112/82,81,21,37.8,92,8,Chest Discomfort,Sulfa drugs,Aspirin,ROUTINE,A,triage_assessment,804,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,82
+805,805,21,107/62,70,19,36.3,95,4,Abdominal Pain,Latex,Aspirin,ROUTINE,A,triage_assessment,805,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,62
+806,806,19,138/80,108,21,36.0,97,8,Chest Discomfort,None,Metoprolol,URGENT,A,triage_assessment,806,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,80
+807,807,23,123/61,106,16,36.6,95,10,Chest Discomfort,Peanuts,Aspirin,URGENT,A,triage_assessment,807,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,61
+808,808,18,117/71,75,15,38.5,92,6,Dizziness,Sulfa drugs,Metoprolol,URGENT,A,triage_assessment,808,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,71
+809,809,20,101/89,107,20,38.0,98,2,Fever,Sulfa drugs,None,STAT,A,triage_assessment,809,LOCAL_A,LOCAL_ZONE_UNKNOWN,101,89
+810,810,23,137/78,105,22,36.1,94,6,Fever,None,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,810,LOCAL_A,LOCAL_ZONE_UNKNOWN,137,78
+811,811,25,105/60,104,20,37.1,98,7,Fever,Sulfa drugs,Metoprolol,ROUTINE,A,triage_assessment,811,LOCAL_A,LOCAL_ZONE_UNKNOWN,105,60
+812,812,19,127/64,106,15,37.3,97,5,Shortness of Breath,None,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,812,LOCAL_A,LOCAL_ZONE_UNKNOWN,127,64
+813,813,17,124/74,83,14,37.2,98,10,Dizziness,Penicillin,Metoprolol,ROUTINE,A,triage_assessment,813,LOCAL_A,LOCAL_ZONE_UNKNOWN,124,74
+814,814,19,106/73,61,12,37.0,97,3,Chest Discomfort,Sulfa drugs,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,814,LOCAL_A,LOCAL_ZONE_UNKNOWN,106,73
+815,815,23,126/90,77,17,37.4,92,5,Fever,Peanuts,Metformin,ROUTINE,A,triage_assessment,815,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,90
+816,816,19,122/81,61,17,36.7,92,4,Fever,Peanuts,Metoprolol,URGENT,A,triage_assessment,816,LOCAL_A,LOCAL_ZONE_UNKNOWN,122,81
+817,817,16,104/69,67,16,38.5,98,0,Dizziness,None,Atorvastatin,URGENT,A,triage_assessment,817,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,69
+818,818,17,140/67,101,21,36.5,92,8,Chest Discomfort,Penicillin,None,URGENT,A,triage_assessment,818,LOCAL_A,LOCAL_ZONE_UNKNOWN,140,67
+820,820,,126/90,86,22,36.5,98,3,Fever,Penicillin,None,STAT,A,triage_assessment,820,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,90
+821,821,20,121/70,60,22,37.0,93,0,Abdominal Pain,Penicillin,Metformin,STAT,A,triage_assessment,821,LOCAL_A,LOCAL_ZONE_UNKNOWN,121,70
+822,822,20,135/71,64,19,37.2,94,3,Dizziness,Latex,Aspirin,URGENT,A,triage_assessment,822,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,71
+824,824,16,106/70,70,17,37.1,94,1,Fever,Latex,Lisinopril,ROUTINE,A,triage_assessment,824,LOCAL_A,LOCAL_ZONE_UNKNOWN,106,70
+825,825,21,106/74,65,12,36.8,97,3,Shortness of Breath,Latex,Lisinopril,URGENT,A,triage_assessment,825,LOCAL_A,LOCAL_ZONE_UNKNOWN,106,74
+826,826,24,132/74,81,14,36.7,95,5,Fever,Latex,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,826,LOCAL_A,LOCAL_ZONE_UNKNOWN,132,74
+829,829,21,109/84,67,12,38.2,96,8,Abdominal Pain,Peanuts,Metformin,STAT,A,triage_assessment,829,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,84
+830,830,23,108/75,85,18,36.5,92,8,Abdominal Pain,Peanuts,Aspirin,URGENT,A,triage_assessment,830,LOCAL_A,LOCAL_ZONE_UNKNOWN,108,75
+831,831,16,113/73,65,20,36.1,96,9,Fever,Latex,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,831,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,73
+832,832,17,130/78,98,16,36.8,96,7,Fever,Sulfa drugs,Lisinopril,ROUTINE,A,triage_assessment,832,LOCAL_A,LOCAL_ZONE_UNKNOWN,130,78
+833,833,23,112/89,91,15,38.3,100,7,Fever,None,Lisinopril,ROUTINE,A,triage_assessment,833,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,89
+834,834,20,108/62,62,20,36.1,98,6,Fever,Penicillin,Lisinopril,ROUTINE,A,triage_assessment,834,LOCAL_A,LOCAL_ZONE_UNKNOWN,108,62
+835,835,22,127/83,82,12,37.1,96,4,Abdominal Pain,Peanuts,Metoprolol,URGENT,A,triage_assessment,835,LOCAL_A,LOCAL_ZONE_UNKNOWN,127,83
+836,836,25,114/65,62,19,37.2,93,4,Shortness of Breath,Penicillin,Atorvastatin,URGENT,A,triage_assessment,836,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,65
+837,837,18,108/89,89,21,38.2,93,5,Dizziness,Sulfa drugs,Metformin,ROUTINE,A,triage_assessment,837,LOCAL_A,LOCAL_ZONE_UNKNOWN,108,89
+838,838,16,131/65,99,16,37.1,99,5,Dizziness,None,Metoprolol,STAT,A,triage_assessment,838,LOCAL_A,LOCAL_ZONE_UNKNOWN,131,65
+839,839,21,108/60,103,19,38.0,99,9,Fever,Peanuts,Metformin,ROUTINE,A,triage_assessment,839,LOCAL_A,LOCAL_ZONE_UNKNOWN,108,60
+840,840,23,127/68,89,12,36.6,99,0,Shortness of Breath,Latex,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,840,LOCAL_A,LOCAL_ZONE_UNKNOWN,127,68
+841,841,20,121/62,74,21,36.9,98,9,Fever,Latex,Metoprolol,URGENT,A,triage_assessment,841,LOCAL_A,LOCAL_ZONE_UNKNOWN,121,62
+842,842,24,125/80,94,17,36.9,99,10,Shortness of Breath,Penicillin,Lisinopril,ROUTINE,A,triage_assessment,842,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,80
+843,843,23,129/63,87,12,36.9,100,3,Shortness of Breath,Peanuts,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,843,LOCAL_A,LOCAL_ZONE_UNKNOWN,129,63
+845,845,20,125/69,103,17,37.0,97,6,Shortness of Breath,None,Aspirin,URGENT,A,triage_assessment,845,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,69
+846,846,20,133/87,71,19,37.2,93,4,Dizziness,Sulfa drugs,Metoprolol,STAT,A,triage_assessment,846,LOCAL_A,LOCAL_ZONE_UNKNOWN,133,87
+847,847,21,134/61,63,15,37.4,95,0,Shortness of Breath,Penicillin,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,847,LOCAL_A,LOCAL_ZONE_UNKNOWN,134,61
+848,848,19,126/89,82,15,38.1,94,0,Dizziness,Penicillin,Metformin,STAT,A,triage_assessment,848,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,89
+849,849,19,130/90,105,15,36.1,98,9,Dizziness,None,Atorvastatin,URGENT,A,triage_assessment,849,LOCAL_A,LOCAL_ZONE_UNKNOWN,130,90
+850,850,22,114/90,71,16,36.6,95,9,Fever,None,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,850,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,90
+851,851,24,106/63,91,21,37.8,92,4,Chest Discomfort,Sulfa drugs,Lisinopril,URGENT,A,triage_assessment,851,LOCAL_A,LOCAL_ZONE_UNKNOWN,106,63
+852,852,23,128/63,63,12,36.4,97,2,Fever,None,Aspirin,ROUTINE,A,triage_assessment,852,LOCAL_A,LOCAL_ZONE_UNKNOWN,128,63
+853,853,18,138/78,87,16,36.1,92,0,Chest Discomfort,Sulfa drugs,Aspirin,URGENT,A,triage_assessment,853,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,78
+854,854,22,117/69,90,19,37.4,100,9,Dizziness,Sulfa drugs,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,854,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,69
+855,855,21,107/64,66,17,38.0,94,4,Dizziness,Sulfa drugs,Metformin,ROUTINE,A,triage_assessment,855,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,64
+856,856,21,135/62,61,21,36.8,93,2,Abdominal Pain,None,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,856,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,62
+857,857,19,120/73,104,15,36.4,98,8,Shortness of Breath,None,Aspirin,STAT,A,triage_assessment,857,LOCAL_A,LOCAL_ZONE_UNKNOWN,120,73
+858,858,24,100/61,68,20,36.5,96,6,Dizziness,Peanuts,Atorvastatin,ROUTINE,A,triage_assessment,858,LOCAL_A,LOCAL_ZONE_UNKNOWN,100,61
+859,859,,112/63,91,20,36.0,93,2,Dizziness,Peanuts,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,859,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,63
+860,860,25,110/84,106,20,37.9,94,4,Abdominal Pain,Sulfa drugs,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,860,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,84
+862,862,18,122/73,60,20,37.2,97,6,Shortness of Breath,Sulfa drugs,Metoprolol,URGENT,A,triage_assessment,862,LOCAL_A,LOCAL_ZONE_UNKNOWN,122,73
+863,863,19,117/78,87,16,37.5,95,10,Abdominal Pain,Penicillin,Metoprolol,URGENT,A,triage_assessment,863,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,78
+864,864,18,102/73,107,15,36.6,96,6,Shortness of Breath,Peanuts,Metformin,URGENT,A,triage_assessment,864,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,73
+865,865,22,139/84,86,18,37.1,92,9,Fever,Latex,Lisinopril,ROUTINE,A,triage_assessment,865,LOCAL_A,LOCAL_ZONE_UNKNOWN,139,84
+866,866,16,103/87,62,17,38.5,100,8,Shortness of Breath,Sulfa drugs,Atorvastatin,URGENT,A,triage_assessment,866,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,87
+867,867,22,128/62,61,16,37.2,96,3,Dizziness,Penicillin,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,867,LOCAL_A,LOCAL_ZONE_UNKNOWN,128,62
+868,868,18,112/84,82,15,38.4,100,5,Abdominal Pain,None,Lisinopril,URGENT,A,triage_assessment,868,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,84
+869,869,19,109/73,64,18,36.4,98,3,Dizziness,Peanuts,Atorvastatin,ROUTINE,A,triage_assessment,869,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,73
+870,870,20,103/89,110,21,38.4,94,2,Chest Discomfort,Penicillin,Metformin,ROUTINE,A,triage_assessment,870,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,89
+871,871,24,118/60,98,16,36.5,97,5,Dizziness,None,Aspirin,URGENT,A,triage_assessment,871,LOCAL_A,LOCAL_ZONE_UNKNOWN,118,60
+873,873,22,104/78,84,18,38.1,95,7,Dizziness,Penicillin,Lisinopril,STAT,A,triage_assessment,873,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,78
+874,874,16,114/73,100,20,36.8,94,4,Dizziness,Penicillin,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,874,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,73
+875,875,17,109/65,60,22,37.3,95,4,Chest Discomfort,None,Aspirin,URGENT,A,triage_assessment,875,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,65
+876,876,18,125/64,100,14,37.1,95,6,Chest Discomfort,None,Metformin,URGENT,A,triage_assessment,876,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,64
+877,877,16,113/74,102,16,36.2,97,8,Fever,Sulfa drugs,None,URGENT,A,triage_assessment,877,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,74
+878,878,25,128/74,102,19,36.6,96,0,Chest Discomfort,None,Aspirin,ROUTINE,A,triage_assessment,878,LOCAL_A,LOCAL_ZONE_UNKNOWN,128,74
+879,879,24,115/62,94,16,37.9,99,3,Chest Discomfort,Penicillin,Atorvastatin,URGENT,A,triage_assessment,879,LOCAL_A,LOCAL_ZONE_UNKNOWN,115,62
+880,880,20,100/76,75,14,36.0,93,7,Shortness of Breath,None,None,STAT,A,triage_assessment,880,LOCAL_A,LOCAL_ZONE_UNKNOWN,100,76
+881,881,23,132/68,84,14,37.2,95,1,Fever,Latex,None,URGENT,A,triage_assessment,881,LOCAL_A,LOCAL_ZONE_UNKNOWN,132,68
+882,882,22,104/88,110,21,36.4,94,9,Shortness of Breath,Latex,Metoprolol,URGENT,A,triage_assessment,882,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,88
+883,883,18,134/60,96,14,37.4,97,4,Chest Discomfort,None,Atorvastatin,ROUTINE,A,triage_assessment,883,LOCAL_A,LOCAL_ZONE_UNKNOWN,134,60
+884,884,21,104/88,86,21,36.1,100,6,Dizziness,None,Metoprolol,ROUTINE,A,triage_assessment,884,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,88
+886,886,16,109/80,103,14,38.4,98,6,Abdominal Pain,None,None,URGENT,A,triage_assessment,886,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,80
+888,888,19,105/68,105,20,37.6,92,10,Fever,None,Aspirin,STAT,A,triage_assessment,888,LOCAL_A,LOCAL_ZONE_UNKNOWN,105,68
+889,889,20,102/67,92,13,36.3,100,2,Shortness of Breath,Peanuts,Metoprolol,URGENT,A,triage_assessment,889,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,67
+891,891,17,117/90,74,13,36.8,96,9,Chest Discomfort,Penicillin,Lisinopril,URGENT,A,triage_assessment,891,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,90
+893,893,17,109/70,88,19,37.7,96,1,Shortness of Breath,Latex,Atorvastatin,STAT,A,triage_assessment,893,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,70
+894,894,,130/90,97,22,37.2,92,4,Abdominal Pain,Latex,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,894,LOCAL_A,LOCAL_ZONE_UNKNOWN,130,90
+895,895,,112/61,75,22,36.8,98,5,Chest Discomfort,Peanuts,Atorvastatin,URGENT,A,triage_assessment,895,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,61
+896,896,20,136/86,85,14,38.3,94,4,Fever,None,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,896,LOCAL_A,LOCAL_ZONE_UNKNOWN,136,86
+897,897,16,110/90,106,20,37.3,94,1,Chest Discomfort,Latex,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,897,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,90
+898,898,25,121/68,77,13,37.5,98,8,Abdominal Pain,Penicillin,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,898,LOCAL_A,LOCAL_ZONE_UNKNOWN,121,68
+899,899,16,116/75,83,15,36.1,93,8,Chest Discomfort,Latex,Metoprolol,ROUTINE,A,triage_assessment,899,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,75
+901,901,17,104/79,72,13,36.7,94,4,Fever,None,Lisinopril,URGENT,A,triage_assessment,901,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,79
+902,902,21,101/87,106,16,37.8,98,9,Chest Discomfort,Penicillin,Lisinopril,ROUTINE,A,triage_assessment,902,LOCAL_A,LOCAL_ZONE_UNKNOWN,101,87
+903,903,20,126/62,65,13,38.3,99,10,Fever,Penicillin,Aspirin,URGENT,A,triage_assessment,903,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,62
+904,904,22,119/65,94,21,36.2,96,10,Fever,Penicillin,Aspirin,URGENT,A,triage_assessment,904,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,65
+905,905,22,111/64,109,19,37.1,94,7,Abdominal Pain,Penicillin,Atorvastatin,URGENT,A,triage_assessment,905,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,64
+906,906,18,128/60,89,19,37.6,93,1,Shortness of Breath,None,None,URGENT,A,triage_assessment,906,LOCAL_A,LOCAL_ZONE_UNKNOWN,128,60
+907,907,16,132/73,86,13,36.2,95,8,Chest Discomfort,Sulfa drugs,None,ROUTINE,A,triage_assessment,907,LOCAL_A,LOCAL_ZONE_UNKNOWN,132,73
+908,908,,123/72,60,14,38.2,99,2,Dizziness,Peanuts,Aspirin,URGENT,A,triage_assessment,908,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,72
+909,909,19,112/90,104,22,37.3,94,2,Dizziness,Penicillin,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,909,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,90
+910,910,25,131/67,88,18,37.2,93,9,Abdominal Pain,Latex,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,910,LOCAL_A,LOCAL_ZONE_UNKNOWN,131,67
+911,911,,109/90,77,16,38.4,92,3,Shortness of Breath,None,Metoprolol,ROUTINE,A,triage_assessment,911,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,90
+913,913,19,130/69,81,12,37.5,93,4,Dizziness,Peanuts,None,URGENT,A,triage_assessment,913,LOCAL_A,LOCAL_ZONE_UNKNOWN,130,69
+914,914,24,136/67,78,19,38.0,95,10,Dizziness,Latex,Metformin,URGENT,A,triage_assessment,914,LOCAL_A,LOCAL_ZONE_UNKNOWN,136,67
+915,915,18,125/87,79,20,38.3,92,1,Chest Discomfort,Latex,Lisinopril,STAT,A,triage_assessment,915,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,87
+916,916,22,118/63,106,20,38.1,97,6,Shortness of Breath,Latex,Metformin,URGENT,A,triage_assessment,916,LOCAL_A,LOCAL_ZONE_UNKNOWN,118,63
+917,917,,135/73,109,16,37.4,95,3,Shortness of Breath,Peanuts,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,917,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,73
+918,918,21,127/83,65,16,36.2,92,4,Abdominal Pain,Peanuts,Lisinopril,ROUTINE,A,triage_assessment,918,LOCAL_A,LOCAL_ZONE_UNKNOWN,127,83
+919,919,25,126/66,67,12,36.4,94,5,Dizziness,Peanuts,Lisinopril,STAT,A,triage_assessment,919,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,66
+920,920,21,110/89,97,14,36.6,97,10,Dizziness,Latex,Metformin,ROUTINE,A,triage_assessment,920,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,89
+921,921,20,123/77,89,21,36.4,100,6,Shortness of Breath,Peanuts,Metformin,STAT,A,triage_assessment,921,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,77
+922,922,22,112/78,105,14,38.3,94,8,Dizziness,Penicillin,None,URGENT,A,triage_assessment,922,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,78
+923,923,21,117/77,80,16,38.1,100,4,Fever,Penicillin,Atorvastatin,STAT,A,triage_assessment,923,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,77
+924,924,24,123/67,84,21,36.7,95,5,Fever,Peanuts,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,924,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,67
+925,925,19,139/82,107,14,36.4,94,2,Abdominal Pain,None,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,925,LOCAL_A,LOCAL_ZONE_UNKNOWN,139,82
+926,926,,121/90,64,17,37.9,95,1,Chest Discomfort,Penicillin,Atorvastatin,STAT,A,triage_assessment,926,LOCAL_A,LOCAL_ZONE_UNKNOWN,121,90
+927,927,16,130/90,79,22,37.9,98,5,Dizziness,Sulfa drugs,None,URGENT,A,triage_assessment,927,LOCAL_A,LOCAL_ZONE_UNKNOWN,130,90
+928,928,20,121/72,77,22,37.0,92,1,Fever,Sulfa drugs,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,928,LOCAL_A,LOCAL_ZONE_UNKNOWN,121,72
+929,929,17,119/79,96,21,36.5,92,5,Fever,None,None,ROUTINE,A,triage_assessment,929,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,79
+930,930,17,109/75,105,13,37.4,99,10,Shortness of Breath,Penicillin,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,930,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,75
+931,931,24,132/78,72,12,36.9,97,8,Abdominal Pain,Penicillin,None,URGENT,A,triage_assessment,931,LOCAL_A,LOCAL_ZONE_UNKNOWN,132,78
+933,933,21,139/79,61,16,37.9,94,7,Shortness of Breath,None,None,STAT,A,triage_assessment,933,LOCAL_A,LOCAL_ZONE_UNKNOWN,139,79
+934,934,24,139/73,78,14,37.0,98,6,Shortness of Breath,Sulfa drugs,Aspirin,URGENT,A,triage_assessment,934,LOCAL_A,LOCAL_ZONE_UNKNOWN,139,73
+935,935,22,100/75,102,19,37.0,94,4,Dizziness,Latex,None,STAT,A,triage_assessment,935,LOCAL_A,LOCAL_ZONE_UNKNOWN,100,75
+936,936,21,124/84,69,19,36.5,93,6,Shortness of Breath,None,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,936,LOCAL_A,LOCAL_ZONE_UNKNOWN,124,84
+937,937,19,101/86,61,16,37.2,100,4,Dizziness,None,Lisinopril,URGENT,A,triage_assessment,937,LOCAL_A,LOCAL_ZONE_UNKNOWN,101,86
+938,938,19,131/73,104,18,38.5,98,6,Shortness of Breath,None,Atorvastatin,URGENT,A,triage_assessment,938,LOCAL_A,LOCAL_ZONE_UNKNOWN,131,73
+939,939,24,137/82,103,17,37.5,100,6,Abdominal Pain,Latex,Aspirin,URGENT,A,triage_assessment,939,LOCAL_A,LOCAL_ZONE_UNKNOWN,137,82
+940,940,21,118/87,64,16,38.4,97,7,Fever,Penicillin,Aspirin,ROUTINE,A,triage_assessment,940,LOCAL_A,LOCAL_ZONE_UNKNOWN,118,87
+941,941,24,132/81,110,17,37.6,95,5,Chest Discomfort,Peanuts,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,941,LOCAL_A,LOCAL_ZONE_UNKNOWN,132,81
+942,942,21,101/64,100,16,37.3,100,0,Chest Discomfort,Sulfa drugs,Metoprolol,URGENT,A,triage_assessment,942,LOCAL_A,LOCAL_ZONE_UNKNOWN,101,64
+943,943,23,124/88,85,19,37.8,93,1,Chest Discomfort,Penicillin,Aspirin,URGENT,A,triage_assessment,943,LOCAL_A,LOCAL_ZONE_UNKNOWN,124,88
+944,944,19,132/79,78,12,37.8,95,2,Abdominal Pain,Penicillin,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,944,LOCAL_A,LOCAL_ZONE_UNKNOWN,132,79
+945,945,19,140/60,63,20,36.6,99,2,Dizziness,Sulfa drugs,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,945,LOCAL_A,LOCAL_ZONE_UNKNOWN,140,60
+946,946,20,117/87,91,12,37.3,97,8,Fever,Latex,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,946,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,87
+947,947,18,103/80,97,22,36.2,92,6,Abdominal Pain,Peanuts,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,947,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,80
+948,948,17,105/62,91,18,36.6,93,5,Dizziness,Latex,Lisinopril,ROUTINE,A,triage_assessment,948,LOCAL_A,LOCAL_ZONE_UNKNOWN,105,62
+949,949,21,135/71,63,13,36.5,96,2,Chest Discomfort,Sulfa drugs,Metformin,STAT,A,triage_assessment,949,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,71
+950,950,21,111/63,90,15,36.7,93,5,Dizziness,Penicillin,Aspirin,URGENT,A,triage_assessment,950,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,63
+951,951,24,132/63,89,19,37.0,93,8,Abdominal Pain,Peanuts,Metoprolol,ROUTINE,A,triage_assessment,951,LOCAL_A,LOCAL_ZONE_UNKNOWN,132,63
+952,952,16,131/86,104,22,36.7,95,2,Dizziness,Peanuts,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,952,LOCAL_A,LOCAL_ZONE_UNKNOWN,131,86
+953,953,17,116/60,110,15,36.8,95,4,Shortness of Breath,Peanuts,None,ROUTINE,A,triage_assessment,953,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,60
+954,954,24,135/81,64,15,37.2,97,10,Dizziness,None,None,ROUTINE,A,triage_assessment,954,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,81
+955,955,18,132/70,72,17,38.2,93,0,Dizziness,Latex,Aspirin,STAT,A,triage_assessment,955,LOCAL_A,LOCAL_ZONE_UNKNOWN,132,70
+956,956,25,101/64,66,17,37.1,92,1,Dizziness,None,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,956,LOCAL_A,LOCAL_ZONE_UNKNOWN,101,64
+957,957,17,133/73,84,14,36.6,92,0,Fever,Sulfa drugs,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,957,LOCAL_A,LOCAL_ZONE_UNKNOWN,133,73
+958,958,17,131/89,73,15,37.1,92,10,Shortness of Breath,Penicillin,Lisinopril,URGENT,A,triage_assessment,958,LOCAL_A,LOCAL_ZONE_UNKNOWN,131,89
+959,959,18,128/81,69,13,37.0,100,1,Chest Discomfort,Sulfa drugs,Lisinopril,URGENT,A,triage_assessment,959,LOCAL_A,LOCAL_ZONE_UNKNOWN,128,81
+960,960,25,129/69,102,13,36.2,93,0,Shortness of Breath,Sulfa drugs,Metoprolol,URGENT,A,triage_assessment,960,LOCAL_A,LOCAL_ZONE_UNKNOWN,129,69
+961,961,18,101/67,103,15,37.2,96,6,Shortness of Breath,Penicillin,Lisinopril,URGENT,A,triage_assessment,961,LOCAL_A,LOCAL_ZONE_UNKNOWN,101,67
+962,962,21,106/60,68,19,37.3,95,0,Abdominal Pain,Latex,Lisinopril,URGENT,A,triage_assessment,962,LOCAL_A,LOCAL_ZONE_UNKNOWN,106,60
+963,963,17,137/78,99,21,37.2,100,4,Chest Discomfort,Latex,Atorvastatin,URGENT,A,triage_assessment,963,LOCAL_A,LOCAL_ZONE_UNKNOWN,137,78
+964,964,24,123/72,99,12,36.1,93,1,Fever,Penicillin,Aspirin,URGENT,A,triage_assessment,964,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,72
+965,965,18,104/90,77,16,36.4,93,9,Abdominal Pain,Penicillin,Metoprolol,URGENT,A,triage_assessment,965,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,90
+966,966,,104/73,88,17,38.0,92,2,Chest Discomfort,Peanuts,None,STAT,A,triage_assessment,966,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,73
+967,967,23,136/84,97,16,36.8,96,10,Chest Discomfort,Penicillin,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,967,LOCAL_A,LOCAL_ZONE_UNKNOWN,136,84
+968,968,20,105/66,74,13,36.5,97,8,Dizziness,Sulfa drugs,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,968,LOCAL_A,LOCAL_ZONE_UNKNOWN,105,66
+969,969,16,125/74,92,14,36.3,93,7,Dizziness,None,Atorvastatin,URGENT,A,triage_assessment,969,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,74
+971,971,16,103/71,86,16,36.4,95,9,Chest Discomfort,None,Aspirin,STAT,A,triage_assessment,971,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,71
+972,972,21,128/68,107,18,36.0,92,9,Dizziness,None,None,ROUTINE,A,triage_assessment,972,LOCAL_A,LOCAL_ZONE_UNKNOWN,128,68
+973,973,21,132/65,101,14,38.3,99,4,Abdominal Pain,None,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,973,LOCAL_A,LOCAL_ZONE_UNKNOWN,132,65
+974,974,19,116/89,81,17,36.3,96,6,Chest Discomfort,Peanuts,Lisinopril,ROUTINE,A,triage_assessment,974,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,89
+975,975,17,125/90,67,16,37.2,96,4,Fever,Peanuts,Metoprolol,ROUTINE,A,triage_assessment,975,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,90
+976,976,22,100/86,98,18,36.6,92,5,Chest Discomfort,Sulfa drugs,Lisinopril,ROUTINE,A,triage_assessment,976,LOCAL_A,LOCAL_ZONE_UNKNOWN,100,86
+977,977,,109/90,64,18,38.1,100,10,Dizziness,Peanuts,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,977,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,90
+978,978,18,107/81,96,12,36.1,96,5,Abdominal Pain,Penicillin,None,STAT,A,triage_assessment,978,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,81
+979,979,23,127/63,93,18,38.0,93,4,Abdominal Pain,Penicillin,Lisinopril,ROUTINE,A,triage_assessment,979,LOCAL_A,LOCAL_ZONE_UNKNOWN,127,63
+981,981,17,134/67,106,13,37.7,93,0,Dizziness,Peanuts,Metformin,STAT,A,triage_assessment,981,LOCAL_A,LOCAL_ZONE_UNKNOWN,134,67
+982,982,23,110/63,86,18,38.0,100,2,Dizziness,None,Atorvastatin,STAT,A,triage_assessment,982,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,63
+983,983,17,121/68,90,18,38.3,96,5,Shortness of Breath,None,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,983,LOCAL_A,LOCAL_ZONE_UNKNOWN,121,68
+984,984,17,105/73,109,14,36.0,97,9,Dizziness,Penicillin,Aspirin,ROUTINE,A,triage_assessment,984,LOCAL_A,LOCAL_ZONE_UNKNOWN,105,73
+985,985,23,138/63,66,16,38.4,96,6,Chest Discomfort,Sulfa drugs,Atorvastatin,URGENT,A,triage_assessment,985,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,63
+986,986,20,104/66,73,16,36.5,93,9,Dizziness,Sulfa drugs,Metformin,URGENT,A,triage_assessment,986,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,66
+987,987,23,123/76,71,17,37.0,96,2,Abdominal Pain,Sulfa drugs,Aspirin,STAT,A,triage_assessment,987,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,76
+988,988,25,101/77,97,13,37.6,96,6,Fever,Penicillin,Metoprolol,ROUTINE,A,triage_assessment,988,LOCAL_A,LOCAL_ZONE_UNKNOWN,101,77
+989,989,17,120/62,98,18,38.0,95,4,Chest Discomfort,Latex,Aspirin,URGENT,A,triage_assessment,989,LOCAL_A,LOCAL_ZONE_UNKNOWN,120,62
+990,990,25,100/65,103,15,38.4,93,9,Fever,Penicillin,Lisinopril,ROUTINE,A,triage_assessment,990,LOCAL_A,LOCAL_ZONE_UNKNOWN,100,65
+991,991,17,131/75,76,14,37.7,94,6,Chest Discomfort,Sulfa drugs,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,991,LOCAL_A,LOCAL_ZONE_UNKNOWN,131,75
+992,992,21,109/63,88,13,37.3,98,9,Chest Discomfort,Peanuts,Metformin,URGENT,A,triage_assessment,992,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,63
+993,993,22,129/60,101,17,36.7,97,5,Fever,Latex,Atorvastatin,STAT,A,triage_assessment,993,LOCAL_A,LOCAL_ZONE_UNKNOWN,129,60
+994,994,16,106/74,67,21,37.7,100,1,Chest Discomfort,Peanuts,Lisinopril,ROUTINE,A,triage_assessment,994,LOCAL_A,LOCAL_ZONE_UNKNOWN,106,74
+995,995,23,111/72,107,15,38.4,98,3,Fever,None,Metformin,STAT,A,triage_assessment,995,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,72
+996,996,19,122/70,90,16,38.5,97,6,Fever,Peanuts,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,996,LOCAL_A,LOCAL_ZONE_UNKNOWN,122,70
+998,998,24,139/67,108,16,36.9,100,8,Fever,Sulfa drugs,Metoprolol,URGENT,A,triage_assessment,998,LOCAL_A,LOCAL_ZONE_UNKNOWN,139,67
+999,999,23,102/82,90,18,37.2,94,4,Chest Discomfort,Latex,Aspirin,STAT,A,triage_assessment,999,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,82
+1000,1000,20,104/78,67,20,38.4,97,5,Abdominal Pain,Sulfa drugs,Metformin,STAT,A,triage_assessment,1000,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,78
+1001,1001,18,115/81,63,15,37.8,94,9,Shortness of Breath,None,None,URGENT,A,triage_assessment,1001,LOCAL_A,LOCAL_ZONE_UNKNOWN,115,81
+1002,1002,17,134/64,64,14,38.4,92,9,Shortness of Breath,Penicillin,Metoprolol,STAT,A,triage_assessment,1002,LOCAL_A,LOCAL_ZONE_UNKNOWN,134,64
+1003,1003,25,110/81,109,18,38.0,100,9,Shortness of Breath,Latex,None,ROUTINE,A,triage_assessment,1003,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,81
+1004,1004,16,137/78,69,21,36.6,100,1,Dizziness,Penicillin,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1004,LOCAL_A,LOCAL_ZONE_UNKNOWN,137,78
+1005,1005,19,118/74,102,16,37.2,95,3,Fever,None,Metformin,STAT,A,triage_assessment,1005,LOCAL_A,LOCAL_ZONE_UNKNOWN,118,74
+1006,1006,25,103/76,102,21,37.1,92,8,Shortness of Breath,Latex,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1006,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,76
+1007,1007,24,109/80,91,12,37.6,99,7,Shortness of Breath,Peanuts,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1007,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,80
+1009,1009,22,108/88,110,19,37.5,93,0,Fever,None,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1009,LOCAL_A,LOCAL_ZONE_UNKNOWN,108,88
+1010,1010,19,140/86,82,14,37.2,100,8,Abdominal Pain,None,Lisinopril,URGENT,A,triage_assessment,1010,LOCAL_A,LOCAL_ZONE_UNKNOWN,140,86
+1011,1011,22,111/80,101,12,36.4,99,8,Chest Discomfort,None,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1011,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,80
+1012,1012,16,139/87,71,18,38.3,92,0,Shortness of Breath,None,Lisinopril,ROUTINE,A,triage_assessment,1012,LOCAL_A,LOCAL_ZONE_UNKNOWN,139,87
+1013,1013,22,113/67,94,15,36.4,100,9,Abdominal Pain,Peanuts,Metformin,URGENT,A,triage_assessment,1013,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,67
+1015,1015,25,139/89,73,18,36.3,93,10,Fever,Penicillin,None,ROUTINE,A,triage_assessment,1015,LOCAL_A,LOCAL_ZONE_UNKNOWN,139,89
+1016,1016,25,124/90,102,18,36.2,100,0,Chest Discomfort,Penicillin,None,ROUTINE,A,triage_assessment,1016,LOCAL_A,LOCAL_ZONE_UNKNOWN,124,90
+1017,1017,22,123/77,109,15,38.0,96,3,Shortness of Breath,Latex,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1017,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,77
+1018,1018,25,111/90,68,16,36.6,97,0,Dizziness,Latex,Metoprolol,URGENT,A,triage_assessment,1018,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,90
+1019,1019,20,138/73,67,14,38.4,98,10,Abdominal Pain,None,None,ROUTINE,A,triage_assessment,1019,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,73
+1020,1020,18,112/88,67,13,36.5,93,4,Chest Discomfort,Penicillin,Metformin,STAT,A,triage_assessment,1020,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,88
+1021,1021,22,125/75,93,14,37.5,95,4,Shortness of Breath,Sulfa drugs,Metoprolol,URGENT,A,triage_assessment,1021,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,75
+1022,1022,16,103/88,85,13,38.0,94,6,Shortness of Breath,Peanuts,Aspirin,ROUTINE,A,triage_assessment,1022,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,88
+1023,1023,24,102/70,109,16,36.2,98,5,Dizziness,Latex,Metformin,STAT,A,triage_assessment,1023,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,70
+1024,1024,20,117/72,78,20,36.9,97,8,Abdominal Pain,None,Metformin,URGENT,A,triage_assessment,1024,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,72
+1026,1026,22,121/73,106,18,37.4,93,1,Dizziness,Penicillin,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1026,LOCAL_A,LOCAL_ZONE_UNKNOWN,121,73
+1027,1027,25,125/80,84,18,36.2,97,8,Shortness of Breath,Peanuts,Metformin,URGENT,A,triage_assessment,1027,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,80
+1028,1028,21,108/90,106,20,36.3,95,7,Dizziness,Peanuts,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1028,LOCAL_A,LOCAL_ZONE_UNKNOWN,108,90
+1029,1029,18,120/62,87,17,37.5,99,9,Chest Discomfort,None,Atorvastatin,STAT,A,triage_assessment,1029,LOCAL_A,LOCAL_ZONE_UNKNOWN,120,62
+1030,1030,21,113/80,61,20,37.9,95,0,Shortness of Breath,Peanuts,Lisinopril,ROUTINE,A,triage_assessment,1030,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,80
+1032,1032,21,115/72,70,18,36.9,93,2,Dizziness,Sulfa drugs,None,ROUTINE,A,triage_assessment,1032,LOCAL_A,LOCAL_ZONE_UNKNOWN,115,72
+1034,1034,23,125/69,71,20,36.6,98,8,Dizziness,Sulfa drugs,Metoprolol,ROUTINE,A,triage_assessment,1034,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,69
+1035,1035,23,108/87,109,15,37.3,99,8,Fever,None,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1035,LOCAL_A,LOCAL_ZONE_UNKNOWN,108,87
+1036,1036,24,105/76,84,20,37.4,93,8,Fever,Peanuts,Lisinopril,ROUTINE,A,triage_assessment,1036,LOCAL_A,LOCAL_ZONE_UNKNOWN,105,76
+1037,1037,21,129/67,71,16,36.0,99,5,Fever,Latex,Lisinopril,URGENT,A,triage_assessment,1037,LOCAL_A,LOCAL_ZONE_UNKNOWN,129,67
+1038,1038,22,123/74,81,19,37.2,92,2,Abdominal Pain,Penicillin,Aspirin,ROUTINE,A,triage_assessment,1038,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,74
+1039,1039,21,107/70,86,15,36.3,93,2,Chest Discomfort,Sulfa drugs,Lisinopril,URGENT,A,triage_assessment,1039,LOCAL_A,LOCAL_ZONE_UNKNOWN,107,70
+1040,1040,19,136/60,77,14,37.5,98,3,Shortness of Breath,Sulfa drugs,Metformin,ROUTINE,A,triage_assessment,1040,LOCAL_A,LOCAL_ZONE_UNKNOWN,136,60
+1041,1041,23,104/63,63,19,37.4,100,10,Shortness of Breath,Peanuts,Metformin,STAT,A,triage_assessment,1041,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,63
+1042,1042,22,111/66,93,19,36.7,96,4,Dizziness,Penicillin,Metoprolol,URGENT,A,triage_assessment,1042,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,66
+1044,1044,23,123/76,95,17,36.4,96,2,Shortness of Breath,Latex,Atorvastatin,STAT,A,triage_assessment,1044,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,76
+1045,1045,23,110/75,73,16,36.1,99,8,Dizziness,Penicillin,Metoprolol,URGENT,A,triage_assessment,1045,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,75
+1046,1046,20,138/81,100,20,38.0,97,3,Shortness of Breath,None,Lisinopril,ROUTINE,A,triage_assessment,1046,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,81
+1047,1047,16,118/77,78,16,36.3,93,1,Shortness of Breath,Latex,None,URGENT,A,triage_assessment,1047,LOCAL_A,LOCAL_ZONE_UNKNOWN,118,77
+1048,1048,24,114/60,102,20,36.5,92,9,Dizziness,None,Metformin,URGENT,A,triage_assessment,1048,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,60
+1049,1049,22,125/67,107,15,36.2,99,10,Chest Discomfort,Peanuts,Atorvastatin,URGENT,A,triage_assessment,1049,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,67
+1050,1050,24,115/78,84,12,37.3,95,1,Abdominal Pain,Peanuts,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1050,LOCAL_A,LOCAL_ZONE_UNKNOWN,115,78
+1052,1052,24,106/76,95,15,37.4,94,1,Shortness of Breath,Latex,Metformin,URGENT,A,triage_assessment,1052,LOCAL_A,LOCAL_ZONE_UNKNOWN,106,76
+1054,1054,24,102/65,70,15,36.0,100,3,Abdominal Pain,Penicillin,Metformin,ROUTINE,A,triage_assessment,1054,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,65
+1055,1055,23,135/84,85,16,36.7,95,5,Fever,Latex,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1055,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,84
+1056,1056,16,114/87,61,13,38.2,98,1,Fever,Peanuts,None,URGENT,A,triage_assessment,1056,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,87
+1057,1057,18,110/82,76,12,36.2,100,9,Chest Discomfort,Penicillin,Metformin,URGENT,A,triage_assessment,1057,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,82
+1058,1058,20,115/66,74,16,38.4,93,4,Fever,Penicillin,Metoprolol,STAT,A,triage_assessment,1058,LOCAL_A,LOCAL_ZONE_UNKNOWN,115,66
+1059,1059,23,116/61,78,18,37.4,94,3,Chest Discomfort,Penicillin,Metformin,URGENT,A,triage_assessment,1059,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,61
+1060,1060,20,104/74,92,21,38.2,97,2,Fever,Latex,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1060,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,74
+1062,1062,23,119/82,79,14,37.1,99,5,Fever,Penicillin,Lisinopril,ROUTINE,A,triage_assessment,1062,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,82
+1064,1064,21,132/88,84,21,38.3,94,10,Shortness of Breath,Latex,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1064,LOCAL_A,LOCAL_ZONE_UNKNOWN,132,88
+1065,1065,22,117/61,94,14,36.8,94,0,Shortness of Breath,Penicillin,Lisinopril,ROUTINE,A,triage_assessment,1065,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,61
+1066,1066,24,139/68,75,22,37.0,98,8,Dizziness,Latex,Metformin,STAT,A,triage_assessment,1066,LOCAL_A,LOCAL_ZONE_UNKNOWN,139,68
+1067,1067,23,119/64,65,19,38.2,95,8,Chest Discomfort,Penicillin,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1067,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,64
+1068,1068,19,116/67,78,13,37.7,96,4,Dizziness,Penicillin,None,ROUTINE,A,triage_assessment,1068,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,67
+1070,1070,21,108/66,81,18,36.4,100,7,Abdominal Pain,Peanuts,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1070,LOCAL_A,LOCAL_ZONE_UNKNOWN,108,66
+1071,1071,17,110/68,66,16,36.3,99,9,Fever,Penicillin,Metformin,STAT,A,triage_assessment,1071,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,68
+1072,1072,23,118/61,73,12,36.4,93,2,Chest Discomfort,None,Aspirin,ROUTINE,A,triage_assessment,1072,LOCAL_A,LOCAL_ZONE_UNKNOWN,118,61
+1073,1073,23,121/76,102,14,37.6,98,8,Chest Discomfort,None,Atorvastatin,STAT,A,triage_assessment,1073,LOCAL_A,LOCAL_ZONE_UNKNOWN,121,76
+1074,1074,23,100/72,106,12,36.0,100,9,Chest Discomfort,None,Aspirin,ROUTINE,A,triage_assessment,1074,LOCAL_A,LOCAL_ZONE_UNKNOWN,100,72
+1076,1076,18,138/86,71,21,37.6,95,9,Dizziness,Sulfa drugs,Atorvastatin,URGENT,A,triage_assessment,1076,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,86
+1077,1077,18,125/69,93,12,36.6,98,9,Chest Discomfort,Sulfa drugs,None,STAT,A,triage_assessment,1077,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,69
+1078,1078,16,115/65,97,17,36.6,100,8,Abdominal Pain,Peanuts,Metoprolol,ROUTINE,A,triage_assessment,1078,LOCAL_A,LOCAL_ZONE_UNKNOWN,115,65
+1079,1079,24,121/74,63,22,37.3,95,9,Fever,Sulfa drugs,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1079,LOCAL_A,LOCAL_ZONE_UNKNOWN,121,74
+1080,1080,25,104/85,67,16,38.4,96,0,Abdominal Pain,None,Lisinopril,URGENT,A,triage_assessment,1080,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,85
+1081,1081,21,122/69,78,17,36.4,98,7,Abdominal Pain,Penicillin,Atorvastatin,URGENT,A,triage_assessment,1081,LOCAL_A,LOCAL_ZONE_UNKNOWN,122,69
+1082,1082,25,129/79,100,13,37.3,95,9,Abdominal Pain,None,Metformin,ROUTINE,A,triage_assessment,1082,LOCAL_A,LOCAL_ZONE_UNKNOWN,129,79
+1084,1084,17,117/84,97,22,37.2,97,0,Abdominal Pain,Penicillin,Metformin,ROUTINE,A,triage_assessment,1084,LOCAL_A,LOCAL_ZONE_UNKNOWN,117,84
+1085,1085,16,119/80,73,18,37.2,100,5,Shortness of Breath,Latex,Lisinopril,STAT,A,triage_assessment,1085,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,80
+1086,1086,20,127/77,84,15,37.5,98,3,Abdominal Pain,Penicillin,Metoprolol,ROUTINE,A,triage_assessment,1086,LOCAL_A,LOCAL_ZONE_UNKNOWN,127,77
+1088,1088,18,138/67,70,18,36.2,98,0,Chest Discomfort,Sulfa drugs,Metoprolol,URGENT,A,triage_assessment,1088,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,67
+1089,1089,21,113/61,104,21,36.3,99,10,Chest Discomfort,Penicillin,Aspirin,ROUTINE,A,triage_assessment,1089,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,61
+1090,1090,25,115/84,83,13,37.8,94,3,Abdominal Pain,Peanuts,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1090,LOCAL_A,LOCAL_ZONE_UNKNOWN,115,84
+1091,1091,19,113/86,100,19,37.8,98,8,Fever,Latex,Metoprolol,ROUTINE,A,triage_assessment,1091,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,86
+1092,1092,21,138/79,65,13,37.5,99,3,Dizziness,Peanuts,Lisinopril,STAT,A,triage_assessment,1092,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,79
+1093,1093,18,116/88,77,20,36.4,92,3,Chest Discomfort,Penicillin,Metformin,STAT,A,triage_assessment,1093,LOCAL_A,LOCAL_ZONE_UNKNOWN,116,88
+1094,1094,17,121/74,67,13,36.9,100,4,Abdominal Pain,Penicillin,Metformin,URGENT,A,triage_assessment,1094,LOCAL_A,LOCAL_ZONE_UNKNOWN,121,74
+1095,1095,24,133/76,76,20,37.0,92,6,Abdominal Pain,Peanuts,Metoprolol,STAT,A,triage_assessment,1095,LOCAL_A,LOCAL_ZONE_UNKNOWN,133,76
+1096,1096,17,125/78,69,16,37.0,97,6,Abdominal Pain,Penicillin,Atorvastatin,URGENT,A,triage_assessment,1096,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,78
+1097,1097,22,101/60,69,12,36.3,98,3,Dizziness,Latex,None,URGENT,A,triage_assessment,1097,LOCAL_A,LOCAL_ZONE_UNKNOWN,101,60
+1099,1099,17,108/81,109,16,37.8,92,10,Abdominal Pain,Penicillin,Atorvastatin,ROUTINE,A,triage_assessment,1099,LOCAL_A,LOCAL_ZONE_UNKNOWN,108,81
+1100,1100,16,139/70,95,14,36.9,97,3,Shortness of Breath,Penicillin,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1100,LOCAL_A,LOCAL_ZONE_UNKNOWN,139,70
+1101,1101,16,109/82,101,20,36.3,95,0,Dizziness,Sulfa drugs,Metoprolol,ROUTINE,A,triage_assessment,1101,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,82
+1102,1102,17,109/70,99,12,38.1,100,10,Abdominal Pain,Penicillin,Metoprolol,URGENT,A,triage_assessment,1102,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,70
+1103,1103,17,111/88,62,12,38.3,96,0,Abdominal Pain,Penicillin,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1103,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,88
+1104,1104,18,121/82,81,18,38.5,97,10,Dizziness,Penicillin,Metformin,URGENT,A,triage_assessment,1104,LOCAL_A,LOCAL_ZONE_UNKNOWN,121,82
+1105,1105,21,103/64,109,18,37.6,92,3,Chest Discomfort,Latex,Metoprolol,URGENT,A,triage_assessment,1105,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,64
+1106,1106,25,108/87,94,22,37.8,96,4,Chest Discomfort,None,None,ROUTINE,A,triage_assessment,1106,LOCAL_A,LOCAL_ZONE_UNKNOWN,108,87
+1107,1107,23,119/73,82,19,37.9,98,6,Fever,None,None,URGENT,A,triage_assessment,1107,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,73
+1109,1109,22,123/71,69,20,37.6,98,5,Fever,Sulfa drugs,Metoprolol,STAT,A,triage_assessment,1109,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,71
+1110,1110,20,120/86,72,22,37.3,92,7,Fever,Penicillin,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1110,LOCAL_A,LOCAL_ZONE_UNKNOWN,120,86
+1111,1111,22,123/84,77,20,37.4,92,8,Fever,Penicillin,Atorvastatin,URGENT,A,triage_assessment,1111,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,84
+1112,1112,23,102/79,85,19,36.7,100,6,Abdominal Pain,Latex,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1112,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,79
+1113,1113,21,129/65,63,12,36.2,93,8,Chest Discomfort,Peanuts,Aspirin,ROUTINE,A,triage_assessment,1113,LOCAL_A,LOCAL_ZONE_UNKNOWN,129,65
+1114,1114,18,113/84,91,22,36.6,95,4,Abdominal Pain,Penicillin,Metformin,ROUTINE,A,triage_assessment,1114,LOCAL_A,LOCAL_ZONE_UNKNOWN,113,84
+1115,1115,24,110/63,64,22,36.4,100,2,Fever,None,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1115,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,63
+1116,1116,24,125/62,96,17,37.1,100,5,Chest Discomfort,Sulfa drugs,Metformin,STAT,A,triage_assessment,1116,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,62
+1117,1117,24,110/77,77,17,37.3,98,9,Fever,Penicillin,Metformin,STAT,A,triage_assessment,1117,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,77
+1118,1118,22,133/66,100,17,37.5,92,3,Abdominal Pain,Penicillin,Metoprolol,URGENT,A,triage_assessment,1118,LOCAL_A,LOCAL_ZONE_UNKNOWN,133,66
+1119,1119,19,110/79,60,19,36.1,99,4,Shortness of Breath,Peanuts,Lisinopril,STAT,A,triage_assessment,1119,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,79
+1120,1120,25,115/70,92,19,36.7,98,9,Fever,None,Metformin,URGENT,A,triage_assessment,1120,LOCAL_A,LOCAL_ZONE_UNKNOWN,115,70
+1121,1121,22,132/81,64,19,36.4,99,3,Shortness of Breath,None,Atorvastatin,URGENT,A,triage_assessment,1121,LOCAL_A,LOCAL_ZONE_UNKNOWN,132,81
+1122,1122,25,137/80,62,17,36.8,100,10,Abdominal Pain,Peanuts,Metformin,ROUTINE,A,triage_assessment,1122,LOCAL_A,LOCAL_ZONE_UNKNOWN,137,80
+1123,1123,16,127/66,94,17,37.9,96,5,Dizziness,Penicillin,Metoprolol,URGENT,A,triage_assessment,1123,LOCAL_A,LOCAL_ZONE_UNKNOWN,127,66
+1124,1124,22,106/62,85,22,37.0,94,5,Shortness of Breath,None,Aspirin,STAT,A,triage_assessment,1124,LOCAL_A,LOCAL_ZONE_UNKNOWN,106,62
+1125,1125,17,125/78,80,19,37.8,97,9,Shortness of Breath,Sulfa drugs,Atorvastatin,ROUTINE,A,triage_assessment,1125,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,78
+1126,1126,23,118/86,94,16,38.1,100,4,Fever,Peanuts,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1126,LOCAL_A,LOCAL_ZONE_UNKNOWN,118,86
+1128,1128,18,140/89,94,15,36.6,92,1,Shortness of Breath,Penicillin,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1128,LOCAL_A,LOCAL_ZONE_UNKNOWN,140,89
+1129,1129,18,103/62,91,14,37.6,100,8,Dizziness,Latex,Metoprolol,ROUTINE,A,triage_assessment,1129,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,62
+1131,1131,19,125/87,86,22,38.2,97,9,Shortness of Breath,Peanuts,Lisinopril,STAT,A,triage_assessment,1131,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,87
+1132,1132,19,133/82,103,18,38.2,95,3,Dizziness,Latex,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1132,LOCAL_A,LOCAL_ZONE_UNKNOWN,133,82
+1133,1133,17,124/73,68,16,36.7,95,5,Chest Discomfort,Peanuts,Aspirin,ROUTINE,A,triage_assessment,1133,LOCAL_A,LOCAL_ZONE_UNKNOWN,124,73
+1134,1134,16,102/82,82,18,36.7,93,0,Dizziness,Latex,Lisinopril,STAT,A,triage_assessment,1134,LOCAL_A,LOCAL_ZONE_UNKNOWN,102,82
+1135,1135,24,115/65,93,21,38.5,93,2,Shortness of Breath,Peanuts,Lisinopril,ROUTINE,A,triage_assessment,1135,LOCAL_A,LOCAL_ZONE_UNKNOWN,115,65
+1137,1137,22,137/83,68,17,38.5,96,0,Shortness of Breath,Peanuts,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1137,LOCAL_A,LOCAL_ZONE_UNKNOWN,137,83
+1139,1139,25,103/81,99,17,37.9,96,0,Chest Discomfort,None,Metformin,ROUTINE,A,triage_assessment,1139,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,81
+1140,1140,23,110/62,74,14,36.7,99,4,Shortness of Breath,Peanuts,Lisinopril,ROUTINE,A,triage_assessment,1140,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,62
+1141,1141,24,120/61,87,15,36.8,94,7,Abdominal Pain,Sulfa drugs,Metoprolol,STAT,A,triage_assessment,1141,LOCAL_A,LOCAL_ZONE_UNKNOWN,120,61
+1143,1143,23,119/76,103,19,36.2,100,7,Dizziness,None,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1143,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,76
+1144,1144,25,138/69,76,20,37.7,98,5,Chest Discomfort,Penicillin,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1144,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,69
+1145,1145,25,108/60,78,19,36.4,100,3,Shortness of Breath,Penicillin,Atorvastatin,URGENT,A,triage_assessment,1145,LOCAL_A,LOCAL_ZONE_UNKNOWN,108,60
+1147,1147,25,123/88,74,12,36.9,97,10,Abdominal Pain,Penicillin,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1147,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,88
+1148,1148,22,112/85,103,16,38.5,98,9,Fever,Peanuts,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1148,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,85
+1149,1149,25,106/77,98,13,36.6,96,1,Chest Discomfort,Penicillin,Metformin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1149,LOCAL_A,LOCAL_ZONE_UNKNOWN,106,77
+1150,1150,23,103/72,85,19,36.2,100,3,Dizziness,Penicillin,Metformin,URGENT,A,triage_assessment,1150,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,72
+1151,1151,17,114/72,69,22,38.1,92,0,Shortness of Breath,Peanuts,None,URGENT,A,triage_assessment,1151,LOCAL_A,LOCAL_ZONE_UNKNOWN,114,72
+1152,1152,24,133/68,86,22,38.0,94,2,Dizziness,Latex,Lisinopril,ROUTINE,A,triage_assessment,1152,LOCAL_A,LOCAL_ZONE_UNKNOWN,133,68
+1153,1153,24,137/70,72,20,37.8,99,6,Abdominal Pain,Sulfa drugs,Metoprolol,URGENT,A,triage_assessment,1153,LOCAL_A,LOCAL_ZONE_UNKNOWN,137,70
+1154,1154,25,111/64,89,22,37.8,97,2,Fever,Sulfa drugs,Aspirin,STAT,A,triage_assessment,1154,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,64
+1155,1155,19,112/74,88,12,37.5,99,2,Chest Discomfort,Latex,Atorvastatin,ROUTINE,A,triage_assessment,1155,LOCAL_A,LOCAL_ZONE_UNKNOWN,112,74
+1156,1156,20,135/73,61,16,37.7,95,8,Fever,Penicillin,Lisinopril,URGENT,A,triage_assessment,1156,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,73
+1157,1157,23,127/90,108,22,38.5,99,9,Shortness of Breath,Latex,Lisinopril,ROUTINE,A,triage_assessment,1157,LOCAL_A,LOCAL_ZONE_UNKNOWN,127,90
+1158,1158,19,132/77,88,17,36.6,95,4,Abdominal Pain,Penicillin,Metformin,ROUTINE,A,triage_assessment,1158,LOCAL_A,LOCAL_ZONE_UNKNOWN,132,77
+1159,1159,21,123/84,104,15,38.1,94,5,Shortness of Breath,Latex,None,URGENT,A,triage_assessment,1159,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,84
+1160,1160,22,118/60,108,13,38.4,92,8,Fever,Sulfa drugs,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1160,LOCAL_A,LOCAL_ZONE_UNKNOWN,118,60
+1161,1161,25,120/70,94,14,36.8,93,6,Abdominal Pain,Sulfa drugs,Lisinopril,URGENT,A,triage_assessment,1161,LOCAL_A,LOCAL_ZONE_UNKNOWN,120,70
+1162,1162,21,135/75,105,15,37.4,98,10,Dizziness,None,None,ROUTINE,A,triage_assessment,1162,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,75
+1163,1163,25,140/68,93,20,38.1,93,6,Dizziness,Latex,Atorvastatin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1163,LOCAL_A,LOCAL_ZONE_UNKNOWN,140,68
+1164,1164,17,104/65,69,15,37.1,94,1,Chest Discomfort,Sulfa drugs,Atorvastatin,URGENT,A,triage_assessment,1164,LOCAL_A,LOCAL_ZONE_UNKNOWN,104,65
+1165,1165,19,100/65,91,12,36.9,94,7,Shortness of Breath,Peanuts,Aspirin,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1165,LOCAL_A,LOCAL_ZONE_UNKNOWN,100,65
+1166,1166,16,138/80,96,15,36.7,94,7,Shortness of Breath,Latex,Aspirin,STAT,A,triage_assessment,1166,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,80
+1167,1167,18,136/82,71,21,36.6,93,10,Fever,Sulfa drugs,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1167,LOCAL_A,LOCAL_ZONE_UNKNOWN,136,82
+1168,1168,20,111/73,92,22,38.5,95,10,Abdominal Pain,Penicillin,Aspirin,STAT,A,triage_assessment,1168,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,73
+1169,1169,24,108/77,69,13,36.4,99,3,Abdominal Pain,Peanuts,Atorvastatin,STAT,A,triage_assessment,1169,LOCAL_A,LOCAL_ZONE_UNKNOWN,108,77
+1170,1170,24,115/60,90,13,37.4,98,8,Chest Discomfort,Peanuts,Metformin,URGENT,A,triage_assessment,1170,LOCAL_A,LOCAL_ZONE_UNKNOWN,115,60
+1171,1171,24,138/88,93,16,36.4,94,10,Dizziness,Peanuts,Aspirin,URGENT,A,triage_assessment,1171,LOCAL_A,LOCAL_ZONE_UNKNOWN,138,88
+1172,1172,20,109/73,67,21,37.8,99,0,Abdominal Pain,None,Metformin,ROUTINE,A,triage_assessment,1172,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,73
+1173,1173,20,130/90,98,18,36.1,97,4,Dizziness,Latex,Metoprolol,ROUTINE,A,triage_assessment,1173,LOCAL_A,LOCAL_ZONE_UNKNOWN,130,90
+1174,1174,18,122/64,79,22,37.5,99,0,Fever,Latex,None,ROUTINE,A,triage_assessment,1174,LOCAL_A,LOCAL_ZONE_UNKNOWN,122,64
+1175,1175,17,125/89,92,13,37.3,92,4,Shortness of Breath,None,Atorvastatin,STAT,A,triage_assessment,1175,LOCAL_A,LOCAL_ZONE_UNKNOWN,125,89
+1176,1176,25,133/61,81,18,37.9,95,9,Dizziness,Peanuts,Metformin,URGENT,A,triage_assessment,1176,LOCAL_A,LOCAL_ZONE_UNKNOWN,133,61
+1177,1177,19,119/83,98,15,36.1,99,3,Chest Discomfort,Sulfa drugs,Atorvastatin,ROUTINE,A,triage_assessment,1177,LOCAL_A,LOCAL_ZONE_UNKNOWN,119,83
+1179,1179,18,126/89,60,19,38.5,95,5,Fever,Peanuts,Atorvastatin,STAT,A,triage_assessment,1179,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,89
+1180,1180,16,124/82,105,20,38.4,97,1,Shortness of Breath,Latex,Aspirin,ROUTINE,A,triage_assessment,1180,LOCAL_A,LOCAL_ZONE_UNKNOWN,124,82
+1182,1182,23,121/85,77,14,36.9,94,6,Shortness of Breath,None,Aspirin,STAT,A,triage_assessment,1182,LOCAL_A,LOCAL_ZONE_UNKNOWN,121,85
+1183,1183,24,123/84,102,21,38.4,94,7,Shortness of Breath,Sulfa drugs,Metoprolol,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1183,LOCAL_A,LOCAL_ZONE_UNKNOWN,123,84
+1184,1184,16,135/75,82,18,38.0,93,7,Dizziness,Peanuts,Atorvastatin,URGENT,A,triage_assessment,1184,LOCAL_A,LOCAL_ZONE_UNKNOWN,135,75
+1185,1185,19,115/80,99,14,36.5,98,2,Fever,Sulfa drugs,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1185,LOCAL_A,LOCAL_ZONE_UNKNOWN,115,80
+1187,1187,25,133/82,67,13,37.0,100,1,Abdominal Pain,Penicillin,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1187,LOCAL_A,LOCAL_ZONE_UNKNOWN,133,82
+1188,1188,20,105/88,77,15,37.7,92,5,Shortness of Breath,Latex,Metoprolol,ROUTINE,A,triage_assessment,1188,LOCAL_A,LOCAL_ZONE_UNKNOWN,105,88
+1189,1189,20,115/71,66,15,36.5,95,9,Shortness of Breath,Latex,None,ROUTINE,A,triage_assessment,1189,LOCAL_A,LOCAL_ZONE_UNKNOWN,115,71
+1190,1190,24,110/84,103,19,38.2,92,3,Shortness of Breath,Sulfa drugs,Atorvastatin,STAT,A,triage_assessment,1190,LOCAL_A,LOCAL_ZONE_UNKNOWN,110,84
+1191,1191,24,111/75,61,15,36.4,96,1,Shortness of Breath,Penicillin,Lisinopril,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1191,LOCAL_A,LOCAL_ZONE_UNKNOWN,111,75
+1192,1192,25,124/75,80,15,38.0,95,3,Abdominal Pain,Sulfa drugs,Metoprolol,ROUTINE,A,triage_assessment,1192,LOCAL_A,LOCAL_ZONE_UNKNOWN,124,75
+1194,1194,24,134/65,70,18,36.1,100,0,Shortness of Breath,Sulfa drugs,Aspirin,STAT,A,triage_assessment,1194,LOCAL_A,LOCAL_ZONE_UNKNOWN,134,65
+1195,1195,24,134/85,86,17,37.1,100,4,Dizziness,None,Lisinopril,URGENT,A,triage_assessment,1195,LOCAL_A,LOCAL_ZONE_UNKNOWN,134,85
+1196,1196,22,109/61,91,13,36.3,97,6,Abdominal Pain,Latex,Metoprolol,URGENT,A,triage_assessment,1196,LOCAL_A,LOCAL_ZONE_UNKNOWN,109,61
+1198,1198,16,103/62,77,14,37.1,94,5,Chest Discomfort,Peanuts,Aspirin,STAT,A,triage_assessment,1198,LOCAL_A,LOCAL_ZONE_UNKNOWN,103,62
+1199,1199,19,126/77,108,19,37.6,93,8,Fever,Peanuts,None,HIGH_PRIORITY_EMERGENCY,A,triage_assessment,1199,LOCAL_A,LOCAL_ZONE_UNKNOWN,126,77

@@ -1,0 +1,96 @@
+note_id,admission_id,physician_id,creation_date,note_text,_source,_table,_source_row,_time_basis
+9,10,12,2026-02-25T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,9,UTC
+132,151,13,2026-08-21T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,132,UTC
+154,176,4,2026-03-02T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,154,UTC
+180,206,2,2026-07-05T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,180,UTC
+204,233,13,2026-03-25T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,204,UTC
+212,241,2,2026-02-02T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,212,UTC
+230,261,1,2026-03-12T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,230,UTC
+239,270,12,2026-07-09T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,239,UTC
+262,295,5,2026-08-23T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,262,UTC
+274,309,15,2026-07-14T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,274,UTC
+302,341,5,2026-07-31T01:00:00Z,,D,clinical_note,302,UTC
+307,348,8,2026-08-01T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,307,UTC
+321,363,8,2026-08-09T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,321,UTC
+358,402,9,2026-08-19T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,358,UTC
+397,444,5,2026-05-29T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,397,UTC
+410,458,15,2026-03-04T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,410,UTC
+436,489,4,2026-09-01T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,436,UTC
+452,507,4,2026-02-28T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,452,UTC
+478,539,7,2026-07-26T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,478,UTC
+495,557,4,2026-03-04T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,495,UTC
+606,679,1,2026-01-21T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,606,UTC
+613,689,4,2026-02-17T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,613,UTC
+642,720,15,2026-08-30T01:00:00Z,,D,clinical_note,642,UTC
+668,751,14,2026-06-19T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,668,UTC
+701,785,9,2026-09-03T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,701,UTC
+865,966,3,2026-08-13T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,865,UTC
+883,991,14,2026-06-06T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,883,UTC
+924,1040,3,2026-06-27T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,924,UTC
+958,1076,7,2026-07-22T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,958,UTC
+967,1085,4,2026-04-03T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,967,UTC
+977,1097,13,2026-05-23T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,977,UTC
+986,1107,3,2026-06-25T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,986,UTC
+1025,1148,1,2026-06-19T01:00:00Z,"**Subjective:** Patient reports mild pain.
+**Objective:** Vitals stable.
+**Plan:** Continue monitoring.",D,clinical_note,1025,UTC

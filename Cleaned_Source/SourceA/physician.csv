@@ -1,0 +1,16 @@
+physician_id,name,role,specialty,license_number,_source,_table,_source_row,_time_basis
+1,Dr. Amelie Roy,PHYSICIAN,Cardiology,MD-80239,A,physician,1,LOCAL_ZONE_UNKNOWN
+2,Dr. Daniel Taylor,PHYSICIAN,Cardiology,MD-19156,A,physician,2,LOCAL_ZONE_UNKNOWN
+3,Dr. Robert Brown,PHYSICIAN,General Surgery,MD-39260,A,physician,3,LOCAL_ZONE_UNKNOWN
+4,Dr. Rachel Tremblay,PHYSICIAN,,MD-38977,A,physician,4,LOCAL_ZONE_UNKNOWN
+5,Dr. Michael Brown,PHYSICIAN,Cardiology,MD-83434,A,physician,5,LOCAL_ZONE_UNKNOWN
+6,Dr. John Smith,PHYSICIAN,Internal Medicine,MD-81793,A,physician,6,LOCAL_ZONE_UNKNOWN
+7,Dr. Rachel Tremblay,PHYSICIAN,Pulmonology,MD-66045,A,physician,7,LOCAL_ZONE_UNKNOWN
+8,Dr. Jessica Miller,PHYSICIAN,Emergency Medicine,MD-33562,A,physician,8,LOCAL_ZONE_UNKNOWN
+9,Dr. Emily Smith,PHYSICIAN,General Surgery,MD-55020,A,physician,9,LOCAL_ZONE_UNKNOWN
+10,Dr. Michael Miller,PHYSICIAN,Cardiology,MD-31621,A,physician,10,LOCAL_ZONE_UNKNOWN
+11,Dr. John Charette,PHYSICIAN,Cardiology,MD-85107,A,physician,11,LOCAL_ZONE_UNKNOWN
+12,Dr. Amelie Williams,PHYSICIAN,General Surgery,MD-69795,A,physician,12,LOCAL_ZONE_UNKNOWN
+13,Dr. Michael Charette,PHYSICIAN,,MD-50580,A,physician,13,LOCAL_ZONE_UNKNOWN
+14,Dr. Jessica Jones,PHYSICIAN,,MD-70515,A,physician,14,LOCAL_ZONE_UNKNOWN
+15,Dr. Rachel Smith,PHYSICIAN,Internal Medicine,MD-26952,A,physician,15,LOCAL_ZONE_UNKNOWN
